@@ -50,7 +50,7 @@ def ledger():
 
 
 idx, profile = load()
-budget, led = float(secret("BUDGET_USD", 4.0)), ledger()
+budget, led = float(secret("BUDGET_USD")), ledger()
 
 with st.sidebar:
     st.title("📜 Capricious Archive")
