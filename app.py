@@ -4,37 +4,39 @@ from pathlib import Path
 import streamlit as st
 from corpus import Index, load_corpus
 import llm
-import tomllib
+import hmac
 
 st.set_page_config(page_title="Capricious Archive", page_icon="📜", layout="wide")
 
 
 def secret(name, default=None):
-    key = os.environ.get(name)  # 1. environment variable wins
-    if key:
-        return key
-    p = (
-        Path(__file__).parent / ".streamlit" / "secrets.toml"
-    )  # 2. fall back to secrets.toml
-    if p.exists():
-        return tomllib.loads(p.read_text(encoding="utf-8")).get(name)
-    return None
+    try:  # 1. Streamlit secrets (Cloud settings or local secrets.toml)
+        if name in st.secrets:
+            return st.secrets[name]
+    except Exception:
+        pass
+    return os.environ.get(name, default)  # 2. environment variable
 
 
-# ---- password gate (skipped if APP_PASSWORD is not set, e.g. local dev)
+# ---- password gate: FAILS CLOSED (no password configured = app stays locked)
 pw = secret("APP_PASSWORD")
-if pw and not st.session_state.get("ok"):
+if not pw:
+    st.error("APP_PASSWORD is not configured, so the app is locked.")
+    st.stop()
+if not st.session_state.get("ok"):
     entered = st.text_input("Password", type="password")
     if entered:
-        if entered == pw:
+        if hmac.compare_digest(entered.encode(), str(pw).encode()):
             st.session_state.ok = True
             st.rerun()
         else:
             st.error("Wrong password")
     st.stop()
 
-if secret("ANTHROPIC_API_KEY"):
-    os.environ["ANTHROPIC_API_KEY"] = secret("ANTHROPIC_API_KEY")
+if not secret("ANTHROPIC_API_KEY"):
+    st.error("ANTHROPIC_API_KEY is not configured.")
+    st.stop()
+os.environ["ANTHROPIC_API_KEY"] = secret("ANTHROPIC_API_KEY")
 
 
 @st.cache_resource
@@ -50,7 +52,7 @@ def ledger():
 
 
 idx, profile = load()
-budget, led = float(secret("BUDGET_USD")), ledger()
+budget, led = float(secret("BUDGET_USD", 4.0)), ledger()
 
 with st.sidebar:
     st.title("📜 Capricious Archive")
