@@ -10,14 +10,14 @@ st.set_page_config(page_title="Capricious Archive", page_icon="📜", layout="wi
 
 
 def secret(name, default=None):
-    key = os.environ.get("APP_PASSWORD")  # 1. environment variable wins
+    key = os.environ.get(name)  # 1. environment variable wins
     if key:
         return key
     p = (
         Path(__file__).parent / ".streamlit" / "secrets.toml"
     )  # 2. fall back to secrets.toml
     if p.exists():
-        return tomllib.loads(p.read_text(encoding="utf-8")).get("APP_PASSWORD")
+        return tomllib.loads(p.read_text(encoding="utf-8")).get(name)
     return None
 
 
@@ -53,7 +53,7 @@ idx, profile = load()
 budget, led = float(secret("BUDGET_USD", 4.0)), ledger()
 
 with st.sidebar:
-    st.title("📜 Cinquecento Poet")
+    st.title("📜 Capricious Archive")
     models = {"Haiku 4.5 — cheap drafts": llm.CHEAP, "Sonnet 5.5 — polish": llm.STRONG}
     model = models[st.radio("Model", list(models))]
     n_poems = st.slider("Exemplar poems retrieved", 2, 10, 6)
