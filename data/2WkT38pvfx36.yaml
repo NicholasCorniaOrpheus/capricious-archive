@@ -1,0 +1,65 @@
+metadata:
+  class: Book
+  label: Formaggiata di Sere Stentato al serenissimo re della virtude
+  description:
+  aliases:
+  base_name: Formaggiata di Sere Stentato al serenissimo re della virtude
+  filename: Formaggiata di Sere Stentato al serenissimo re della virtude.md
+  id: 2WkT38pvfx36
+  n_id: 10406482600756836400
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE062656
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ivSf6Tv3TzY8
+      label: (Moroncini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2zJ3QRUFy4nX
+      label: humorous poetry
+  title:
+    - Formaggiata di Sere Stentato al serenissimo re della virtude
+  inception:
+    - value: 1538
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R8gaAppcmFNh
+          label: (Moroncini 2017)
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE062656
+      publication_date: 1542
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      external_source: https://books.google.it/books?id=J3VJizH9rHkC
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cbWWw92fbEH3
+          label: Piacenza
+      IIIF_manifest: https://dl.unito.it/fedora/objects/mag:38161/datastreams/MMIIIF/content
+  contributor:
+    -
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noRgAWmjYV8o
+        label: publisher
+      label: Anton Francesco Doni
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8AbKBvcDb2F
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Giulio Landi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NiTWoVWgRtNj
+      label: heterodoxy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://dl.unito.it/fedora/objects/mag:38161/datastreams/MMIIIF/content
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2WkT38pvfx36.json
+content:
+  markdown_content: ""

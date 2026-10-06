@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  aliases:
+    - artistic movement
+  base_name: art movement
+  filename: art movement.md
+  label: art movement
+  id: n5nvJ6q3ja9D
+  n_id: 909350985374304108854
+statements:
+  instance_of:
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q968159
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/n5nvJ6q3ja9D.json
+content:
+  markdown_content: ""

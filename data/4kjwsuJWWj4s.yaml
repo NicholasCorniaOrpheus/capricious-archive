@@ -1,0 +1,40 @@
+metadata:
+  class: Organisation
+  base_name: Comici Accesi
+  filename: Comici Accesi.md
+  label: Comici Accesi
+  id: 4kjwsuJWWj4s
+  n_id: 56743612941796653106
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NAHRkzK6qbvC
+      label: theater company
+  inception:
+  dissolved:
+  location:
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+          label: (Ferrone 2011)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k3pBKGqJWpiW
+      label: Pier Maria Cecchini
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/4kjwsuJWWj4s.json
+content:
+  markdown_content: ""

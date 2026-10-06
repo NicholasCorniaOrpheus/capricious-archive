@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: Non teme oh Dea di questa età gentile
+  description:
+  aliases:
+    - Non teme ò Dea di questa età gentile
+  base_name: Non teme oh Dea di questa età gentile
+  filename: Non teme oh Dea di questa età gentile.md
+  id: BRPuEfPhFqv6
+  n_id: 194188953989757733657
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      label: Giovanna d'Aragona
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k45eMWn7fDrH
+      label: Fausta Tacita
+  part_of:
+    - pages: 310
+      section: Fausta Tacita.
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YnKescy9oBAL
+      label: Del tempio alla divina signora donna Giovanna d'Aragona
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RHVQ6S4zNphr
+      label: republic of letters
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      label: Giovanna d'Aragona
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5kTufm84drrw
+      label: salon
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k3nhzcwa5PvD
+      label: time
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9mn3vxiqWyus
+      label: lightning
+  text:
+    - |-
+      Non teme oh Dea di questa età gentile
+      La fabrica immortal del Tempio vostro,
+      Quanto offende la nostra; e ogni simile
+      Ad altrui danno, e per essempio nostro,
+      Folgori, tuoni, e l'immutabil stile
+      Del tempo crudo, e dispietato monstro;
+      Sendo i beati suoi fabricatori
+      Alme, eccellenti, e gloriosi cori.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/non_teme_oh_dea_di_questa_età_gentile
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BRPuEfPhFqv6.json
+content:
+  markdown_content: ""

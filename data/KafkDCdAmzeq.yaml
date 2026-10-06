@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  aliases:
+    - holy person
+    - santo
+    - santa
+  base_name: saint
+  filename: saint.md
+  label: saint
+  id: KafkDCdAmzeq
+  n_id: 362635070773284769358
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q43115
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KafkDCdAmzeq.json
+content:
+  markdown_content: ""

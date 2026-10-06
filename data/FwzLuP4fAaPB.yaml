@@ -1,0 +1,83 @@
+metadata:
+  class: PoeticWork
+  label: Donne, perch'habbia voi cortese il cielo
+  description:
+  aliases:
+  base_name: Donne, perch'habbia voi cortese il cielo
+  filename: Donne, perch'habbia voi cortese il cielo.md
+  id: FwzLuP4fAaPB
+  n_id: 287812253192694262857
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NTXVtd24wHkv
+      label: Ortensio Lando
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      label: Lodovico Dolce
+  part_of:
+    - section: Di M. Lodovico Dolce alle studiose et chiare donne.
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QJCDdTz6hkUm
+      pages: 162
+      label: Lettere di molte valorose donne
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YvSVvwPw9ogd
+      label: flower
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NTXVtd24wHkv
+      label: Ortensio Lando
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Donne, perch'habbia voi cortese il cielo
+      Prodotte in questo fosco empio soggiorno,
+      Per far d'alte bellezze il mondo adorno,
+      E l'alme accese d’honorato zelo:
+
+      Perché sotto a gentil leggiadro velo
+      Virtù s'accolga; che può far d'intorno,
+      Quand'è turbato più, sereno il giorno,
+      E fiorir Maggio nel più freddo gelo:
+
+      A lui, per cui sì ricche al mondo sete
+      Di beltà, di valor , d'ingegno, & d'arte,
+      Non tanto & così vibo obligo havete:
+
+      Quanto al buon LANDO; ch'ogni rara parte
+      Di voi consacra (onde chiare vivrete)
+      Nel vago stil de le sue dotte carte.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/donne,_perch'habbia_a_voi_cortese_il_cielo
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FwzLuP4fAaPB.json
+content:
+  markdown_content: ""

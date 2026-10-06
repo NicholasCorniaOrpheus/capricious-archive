@@ -1,0 +1,58 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Incogniti di Venezia
+  description:
+  aliases:
+  base_name: Accademia degli Incogniti di Venezia
+  filename: Accademia degli Incogniti di Venezia.md
+  id: F3GPDJCAWqWH
+  n_id: 268720014479410324980
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3603983
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1626
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+  dissolved:
+    - value: 1661
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 150
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FXzUPxdeUC5F
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Giulio Strozzi
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/K3Wm2Z24UfzP
+      label: Arcangela Tarabotti
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/F3GPDJCAWqWH.json
+content:
+  markdown_content: ""

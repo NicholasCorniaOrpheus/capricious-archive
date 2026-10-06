@@ -1,0 +1,46 @@
+metadata:
+  class: Agent
+  label: Vittoria della Rovere
+  description:
+  aliases:
+    - Vittoria della Rovere de' Medici
+  base_name: Vittoria della Rovere
+  filename: Vittoria della Rovere.md
+  id: aSNuQtrtkhKb
+  n_id: 669170353410439558644
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q60139
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bAqzzDFWXpyF
+      label: Accademia delle Assicurate di Siena
+  occupation:
+    -
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kqch7g9zcx3C
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y9DyFsMs8dox
+        label: patron of the arts
+      label: Barbara degli Albizzi Tagliamochi
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 20220
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aSNuQtrtkhKb.json
+content:
+  markdown_content: ""

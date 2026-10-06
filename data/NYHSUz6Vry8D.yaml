@@ -1,0 +1,50 @@
+metadata:
+  class: Organisation
+  label: Compagnia dei Confidenti
+  description:
+  aliases:
+  base_name: Compagnia dei Confidenti
+  filename: Compagnia dei Confidenti.md
+  id: NYHSUz6Vry8D
+  n_id: 423676996784300927738
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NAHRkzK6qbvC
+      label: theater company
+  inception:
+  dissolved:
+  location:
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WNQTZ2J2tvtF
+      pseudonym: Delia
+      label: Camilla Rocca Nobili
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BtLf9Xt789AB
+      pseudonym: Lavinia
+      label: Marina Antonazzoni
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VAeeARu9CxSY
+      pseudonym: Scapino
+      label: Francesco Gabrielli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iiVBaNadwuKc
+      pseudonym: Ortensio
+      label: Francesco Antonazzoni
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NYHSUz6Vry8D.json
+content:
+  markdown_content: ""

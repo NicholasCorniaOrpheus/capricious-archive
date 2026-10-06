@@ -1,0 +1,40 @@
+metadata:
+  class: Book
+  base_name: Rime d'Isabella Andreini padovana comica Gelosa
+  filename: Rime d'Isabella Andreini padovana comica Gelosa.md
+  label: Rime d'Isabella Andreini padovana comica Gelosa
+  id: UpNUpRqtonTK
+  n_id: 553316947606241200055
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime d'Isabella Andreini padouana comica Gelosa. Dedicate all'illustriss. & reuerendiss. sig. il sig. cardinal S. Giorgio Cinthio Aldobrandini
+  inception:
+  has_version:
+    - permalink: http://id.sbn.it/bid/SBLE000475
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QgzANxntwmqg
+        label: Girolamo Bordone
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RFFMqXMnRXik
+          label: Milano
+      external_source: https://books.google.be/books?id=ZQI4KhpLdgEC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+  subject:
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UpNUpRqtonTK.json
+content:
+  markdown_content: ""

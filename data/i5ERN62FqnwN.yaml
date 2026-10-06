@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: contrafactum
+  description:
+  aliases:
+  base_name: contrafactum
+  filename: contrafactum.md
+  id: i5ERN62FqnwN
+  n_id: 826600915365442637111
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1783270
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/i5ERN62FqnwN.json
+content:
+  markdown_content: ""

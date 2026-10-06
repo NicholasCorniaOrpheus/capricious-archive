@@ -1,0 +1,72 @@
+metadata:
+  class: PoeticWork
+  label: Di barbaro Leon crudi furori
+  description:
+  base_name: Di barbaro Leon crudi furori
+  filename: Di barbaro Leon crudi furori.md
+  id: brPFSwnNKsgJ
+  n_id: 698497174422389161552
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nxtaeZb4ETk2
+      label: Ottavio Tronsarelli
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RidaxpYHRDz3
+      section: Le pene de gli amanti.
+      pages: 71
+      label: Rime di Ottavio Tronsarelli
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3cN6GaYEFUgZ
+      label: lover
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fWVEDXeYRCwg
+      label: calamity
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JjXnoQftvadX
+      label: Etna
+  text:
+    - |-
+      Di barbaro Leon crudi furori,
+      Impero altier di torbidi Torrenti,
+      D'acceso Lampo rigidi spaventi,
+      Di Folgor tripartita alti terrori;
+
+      D'Etna vorace strepitosi ardori,
+      Tenzon superba di rabbiosi Venti,
+      D'implacabil' Averno aspri lamenti,
+      Di Mar fremente procellosi horrori;
+
+      Tumulto micidial di Marte immondo,
+      Feroce suon d'indomiti Giganti,
+      Di svelte Rupi diroccato pondo;
+
+      Di formidabil Giove ire tonanti,
+      Moto ondeggiante d'agitato Mondo
+      Son gravi pene d'infelici Amanti.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  identifier:
+assets:
+  local_asset_path: ./assets/poems/di_barbaro_leon_crudi_furori
+  jpeg:
+    - 001.jpeg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/brPFSwnNKsgJ.json
+content:
+  markdown_content: ""

@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: metaphor
+  description: Figure of speech in which one thing is asserted to be another when it is in fact not so, based on properties of the latter that apply to the former, pointing to similarity.
+  aliases:
+  base_name: metaphor
+  filename: metaphor.md
+  id: KuorvRGvXbTz
+  n_id: 369565264926028745501
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q18534
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Qswn49Yodruc
+      label: rhetorical figure
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KuorvRGvXbTz.json
+content:
+  markdown_content: ""

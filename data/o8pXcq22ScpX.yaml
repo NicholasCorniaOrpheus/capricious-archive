@@ -1,0 +1,50 @@
+metadata:
+  class: Book
+  base_name: Astuzie sottilissime di Bertoldo
+  filename: Astuzie sottilissime di Bertoldo.md
+  label: Astuzie sottilissime di Bertoldo
+  id: o8pXcq22ScpX
+  n_id: 931083161949623662844
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fWcm8Nsn7rXJ
+      label: drama
+  title:
+    - Astutie sottilissime di Bertoldo doue si scorge vn villano accorto, e sagace, il quale doppo varij, e strani accidenti a lui intrauenuti, alla fine per il suo raro, & acuto ingegno vien fatto huomo di corte, e regio consigliero. Con il suo Testamento ... Opera bella, e di grandissimo gusto. Di Giulio Cesare Croce
+  inception:
+  has_version:
+    - permalink: http://id.sbn.it/bid/UBOE072281
+      external_source: https://arbor.medialibrary.it/item/8ba42d16-07e7-43e2-a8bb-69d894cafec9
+      IIIF_manifest: https://archiginnasio.jarvis.memooria.org/meta/iiif/8ba42d16-07e7-43e2-a8bb-69d894cafec9/manifest
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PN6aq8vcZFbS
+        label: Girolamo Cochi
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/m5jx85vV2PXo
+          label: Bologna
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fNQ3Yu7akyGg
+      label: Giulio Cesare Croce
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif:
+    - https://archiginnasio.jarvis.memooria.org/meta/iiif/8ba42d16-07e7-43e2-a8bb-69d894cafec9/manifest
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/o8pXcq22ScpX.json
+content:
+  markdown_content: ""

@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: classical antiquity
+  description:
+  aliases:
+  base_name: classical antiquity
+  filename: classical antiquity.md
+  id: B7dYQES7bzgL
+  n_id: 187758953171623371111
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q486761
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/n5nvJ6q3ja9D
+      label: art movement
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/B7dYQES7bzgL.json
+content:
+  markdown_content: ""

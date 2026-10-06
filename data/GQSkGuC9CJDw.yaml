@@ -1,0 +1,70 @@
+metadata:
+  class: NotatedMusic
+  label: Il Secondo Libro de Madrigali a cinque voci di Giovan Battista Dalla Gostena
+  description:
+  aliases:
+  base_name: Il Secondo Libro de Madrigali a cinque voci di Giovan Battista Dalla Gostena
+  filename: Il Secondo Libro de Madrigali a cinque voci di Giovan Battista Dalla Gostena.md
+  id: GQSkGuC9CJDw
+  n_id: 297024476029955177162
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0151812
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV06240010
+    - https://rism.online/sources/990012715
+    - https://musicare.beniculturali.unipd.it/database/editions/004544.html
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c3xEQoeMNVW8
+      label: Musicare DB
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  title:
+    - Il Secondo libro de Madrigali a cinque voci di Giovan Battista dalla Gostena novamente dato in luce da Simone Molinaro
+  inception:
+    - value: 1595
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0151812
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      publication_date: 1595
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      note: Only cantus and altus survive.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbi2W6s9hdAg
+      label: Giovanni Battista Dalla Gostena
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GQSkGuC9CJDw.json
+content:
+  markdown_content: ""

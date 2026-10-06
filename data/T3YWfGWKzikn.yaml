@@ -1,0 +1,67 @@
+metadata:
+  class: PoeticWork
+  base_name: Filli. Dimmi, lasso, mio core
+  filename: Filli. Dimmi, lasso, mio core.md
+  label: Filli. Dimmi, lasso, mio core
+  id: T3YWfGWKzikn
+  n_id: 516453267360982421258
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kBMsLgUXhcwj
+      section: Rime della S. Isabella Andreini.
+      pages: 287
+      label: Rime di diversi celebri poeti dell'età nostra
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nCimZWBzP648
+      label: death
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oXBgWheDPaCK
+      label: heart
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdeyMkYtsKFp
+      label: Filli
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Filli. DIMMI, lasso, mio core,
+      Quand'havrà fine il mio sì lungo errore?
+      Core. Incauta, hor come vuoi
+      Ch'habbiano fine i miei martiri, e i tuoi,
+      Se di me ti privasti,
+      Et a chi non mi volse, m'inviasti?
+      Ei non mi vuol; tu mi ricusi: ond'io
+      Odio lo stato mio.
+      Filli. Dunque non havrà fin sì dura sorte?
+      Core. Non havrà fin giamai, se non per morte.
+assets:
+  local_asset_path: ./assets/poems/filli._dimmi,_lasso,_mio_core
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/T3YWfGWKzikn.json
+content:
+  markdown_content: ""

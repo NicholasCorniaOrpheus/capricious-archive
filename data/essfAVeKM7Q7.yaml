@@ -1,0 +1,33 @@
+metadata:
+  class: Organisation
+  label: EDIT16
+  description:
+  aliases:
+    - Censimento nazionale delle edizioni italiane del XVI secolo
+  base_name: EDIT16
+  filename: EDIT16.md
+  id: essfAVeKM7Q7
+  n_id: 760947390492583400486
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1053428
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nyo58nNBLE9K
+      label: online database
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - http://edit16.iccu.sbn.it/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/essfAVeKM7Q7.json
+content:
+  markdown_content: ""

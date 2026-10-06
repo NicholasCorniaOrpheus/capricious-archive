@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: Poiché Fortuna volse farmi priva
+  description: Fortune has deprived the author from her beloved, but his memory keeps a sweet-bitter remembrance in her thoughts.
+  aliases:
+  base_name: Poiché Fortuna volse farmi priva
+  filename: Poiché Fortuna volse farmi priva.md
+  id: MP5jGFBY9Kj4
+  n_id: 399708448729867664513
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MqDmEhNBNTYH
+      label: (Gambara 2014)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+  part_of:
+    - section: Poems of Love, 15
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MqDmEhNBNTYH
+      label: (Gambara 2014)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/amLAKwUv4MVv
+      label: memory
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8AksXBHfuu7g
+      label: Fortuna
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Poiché Fortuna volse farmi priva
+      di te, Signor mio car, deh! tolto almeno
+      m'avesse la memoria, che 'l cor pieno
+      tien de' martiri che da lei deriva.
+
+      Che dich'io, stolta? senza lei non viva
+      sarei, perché, pensando a quello ameno
+      piacer ond'io mi pasco e vengo meno,
+      se ben mi spinge in mar può trarmi a riva.
+
+      La memoria mantienmi e mi disface;
+      la memoria mi fa lieta e scontenta;
+      ne la memoria il ben e 'l mal mio iace.
+
+      La memoria m'allegra e mi tormenta;
+      dunque da la memoria ho guerra e pace,
+      e in tal variar lei sola mi contenta.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MP5jGFBY9Kj4.json
+content:
+  markdown_content: ""

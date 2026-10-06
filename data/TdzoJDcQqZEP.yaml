@@ -1,0 +1,19 @@
+metadata:
+  class: Concept
+  base_name: type of musical instrument
+  filename: type of musical instrument.md
+  label: type of musical instrument
+  id: TdzoJDcQqZEP
+  n_id: 528929391784952149059
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q110295396
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TdzoJDcQqZEP.json
+content:
+  markdown_content: ""

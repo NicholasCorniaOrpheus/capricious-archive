@@ -1,0 +1,96 @@
+metadata:
+  class: PoeticWork
+  base_name: Orbe lunari ferae
+  filename: Orbe lunari ferae.md
+  label: Orbe lunari ferae
+  id: 2JeQzTz29ojB
+  n_id: 6023747740527550185
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EmXRt3tqiC38
+      label: Michael Maier
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X7itPpoedn6a
+      section: IV
+      pages: 62-65
+      label: Cantilenae intellectuales
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mXh2Rsv82eCY
+      label: astrology
+  poetic_type:
+  metre:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YStEQL5Rsman
+      label: Moon
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+  text:
+    - |-
+      Orbe Lunari feræ
+      Decidisse plurimæ
+      Asseruntur Ethnicis,
+      Forte sed non abs Tropis;
+      Ex iis fertur Leo,
+      Monte sævus arduo,
+      Herculis quem sustulit
+      Robur, & motti dedit.
+      Ille spuma lucidæ
+      Congelatus Cynthiæ,
+      Dictus est in inferum
+      Lapsus è Cælo solum.
+
+      Fabulæ sed vetitas
+      Huic subest, haud vanitas:
+      Nam Leonino laret
+      Ore res, quæ perplacet
+      Præ bonis mundi Sophis,
+      Est & illis utilis.
+      Attis haud parvæ liquet;
+      At quis hunc neci daret?
+      Huic sit Alcidæ manus,
+      Clava, necnon impetus,
+
+      Quo trucidet belluam
+      Ungue, dente noxiam.
+      In lacunam concavi
+      Est citandus hic thori;
+      Fitque suffitus croco,
+      Et fragrante succino.
+      Indè mollitur fera
+      Omnibus membris, aquà
+      Præligatis faucibus;
+      Et perit sub fluctibus.
+
+      Hunc Leonem noscere
+      Cura sit. De Sydere
+      Quo cadit, ros cælicus
+      Stillat herbis humidus,
+      Fertque germen semini,
+      Flosculumque stipiti,
+      Unde nostra plantula
+      Crescit, & dat pabula,
+      Quæ Leoni grata sunt,
+      Languidisque conferunt.
+assets:
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2JeQzTz29ojB.json
+content:
+  markdown_content: ""

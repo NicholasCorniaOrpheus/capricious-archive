@@ -1,0 +1,57 @@
+metadata:
+  class: Agent
+  label: Paolo Beni
+  description:
+  aliases:
+  base_name: Paolo Beni
+  filename: Paolo Beni.md
+  id: R9wp3qYwT6yh
+  n_id: 477501687670490562903
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q15433778
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CAYy9Ehhz3Lw
+      label: (Sangalli 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LnLRbVqFDStg
+      label: Padova
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7poFMfbQFpxf
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CAYy9Ehhz3Lw
+          label: (Sangalli 2020)
+      label: Accademia degli Animosi di Padova
+  occupation:
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CAYy9Ehhz3Lw
+          label: (Sangalli 2020)
+      label: Torquato Tasso
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 9674
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/R9wp3qYwT6yh.json
+content:
+  markdown_content: According to [(Sangalli 2020)](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CAYy9Ehhz3Lw), Beni contributed to the publication of [Torquato Tasso](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh)'s [Gierusalemme liberata, poema heroico del sig. Torquato Tasso](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hnGUsqmNR3ko) Roman edition of 1593.

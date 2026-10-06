@@ -1,0 +1,53 @@
+metadata:
+  class: MusicComposition
+  label: Non temete più, amanti (Pecci)
+  description:
+  aliases:
+  base_name: Non temete più, amanti (Pecci)
+  filename: Non temete più, amanti (Pecci).md
+  id: Q99xQYxXEqqQ
+  n_id: 456574552444749741985
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F178740000010101_000000184400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fA6YCedpv5c5
+      label: canzonetta
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/g3KbkbPs6i3L
+      label: Giovanni Battista Maurizzi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/n2WfmeaUx5Kh
+      label: Tommaso Pecci
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/As2JpPDaetNe
+      label: Canzonette a tre voci del signor Tomaso Pecci. Libro primo
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cG8aZoqSaWgi
+      label: Non temete più, amanti
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/pecci-non_temete_più,_amanti
+  jpg:
+    - b_001.jpg
+    - c1_001.jpg
+    - c2_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Q99xQYxXEqqQ.json
+content:
+  markdown_content: ""

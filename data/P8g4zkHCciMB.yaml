@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Ray 2015)
+  description:
+  aliases:
+    - rayDaughtersAlchemyWomen2015
+  base_name: (Ray 2015)
+  filename: (Ray 2015).md
+  id: P8g4zkHCciMB
+  n_id: 435767787079106762460
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Ray, Meredith K. 2015. Daughters of Alchemy: Women and Scientific Culture in Early Modern Italy. Harvard University Press."
+  isbn:
+    - 978-0-674-50423-3
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/rayDaughtersAlchemyWomen2015.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/P8g4zkHCciMB.json
+content:
+  markdown_content: ""

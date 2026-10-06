@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: board game
+  description:
+  aliases:
+  base_name: board game
+  filename: board game.md
+  id: dK3CoeMSUGWp
+  n_id: 728418617861541346957
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q131436
+  described_by_source:
+  subclass_of:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LThUzJVzHcFH
+      label: game
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dK3CoeMSUGWp.json
+content:
+  markdown_content: ""

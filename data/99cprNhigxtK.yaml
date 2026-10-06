@@ -1,0 +1,19 @@
+metadata:
+  class: Concept
+  base_name: mythology
+  filename: mythology.md
+  label: mythology
+  id: 99cprNhigxtK
+  n_id: 147206702564112121232
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q9134
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/99cprNhigxtK.json
+content:
+  markdown_content: ""

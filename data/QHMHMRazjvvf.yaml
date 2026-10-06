@@ -1,0 +1,64 @@
+metadata:
+  class: Book
+  label: La galeria del caualier Marino. Distinta in pitture & sculture
+  description:
+  aliases:
+  base_name: La galeria del caualier Marino. Distinta in pitture & sculture
+  filename: La galeria del caualier Marino. Distinta in pitture & sculture.md
+  id: QHMHMRazjvvf
+  n_id: 459542684785027676215
+statements:
+  identifier:
+    - http://id.sbn.it/bid/UBOE035209
+    - http://www.bibliotecaitaliana.it/testo/bibit000657
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - La galeria del caualier Marino. Distinta in pitture & sculture
+  inception:
+    - value: 1619
+  has_version:
+    - publication_date: 1630
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QTdxXEAT2EFy
+        label: Giovanni Battista Ciotti
+      permalink: http://id.sbn.it/bid/UBOE035209
+      external_source: https://books.google.be/books?id=cmj518mOFcYC
+      IIIF_manifest: https://jmms.iccu.sbn.it/jmms/metadata/UW01alpnX18_/b2FpOmJuY2YuZmlyZW56ZS5zYm4uaXQ6MjE6RkkwMDk4Ok1hZ2xpYWJlY2hpOlVCT0UwMzUyMDk_/manifest.json
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QJyQvn86nmBt
+      note: "Two paintings by Roncalli are set to poems, respectively 'Pallade che visita le Muse' and 'San Pietro piangente'. "
+      label: Cristoforo Roncalli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/msaShVwusGue
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Giambattista Marino
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Jn2SrMsbo8RA
+      label: visual arts
+  has_part:
+  based_on:
+  catalog_identifier:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB
+      label: Virginia Ramponi-Andreini
+  language:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://jmms.iccu.sbn.it/jmms/metadata/UW01alpnX18_/b2FpOmJuY2YuZmlyZW56ZS5zYm4uaXQ6MjE6RkkwMDk4Ok1hZ2xpYWJlY2hpOlVCT0UwMzUyMDk_/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QHMHMRazjvvf.json
+content:
+  markdown_content: According to [(Ferrone 2011)](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt), Marino describes _Florinda_, alias [Virginia Ramponi-Andreini](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB), in the act of posing for a portrait now lost.

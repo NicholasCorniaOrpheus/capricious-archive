@@ -1,0 +1,53 @@
+metadata:
+  class: MusicComposition
+  label: La natura compose (del Mel)
+  description:
+  aliases:
+  base_name: La natura compose (del Mel)
+  filename: La natura compose (del Mel).md
+  id: fJNbLjSmvTig
+  n_id: 769451572356399726971
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F138800000010101_000000157100C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh
+      label: Torquato Tasso
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4hrBVUnLR9nL
+      label: Rinaldo del Mel
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Yg4nN9HMR5qm
+      label: Il Primo libro de Madrigali a cinque voci de Rinaldo Del Mel
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M2k895E6k2SD
+      label: La natura compose
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/del_mel-la_natura_compose
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/fJNbLjSmvTig.json
+content:
+  markdown_content: ""

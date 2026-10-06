@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: freedom
+  description:
+  aliases:
+    - libertà
+    - liberty
+  base_name: freedom
+  filename: freedom.md
+  id: UyJtdV6URXyB
+  n_id: 556552494648485513211
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2979
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XDrvy6onGzZu
+      label: emotion
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UyJtdV6URXyB.json
+content:
+  markdown_content: ""

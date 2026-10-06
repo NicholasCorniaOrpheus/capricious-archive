@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Campbell 2018)
+  description:
+  aliases:
+    - campbellLiteraryCirclesGender2018
+  base_name: (Campbell 2018)
+  filename: (Campbell 2018).md
+  id: 87RhmBz8z8dT
+  n_id: 125776079780671180813
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Campbell, Julie. 2018. Literary Circles and Gender in Early Modern Europe: A Cross-Cultural Approach. 1st edn. Milton: Taylor and Francis."
+  isbn:
+    - "9781138623583"
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/campbellLiteraryCirclesGender2018.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/87RhmBz8z8dT.json
+content:
+  markdown_content: ""

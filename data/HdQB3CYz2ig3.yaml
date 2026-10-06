@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: loyalty
+  description:
+  aliases:
+    - faithfulness
+    - allegiance
+    - lealtà
+  base_name: loyalty
+  filename: loyalty.md
+  id: HdQB3CYz2ig3
+  n_id: 322350402338569664449
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1132131
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TM6fVHGXjWZC
+      label: personality trait
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HdQB3CYz2ig3.json
+content:
+  markdown_content: ""

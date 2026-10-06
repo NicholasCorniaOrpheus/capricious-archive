@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Faricelli 2024)
+  description:
+  aliases:
+    - faricelliAllombraControriformaPoetesse2024
+  base_name: (Faricelli 2024)
+  filename: (Faricelli 2024).md
+  id: ZqBhp6Tt9E6k
+  n_id: 656790062235568463196
+statements:
+  identifier:
+    - https://amsdottorato.unibo.it/id/eprint/11474/
+  described_by_source:
+  part_of:
+  citation:
+    - "Faricelli, Eleonora. 2024. ‘All’ombra Della Controriforma: Poetesse Italiane Tra Reti Di Relazioni e Patronage Nella Seconda Metà Del Cinquecento’. Phd, Bologna: Alma Mater Studiorum - University of Bologna. https://amsdottorato.unibo.it/id/eprint/11474/."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/faricelliAllombraControriformaPoetesse2024.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZqBhp6Tt9E6k.json
+content:
+  markdown_content: ""

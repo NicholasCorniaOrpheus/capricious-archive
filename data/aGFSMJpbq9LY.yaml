@@ -1,0 +1,64 @@
+metadata:
+  class: NotatedMusic
+  label: Il Primo Libro de Madrigali concertati a quattro, cinque, sei, sette, et otto voci, con il suo basso continuo di Tarquinio Merula
+  description:
+  aliases:
+  base_name: Il Primo Libro de Madrigali concertati a quattro, cinque, sei, sette, et otto voci, con il suo basso continuo di Tarquinio Merula
+  filename: Il Primo Libro de Madrigali concertati a quattro, cinque, sei, sette, et otto voci, con il suo basso continuo di Tarquinio Merula.md
+  id: aGFSMJpbq9LY
+  n_id: 665502544242787233603
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0156720
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV13600010
+    - https://rism.online/sources/990041020
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Il Primo Libro de Madrigali concertati a quattro, cinque, sei, sette, et otto voci, con il suo basso continuo di Tarquinio Merula Organista di Chiesa, e Camera del Serenissimo, & Invittissimo Rè di Polonia, e Svetia, & c. Opera Quinta
+  inception:
+    - value: 1624
+  has_version:
+    - permalink: https://fbc.pionier.net.pl/id/oai:jbc.bj.uj.edu.pl:929207
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZAzHXrGbea5e
+        label: Alessandro Vincenti
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DHBXvQgzAjeN
+        label: Jagiellonian Library
+      external_source: cmVzdWx0cz9hY3Rpb249QWR2YW5jZWRTZWFyY2hBY3Rpb24mdHlwZT0tMyZxZjE9YXZhaWxhYmlsaXR5OkF2YWlsYWJsZSZ2YWwxPUNyZWF0b3I6TWVydWxhJTJDK1RhcnF1aW5pbyslNUMoYy4rMTU5NSslRTIlODAlOTMrMTY2NSU1QykmaXBwPTI1
+      publication_date: 1624
+      note: Altus
+    - permalink: http://id.sbn.it/bid/MUS0156720
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/AA/AA296/
+      publication_date: 1624
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZAzHXrGbea5e
+        label: Alessandro Vincenti
+      note: Altus missing.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J4GCGhBtmbuU
+      label: Tarquinio Merula
+  subject:
+  has_part:
+  instrumentation:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aGFSMJpbq9LY.json
+content:
+  markdown_content: ""

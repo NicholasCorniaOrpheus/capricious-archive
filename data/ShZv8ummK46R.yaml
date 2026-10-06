@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  base_name: Emperor Charles V
+  filename: Emperor Charles V.md
+  label: Emperor Charles V
+  id: ShZv8ummK46R
+  n_id: 509583600501466307543
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q32500
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ShZv8ummK46R.json
+content:
+  markdown_content: ""

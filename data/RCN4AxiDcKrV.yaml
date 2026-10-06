@@ -1,0 +1,69 @@
+metadata:
+  class: PoeticWork
+  label: Donne leggiadre, ne' cui lumi ardenti
+  description: Verses in defense of women, too often attacked by unjust critiques.
+  aliases:
+  base_name: Donne leggiadre, ne' cui lumi ardenti
+  filename: Donne leggiadre, ne' cui lumi ardenti.md
+  id: RCN4AxiDcKrV
+  n_id: 478373300467353494910
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fNQ3Yu7akyGg
+      label: Giulio Cesare Croce
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/faqWLBNJVmjy
+      pages: 3
+      section: Ottava 1
+      label: La gloria delle donne di Giulio Cesare Croce
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8JCJNiEPyPxR
+      label: Sun
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2QjJCcEtkiC
+      label: light beam
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Donne leggiadre, ne' cui lumi ardenti
+      Mirar non sdegna anzi specchiarsi il Sole
+      E fate co' bei raggi alti, e lucenti
+      Nascer, quando più aggiaccia, erbe, e viole.
+      Non siate, prego, questi rozzi accenti,
+      Né il basso suon, queste mie parole
+      Sdegnose in ascoltar, mentre col canto
+      Cerco inalzar le lodi vostre, e 'l vanto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/donne_leggiadre,_ne'_cui_lumi_ardenti
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RCN4AxiDcKrV.json
+content:
+  markdown_content: ""

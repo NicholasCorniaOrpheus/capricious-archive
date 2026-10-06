@@ -1,0 +1,52 @@
+metadata:
+  class: Book
+  label: I morti vivi commedia del molto eccel. signor Sforza d'Oddi
+  base_name: I morti vivi commedia del molto eccel. signor Sforza d'Oddi
+  filename: I morti vivi commedia del molto eccel. signor Sforza d'Oddi.md
+  id: E9ZkoWKmP6XX
+  n_id: 250366696323301756268
+statements:
+  instance_of:
+  title:
+    - I morti viui comedia del molto eccel. signor Sforza d'Oddi, nell'Academia de gli Insensati detto il Forsennato
+  inception:
+    - value: 1576
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+  has_version:
+    - external_source: https://books.google.it/books?id=MjuvBubyGBsC
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE023740
+      publication_date: 1595
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/g7fKWgnYkYMj
+        label: Bartolomeo Carampello
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZqD6BmWcwLzR
+      label: Isabella della Rovere
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3XYUyiyZcdqz
+      label: Sforza degli Oddi
+  subject:
+  has_part:
+  based_on:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE023740
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GEFAfEGG8p4Q
+      label: (Sacchini 2020)
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/E9ZkoWKmP6XX.json
+content:
+  markdown_content: ""

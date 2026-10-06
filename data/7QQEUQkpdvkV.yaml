@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: human
+  filename: human.md
+  label: human
+  id: 7QQEUQkpdvkV
+  n_id: 111285353677789364769
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q5
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7QQEUQkpdvkV.json
+content:
+  markdown_content: ""

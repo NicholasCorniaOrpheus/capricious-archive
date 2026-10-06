@@ -1,0 +1,24 @@
+metadata:
+  class: Organisation
+  label: House of Medici
+  description:
+  aliases:
+    - de' Medici family
+  base_name: House of Medici
+  filename: House of Medici.md
+  id: 64pGLyTQuipr
+  n_id: 83561430582975808995
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q170022
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nhTthG2m2P3q
+      label: family
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/64pGLyTQuipr.json
+content:
+  markdown_content: ""

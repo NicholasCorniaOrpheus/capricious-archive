@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Santinelli 1985)
+  description:
+  aliases:
+    - santinelliSonettiAlchemiciAltri1985
+  base_name: (Santinelli 1985)
+  filename: (Santinelli 1985).md
+  id: j7DoSeBZLZrw
+  n_id: 847956990823576408952
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Santinelli, Francesco Maria. 1985. Sonetti alchemici e altri scritti inediti. Edited by Anna Maria Partini. Vol. 17. Biblioteca Ermetica. Roma: Edizioni Mediterranee."
+  isbn:
+    - 978-88-272-0874-8
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/santinelliSonettiAlchemiciAltri1985.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/j7DoSeBZLZrw.json
+content:
+  markdown_content: ""

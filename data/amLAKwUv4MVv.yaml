@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: memory
+  description:
+  aliases:
+    - memoria
+  base_name: memory
+  filename: memory.md
+  id: amLAKwUv4MVv
+  n_id: 676031482645632198637
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q492
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/amLAKwUv4MVv.json
+content:
+  markdown_content: ""

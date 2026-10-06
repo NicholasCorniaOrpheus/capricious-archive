@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Royal Holloway University of London
+  description:
+  aliases:
+  base_name: Royal Holloway University of London
+  filename: Royal Holloway University of London.md
+  id: 5FHvUYXkdJfX
+  n_id: 66715251107695772783
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1202039
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U72CH62RBSiC
+      label: digital library
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://repository.royalholloway.ac.uk/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5FHvUYXkdJfX.json
+content:
+  markdown_content: ""

@@ -1,0 +1,47 @@
+metadata:
+  class: Agent
+  label: Iacopo Giunta
+  description: Italian printer (1534-1591)
+  aliases:
+    - Jacopo Giunti
+    - Iacopo Giunti
+  base_name: Iacopo Giunta
+  filename: Iacopo Giunta.md
+  id: Z7qMWFkUWNip
+  n_id: 641823754416033870697
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q55835507
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noRgAWmjYV8o
+      label: publisher
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FL4UQDb2xruF
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GCEVZzJm8qBX
+        label: sibling
+      label: Bernardo Giunti
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Z7qMWFkUWNip.json
+content:
+  markdown_content: ""

@@ -1,0 +1,35 @@
+metadata:
+  class: EmblemClass
+  label: Undique tutus
+  description: Emblem depicting an hedgehog with the Latin motto "Undique tutus" meaning "Everywhere safe".
+  aliases:
+  base_name: Undique tutus
+  filename: Undique tutus.md
+  id: DxuoRAMBZxJH
+  n_id: 246873682842484559400
+statements:
+  identifier:
+  described_by_source:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dX6nFAxsmUDH
+      label: safety
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RfHDj7SyDZ2X
+      label: hedgehog
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2EqW4HoVn2ms
+      section: Dell'Abstruso.
+      page: 1
+      label: Rime de gli Academici Occulti con le loro imprese et discorsi
+  used_by:
+  motto:
+    - value: Undique tutus
+assets:
+  image: ""
+  local_asset_path: ./assets/emblems/Abstruso_Undique_tutus
+  jpeg:
+    - 001.jpeg
+    - 002.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DxuoRAMBZxJH.json
+content:
+  markdown_content: ""

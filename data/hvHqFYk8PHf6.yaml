@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: activity
+  description:
+  aliases:
+    - action
+  base_name: activity
+  filename: activity.md
+  id: hvHqFYk8PHf6
+  n_id: 823726364632041787657
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1914636
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hvHqFYk8PHf6.json
+content:
+  markdown_content: ""

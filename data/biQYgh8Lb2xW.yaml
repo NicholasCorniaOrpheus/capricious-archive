@@ -1,0 +1,56 @@
+metadata:
+  class: PoeticWork
+  base_name: Amor tu causi tutt'il penar mio
+  filename: Amor tu causi tutt'il penar mio.md
+  label: Amor tu causi tutt'il penar mio
+  id: biQYgh8Lb2xW
+  n_id: 695609180393892357493
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/42hnQ3TVouFv
+      pages: 17
+      label: Rime de la signora Laura Terracina
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MfBWzgNTqiki
+      label: Cupid
+  text:
+    - |-
+      Amor tu causi tutto il penar mio:
+      Tu mi fai il torto, e non colei ch'io adoro;
+      Che se tu dessi effetto al mio desio,
+      Havrei ne i danni pur qualche ristoro.
+      Ma tu se' ingiusto & lusinghiero Iddio;
+      E sei cagion, che per amare io moro.
+      Che se il mio stato con giustitia guardi,
+      A pena havuto io n'ho parole & sguardi.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  local_asset_path: ./assets/poems/amor_tu_causi_tutto_il_penar_mio
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/biQYgh8Lb2xW.json
+content:
+  markdown_content: ""

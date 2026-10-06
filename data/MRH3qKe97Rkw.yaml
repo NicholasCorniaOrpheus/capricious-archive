@@ -1,0 +1,26 @@
+metadata:
+  class: Place
+  label: Vicenza
+  description:
+  aliases:
+  base_name: Vicenza
+  filename: Vicenza.md
+  id: MRH3qKe97Rkw
+  n_id: 400504340434767186752
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q6537
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bUguxUya4YGY
+      label: city
+  country:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYFG3hyEFbPP
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MRH3qKe97Rkw.json
+content:
+  markdown_content: ""

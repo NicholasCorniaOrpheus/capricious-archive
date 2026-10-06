@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - strasGiocoSiConosce2005
+  base_name: (Stras 2005)
+  filename: (Stras 2005).md
+  label: (Stras 2005)
+  id: SwJY5UF5qQMh
+  n_id: 514554337030504519239
+statements:
+  part_of:
+  citation:
+    - "Stras, Laurie. 2005. ‘“Al Gioco Si Conosce Il Galantuomo”: Artifice, Humour and Play in the “Enigmi Musicali” of Don Lodovico Agostini’. Early Music History 24. Cambridge University Press: 213–86. http://www.jstor.org/stable/3874744."
+  isbn:
+  identifier:
+    - http://www.jstor.org/stable/3874744
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/strasGiocoSiConosce2005.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SwJY5UF5qQMh.json
+content:
+  markdown_content: ""

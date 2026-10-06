@@ -1,0 +1,58 @@
+metadata:
+  class: Book
+  label: Rime di diversi eccellenti autori bresciani
+  description:
+  aliases:
+  base_name: Rime di diversi eccellenti autori bresciani
+  filename: Rime di diversi eccellenti autori bresciani.md
+  id: Fvh8Y8qPzemN
+  n_id: 287340866317732582913
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE034699
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime di diuersi eccellenti autori bresciani, nuouamente raccolte, et mandate in luce da Girolamo Ruscelli tra le quali sono le rime della signora Veronica Gambara, & di m. Pietro Barignano, ridotte alla vera sincerità loro
+  inception:
+    - value: 1554
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE034699
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k5aPQaUQUikE
+        label: Plinio Pietrasanta
+      publication_date: 1554
+      external_source: https://www.digitale-sammlungen.de/de/view/bsb10190079
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10190079/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9hxg73nrkwfn
+      label: Fortunato Martinengo Cesaresco
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NiTWoVWgRtNj
+      label: heterodoxy
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10190079/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Fvh8Y8qPzemN.json
+content:
+  markdown_content: ""

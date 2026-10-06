@@ -1,0 +1,60 @@
+metadata:
+  class: Book
+  label: Le bravure del capitano Spavento
+  description:
+  aliases:
+  base_name: Le bravure del capitano Spavento
+  filename: Le bravure del capitano Spavento.md
+  id: TzF2HSVyG242
+  n_id: 536253963056481922791
+statements:
+  identifier:
+    - http://id.sbn.it/bid/RMLE031635
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - Le brauure del capitano Spauento; diuise in molti ragionamenti in forma di dialogo, di Francesco Andreini da Pistoia Comico Geloso
+  inception:
+    - value: 1607
+  has_version:
+    - publication_date: 1607
+      permalink: http://id.sbn.it/bid/RMLE031635
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZLn523xBy7Sp
+        label: Giacomo Antonio Somasco
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10686422/manifest
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10686422
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aMwmQ8m4Zvc6
+      label: Francesco Andreini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10686422/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TzF2HSVyG242.json
+content:
+  markdown_content: ""

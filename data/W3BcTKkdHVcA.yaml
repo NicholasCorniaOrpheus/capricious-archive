@@ -1,0 +1,48 @@
+metadata:
+  class: Book
+  label: Dui dialoghi della vergogna, con alcune prose, et rime, del sig. Annibale Poccaterra
+  description:
+  aliases:
+  base_name: Dui dialoghi della vergogna, con alcune prose, et rime, del sig. Annibale Poccaterra
+  filename: Dui dialoghi della vergogna, con alcune prose, et rime, del sig. Annibale Poccaterra.md
+  id: W3BcTKkdHVcA
+  n_id: 578228231566715916251
+statements:
+  identifier:
+    - http://id.sbn.it/bid/VEAE004394
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2F006910010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Dui dialoghi della vergogna, con alcune prose, et rime, del sig. Annibale Poccaterra, Academico ferrarese, dedicati all'illustriss.mo et reuerendiss. sig. cardinale d'Este
+  inception:
+    - value: 1607
+  has_version:
+    - permalink: http://id.sbn.it/bid/VEAE004394
+      publication_date: 1607
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nixaeSS662dG
+          label: Reggio Emilia
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AcGzVakLKXAM
+      label: Annibale Pocaterra
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/W3BcTKkdHVcA.json
+content:
+  markdown_content: ""

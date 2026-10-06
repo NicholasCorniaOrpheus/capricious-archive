@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  base_name: notated music
+  filename: notated music.md
+  label: notated music
+  id: P6pRP3sK8VKi
+  n_id: 435096802317094999696
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Xfs7XRwHSxHj
+      label: document
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q109274999
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/P6pRP3sK8VKi.json
+content:
+  markdown_content: ""

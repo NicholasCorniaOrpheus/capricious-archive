@@ -1,0 +1,77 @@
+metadata:
+  class: PoeticWork
+  label: Hoggi, s'Io non m'inganno, è giunto il giorno
+  description:
+  aliases:
+    - Oggi, s'Io non m'inganno, è giunto il giorno
+  base_name: Hoggi, s'Io non m'inganno, è giunto il giorno
+  filename: Hoggi, s'Io non m'inganno, è giunto il giorno.md
+  id: ZtpZYNvM26jM
+  n_id: 658110244175331845191
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MCJESPwHdULn
+      label: Maria Diamante Dolfi
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XjSeXnJQ9W6d
+      section: Di Mad. Diamante Dolfi.
+      pages: 42
+      label: Rime diverse d'alcune nobilissime, et virtuosissime donne
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3H8EUFWaF3kZ
+      label: river
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Hoggi, s'Io non m'inganno, è giunto il giorno,
+      In cui dee Potria mia co' rai lucenti
+      Rischiarar l'aria, & rallegrar le genti,
+      Et forse empiere il ciel d'invidia, & scorno.
+
+      Già nel suo più leggiadro habito adorno
+      Veggiola uscir del nido, e i fiumi, e i venti
+      Fermar col riso a rimirarla intenti,
+      E insieme hor questi, hor quei stupirle intorno.
+
+      Veggiola poi nel sacro tempio assisa,
+      Prima devota il Fattor santo adora;
+      Poscia i bei lumi honesti intorno gira.
+
+      Ahi che pur scorgo il suo pensiero anchora:
+      Duolsi, che; mentre hor quinci, hor quindi affisa
+      Gli occhi; fra tante Me con Lei non mira.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/hoggi,_s'io_non_m'inganno,_è_giunto_il_giorno
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZtpZYNvM26jM.json
+content:
+  markdown_content: ""

@@ -1,0 +1,92 @@
+metadata:
+  class: Book
+  base_name: Il primo libro dell'opere burlesche, di m. Francesco Berni, di m. Gio. della Casa, del Varchi, del Mauro, di m. Bino, del Molza, del Dolce, et del Firenzuola
+  filename: Il primo libro dell'opere burlesche, di m. Francesco Berni, di m. Gio. della Casa, del Varchi, del Mauro, di m. Bino, del Molza, del Dolce, et del Firenzuola.md
+  label: Il primo libro dell'opere burlesche, di m. Francesco Berni, di m. Gio. della Casa, del Varchi, del Mauro, di m. Bino, del Molza, del Dolce, et del Firenzuola
+  id: LwcyZph2jogE
+  n_id: 390856105155042469620
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE005545
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YsewemXcuZtW
+      label: (Chiummo 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Il primo libro dell'opere burlesche, di m. Francesco Berni, di m. Gio. della Casa, del Varchi, del Mauro, di m. Bino, del Molza, del Dolce, et del Firenzuola, ricorretto, et con diligenza ristampato
+  inception:
+    - value: 1548
+  has_version:
+    - IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189947/manifest
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10189947
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      publication_date: 1552
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE005547
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FL4UQDb2xruF
+        label: Bernardo Giunti
+      note: Reprint
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE005545
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      publication_date: 1548
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FL4UQDb2xruF
+        label: Bernardo Giunti
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HDVve8zrRZwi
+      label: Francesco Berni
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gkeQiSvsR3i2
+      label: Giovanni Mauro
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mj3bZCvepyHJ
+      label: Francesco Maria Molza
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      label: Lodovico Dolce
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YVpZZ8LWYcv3
+      label: Angelo Bronzino
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2zJ3QRUFy4nX
+      label: humorous poetry
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189947/manifest
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LwcyZph2jogE.json
+content:
+  markdown_content: ""

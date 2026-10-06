@@ -1,0 +1,33 @@
+metadata:
+  class: Organisation
+  label: "The Other Voice in Early Modern Europe: The Toronto Series"
+  description:
+  aliases:
+  base_name: The Other Voice in Early Modern Europe
+  filename: The Other Voice in Early Modern Europe.md
+  id: jfcAcCiR2JSp
+  n_id: 859684036852189543825
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://press.uchicago.edu/ucp/books/series/OVIEMET.html
+  catalog_identifier:
+  member:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jfcAcCiR2JSp.json
+content:
+  markdown_content: ""

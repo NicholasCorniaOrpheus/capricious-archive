@@ -1,0 +1,42 @@
+metadata:
+  class: Agent
+  label: Clori
+  description:
+  aliases:
+    - Chloris
+    - Flora
+  base_name: Clori
+  filename: Clori.md
+  id: TNEPehjKNAaU
+  n_id: 523216793249695571225
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1075258
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4JHBjobL9bGr
+      label: literary character
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QnXnJU93h3jw
+      label: nymph
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TNEPehjKNAaU.json
+content:
+  markdown_content: ""

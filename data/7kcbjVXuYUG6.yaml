@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: Mercury
+  description:
+  aliases:
+    - Hermes
+  base_name: Mercury
+  filename: Mercury.md
+  id: 7kcbjVXuYUG6
+  n_id: 118604607349865555800
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1150
+    - http://www.wikidata.org/entity/Q41484
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7kcbjVXuYUG6.json
+content:
+  markdown_content: ""

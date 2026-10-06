@@ -1,0 +1,48 @@
+metadata:
+  class: Organisation
+  base_name: Comici Fedeli
+  filename: Comici Fedeli.md
+  label: Comici Fedeli
+  id: ERb4akRjxojb
+  n_id: 256167450454316439909
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NAHRkzK6qbvC
+      label: theater company
+  inception:
+  dissolved:
+  location:
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+          label: (Ferrone 2011)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/muSTDYc3TVDk
+      label: Giovanni Battista Andreini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+          label: (Ferrone 2011)
+      label: Virginia Ramponi-Andreini
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ERb4akRjxojb.json
+content:
+  markdown_content: ""

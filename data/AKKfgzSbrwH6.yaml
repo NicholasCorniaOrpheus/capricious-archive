@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: aria
+  description:
+  aliases:
+    - arietta
+  base_name: aria
+  filename: aria.md
+  id: AKKfgzSbrwH6
+  n_id: 171353939732668040782
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q178122
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LqoPnrNyioRc
+      label: type of musical work
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AKKfgzSbrwH6.json
+content:
+  markdown_content: ""

@@ -1,0 +1,39 @@
+metadata:
+  class: Agent
+  base_name: Carlo Papini
+  filename: Carlo Papini.md
+  label: Carlo Papini
+  id: NDRQPafFjYTy
+  n_id: 416848941746053319938
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NLZ9HyHBdDfb
+      pseudonym: L'irresoluto
+      label: Accademia degli Intronati di Siena
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NLZ9HyHBdDfb
+      label: Accademia degli Intronati di Siena
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CVNqJuQekRCD
+      label: Fiori di sacra poesia dell'Irresoluto Accademico Intronato
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 16524
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NDRQPafFjYTy.json
+content:
+  markdown_content: ""

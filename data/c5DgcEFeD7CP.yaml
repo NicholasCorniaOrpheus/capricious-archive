@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: quality
+  description:
+  aliases:
+    - feature
+  base_name: quality
+  filename: quality.md
+  id: c5DgcEFeD7CP
+  n_id: 702780863633581597260
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1207505
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/c5DgcEFeD7CP.json
+content:
+  markdown_content: ""

@@ -1,0 +1,53 @@
+metadata:
+  class: Agent
+  label: Francesca Turina Bufalini
+  description:
+  aliases:
+    - Francesca Turina
+    - Francesca Turini Bufalini
+  base_name: Francesca Turina Bufalini
+  filename: Francesca Turina Bufalini.md
+  id: S5X6hHgiMruv
+  n_id: 496532412319471647082
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+      label: Italian Women Writers
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BpATM36nYWpT
+      start_date: 1590
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Insensati di Perugia
+  occupation:
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 16311
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0275
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/S5X6hHgiMruv.json
+content:
+  markdown_content: ""

@@ -1,0 +1,48 @@
+metadata:
+  class: Agent
+  aliases:
+    - Sforza Oddi
+  base_name: Sforza degli Oddi
+  filename: Sforza degli Oddi.md
+  label: Sforza degli Oddi
+  id: 3XYUyiyZcdqz
+  n_id: 31328416446685808903
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CpPUGMLmsAJZ
+      label: Perugia
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BpATM36nYWpT
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+      pseudonym: Forsennato
+      label: Accademia degli Insensati di Perugia
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kQTagGwVLuoA
+      label: playwright
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/E9ZkoWKmP6XX
+      label: I morti vivi commedia del molto eccel. signor Sforza d'Oddi
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 9001
+  identifier:
+    - http://www.wikidata.org/entity/Q16268327
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3XYUyiyZcdqz.json
+content:
+  markdown_content: ""

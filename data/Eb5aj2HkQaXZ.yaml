@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Forshaw 2010)
+  description:
+  aliases:
+    - forshawOratoriumAuditoriumLaboratorium2010
+  base_name: (Forshaw 2010)
+  filename: (Forshaw 2010).md
+  id: Eb5aj2HkQaXZ
+  n_id: 259600598933754895444
+statements:
+  identifier:
+    - https://doi.org/10.1163/156798910X520584
+  described_by_source:
+  part_of:
+  citation:
+    - "Forshaw, Peter. 2010. ‘Oratorium—Auditorium—Laboratorium: Early Modern Improvisations on Cabala, Music, and Alchemy’. Aries 10 (2). Brill: 169–95."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/forshawOratoriumAuditoriumLaboratorium2010.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Eb5aj2HkQaXZ.json
+content:
+  markdown_content: ""

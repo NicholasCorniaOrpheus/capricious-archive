@@ -1,0 +1,62 @@
+metadata:
+  class: Agent
+  label: Costanza d'Avalos Piccolomini
+  description:
+  aliases:
+    - Costanza D'Avalo
+    - Costanza D'Avalos
+  base_name: Costanza d'Avalos Piccolomini
+  filename: Costanza d'Avalos Piccolomini.md
+  id: bNNWFuwTd8aB
+  n_id: 688355539550003384853
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3695637
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8V3DuFaK8SYG
+      label: (Robin 2007)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+      label: Napoli
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6xz5NBGAAowj
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8V3DuFaK8SYG
+          label: (Robin 2007)
+      label: Giulia Gonzaga
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GCEVZzJm8qBX
+        label: sibling
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8V3DuFaK8SYG
+          label: (Robin 2007)
+      label: Giovanna d'Aragona
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Lb2oTLg4h2DU
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8V3DuFaK8SYG
+          label: (Robin 2007)
+      label: Vittoria Colonna
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5kTufm84drrw
+      label: salon
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bNNWFuwTd8aB.json
+content:
+  markdown_content: ""

@@ -1,0 +1,34 @@
+metadata:
+  class: Agent
+  label: Fabrizio Dentice
+  base_name: Fabrizio Dentice
+  filename: Fabrizio Dentice.md
+  id: jERuKxubbJfM
+  n_id: 850568097220530433411
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+      label: composer
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KnJT5DynpjVR
+      label: Scipione Dentice
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  identifier:
+    - http://www.wikidata.org/entity/Q635911
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jERuKxubbJfM.json
+content:
+  markdown_content: ""

@@ -1,0 +1,64 @@
+metadata:
+  class: Book
+  label: La lucerna di Eureta Misoscolo Accademico Filarmonico
+  description:
+  aliases:
+  base_name: La lucerna di Eureta Misoscolo Accademico Filarmonico
+  filename: La lucerna di Eureta Misoscolo Accademico Filarmonico.md
+  id: fXzDUtWe5Wyw
+  n_id: 774384222804448458404
+statements:
+  identifier:
+    - http://id.sbn.it/bid/VEAE002081
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ioY6GiNqaMeP
+      label: (Cosentino 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - La Lucerna di Eureta Misoscolo Academico Filarmonico
+  inception:
+    - value: 1625
+  has_version:
+    - permalink: http://id.sbn.it/bid/TO0E000958
+      publication_date: 1628
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://www.google.it/books/edition/_/nvBvIJKsNvAC
+    - permalink: http://id.sbn.it/bid/VEAE002081
+      publication_date: 1625
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JE4qx5PTzpnN
+          label: Verona
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HfxQZMZvjqHy
+      note: Published under pseudonym to avoid persecution by the Inquisition.
+      label: Francesco Pona
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NiTWoVWgRtNj
+      label: heterodoxy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B7dYQES7bzgL
+      label: classical antiquity
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/fXzDUtWe5Wyw.json
+content:
+  markdown_content: ""

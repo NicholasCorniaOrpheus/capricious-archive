@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Canone 2007)
+  description:
+  aliases:
+    - canoneAlchemyExtremesLaboratory2007
+  base_name: (Canone 2007)
+  filename: (Canone 2007).md
+  id: AwpgRUaYkZWy
+  n_id: 184571413143404246644
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Canone, Eugenio. 2007. The Alchemy of Extremes: The Laboratory of the Eroici Furori of Giordano Bruno. Bruniana & Campanelliana. Supplementi. Studi 8. Istituti editoriali e poligrafici internazionali."
+  isbn:
+    - 978-88-8147-449-3
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/canoneAlchemyExtremesLaboratory2007.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AwpgRUaYkZWy.json
+content:
+  markdown_content: ""

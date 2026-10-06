@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: madrigal
+  description:
+  aliases:
+  base_name: madrigal
+  filename: madrigal.md
+  id: KXJH8TbUTZHm
+  n_id: 361412572229551457161
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q193217
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LqoPnrNyioRc
+      label: type of musical work
+  subclass_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KXJH8TbUTZHm.json
+content:
+  markdown_content: ""

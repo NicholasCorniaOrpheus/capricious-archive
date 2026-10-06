@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (McKay 2015)
+  description:
+  aliases:
+    - mckayMusicalCuriositiesAthanasius2015
+  base_name: (McKay 2015)
+  filename: (McKay 2015).md
+  id: YVemVu9t2FTQ
+  n_id: 629085395360860555651
+statements:
+  identifier:
+    - https://www.jstor.org/stable/musicinart.40.1-2.157
+  described_by_source:
+  part_of:
+  citation:
+    - "McKay, John Z. 2015. ‘Musical Curiosities in Athanasius Kircher’s Antiquarian Visions’. Music in Art 40 (1–2). JSTOR: 157–72."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/mckayMusicalCuriositiesAthanasius2015.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YVemVu9t2FTQ.json
+content:
+  markdown_content: ""

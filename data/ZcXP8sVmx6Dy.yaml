@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - sorrentiMadHotMadrigalsSelections2015
+  base_name: (Sorrentini 2015)
+  filename: (Sorrentini 2015).md
+  label: (Sorrentini 2015)
+  id: ZcXP8sVmx6Dy
+  n_id: 652208575789487111164
+statements:
+  part_of:
+  citation:
+    - "Sorrenti, Anne-Marie. 2015. ‘Mad-Hot Madrigals: Selections from the Rime (1601) of Late Sixteenth-Century Diva Isabella Andreini (1562–1604)’. Italian Studies 70 (3): 298–310. doi:10.1179/0075163415Z.000000000103."
+  isbn:
+  identifier:
+    - https://doi.org/10.1179/0075163415Z.000000000103
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/sorrentiMadHotMadrigalsSelections2015.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZcXP8sVmx6Dy.json
+content:
+  markdown_content: ""

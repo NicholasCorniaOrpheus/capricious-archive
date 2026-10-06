@@ -1,0 +1,69 @@
+metadata:
+  class: PoeticWork
+  label: Da meraviglia il nostro dubbio nasce
+  description:
+  aliases:
+  base_name: Da meraviglia il nostro dubbio nasce
+  filename: Da meraviglia il nostro dubbio nasce.md
+  id: aYDCCwzFCY7y
+  n_id: 671280798294677289355
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7fshJCKQUuMv
+      label: Daniele Barbaro
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kqyYU8Yzo9Wh
+      section: Del Dubbio.
+      label: Predica de i sogni
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J9eV5MBznedX
+      label: doubt
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NiTWoVWgRtNj
+      label: heterodoxy
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+  text:
+    - |-
+      Da meraviglia il nostro dubbio nasce
+      E dal contrasto delle due ragioni;
+      Ch'esser dimostran vere le cagioni,
+      Di ch'egualmente nostro cor si pasce.
+
+      Indi si scopre, e come Sol rinasce
+      Tutt'il leggiadro delle inventioni;
+      Perché la mente fatti i paragoni,
+      Aviva il ver di cui si nutre in fasce.
+
+      Grave cos'è levar il dubbio antico,
+      Ma il saggio dubitar sospeso tiene,
+      L'intelletto disposto, è al vero amico.
+
+      Così la negation ardita viene
+      Di quel, che è torto, & al dover nimico:
+      O vero l'affermar di quel, ch'è bene.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/da_meraviglia_il_nostro_dubbio_nasce
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aYDCCwzFCY7y.json
+content:
+  markdown_content: ""

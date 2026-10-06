@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Moroncini 2017)
+  description:
+  aliases:
+    - moronciniGiuocoVirtuIntreccio2017
+  base_name: (Moroncini 2017)
+  filename: (Moroncini 2017).md
+  id: R8gaAppcmFNh
+  n_id: 477042836060919217500
+statements:
+  isbn:
+    - 978-88-6557-321-1
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Moroncini, Ambra. 2017. ‘Il «Giuoco de la Virtù »: un intreccio accademico tra “Stravaganze” letterarie e suggestioni evangeliche’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Patrizia Tosini, 101–10. Roma: De Luca editori d’arte."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/moronciniGiuocoVirtuIntreccio2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/R8gaAppcmFNh.json
+content:
+  markdown_content: ""

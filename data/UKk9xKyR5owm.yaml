@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: betrayal
+  description:
+  aliases:
+  base_name: betrayal
+  filename: betrayal.md
+  id: UKk9xKyR5owm
+  n_id: 542955611440946688313
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2166722
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UKk9xKyR5owm.json
+content:
+  markdown_content: ""

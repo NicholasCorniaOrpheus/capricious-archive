@@ -1,0 +1,50 @@
+metadata:
+  class: Agent
+  aliases:
+    - Johannes Augustinus Pantheus
+    - Giovanni Agostino Pantheo
+  base_name: Giovanni Agostino Panteo
+  filename: Giovanni Agostino Panteo.md
+  label: Giovanni Agostino Panteo
+  id: aKLmqwCNRzyt
+  n_id: 666622574685215887904
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3106979
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eb5aj2HkQaXZ
+      label: (Forshaw 2010)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Q6YsmEMBpY6A
+      label: clergyman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/exrUScrzgGF2
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eb5aj2HkQaXZ
+          label: (Forshaw 2010)
+      label: alchemist
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nd2ncDq4BsAq
+      label: kabbalah
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+  catalog_identifier:
+  present_in_work:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aKLmqwCNRzyt.json
+content:
+  markdown_content: ""

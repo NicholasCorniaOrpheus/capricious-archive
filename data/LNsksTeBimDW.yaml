@@ -1,0 +1,71 @@
+metadata:
+  class: PoeticWork
+  label: Se quando per Adone, over per Marte
+  description: Poem dedicated to her husband, count Gilberto VII da Correggio.
+  aliases:
+  base_name: Se quando per Adone, over per Marte
+  filename: Se quando per Adone, over per Marte.md
+  id: LNsksTeBimDW
+  n_id: 379002863033472583114
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fvh8Y8qPzemN
+      section: Veronica Gambara.
+      pages: 5
+      label: Rime di diversi eccellenti autori bresciani
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d4L6StxVVqKo
+      label: condottiero
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6xr6tnaoPuah
+      label: Adonis
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/forZLBVMjEfd
+      label: Mars
+  text:
+    - |-
+      Se quando per Adone, over per Marte
+      Arse Venere bella,
+      Stato fossi Signor visto da lei,
+      Quell'ardente facella
+      Sol per te, che di lor più degno sei,
+      Arsa, e accesa l'havrebbe in ogni parte;
+
+      Perché ne l'armi il bellicoso Marte
+      Vinci d’assai; e di bellezza Adone
+      Cede al tuo paragone.
+      Dunque se 'l Ciel t'aspira, e fa immortale,
+      Meraviglia non è, poiché sei tale.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/occhi_lucenti,_e_belli
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LNsksTeBimDW.json
+content:
+  markdown_content: ""

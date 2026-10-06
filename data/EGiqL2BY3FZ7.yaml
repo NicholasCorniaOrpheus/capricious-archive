@@ -1,0 +1,39 @@
+metadata:
+  class: Agent
+  label: Virgil
+  description:
+  aliases:
+    - Virgilio
+    - Publius Vergilius Maro
+    - Vergil
+  base_name: Virgil
+  filename: Virgil.md
+  id: EGiqL2BY3FZ7
+  n_id: 252958596199396733348
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1398
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EGiqL2BY3FZ7.json
+content:
+  markdown_content: ""

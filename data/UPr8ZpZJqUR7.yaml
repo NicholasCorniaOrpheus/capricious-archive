@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - dicintioPRINCEPSMUSICORUMMEDIOLANI2017
+  base_name: (Di Cintio 2017)
+  filename: (Di Cintio 2017).md
+  label: (Di Cintio 2017)
+  id: UPr8ZpZJqUR7
+  n_id: 544441698126797656070
+statements:
+  part_of:
+  citation:
+    - "Di Cintio, Eleonora. 2017. ‘«PRINCEPS MUSICORUM MEDIOLANI»: ANTONIO LONDONIO E IL MECENATISMO MUSICALE NELLA MILANO SPAGNOLA.’ Il Saggiatore Musicale: Rivista Semestrale Di Musicologia 24 (1): 23–56."
+  isbn:
+  identifier:
+    - https://www.jstor.org/stable/90017972
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/dicintioPRINCEPSMUSICORUMMEDIOLANI2017.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UPr8ZpZJqUR7.json
+content:
+  markdown_content: ""

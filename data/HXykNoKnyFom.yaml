@@ -1,0 +1,54 @@
+metadata:
+  class: MusicComposition
+  label: Oh dolce servitù, dolce tormento (Veggio)
+  description:
+  aliases:
+  base_name: Oh dolce servitù, dolce tormento (Veggio)
+  filename: Oh dolce servitù, dolce tormento (Veggio).md
+  id: HXykNoKnyFom
+  n_id: 320391516092030140831
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F191095000010101_000000249000C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VGVHbg5uSE8V
+      label: Luigi Cassola
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SafLb6VBVZvB
+      label: Claudio Veggio
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T7Bs3hbSsrh6
+      label: Il primo libro di madrigali a quattro voci di Claudio Veggio
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SipPqefNjwik
+      label: Oh dolce servitù, dolce tormento
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/veggio-oh_dolce_servitù,_dolce_tormento
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HXykNoKnyFom.json
+content:
+  markdown_content: ""

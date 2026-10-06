@@ -1,0 +1,48 @@
+metadata:
+  class: Agent
+  label: Maria Diamante Dolfi
+  description:
+  aliases:
+    - Diamante Dolfi
+  base_name: Maria Diamante Dolfi
+  filename: Maria Diamante Dolfi.md
+  id: MCJESPwHdULn
+  n_id: 395805439493373439277
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q124000481
+    - https://lyra.unil.ch/agents/262
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PNb9AFfnn9s4
+      start_date: 1542
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia dei Sonnacchiosi di Bologna
+  occupation:
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0393
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MCJESPwHdULn.json
+content:
+  markdown_content: ""

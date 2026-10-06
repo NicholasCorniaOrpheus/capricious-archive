@@ -1,0 +1,78 @@
+metadata:
+  class: NotatedMusic
+  label: Canzonette di Orazio Vecchi. Libro primo a quattro voci
+  description:
+  aliases:
+  base_name: Canzonette di Orazio Vecchi. Libro primo a quattro voci
+  filename: Canzonette di Orazio Vecchi. Libro primo a quattro voci.md
+  id: cdyhxh5Kaq5P
+  n_id: 714645546013136607843
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE045803
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/NV21290010
+    - https://rism.online/sources/990066029
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Canzonette di Oratio Vecchi da Modona Libro Primo a quattro voci novamente ristampate
+  inception:
+    - value: 1580
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      publication_date: 1580
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045803
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_U/U263/
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      publication_date: 1580
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045803
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb00080510
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00080510/manifest
+      note: Bassus only.
+      IIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00080510/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fm5wbEYzXZ2F
+      label: Orazio Vecchi
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00080510/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cdyhxh5Kaq5P.json
+content:
+  markdown_content: ""

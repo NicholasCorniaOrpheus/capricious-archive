@@ -1,0 +1,54 @@
+metadata:
+  class: Book
+  label: Ascanio errante
+  description:
+  aliases:
+  base_name: Ascanio errante
+  filename: Ascanio errante.md
+  id: cqk2UG6Z6tRK
+  n_id: 718902975654275252972
+statements:
+  identifier:
+    - http://id.sbn.it/bid/CFIE004827
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NoC5RFxc7i7n
+      label: (Driscoll 2022)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Ascanio errante poema della Barbera Tigliamochi degl'Albizi gentildonna fiorentina
+  inception:
+    - value: 1640
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      publication_date: 1640
+      permalink: http://id.sbn.it/bid/CFIE004827
+      external_source: https://www.google.be/books/edition/_/ezPNQ5j0YUcC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aSNuQtrtkhKb
+      label: Vittoria della Rovere
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kqch7g9zcx3C
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Barbara degli Albizzi Tagliamochi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z6udgtgZac9G
+      label: chivalry
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cqk2UG6Z6tRK.json
+content:
+  markdown_content: ""

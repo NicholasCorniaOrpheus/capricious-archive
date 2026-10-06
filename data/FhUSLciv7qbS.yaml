@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Durante and Martellotti 2000)
+  description:
+  aliases:
+    - duranteMadrigaliSegretiDame2000
+  base_name: (Durante and Martellotti 2000)
+  filename: (Durante and Martellotti 2000).md
+  id: FhUSLciv7qbS
+  n_id: 282553847225837606571
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Durante, Elio, and Anna Martellotti. 2000. Madrigali segreti per le dame di Ferrara: Il manoscritto mancale F. 1358 della Biblioteca Estense di Modena. Vol. 1. 2 vols. Firenze: S.P.E.S."
+  isbn:
+    - 88-7242-787-8
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/duranteMadrigaliSegretiDame2000.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FhUSLciv7qbS.json
+content:
+  markdown_content: ""

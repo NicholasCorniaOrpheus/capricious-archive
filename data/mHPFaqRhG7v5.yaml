@@ -1,0 +1,50 @@
+metadata:
+  class: Book
+  base_name: Thesaurinella Olympica aurea tripartita
+  filename: Thesaurinella Olympica aurea tripartita.md
+  label: Thesaurinella Olympica aurea tripartita
+  id: mHPFaqRhG7v5
+  n_id: 892909088835705357387
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - "Thesaurinella Olympica aurea tripartita. Das ist: Ein himmlisch güldenes Schatzkämmerlein"
+  inception:
+    - value: 1608
+  has_version:
+    - permalink: http://digital.slub-dresden.de/id277818486/1
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MaH4Z9NoL3iv
+          label: Frankfurt
+      publication_date: 1608
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9DCYsSaDuZbW
+        label: Saxon State and University Library Dresden
+      external_source: https://digital.slub-dresden.de/werkansicht/dlf/15960
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EsHT4rwmGq4j
+      label: Benedictus Figulus
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BzhJSvB9YReH
+      label: German
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mHPFaqRhG7v5.json
+content:
+  markdown_content: According to [(Forshaw 2010)](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eb5aj2HkQaXZ), in this we can find a rare example of an alchemical song, but no music has been found.

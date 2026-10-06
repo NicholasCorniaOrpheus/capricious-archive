@@ -1,0 +1,117 @@
+metadata:
+  class: PoeticWork
+  label: Chi è dotto in iscienza
+  description:
+  aliases:
+  base_name: Chi è dotto in iscienza
+  filename: Chi è dotto in iscienza.md
+  id: fRmCA2j2EUJz
+  n_id: 772129305485596404968
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EfY2dL7MpgHY
+      label: anonymous
+  part_of:
+    - value:
+      volume:
+      pages:
+      section: Canzona dell'arme e della scienza
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ApTxwHF6JNzT
+      label: barzelletta
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bN59SRcB24eU
+      label: octosyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cJ4AZvHTtb9D
+      label: science
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hv6rwLYH8FSX
+      label: warrior
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Comincia la scienza
+
+      Chi è dotto in iscienza,
+      noti questa differenza.
+      Non è cibo da ’gnorante
+      quel  che  tra noi si disputa:
+      se persona è qui davante,
+      qual sie perita  e saputa,
+      la suo lingua non stie muta,
+
+      se tal causa comprenda;
+      ma virilmente difenda
+      la ragion con gran prudenza.
+      Non sie 'gnun  che  pigli parte;
+      difendete la ragione:
+      costor  qui seguendo Marte
+      hanno loro opinione
+      d’aver più reputazione
+
+      che  non ha nostra dottrina;
+      con inganni  e  con rapina
+      vivon sanza conscienza.
+      Son nimici della pace,
+      tengon sempre il mondo ’n guerra;
+       e  no’ fuor di contumace
+      traiàn sempre ciascun ch’erra;
+       e ’ non è sopra la terra
+       
+      dubbi alcuno o iscrittura
+      che  no’ non faccian sicura
+      con intera provvidenza.
+      Quanti piati, ah, quanti errori
+      dà perfetta medicina
+      la scienza de’ dottori
+      mediante la dottrina;
+      costor  metton in ruina
+
+      le persone  e  molti regni:
+      e  però sian noi più degni,
+      più ornati d’eloquenza.
+
+      Rispondono gli uomini d’arme
+
+      Vuols’intender l’altra parte,
+      a voler giudicar retto:
+      la prudenza è nelle carte
+      di  costor  sicondo il detto:
+      chi gli vuol per buon rispetto,
+
+      prima vogliono il ducato,
+      e  se poi si perde ’l piato,
+      dicon – abbi pazienza –
+      Non si dà cavalleria
+      a poltroni o a ’nfingardi;
+      non acquista signoria
+      se non uomini gagliardi;
+      sempre siàn tra lance  e  dardi,
+      per onor,  che  tutto vale:
+      nelle legge imperiale
+      si chiarisce tal sentenza.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/fRmCA2j2EUJz.json
+content:
+  markdown_content: ""

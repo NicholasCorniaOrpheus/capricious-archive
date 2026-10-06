@@ -1,0 +1,29 @@
+metadata:
+  class: Concept
+  description: Social game played during carnival season by the members of the Accademia delle Virtù in Rome in the 1530's.
+  base_name: Giuoco delle Virtù
+  filename: Giuoco delle Virtù.md
+  label: Giuoco delle Virtù
+  id: 6WHhQRX6wRu8
+  n_id: 92780194333486612137
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4gDUdsQ3zgkL
+      label: parlour game
+  subclass_of:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R8gaAppcmFNh
+      label: (Moroncini 2017)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ivSf6Tv3TzY8
+      label: (Moroncini 2020)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6WHhQRX6wRu8.json
+content:
+  markdown_content: |-
+    ```
+    Il Giuoco delle Virtù, che voi sapete, crebbe tanto che diventò reame; e questo carnovale vi si son fattte cose divine, perché ogni settimana sedeva un re, quale avea una cena, e ognuno l'avea a presentar d'una stravaganza e d'una composizione, che a gara tanto l'uno dell'altro e gli re e i vassalli hanno fatto cose che danno che a dire a tutta Roma [...]
+    ```
+    Letter by [Benedetto Varchi](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx)

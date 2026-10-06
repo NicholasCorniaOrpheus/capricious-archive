@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  aliases:
+    - spirituality
+  base_name: religion
+  filename: religion.md
+  label: religion
+  id: 5HJWdrzniH6G
+  n_id: 67443013160475458894
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NfW3mt8C2xHA
+      label: field of study
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q9174
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5HJWdrzniH6G.json
+content:
+  markdown_content: ""

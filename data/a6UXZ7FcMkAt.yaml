@@ -1,0 +1,56 @@
+metadata:
+  class: Organisation
+  label: Accademia dei Travagliati di Siena
+  description:
+  aliases:
+  base_name: Accademia dei Travagliati di Siena
+  filename: Accademia dei Travagliati di Siena.md
+  id: a6UXZ7FcMkAt
+  n_id: 661965360141082518317
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1550
+      sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+    - sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      value: 1600
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jLwcTv9NEzFF
+      label: Siena
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 85
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+    - value: Donec impurum
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/a6UXZ7FcMkAt.json
+content:
+  markdown_content: ""

@@ -1,0 +1,69 @@
+metadata:
+  class: Agent
+  label: Margherita Sarrocchi
+  description:
+  aliases:
+    - Margherita Sarocchi
+  base_name: Margherita Sarrocchi
+  filename: Margherita Sarrocchi.md
+  id: QzFWBAu4Ku5H
+  n_id: 474349371129506402763
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3846961
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+      label: Italian Women Writers
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2akh6MQphaCo
+      label: (Lucioli 2024)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8g4zkHCciMB
+      label: (Ray 2015)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mm7yVBHwb943
+      start_date: 1611
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Oziosi di Napoli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a5j2E6G2kSVz
+      start_date: 1608
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Ordinati di Roma
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tjNWon78ob2
+      start_date: 1602
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Umoristi di Roma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0259
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 15090
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/3/33/Margherita_Sarrocchi.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QzFWBAu4Ku5H.json
+content:
+  markdown_content: ""

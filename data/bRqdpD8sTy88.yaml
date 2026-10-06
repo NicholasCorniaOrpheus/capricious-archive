@@ -1,0 +1,46 @@
+metadata:
+  class: Book
+  label: Rime di madonna Gaspara Stampa
+  description:
+  aliases:
+  base_name: Rime di madonna Gaspara Stampa
+  filename: Rime di madonna Gaspara Stampa.md
+  id: bRqdpD8sTy88
+  n_id: 689613972133000720686
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE034706
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime di madonna Gaspara Stampa
+  inception:
+    - value: 1554
+  has_version:
+    - publication_date: 1554
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k5aPQaUQUikE
+        label: Plinio Pietrasanta
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://books.google.it/books?id=dhaYP9ZrmSsC
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE034706
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C4NXw8vEgx8e
+      label: Gaspara Stampa
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bRqdpD8sTy88.json
+content:
+  markdown_content: ""

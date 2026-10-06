@@ -1,0 +1,35 @@
+metadata:
+  class: Organisation
+  description: Fictional academy created by Anton Francesco Doni
+  base_name: Accademia dei Pellegrini
+  filename: Accademia dei Pellegrini.md
+  label: Accademia dei Pellegrini
+  id: Vk7WPkWbFVrj
+  n_id: 572409616870017486131
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7oCzU3jd2dSu
+      label: academia fictiva
+  inception:
+  dissolved:
+  location:
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+      label: Anton Francesco Doni
+  interested_in:
+  notable_work:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NS6fqALKYqRu
+      label: (Girotto 2017)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Vk7WPkWbFVrj.json
+content:
+  markdown_content: ""

@@ -1,0 +1,113 @@
+metadata:
+  class: PoeticWork
+  label: Care gioie, che le noie
+  description:
+  aliases:
+  base_name: Care gioie, che le noie
+  filename: Care gioie, che le noie.md
+  id: VQN5zh3RvnSg
+  n_id: 565261504743461572829
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/000470000101_PPPP00011000C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+  part_of:
+    - section: Scherzo V.
+      pages: 72
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UpNUpRqtonTK
+      label: Rime d'Isabella Andreini padovana comica Gelosa
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ApTxwHF6JNzT
+      label: barzelletta
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bN59SRcB24eU
+      label: octosyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AkfWFSmvPUnJ
+      label: kiss
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FHkhZJZzAo88
+      label: thousand
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T3ehoUUCyhWR
+      label: dawn
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QnXnJU93h3jw
+      label: nymph
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZadN4FPyf8fk
+      label: Zeus
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Care gioie,
+      Che le noie
+      De' sospir mandate in bando
+      Quel diletto,
+      Ch'ho nel petto
+      Scopran gli occhi sfavillando.
+
+      Hor non finge,
+      Horr non pinge
+      Con sua squadra falsa, e vaga
+      Sogno vano
+      Quella mano,
+      Che sì dolce il sen m'impiaga.
+
+      Bell'avorio,
+      Pur mi glorio,
+      Che per mille dardi, e faci,
+      Che m'aventi
+      Hor consenti,
+      Ch'io ti porga mille baci.
+
+      Fresche rose,
+      Ove pose
+      D'Ibla il mel cortese Amore
+      Pur delibo
+      Grato cibo
+      Premio altier del mio dolore.
+
+      Parolette
+      Vezzosette,
+      Per cui già bear mi sento,
+      Pur v'ascolto,
+      Né m'è tolto
+      Da l'Aurora il mio contento.
+
+      Frena, frena,
+      Lingua piena
+      Di piacer la tua dolcezza:
+      Sai l'Aurora
+      S'innamora,
+      Ed è scaltra a' furti avezza.
+
+      Ma vaneggio
+      Me n'aveggio
+      Belle ninfe ella non toglie.
+      Ah pur Giove
+      Non ritrove
+      Forma nuova, e me ne spoglie.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/care_gioie,_che_le_noie
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VQN5zh3RvnSg.json
+content:
+  markdown_content: ""

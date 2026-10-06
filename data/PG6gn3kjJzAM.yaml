@@ -1,0 +1,84 @@
+metadata:
+  class: MusicComposition
+  label: Canta Urania dal ciel la vostra stella (Caracciolo)
+  description: Quintus part is missing or the piece was ment for four voices only.
+  aliases:
+  base_name: Canta Urania dal ciel la vostra stella (Caracciolo)
+  filename: Canta Urania dal ciel la vostra stella (Caracciolo).md
+  id: PG6gn3kjJzAM
+  n_id: 438452090625580250488
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/037190001010101_000000051400
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XYcRWXtdoy5z
+      label: Antonio Londonio
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2mHR4PbfyEBU
+      label: Paolo Caracciolo
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5cjBBPZHcJXz
+      label: Di Paolo Caracciolo il primo libro de madrigali a cinque voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      CAnta Urania dal ciel la vostra stella
+      Con sì soavi accenti
+      Che la terra addolcisce l'aria e i venti
+      Io che'l celeste canto divoto ascolto
+      e da lei sola imparo
+      Udendo lei più volte 
+      queste not'ho raccolte
+      Per farm'al mondo chiaro 
+      & hor a voi che'l vanto
+      Cantando havete tra i miglior l'envio 
+      Presidio mio dolce, oh Presidio mio.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UEx82wKyUY8o
+      label: Urania
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUaQe9C3WPVp
+      label: star
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/caracciolo-canta_urania_dal_ciel_la_vostra_stella
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PG6gn3kjJzAM.json
+content:
+  markdown_content: ""

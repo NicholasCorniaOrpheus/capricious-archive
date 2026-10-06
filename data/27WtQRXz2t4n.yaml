@@ -1,0 +1,21 @@
+metadata:
+  class: Place
+  label: Heraklion
+  description: city in the island of Crete
+  aliases:
+    - Candia
+  base_name: Heraklion
+  filename: Heraklion.md
+  id: 27WtQRXz2t4n
+  n_id: 1993622864494315181
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q160544
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/27WtQRXz2t4n.json
+content:
+  markdown_content: ""

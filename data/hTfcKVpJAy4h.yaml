@@ -1,0 +1,58 @@
+metadata:
+  class: PoeticWork
+  base_name: Le donne i cavallier l'arme gli amori
+  filename: Le donne i cavallier l'arme gli amori.md
+  label: Le donne i cavallier l'arme gli amori
+  id: hTfcKVpJAy4h
+  n_id: 814089755985892396929
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+  part_of:
+    - section: Canto I, 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z6udgtgZac9G
+      label: chivalry
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KH2RsQHZMHpE
+      label: knight
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Le donne, i cavallier, l'arme, gli amori,
+      le cortesie, l'audaci imprese io canto,
+      che furo al tempo che passaro i Mori
+      d'Africa il mare, e in Francia nocquer tanto,
+      seguendo l'ire e i giovenil furori
+      d'Agramante lor re, che si diè vanto
+      di vendicar la morte di Troiano
+      sopra re Carlo imperator romano.
+assets:
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hTfcKVpJAy4h.json
+content:
+  markdown_content: ""

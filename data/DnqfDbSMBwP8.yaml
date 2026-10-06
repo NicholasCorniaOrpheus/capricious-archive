@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Bolzoni 2004)
+  description:
+  aliases:
+    - bolzoniMacchineMemoriaLinvenzione2005
+  base_name: (Bolzoni 2004)
+  filename: (Bolzoni 2004).md
+  id: DnqfDbSMBwP8
+  n_id: 243227029648588420659
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Bolzoni, Lina. 2005. ‘Macchine per la memoria e per l’invenzione fra Quattro e Cinquecento’. In Machina. XI Colloquio Internazionale. Roma, 8-10 gennaio 2004, 274–97. Firenze: Leo S. Olschki Editore."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/bolzoniMacchineMemoriaLinvenzione2005.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DnqfDbSMBwP8.json
+content:
+  markdown_content: ""

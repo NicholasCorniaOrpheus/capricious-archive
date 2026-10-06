@@ -1,0 +1,62 @@
+metadata:
+  class: NotatedMusic
+  base_name: Effetti d'amore a quattro voci con una mascherata nel fine. Libro primo di Orazio Scaletta
+  filename: Effetti d'amore a quattro voci con una mascherata nel fine. Libro primo di Orazio Scaletta.md
+  label: Effetti d'amore a quattro voci con una mascherata nel fine. Libro primo di Orazio Scaletta
+  id: DpEhcNKQY2x2
+  n_id: 243729062513990056701
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0156418
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV19350010
+    - https://rism.online/sources/990057600
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - "Effetti d'amore : canzonette a quatro voci con una mascherata nel fine : libro primo / di Oratio Scaletta da Crema"
+  inception:
+    - value: 1595
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0156418
+      publication_date: 1595
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ES6YsgRBW7Rp
+        label: Ricciardo Amadino
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UR633q75uL3
+        label: Bischöfliche Zentralbibliothek Regensburg
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MLTBmCoGKD3v
+      label: Orazio Scaletta
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DpEhcNKQY2x2.json
+content:
+  markdown_content: ""

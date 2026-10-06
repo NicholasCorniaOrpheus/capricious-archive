@@ -1,0 +1,22 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - ecoDallalberoLabirintoStudi2017
+  base_name: (Eco 2017)
+  filename: (Eco 2017).md
+  label: (Eco 2017)
+  id: W8fxAfTV9EuG
+  n_id: 580218435184250184530
+statements:
+  part_of:
+  citation:
+    - Eco, Umberto. 2017. Dall’albero al labirinto. Studi storici sul segno e l’interpretazione. La Nave di Teseo.
+  isbn:
+    - 978-88-9344-227-5
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/ecoDallalberoLabirintoStudi2017.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/W8fxAfTV9EuG.json
+content:
+  markdown_content: ""

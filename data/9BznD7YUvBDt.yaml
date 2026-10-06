@@ -1,0 +1,74 @@
+metadata:
+  class: MusicComposition
+  label: Per aspri boschi e solitari horore (Ruffo)
+  description:
+  aliases:
+    - Per aspri boschi e solitario orore
+  base_name: Per aspri boschi e solitari horore (Ruffo)
+  filename: Per aspri boschi e solitari horore (Ruffo).md
+  id: 9BznD7YUvBDt
+  n_id: 148070205680515603886
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F211090000010101_000000215000C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cv9uVmQKzPqv
+      label: Vincenzo Ruffo
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EdKWKZpv5rgp
+      label: Di Vincenzo Ruffo il Primo libro de madrigali a cinque voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Per aspri boschi e solitari horore
+      Barbut'e magro io vo soling'e nudo
+      Colmo d'affanni & carco di dolore
+      Pallido irsuto e mesto orrend'e crudo
+      Tenebr'oscura notte antr'e terrore
+      Ne gl'occhi paventosi alberg'e chiudo
+      Talché se'l Cigno mi rincontr'a sorte
+      Canta che'l corpo mio gli parla morte.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i6aLsHeCyDtH
+      label: destiny
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R7sbNmdF69BB
+      label: forest
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ByPQWJQU37nM
+      label: night
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DZoqcMSppVGt
+      label: shadow
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nCimZWBzP648
+      label: death
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LVFgSQZJH6F8
+      label: swan
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/ruffo-per_aspri_boschi_e_solitario_horore
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9BznD7YUvBDt.json
+content:
+  markdown_content: ""

@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: pastoral drama
+  description:
+  aliases:
+    - favola pastorale
+  base_name: pastoral drama
+  filename: pastoral drama.md
+  id: cF3HzyFDHqfG
+  n_id: 706335163940212153847
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3715150
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cF3HzyFDHqfG.json
+content:
+  markdown_content: ""

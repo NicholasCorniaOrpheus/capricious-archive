@@ -1,0 +1,101 @@
+metadata:
+  class: MusicComposition
+  label: Poiché son le due luci al pianto intense (Grisonio)
+  description:
+  aliases:
+  base_name: Poiché son le due luci al pianto intense (Grisonio)
+  filename: Poiché son le due luci al pianto intense (Grisonio).md
+  id: BQdfNJtoff8i
+  n_id: 193914296053948019722
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F157280001010101_000000259600C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/j9aLuiEVF7Lm
+      label: Domenico Venier
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ft5fuobgy8tf
+      label: Girolamo Fenaroli
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fm5fiwpdhJfP
+      label: Daniele Grisonio
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hQxZ27PYU5VV
+      label: Corona della morte dell'illustre signore Anibal Caro
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      POiché son le due luci; al pianto intense,
+      Che nel cor stagno, e dentro il petto accoglio,
+      E s'a l'usato io mi querelo, e doglio,
+      Picciol fia il varco al mio martir immenso.
+
+      Argo fuss'io, e fusse ogni mio senso;
+      Ne gl'occhi onde scoprisi il mio cordoglio,
+      E m'honorasse il pianto in questo foglio;
+      Ove l'inchiosto in van movo, e dispenso.
+
+      Ma tu, la cui virtù battendo l'ale,
+      Saggio VENIERO è corsa in ogni canto;
+      A che non piangi il danno universale.
+
+      Che non honori il degno cener santo;
+      Del CARO tuo? Ch'attende a Febo eguale,
+      Novo Elicona del tuo nobil pianto.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bz2ZiUr2xdwm
+      label: elegy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z6FmxQq4Hf3E
+      label: artistic legacy
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mmNaTApfKuRD
+      label: martyrdom
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8FS3byBrtF9L
+      label: Annibale Caro
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/grisonio-poiché_son_le_due_luci_al_pianto_intense
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - q_001.jpg
+    - q_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BQdfNJtoff8i.json
+content:
+  markdown_content: ""

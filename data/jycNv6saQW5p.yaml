@@ -1,0 +1,66 @@
+metadata:
+  class: NotatedMusic
+  label: Di Ippolito Sabino il Sesto libro de Madrigali a cinque & a sei voci
+  description: Only the cantus and bassus parts survived.
+  aliases:
+  base_name: Di Ippolito Sabino il Sesto libro de Madrigali a cinque & a sei voci
+  filename: Di Ippolito Sabino il Sesto libro de Madrigali a cinque & a sei voci.md
+  id: jycNv6saQW5p
+  n_id: 866202008956189468858
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV18960010
+    - https://edit16.iccu.sbn.it/titolo/CNCE045333
+    - https://rism.online/sources/990056608
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Hippolito Sabino il seto [!] libro de madrigali a cinque, e a sei voci
+  inception:
+    - value: 1588
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE045333
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TkSL3NGH6dAk
+        label: Giacomo Vincenti
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://edl.cultura.gov.it/item/yzjgxp99r7
+      note: Reprint
+      publication_date: 1588
+      IIIF_manifest: https://edl-jarvis.cultura.gov.it/meta/iiif/27eff854-074b-4a53-bb07-9720f39c1398/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7oPrQMs9LgfG
+      label: Ippolito Sabino
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://edl-jarvis.cultura.gov.it/meta/iiif/27eff854-074b-4a53-bb07-9720f39c1398/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jycNv6saQW5p.json
+content:
+  markdown_content: ""

@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: mermaid
+  description:
+  aliases:
+    - sirena
+  base_name: mermaid
+  filename: mermaid.md
+  id: L3e4bqZinJkX
+  n_id: 372037173037568555555
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q182559
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+  subclass_of:
+  opposite_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/L3e4bqZinJkX.json
+content:
+  markdown_content: ""

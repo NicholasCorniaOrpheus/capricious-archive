@@ -1,0 +1,38 @@
+metadata:
+  class: Book
+  base_name: Libro terzo de le rime di diversi nobilissimi et eccellentissimi autori nuovamente raccolte
+  filename: Libro terzo de le rime di diversi nobilissimi et eccellentissimi autori nuovamente raccolte.md
+  label: Libro terzo de le rime di diversi nobilissimi et eccellentissimi autori nuovamente raccolte
+  id: nqQcKS338PJu
+  n_id: 925138716683702945148
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Libro terzo de le rime di diuersi nobilissimi et eccellentissimi autori nuouamente raccolte
+  inception:
+    - value: 1550
+  has_version:
+    - publication_date: 1550
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YzKmi8d7ExRX
+        label: Bartolomeo Cesano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE024114
+      external_source: https://books.google.be/books?id=4skTAAAAQAAJ
+  contributor:
+  subject:
+  has_part:
+  based_on:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE024114
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nqQcKS338PJu.json
+content:
+  markdown_content: ""

@@ -1,0 +1,68 @@
+metadata:
+  class: PoeticWork
+  base_name: Già l'alma ti donai
+  filename: Già l'alma ti donai.md
+  label: Già l'alma ti donai
+  id: eWSQF9wC9aZi
+  n_id: 753184241644458662719
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/exrSSpj73NMW
+      section: Fede Rotta. Alla Illustre Signora Lucietta da l"oca Spinelli. Isabella Andreini
+      pages: 179
+      volume: 5
+      label: Il Gareggiamento poetico del Confuso Accademico Ordito
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HXwdX5qkqNv6
+      label: departure
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdeyMkYtsKFp
+      label: Filli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Già l'alma ti donai
+      Vivendo sol de la tua vista lieta;
+      Ma poi che rio pianeta
+      Mi costrinse a partire,
+      Per non vedermi inanzi a te morire
+      Pietoso mi dicesti
+      Vivi oh mia Filli, e l'alma mi rendesti.
+      Hor perché di te priva
+      Questa vita m'è schiva,
+      E sol morir desio
+      La dolent'alma a te di novo invio.
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/078890000101_PPPP00011000C
+    - https://lyra.unil.ch/poems/20881
+assets:
+  local_asset_path: ./assets/poems/già_l'alma_ti_donai
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/eWSQF9wC9aZi.json
+content:
+  markdown_content: ""

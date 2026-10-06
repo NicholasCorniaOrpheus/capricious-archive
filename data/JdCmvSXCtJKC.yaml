@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: ottava rima
+  description:
+  aliases:
+  base_name: ottava rima
+  filename: ottava rima.md
+  id: JdCmvSXCtJKC
+  n_id: 342913973458333991704
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1402779
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/azdRiyjTx94h
+      label: poetic form
+  subclass_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JdCmvSXCtJKC.json
+content:
+  markdown_content: ""

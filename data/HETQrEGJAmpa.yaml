@@ -1,0 +1,39 @@
+metadata:
+  class: Agent
+  label: Flora Zuzzeri
+  description:
+  aliases:
+    - Cvijeta Zuzorić
+  base_name: Flora Zuzzeri
+  filename: Flora Zuzzeri.md
+  id: HETQrEGJAmpa
+  n_id: 314044230618697027301
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1272744
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh
+      label: Torquato Tasso
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/1/14/Cvijeta_Zuzoric.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HETQrEGJAmpa.json
+content:
+  markdown_content: ""

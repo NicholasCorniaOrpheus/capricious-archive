@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  label: Isabella di Morra
+  description:
+  aliases:
+  base_name: Isabella di Morra
+  filename: Isabella di Morra.md
+  id: doo4FV8oxLNi
+  n_id: 738834061162131374230
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3154847
+    - https://lyra.unil.ch/agents/324
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mWT5q2KSyozm
+      label: (van Dooren 1992)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Meh7sxamWjJw
+      label: (Nardi 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/doo4FV8oxLNi.json
+content:
+  markdown_content: ""

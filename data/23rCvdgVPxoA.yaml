@@ -1,0 +1,45 @@
+metadata:
+  class: Book
+  label: Arcadia del Sannazaro
+  description:
+  aliases:
+  base_name: Arcadia del Sannazaro
+  filename: Arcadia del Sannazaro.md
+  id: 23rCvdgVPxoA
+  n_id: 668120675085123011
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE029828
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cF3HzyFDHqfG
+      label: pastoral drama
+  title:
+  inception:
+    - value: 1504
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE029828
+      publication_date: 1504
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+          label: Napoli
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dbbU5aPBAxvp
+      label: Jacopo Sannazaro
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  based_on:
+    -
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/23rCvdgVPxoA.json
+content:
+  markdown_content: ""

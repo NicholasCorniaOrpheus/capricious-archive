@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Rhodes and Sawday 2000)
+  description:
+  aliases:
+    - rhodesRenaissanceComputerKnowledge2000
+  base_name: (Rhodes and Sawday 2000)
+  filename: (Rhodes and Sawday 2000).md
+  id: kFSiUkKnEyrq
+  n_id: 871571173348432174034
+statements:
+  identifier:
+    - https://doi.org/10.4324/9780203463307
+  described_by_source:
+  part_of:
+  citation:
+    - "Rhodes, Neil, and Jonathan Sawday, eds. 2000. The Renaissance Computer: Knowledge Technology in the First Age of Print. London New York: Routledge."
+  isbn:
+    - 978-0-415-22063-7
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/rhodesRenaissanceComputerKnowledge2000.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kFSiUkKnEyrq.json
+content:
+  markdown_content: ""

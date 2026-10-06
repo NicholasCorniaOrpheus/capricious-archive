@@ -1,0 +1,54 @@
+metadata:
+  class: Agent
+  label: Giovanni Battista Andreini
+  description:
+  aliases:
+    - Giovan Battista Andreini
+    - Giambattista Andreini
+  base_name: Giovanni Battista Andreini
+  filename: Giovanni Battista Andreini.md
+  id: muSTDYc3TVDk
+  n_id: 905962638674237569140
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1134183
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kQTagGwVLuoA
+      label: playwright
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WjDMAWyNeRsW
+        label: husband
+      label: Virginia Ramponi-Andreini
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cUPhYVXwwzmw
+        label: child
+      label: Isabella Andreini
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/f/fe/Angelo_Caroselli_-_Man_reading_a_book_by_Tacitus%2C_portrait_of_Giambattista_Andreini.JPG?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/muSTDYc3TVDk.json
+content:
+  markdown_content: ""

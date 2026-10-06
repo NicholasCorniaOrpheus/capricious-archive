@@ -1,0 +1,33 @@
+metadata:
+  class: Organisation
+  label: Duke university
+  description:
+  aliases:
+  base_name: Duke university
+  filename: Duke university.md
+  id: ntjsWciGvjAu
+  n_id: 926347187763031295244
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q168751
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U72CH62RBSiC
+      label: digital library
+  inception:
+  dissolved:
+  location:
+  official_website:
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ntjsWciGvjAu.json
+content:
+  markdown_content: ""

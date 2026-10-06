@@ -1,0 +1,73 @@
+metadata:
+  class: PoeticWork
+  label: Io son da l'aspettar' homai sì stanca
+  description:
+  aliases:
+  base_name: Io son da l'aspettar' homai sì stanca
+  filename: Io son da l'aspettar' homai sì stanca.md
+  id: kNoLX2vJHsPo
+  n_id: 874236340373242897584
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C4NXw8vEgx8e
+      label: Gaspara Stampa
+  part_of:
+    - pages: 14
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bRqdpD8sTy88
+      label: Rime di madonna Gaspara Stampa
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UKk9xKyR5owm
+      label: betrayal
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d4L6StxVVqKo
+      label: condottiero
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Io son da l'aspettar' homai sì stanca,
+      Sì vinta dal dolor', e dal disio,
+      Per la sì poca fede, e molto oblio
+      Di chi del suo tornar, lassa, mi manca.
+
+      Che lei, che'l mondo impalidisce e'mbianca
+      Con la sua falce, e dà l'ultimo fio,
+      Chiamo talhor per refrigerio mio,
+      Sì'l dolor nel mio petto si rinfranca.
+
+      Et ella si fa sorda al mio chiamare,
+      Schernendo i miei pensier fallaci e folli,
+      Come sta sordo anch'egli al suo tornare.
+
+      Così col pianto, ond'ho gli occhi miei molli,
+      Fò pietose quest'onde e questo mare;
+      Et ei si vive lieto ne'suoi colli.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/io_son_da_l'aspettar'_homai_sì_stanca
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kNoLX2vJHsPo.json
+content:
+  markdown_content: ""

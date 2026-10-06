@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  base_name: scientific concept
+  filename: scientific concept.md
+  label: scientific concept
+  id: LfKThYPryFNb
+  n_id: 384952269203892828948
+statements:
+  instance_of:
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q115949945
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LfKThYPryFNb.json
+content:
+  markdown_content: ""

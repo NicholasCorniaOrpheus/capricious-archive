@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  aliases:
+    - scent
+    - odore
+    - smell
+    - aroma
+  base_name: odor
+  filename: odor.md
+  label: odor
+  id: hpn5ALiAqMtb
+  n_id: 821733443969871373491
+statements:
+  instance_of:
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q485537
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hpn5ALiAqMtb.json
+content:
+  markdown_content: ""

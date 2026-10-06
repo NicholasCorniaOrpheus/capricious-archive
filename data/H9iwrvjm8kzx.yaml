@@ -1,0 +1,57 @@
+metadata:
+  class: Book
+  label: Album Amicorum of Abraham Ortelius
+  description:
+  aliases:
+  base_name: Album Amicorum of Abraham Ortelius
+  filename: Album Amicorum of Abraham Ortelius.md
+  id: H9iwrvjm8kzx
+  n_id: 312332791583002018425
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R5SVv2QAd7Fx
+      label: University of Cambridge
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kBuv5hPtPaN6
+      label: manuscript
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J33irkAjq2cU
+      label: album amicorum
+  title:
+  inception:
+    - value: 1573
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ws34pzCNqACj
+          label: (Hendrix 2017)
+  has_version:
+    - permalink: https://cudl.lib.cam.ac.uk/view/MS-LC-00002-00113
+      external_source: https://cudl.lib.cam.ac.uk/mirador/MS-LC-00002-00113/0
+      IIIF_manifest: https://cudl.lib.cam.ac.uk//iiif/MS-LC-00002-00113
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R5SVv2QAd7Fx
+        label: University of Cambridge
+      publication_date: 1573
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9aCUjCG9qSpL
+      label: Abraham Ortelius
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jvXE4XLN7yQS
+      label: emblem book
+  has_part:
+  based_on:
+  catalog_identifier:
+    - value: MS LC.2.113
+      source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R5SVv2QAd7Fx
+        label: University of Cambridge
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://cudl.lib.cam.ac.uk//iiif/MS-LC-00002-00113
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/H9iwrvjm8kzx.json
+content:
+  markdown_content: ""

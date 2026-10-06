@@ -1,0 +1,67 @@
+metadata:
+  class: Book
+  label: I tre giardini de' madrigali del Costante, Academico Cospirante, Maurizio Moro
+  description:
+  aliases:
+  base_name: I tre giardini de' madrigali del Costante, Academico Cospirante, Maurizio Moro
+  filename: I tre giardini de' madrigali del Costante, Academico Cospirante, Maurizio Moro.md
+  id: GpCVYdi8S5s2
+  n_id: 305622714827848003716
+statements:
+  identifier:
+    - http://id.sbn.it/bid/UBOE029483
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2F005770020
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - I tre giardini de' madrigali del Costante, Academico Cospirante, Mauritio Moro Vinetiano. Con Il ghiaccio, et il foco d'Amore, le Furie ultrici, & il Ritratto delle Cortigiane. Giardino primo (-terzo)
+  inception:
+    - value: 1602
+  has_version:
+    - permalink: http://id.sbn.it/bid/UBOE029483
+      publication_date: 1602
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WodjVxVMZUn7
+        label: Gasparo Contarini
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10813392
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10813392/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bc8ENq8LbxeG
+      label: Maurizio Moro
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/esdPVkcqtoQn
+      label: ice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U3W24sdZDPUp
+      label: garden
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DQyic7zZsNUw
+      label: courtesan
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10813392/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GpCVYdi8S5s2.json
+content:
+  markdown_content: ""

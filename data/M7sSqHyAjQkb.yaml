@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Testa 2020)
+  description:
+  aliases:
+    - testaItalianAcademiesTheir2020
+  base_name: (Testa 2020)
+  filename: (Testa 2020).md
+  id: M7sSqHyAjQkb
+  n_id: 394206252988496252496
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Testa, Simone. 2020. ‘Italian Academies and Their “Facebooks”’. In The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent, edited by Jane E. Everson, Denis V. Reidy, and Lisa Sampson, 197–212. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+  isbn:
+    - 978-1-909662-57-5
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/testaItalianAcademiesTheir2020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/M7sSqHyAjQkb.json
+content:
+  markdown_content: ""

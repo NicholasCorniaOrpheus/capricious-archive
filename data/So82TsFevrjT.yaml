@@ -1,0 +1,49 @@
+metadata:
+  class: Organisation
+  label: Accademia dei Riaccesi di Palermo
+  description:
+  aliases:
+    - Accademia degli Accesi di Palermo
+  base_name: Accademia dei Riaccesi di Palermo
+  filename: Accademia dei Riaccesi di Palermo.md
+  id: So82TsFevrjT
+  n_id: 511591256681494685332
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8KFvqu4ynd7m
+      label: (Bagni 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1622
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BN9CvVaVcKNU
+      label: Palermo
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 118
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8oMd5exDwNUv
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Andrea Perrucci
+  interested_in:
+  notable_work:
+  related_to:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/So82TsFevrjT.json
+content:
+  markdown_content: ""

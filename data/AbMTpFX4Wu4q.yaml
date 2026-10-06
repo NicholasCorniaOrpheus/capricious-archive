@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Wood 2019)
+  description:
+  aliases:
+    - woodChancingItPrint2019
+  base_name: (Wood 2019)
+  filename: (Wood 2019).md
+  id: AbMTpFX4Wu4q
+  n_id: 177157852977113951903
+statements:
+  identifier:
+    - https://doi.org/10.1111/1467-8365.12452
+  described_by_source:
+  part_of:
+  citation:
+    - "Wood, Kelli. 2019. ‘Chancing It: Print, Play, and Gambling Games at the End of the Sixteenth Century’. Art History 42 (3): 450–81."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/woodChancingItPrint2019.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AbMTpFX4Wu4q.json
+content:
+  markdown_content: ""

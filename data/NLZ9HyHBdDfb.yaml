@@ -1,0 +1,81 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Intronati di Siena
+  description:
+  aliases:
+  base_name: Accademia degli Intronati di Siena
+  filename: Accademia degli Intronati di Siena.md
+  id: NLZ9HyHBdDfb
+  n_id: 419432304370690657206
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q765899
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhzyuxcFHpz3
+      label: (Pallini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1525
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+    - value: 1603
+      sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jLwcTv9NEzFF
+      label: Siena
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 48
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S3kU5uYUeBxN
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhzyuxcFHpz3
+          label: (Pallini 2020)
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Bartolomeo Carli Piccolomini
+    - pseudonym: L'Irresoluto
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NDRQPafFjYTy
+      label: Carlo Papini
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/maVFhk6h8CqB
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A7K8FzhUQ2Bq
+          label: (Cosentino 2017)
+      label: Iacopo Cicognini
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZmpBx2YXnpkE
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QmQprBXKudMJ
+          label: (Geremicca 2017)
+      pseudonym: Sgraziata
+      label: Laura Battiferri
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PuzofSmPxjQf
+      label: theater
+  notable_work:
+  motto:
+    - value: Sapiens dominabitur astris
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhzyuxcFHpz3
+          label: (Pallini 2020)
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NLZ9HyHBdDfb.json
+content:
+  markdown_content: ""

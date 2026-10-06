@@ -1,0 +1,96 @@
+metadata:
+  class: Organisation
+  label: Accademia delle Virtù di Roma
+  description:
+  aliases:
+    - Accademia Vitruviana
+    - Accademia dei Vignaiuoli
+  base_name: Accademia delle Virtù di Roma
+  filename: Accademia delle Virtù di Roma.md
+  id: 33fBjU7SLdGj
+  n_id: 21234021225033012284
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q48837556
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R8gaAppcmFNh
+      label: (Moroncini 2017)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ivSf6Tv3TzY8
+      label: (Moroncini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1532
+      sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+    - sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      value: 1545
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 107
+  member:
+    - pseudonym: Sere Stentato
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8AbKBvcDb2F
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Giulio Landi
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hbv5BTLjNJJU
+      label: Luca Contile
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/au2FAKGHhhNM
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R8gaAppcmFNh
+          label: (Moroncini 2017)
+      label: Claudio Tolomei
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HDVve8zrRZwi
+      label: Francesco Berni
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+      label: Anton Francesco Doni
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c5v9viUaMzrT
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ivSf6Tv3TzY8
+          label: (Moroncini 2020)
+      label: serio ludere
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B7dYQES7bzgL
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ivSf6Tv3TzY8
+          label: (Moroncini 2020)
+      label: classical antiquity
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iNdoFVbAtpFo
+      label: Vitruvius
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2zJ3QRUFy4nX
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R8gaAppcmFNh
+          label: (Moroncini 2017)
+      label: humorous poetry
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6WHhQRX6wRu8
+      label: Giuoco delle Virtù
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/33fBjU7SLdGj.json
+content:
+  markdown_content: ""

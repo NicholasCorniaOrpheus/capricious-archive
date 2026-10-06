@@ -1,0 +1,47 @@
+metadata:
+  class: Book
+  label: Partenia
+  description: A complete bilingual edition from a manuscript held in Cremona has been released in 2013 as part of the
+  aliases:
+  base_name: Partenia
+  filename: Partenia.md
+  id: nudpNbuBvNrW
+  n_id: 926670762368373920005
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+      label: (Sampson 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B4Z2pct2Y7oU
+      label: (Torelli Benedetti 2013)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kBuv5hPtPaN6
+      label: manuscript
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cF3HzyFDHqfG
+      label: pastoral drama
+  title:
+  inception:
+    - sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      value: 1586
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B4Z2pct2Y7oU
+          label: (Torelli Benedetti 2013)
+  has_version:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6vLSy3dtmexs
+      label: Barbara Torelli Benedetti
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nudpNbuBvNrW.json
+content:
+  markdown_content: ""

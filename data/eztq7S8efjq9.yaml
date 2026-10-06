@@ -1,0 +1,81 @@
+metadata:
+  class: PoeticWork
+  label: Varchi, s'il ciel vi presti ali al gran nome
+  description:
+  aliases:
+  base_name: Varchi, s'il ciel vi presti ali al gran nome
+  filename: Varchi, s'il ciel vi presti ali al gran nome.md
+  id: eztq7S8efjq9
+  n_id: 763489083580879576144
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/8092
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i3wrAGDKdkNe
+      label: Francesco Sansovino
+  part_of:
+    - pages: 209
+      section: Di M. Francesco Sansovino
+      volume: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UoZHuZQEWyBZ
+      label: Rime diverse di molti eccellentiss. autori nuovamente raccolte. Libro primo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bz2ZiUr2xdwm
+      label: elegy
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+  text:
+    - |-
+      VARCHI, s'il ciel vi presti ali al gran nome
+      Ond'ei sen vole al Mauritano Atlante
+      Da l'indo mar, si che trapassi quante
+      Glorie mai coronar altrui le chiome;
+
+      Dopo che nel mortal è l'alma, come
+      Pone in oblio l'alte, celesti, & sante
+      Prime sostanze? ond'è che le sue tante
+      Vertù, dal fragil senso human' son dome?
+
+      S'ella è luce immortal, perch'il terreno
+      Velo per lei non divien' santo & chiaro;
+      S'il maggior il minor mai sempre adombra?
+
+      Questo dubbio pensier starà nel seno
+      A la mia fede, oh sommo Tosco oh raro
+      Tanto ch'ella per voi d'error sia sgombra.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/varchi,_s'il_ciel_vi_presti_ali_al_gran_nome
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/eztq7S8efjq9.json
+content:
+  markdown_content: ""

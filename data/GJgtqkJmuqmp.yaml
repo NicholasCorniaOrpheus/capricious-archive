@@ -1,0 +1,57 @@
+metadata:
+  class: PoeticWork
+  base_name: Che pena si può dire
+  filename: Che pena si può dire.md
+  label: Che pena si può dire
+  id: GJgtqkJmuqmp
+  n_id: 294942152148793216429
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F043200000010101_000000159500C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EfY2dL7MpgHY
+      label: anonymous
+  part_of:
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Che pena si può dire
+      più grande che morire?
+      Maggior è la mia pena
+      e passa ogn'aspra sorte,
+      ché mai punto raffrena,
+      ma cresce ognor più forte;
+      io vivo, ed ogni dì provo la morte.
+      Dunque è maggior martire
+      chi vive in doglia e mai non può morire.
+assets:
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GJgtqkJmuqmp.json
+content:
+  markdown_content: ""

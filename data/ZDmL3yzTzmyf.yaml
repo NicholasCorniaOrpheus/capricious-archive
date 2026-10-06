@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  aliases:
+    - Roman dialect
+  base_name: Romanesco
+  filename: Romanesco.md
+  label: Romanesco
+  id: ZDmL3yzTzmyf
+  n_id: 643970385794433431983
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/g3NvasDg98iG
+      label: language
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q1231625
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZDmL3yzTzmyf.json
+content:
+  markdown_content: ""

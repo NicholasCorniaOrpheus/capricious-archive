@@ -1,0 +1,47 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Oscuri di Lucca
+  description:
+  aliases:
+  base_name: Accademia degli Oscuri di Lucca
+  filename: Accademia degli Oscuri di Lucca.md
+  id: aDQFZSx54vRN
+  n_id: 664472405422916949887
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1584
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJ5rjP86CXEj
+          label: (Nicolaci 2017)
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PSSozWnHJJHx
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJ5rjP86CXEj
+          label: (Nicolaci 2017)
+      label: Lucca
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJ5rjP86CXEj
+          label: (Nicolaci 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MLujQtDvuu8j
+      label: Giovan Lorenzo Malpigli
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aDQFZSx54vRN.json
+content:
+  markdown_content: ""

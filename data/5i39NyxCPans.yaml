@@ -1,0 +1,38 @@
+metadata:
+  class: Agent
+  label: Bartolomeo Ferrini
+  description:
+  aliases:
+  base_name: Bartolomeo Ferrini
+  filename: Bartolomeo Ferrini.md
+  id: 5i39NyxCPans
+  n_id: 76396205420314610824
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q55227554
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5i39NyxCPans.json
+content:
+  markdown_content: ""

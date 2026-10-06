@@ -1,0 +1,44 @@
+metadata:
+  class: Book
+  label: Canzoni del Marchese Francesco Maria Santinelli Cameriero Maggiore di Cristina Alessandra Regina di Svezia
+  description:
+  aliases:
+  base_name: Canzoni del Marchese Francesco Maria Santinelli Cameriero Maggiore di Cristina Alessandra Regina di Svezia
+  filename: Canzoni del Marchese Francesco Maria Santinelli Cameriero Maggiore di Cristina Alessandra Regina di Svezia.md
+  id: 5hUi596TAGCd
+  n_id: 76196600890511434022
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Canzoni del Marchese Francesco Maria Santinelli Cameriero Maggiore di Cristina Alessandra Regina di Svetia. Parte Prima
+  inception:
+    - value: 1659
+  has_version:
+    - external_source: https://www.google.be/books/edition/Canzoni_del_marchese_Francesco_Maria_San/Sft0aCZ3kwAC
+      publication_date: 1659
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kTbNwMS6qAEj
+      label: Christina of Sweden
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hyw2JvyN8B9h
+      label: Francesco Maria Santinelli
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5hUi596TAGCd.json
+content:
+  markdown_content: ""

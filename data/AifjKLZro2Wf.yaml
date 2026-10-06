@@ -1,0 +1,27 @@
+metadata:
+  class: BibliographicResource
+  label: (Procaccioli 2017)
+  description:
+  aliases:
+    - procaccioliDionigiAtanagiAccademie2017
+  base_name: (Procaccioli 2017)
+  filename: (Procaccioli 2017).md
+  id: AifjKLZro2Wf
+  n_id: 179808138960169773550
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Procaccioli, Paolo. 2017. ‘Dionigi Atanagi e le accademie della Roma farnesina’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Patrizia Tosini, 77–90. Roma: De Luca editori d’arte."
+  isbn:
+    - 978-88-6557-321-1
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/procaccioliDionigiAtanagiAccademie2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AifjKLZro2Wf.json
+content:
+  markdown_content: ""

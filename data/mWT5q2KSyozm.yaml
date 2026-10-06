@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (van Dooren 1992)
+  description:
+  aliases:
+    - vandoorenDichteressenUitHet1992
+  base_name: (van Dooren 1992)
+  filename: (van Dooren 1992).md
+  id: mWT5q2KSyozm
+  n_id: 897639841408663967818
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Dooren, Frans van, ed. 1992. Dichteressen uit het cinquecento. Van Vittoria Colonna tot Veronica Franco. Amsterdam: Athenaeum Polak & Van Gennep."
+  isbn:
+    - 90-253-3108-4
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/vandoorenDichteressenUitHet1992.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mWT5q2KSyozm.json
+content:
+  markdown_content: ""

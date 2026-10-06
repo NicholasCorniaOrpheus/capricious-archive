@@ -1,0 +1,61 @@
+metadata:
+  class: Book
+  base_name: La Florinda tragedia di Gio. Battista Andreini comico Fedele
+  filename: La Florinda tragedia di Gio. Battista Andreini comico Fedele.md
+  label: La Florinda tragedia di Gio. Battista Andreini comico Fedele
+  id: hQhjYWoE4T4L
+  n_id: 813017164366851009351
+statements:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fWcm8Nsn7rXJ
+      label: drama
+  title:
+    - La Florinda tragedia di Gio. Battista Andreini comico Fedele. All'illustriss.mo & eccellentiss.mo sig.re, d. Pietro Enrichez de Azevedo, conte di Fuentes
+  inception:
+    - value: 1606
+  has_version:
+    - note: Manuscript
+      permalink: https://archivesetmanuscrits.bnf.fr/ark:/12148/cc101819
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      external_source: https://gallica.bnf.fr/ark:/12148/btv1b100343863
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/btv1b100343863/manifest.json
+    - permalink: http://id.sbn.it/bid/BVEE025465
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RFFMqXMnRXik
+          label: Milano
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QgzANxntwmqg
+        label: Girolamo Bordone
+      publication_date: 1606
+      external_source: https://books.google.be/books?id=syrkW5qLdloC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BzZ5xTZQpucC
+      label: Giambattista Andreini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB
+      label: Virginia Ramponi-Andreini
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/btv1b100343863/manifest.json
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hQhjYWoE4T4L.json
+content:
+  markdown_content: ""

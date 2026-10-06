@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Grafton 1990)
+  description:
+  aliases:
+    - graftonForgersCriticsNew2019
+  base_name: (Grafton 1990)
+  filename: (Grafton 1990).md
+  id: YM6hYoz6NV7h
+  n_id: 625985441897919566886
+statements:
+  identifier:
+    - https://doi.org/10.2307/j.ctvc77ffp
+  described_by_source:
+  part_of:
+  citation:
+    - "Grafton, Anthony. (1990) 2019. Forgers and Critics, New Edition: Creativity and Duplicity in Western Scholarship. Princeton University Press."
+  isbn:
+    - 978-0-691-19183-6
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/graftonForgersCriticsNew2019.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YM6hYoz6NV7h.json
+content:
+  markdown_content: ""

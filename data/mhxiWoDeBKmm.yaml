@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: academy
+  description:
+  aliases:
+  base_name: academy
+  filename: academy.md
+  id: mhxiWoDeBKmm
+  n_id: 901810487727004717864
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q162633
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJKX5NkH9MsF
+      label: artist collective
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mhxiWoDeBKmm.json
+content:
+  markdown_content: ""

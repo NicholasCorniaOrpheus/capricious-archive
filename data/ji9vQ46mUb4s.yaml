@@ -1,0 +1,45 @@
+metadata:
+  class: Organisation
+  label: Accademia dei Sileni di Napoli
+  description:
+  aliases:
+  base_name: Accademia dei Sileni di Napoli
+  filename: Accademia dei Sileni di Napoli.md
+  id: ji9vQ46mUb4s
+  n_id: 860603526502091354737
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1612
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+      label: Napoli
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 89
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/msaShVwusGue
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Giambattista Marino
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ji9vQ46mUb4s.json
+content:
+  markdown_content: ""

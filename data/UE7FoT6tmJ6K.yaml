@@ -1,0 +1,58 @@
+metadata:
+  class: MusicComposition
+  label: La rete fu di queste fila d'oro (Viola)
+  description:
+  aliases:
+  base_name: La rete fu di queste fila d'oro (Viola)
+  filename: La rete fu di queste fila d'oro (Viola).md
+  id: UE7FoT6tmJ6K
+  n_id: 540911091916155861020
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/140310001010101_000000076800C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/eJkZtqiCPcgu
+      label: Alfonso dalla Viola
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/koYRuMoaxBMQ
+      label: Primo libro di Madrigali d'Alfonso dalla Viola
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6YzqFVzbsPDz
+      label: La rete fu di queste fila d'oro
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/viola-la_rete_fu_di_queste_fila_d'oro
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UE7FoT6tmJ6K.json
+content:
+  markdown_content: ""

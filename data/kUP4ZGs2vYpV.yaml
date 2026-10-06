@@ -1,0 +1,81 @@
+metadata:
+  class: PoeticWork
+  label: Venisti iuvenis, duclissima curatuorum
+  description: |-
+    Lament for his death son, asking the Gods the reason for such a punishment. You have come, young man, most excellent of the caretakers,
+    That you may continue our unfortunate journey.
+    You have been saved by the arrow that was aimed at me:
+    Not yours, but mine, has thus enviously snatched it away.
+    I was now destroyed by death, by my country's hatreds; of mine:
+    My own son receives you in this light.
+    The gods erred: why is it strange that they erred?
+    Thus perished the two young men without a source.
+    As much light now as there is, as much life now as there is,
+    I owe to both, even though it may be unequal love.
+    Do you ask, whence this wrath of the gods arose for me?
+    The heavens had believed their own fates.
+  aliases:
+  base_name: Venisti iuvenis, duclissima curatuorum
+  filename: Venisti iuvenis, duclissima curatuorum.md
+  id: kUP4ZGs2vYpV
+  n_id: 876254326796519303196
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MjkhF6fTYxAN
+      label: Gerolamo Cardano
+  part_of:
+    - pages: 378
+      volume: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BETUpoZ26qU6
+      label: Somniorum synesiorum, omnis generis insomina explicantes Libri IIII
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bz2ZiUr2xdwm
+      label: elegy
+  poetic_type:
+  metre:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cUPhYVXwwzmw
+      label: child
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GZY3csdzKUK5
+      label: arrow
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TKGZ59mDx3q
+      label: sin
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W9eRxiUsP4C5
+      label: travel
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nCimZWBzP648
+      label: death
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+  text:
+    - |-
+      Venisti iuvenis, duclissima curatuorum,
+      Infoelix nostrum ut prosequereris iter.
+      Excepta est a te, quae in me directa sagitta:
+      Non tua, sed mea sors, inuida sic rapuit.
+      Delebar morti, patriae iam odijsque; meorum:
+      Suscipit hoc te lum filius ipse meum.
+      Errarunt superi: quid mirum errasse sentum?
+      Infontes iuvenes sic periere duo.
+      Quantum nunc lucis, quantum est nunc vita superstes,
+      Debebo utrisque et sit licet impar amor.
+      Quaeritis, unde mihi nata est haec ira deorum?
+      Crediderant coeli fata reclusa sui.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/venisti_iuvenis,_dulcissima_curatuorum
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kUP4ZGs2vYpV.json
+content:
+  markdown_content: ""

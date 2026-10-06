@@ -1,0 +1,44 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Illuminati di Roma
+  description:
+  aliases:
+    - Accademia degli Illuminati di Farnese
+  base_name: Accademia degli Illuminati di Roma
+  filename: Accademia degli Illuminati di Roma.md
+  id: NXUEYNiw4mCE
+  n_id: 423383498991312601353
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+  inception:
+    - value: 1598
+      sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 231
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NXUEYNiw4mCE.json
+content:
+  markdown_content: ""

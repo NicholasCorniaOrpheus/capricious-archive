@@ -1,0 +1,39 @@
+metadata:
+  class: Agent
+  base_name: Angelica
+  filename: Angelica.md
+  label: Angelica
+  id: msgn7qjS9yQx
+  n_id: 905329598490790326093
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q48853
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4JHBjobL9bGr
+      label: literary character
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XS93TrymdpqC
+      label: princess
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7TvK2MaWYE9G
+      label: D'Angelica di m. Pietro Aretino due primi canti
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hqKBvzJAEwwg
+      label: Angelica inamorata, composta per messer Vincenzo Brusantini ferrarese
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/0/02/Angelica_Selects_a_Mount_by_Jean-Honor%C3%A9_Fragonard%2C_chalk_and_brown_ink.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/msgn7qjS9yQx.json
+content:
+  markdown_content: ""

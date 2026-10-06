@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: forger
+  description:
+  aliases:
+    - counterfaiter
+    - falsario
+  base_name: forger
+  filename: forger.md
+  id: WEaLWLKrPsCN
+  n_id: 582354904855286795981
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3738757
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/WEaLWLKrPsCN.json
+content:
+  markdown_content: ""

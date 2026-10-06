@@ -1,0 +1,41 @@
+metadata:
+  class: Agent
+  label: Marina Antonazzoni
+  description:
+  aliases:
+    - Marina Dorotea Antonazzoni
+    - Lavinia
+  base_name: Marina Antonazzoni
+  filename: Marina Antonazzoni.md
+  id: BtLf9Xt789AB
+  n_id: 203943229513257770043
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BtLf9Xt789AB.json
+content:
+  markdown_content: ""

@@ -1,0 +1,41 @@
+metadata:
+  class: Book
+  base_name: Memorie, imprese, e ritratti de' signor Accademici Gelati
+  filename: Memorie, imprese, e ritratti de' signor Accademici Gelati.md
+  label: Memorie, imprese, e ritratti de' signor Accademici Gelati
+  id: VempgMyerjZs
+  n_id: 570480810621131726197
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J33irkAjq2cU
+      label: album amicorum
+  title:
+    - Memorie imprese, e ritratti de' signori Accademici Gelati di Bologna raccolte nel principato del signor conte Valerio Zani il Ritardato
+  inception:
+    - value: 1672
+  has_version:
+    - permalink: http://id.sbn.it/bid/UBOE000655
+      publication_date: 1672
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/m5jx85vV2PXo
+          label: Bologna
+      external_source: https://books.google.be/books?id=DjArT3tJ1JIC
+  contributor:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+  has_part:
+  based_on:
+  catalog_identifier:
+  identifier:
+    - http://id.sbn.it/bid/UBOE000655
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M7sSqHyAjQkb
+      label: (Testa 2020)
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VempgMyerjZs.json
+content:
+  markdown_content: ""

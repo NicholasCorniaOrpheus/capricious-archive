@@ -1,0 +1,90 @@
+metadata:
+  class: MusicComposition
+  label: Chi vuol veder un bosco folto e spesso (Vecchi)
+  description:
+  aliases:
+  base_name: Chi vuol veder un bosco folto e spesso (Vecchi)
+  filename: Chi vuol veder un bosco folto e spesso (Vecchi).md
+  id: RTFCf7AnmS9j
+  n_id: 483760286631373348016
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F050470000020101_000000248400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kKJdQnQw3L5W
+      label: (Schleuse 2015)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fA6YCedpv5c5
+      label: canzonetta
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fm5wbEYzXZ2F
+      label: Orazio Vecchi
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cdyhxh5Kaq5P
+      label: Canzonette di Orazio Vecchi. Libro primo a quattro voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A3XXXG74nvob
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kKJdQnQw3L5W
+          label: (Schleuse 2015)
+      label: Chi vuol vedere un bosco
+  derivative_work:
+  text:
+    - |-
+      Chi vuol veder un bosco folto e spesso
+      Venga a mirar il misero mio cuore
+      Quante saette ci ha tirato Amore.
+
+      Chi vuol veder duo fonti d'acqua viva
+      Venga a veder quest' occhi egri e dolenti
+      Ch'Amor gli ha fatti duo fiumi correnti.
+
+      Chi vuol veder com' arde una fornace
+      Venga a veder me sol ch'in ogni loco
+      Amor m'ha fatto tutto fiamma e foco.
+
+      Chi vuol saper di questo la cagione
+      Miri costei che sua rara beltade
+      M’infiamma ogni hora, e in lei non è pietade.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NmP27mSFqcCQ
+      label: terzina
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R7sbNmdF69BB
+      label: forest
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3H8EUFWaF3kZ
+      label: river
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MfBWzgNTqiki
+      label: Cupid
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9mn3vxiqWyus
+      label: lightning
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/vecchi-chi_vuol_vedere_un_bosco_folto_e_spesso
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RTFCf7AnmS9j.json
+content:
+  markdown_content: ""

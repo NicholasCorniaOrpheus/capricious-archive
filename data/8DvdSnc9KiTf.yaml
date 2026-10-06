@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: Jesus Christ
+  filename: Jesus Christ.md
+  label: Jesus Christ
+  id: 8DvdSnc9KiTf
+  n_id: 128131990493579719132
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q302
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8DvdSnc9KiTf.json
+content:
+  markdown_content: ""

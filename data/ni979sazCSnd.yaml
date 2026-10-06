@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: Mi duol non haver stile
+  description:
+  aliases:
+  base_name: Mi duol non haver stile
+  filename: Mi duol non haver stile.md
+  id: ni979sazCSnd
+  n_id: 922505961316287732737
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F055200000101_PPPP00042300C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      label: Lodovico Dolce
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pgvz7HXbEsUg
+      label: Giovanni Maria Bonardo
+  part_of:
+    - section: Al Signor Lodovico Domenichi.
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/53AwWJ6fYC5v
+      pages: 21
+      label: Madrigali del cavalier Gio. Maria Bonardo fratteggiano
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DHTHVpQnvYLr
+      label: humility
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fXijNpAr5BvS
+      label: Lodovico Domenichi
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5rXXXivjHnqu
+      label: ingenuity
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Mi duol non haver stile
+      Uguale a i meriti vostri
+      DOMENICHI gentile,
+      Acciò potessi in parte
+      Così, com'ho il desio
+      Dirne una qualche parte:
+      Ma non potendo più vi dono il core,
+      E vi prego a tener a mente ch'io
+      Sì come mio maggiore
+      Vi riverisco, e bramo farvi honore.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/mi_duol_non_haver_stile
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ni979sazCSnd.json
+content:
+  markdown_content: ""

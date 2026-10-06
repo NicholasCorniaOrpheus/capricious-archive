@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: star
+  description:
+  aliases:
+    - stella
+    - astro
+  base_name: star
+  filename: star.md
+  id: NUaQe9C3WPVp
+  n_id: 422336633325181567660
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q523
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NUaQe9C3WPVp.json
+content:
+  markdown_content: ""

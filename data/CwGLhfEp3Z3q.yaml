@@ -1,0 +1,50 @@
+metadata:
+  class: MusicComposition
+  label: Se quando per Adone, over per Marte (Fiesco)
+  description:
+  aliases:
+  base_name: Se quando per Adone, over per Marte (Fiesco)
+  filename: Se quando per Adone, over per Marte (Fiesco).md
+  id: CwGLhfEp3Z3q
+  n_id: 225637769207523590429
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/260920001010101_000000098900C
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/48CK8MVg6hgV
+      label: Giulio Fiesco
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QAiTLiEnKFPa
+      label: Di Giulio Fiesco il primo libro di madrigali a quattro voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LNsksTeBimDW
+      label: Se quando per Adone, over per Marte
+  derivative_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/fiesco-se_quando_per_adone,_over_per_marte
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CwGLhfEp3Z3q.json
+content:
+  markdown_content: ""

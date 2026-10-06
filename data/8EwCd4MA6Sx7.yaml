@@ -1,0 +1,113 @@
+metadata:
+  class: NotatedMusic
+  label: Il primo libro de madrigali, a note negre di Vincenzo Ruffo
+  description:
+  aliases:
+  base_name: Il primo libro de madrigali, a note negre di Vincenzo Ruffo
+  filename: Il primo libro de madrigali, a note negre di Vincenzo Ruffo.md
+  id: 8EwCd4MA6Sx7
+  n_id: 128497609612468552352
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE045689
+    - https://rism.online/sources/990056359
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/NV18550010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Il primo libro de madrigali, a notte negre ... a quattro voci
+  inception:
+    - value: 1545
+  has_version:
+    - external_source: https://uurl.kbr.be/1562137
+      note: Canto
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAezNrSVTgHA
+        label: Royal Library of Belgium
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1545
+      IIIF_manifest: https://iiif.kbr.be/manifest/v3/33596
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045689
+    - external_source: https://uurl.kbr.be/1562139
+      note: Alto
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAezNrSVTgHA
+        label: Royal Library of Belgium
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1545
+      IIIF_manifest: https://iiif.kbr.be/manifest/v3/33595
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045689
+    - external_source: https://uurl.kbr.be/1562141
+      note: Tenore
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAezNrSVTgHA
+        label: Royal Library of Belgium
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1545
+      IIIF_manifest: https://iiif.kbr.be/manifest/v3/33594
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045689
+    - external_source: https://uurl.kbr.be/1562146
+      note: Basso
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAezNrSVTgHA
+        label: Royal Library of Belgium
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1545
+      IIIF_manifest: https://iiif.kbr.be/manifest/v3/33593
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045689
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cv9uVmQKzPqv
+      label: Vincenzo Ruffo
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://iiif.kbr.be/manifest/v3/33596
+    - https://iiif.kbr.be/manifest/v3/33595
+    - https://iiif.kbr.be/manifest/v3/33594
+    - https://iiif.kbr.be/manifest/v3/33593
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8EwCd4MA6Sx7.json
+content:
+  markdown_content: ""

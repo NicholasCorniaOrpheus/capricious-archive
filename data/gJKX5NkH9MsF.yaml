@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: artist collective
+  description:
+  aliases:
+    - artist society
+  base_name: artist collective
+  filename: artist collective.md
+  id: gJKX5NkH9MsF
+  n_id: 790067942113786674172
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1400264
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gJKX5NkH9MsF.json
+content:
+  markdown_content: ""

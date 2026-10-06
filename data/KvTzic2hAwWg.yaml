@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  aliases:
+    - albero
+    - arboro
+  base_name: tree
+  filename: tree.md
+  label: tree
+  id: KvTzic2hAwWg
+  n_id: 369801137361561112310
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5kE5GZUK8UyJ
+      label: plant
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q10884
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KvTzic2hAwWg.json
+content:
+  markdown_content: ""

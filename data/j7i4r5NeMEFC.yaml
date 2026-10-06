@@ -1,0 +1,42 @@
+metadata:
+  class: Agent
+  label: Tristano Martinelli
+  description:
+  aliases:
+  base_name: Tristano Martinelli
+  filename: Tristano Martinelli.md
+  id: j7i4r5NeMEFC
+  n_id: 848136437558955322033
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3999046
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kQTagGwVLuoA
+      label: playwright
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/j7i4r5NeMEFC.json
+content:
+  markdown_content: ""

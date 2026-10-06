@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: creation
+  description:
+  aliases:
+    - work
+  base_name: creation
+  filename: creation.md
+  id: TkdbVhLhbthN
+  n_id: 531328929708924776360
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q386724
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TkdbVhLhbthN.json
+content:
+  markdown_content: ""

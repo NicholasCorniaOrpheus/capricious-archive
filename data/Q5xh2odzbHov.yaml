@@ -1,0 +1,77 @@
+metadata:
+  class: PoeticWork
+  label: Quel nodo, in cui la mia beata sorte
+  description:
+  aliases:
+  base_name: Quel nodo, in cui la mia beata sorte
+  filename: Quel nodo, in cui la mia beata sorte.md
+  id: Q5xh2odzbHov
+  n_id: 455423223889027054087
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+  part_of:
+    - section: Veronica Gambara.
+      pages: 57
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PagyXFKr5PvT
+      volume: 1
+      label: Componimenti poetici delle piu' illustri rimatrici d'ogni secolo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PaS283jJo97w
+      label: afterlife
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XEsomeCuBNMG
+      label: chain
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUaQe9C3WPVp
+      label: star
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i6aLsHeCyDtH
+      label: destiny
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5rXXXivjHnqu
+      label: ingenuity
+  text:
+    - |-
+      Quel nodo, in cui la mia beata sorte,
+      Per ordine del Ciel legommi e strinse
+      Con mio grave dolor sciolse, e discinse
+      Quella crudel, ch'il mondo chiama Morte.
+
+      E fu l'affano sì gravoso, e forte,
+      Che i miei piacer tutti in un punto estinse:
+      E se non, che ragione al fin pur vinse,
+      Fatte avrei mie giornate assai più corte.
+
+      Ma il timor sol di non andar in parte
+      Troppo lontana a quella, ove il bel viso
+      Risplende sopra ogni lucente stella,
+
+      Mitigato ha il furor: (che ingegno, od arte
+      Far nol potea) sperando in Paradiso
+      L'alma vedere oltra le belle bella.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/quel_nodo,_in_cui_la_mia_beata_sorte
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Q5xh2odzbHov.json
+content:
+  markdown_content: ""

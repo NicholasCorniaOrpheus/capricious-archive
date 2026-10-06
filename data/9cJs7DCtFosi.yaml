@@ -1,0 +1,52 @@
+metadata:
+  class: Agent
+  label: Giovanni Francesco Maia Materdona
+  description:
+  aliases:
+    - Gianfrancesco Maia Materdona
+  base_name: Giovanni Francesco Maia Materdona
+  filename: Giovanni Francesco Maia Materdona.md
+  id: 9cJs7DCtFosi
+  n_id: 156867526099114206649
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3766123
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UFUJo2JAXCT
+      label: (Nocerino 2014)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mm7yVBHwb943
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cW5TYy5yxrHw
+          label: (Tostini 2017)
+      label: Accademia degli Oziosi di Napoli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tjNWon78ob2
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cW5TYy5yxrHw
+          label: (Tostini 2017)
+      label: Accademia degli Umoristi di Roma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 5149
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9cJs7DCtFosi.json
+content:
+  markdown_content: ""

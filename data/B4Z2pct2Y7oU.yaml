@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Torelli Benedetti 2013)
+  description:
+  aliases:
+    - torellibenedettiParteniaPastoralPlay2013
+  base_name: (Torelli Benedetti 2013)
+  filename: (Torelli Benedetti 2013).md
+  id: B4Z2pct2Y7oU
+  n_id: 186644152142369969822
+statements:
+  isbn:
+    - 978-0-7727-2136-5
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jfcAcCiR2JSp
+      label: The Other Voice in Early Modern Europe
+  citation:
+    - "Torelli Benedetti, Barbara. 2013. Partenia, a Pastoral Play: A Bilingual Edition. Translated by Lisa Sampson and Barbara Burgess-Van Aken. The Other Voice in Early Modern Europe: The Toronto Series, v. 22. Chicago: Iter Press."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/torellibenedettiParteniaPastoralPlay2013.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/B4Z2pct2Y7oU.json
+content:
+  markdown_content: ""

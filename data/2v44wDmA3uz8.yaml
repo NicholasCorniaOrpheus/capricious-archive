@@ -1,0 +1,54 @@
+metadata:
+  class: MusicComposition
+  label: Tu, che secondo l'alta Roma honora (Moscaglia)
+  description:
+  aliases:
+  base_name: Tu, che secondo l'alta Roma honora (Moscaglia)
+  filename: Tu, che secondo l'alta Roma honora (Moscaglia).md
+  id: 2v44wDmA3uz8
+  n_id: 18838763030768956581
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/290350001010101_000000166800
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Hc54xeA8ihZ
+      label: Giulio Camillo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MV342DTV6Haa
+      label: Giovanni Battista Moscaglia
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DtH2G9scfAmt
+      label: Il Primo Libro de Madrigali a quattro, a cinque et a sei voci di Gio. Battista Moscaglia intitolati gl'Amorosi Gigli
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dZCC6aDWKLS9
+      label: Tu, che secondo l'alta Roma honora
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/moscaglia-tu,_che_secondo_l'alta_roma_honora
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2v44wDmA3uz8.json
+content:
+  markdown_content: ""

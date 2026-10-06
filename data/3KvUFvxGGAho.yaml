@@ -1,0 +1,61 @@
+metadata:
+  class: Book
+  label: Stanze transmutate del Ariosto con una canzone bellissima pastorale
+  description: Fictional academy created by Anton Francesco Doni
+  aliases:
+  base_name: Stanze transmutate del Ariosto con una canzone bellissima pastorale
+  filename: Stanze transmutate del Ariosto con una canzone bellissima pastorale.md
+  id: 3KvUFvxGGAho
+  n_id: 27123666937299279927
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE041632
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PXXpcDi5cmLa
+      label: (Di Maro 2021)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZqBhp6Tt9E6k
+      label: (Faricelli 2024)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Stanze transmutate del Ariosto con una canzone bellissima pastorale
+  inception:
+    - value: 1544
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZqBhp6Tt9E6k
+          label: (Faricelli 2024)
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PXXpcDi5cmLa
+          label: (Di Maro 2021)
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE041632
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FTWU5aZwCUjk
+        label: Leonardo detto il Furlano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1545
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L8Tf2qNBGXFK
+      label: Dianora Sanseverino
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZfNKvkLUjDx6
+      label: extemporary poetry
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3KvUFvxGGAho.json
+content:
+  markdown_content: ""

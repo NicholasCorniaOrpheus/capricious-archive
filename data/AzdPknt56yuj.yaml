@@ -1,0 +1,79 @@
+metadata:
+  class: PoeticWork
+  label: Son pochi i giorni, e poche anchor son l'hore
+  description:
+  aliases:
+  base_name: Son pochi i giorni, e poche anchor son l'hore
+  filename: Son pochi i giorni, e poche anchor son l'hore.md
+  id: AzdPknt56yuj
+  n_id: 185585790531521699834
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+        label: Laura Terracina
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L8Tf2qNBGXFK
+      label: Dianora Sanseverino
+  part_of:
+    - section: All'Ill. Donna Dianora Sanseverina.
+      pages: 10
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EVLHUYPjvWMB
+      label: Quinte Rime della signora Laura Terracina detta Phebea nell'Academia de gl'Incogniti
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPyPwnsJ77A8
+      label: assonance
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFcsbFYFrFvB
+      label: laurel
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2g7SZLhhziYy
+      label: Muse
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Son pochi i giorni, e poche anchor son l'hore,
+      Che la musa, qual tanto al mondo adoro,
+      Porge cotal favore al sacro alloro,
+      Ch'ad alteri pensier, rivolge il core.
+
+      Io, che vo contemplando il grande amore,
+      Di verde speme l'arbor verde infioro;
+      Che scenderà virtù da l'alto choro,
+      Per cui nascer vedrommi eterno honore,
+
+      Et bramando di ciò saperne'l tutto,
+      Ritrovo pur chi mi dimostri'l vero,
+      E scorgo che d'appresso il ben deriva.
+
+      Tostro dic'io; oh aventuroso frutto,
+      Oh dolce albergo del celeste impero,
+      Cagion che Laura col suo Lauro viva.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/son_pochi_i_giorni,_e_poche_anchor_son_l'hore
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AzdPknt56yuj.json
+content:
+  markdown_content: ""

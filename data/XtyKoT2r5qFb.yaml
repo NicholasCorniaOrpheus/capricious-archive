@@ -1,0 +1,44 @@
+metadata:
+  class: Agent
+  label: Ascanio Mori
+  description:
+  aliases:
+    - Ascanio de' Mori
+    - Ascanio de' Mori da Ceno
+  base_name: Ascanio Mori
+  filename: Ascanio Mori.md
+  id: XtyKoT2r5qFb
+  n_id: 616894077002608596213
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3624795
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TJbEN5HnXM3U
+      label: (Novellari 1993)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TJbEN5HnXM3U
+      label: (Novellari 1993)
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4gDUdsQ3zgkL
+      label: parlour game
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XtyKoT2r5qFb.json
+content:
+  markdown_content: ""

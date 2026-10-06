@@ -1,0 +1,45 @@
+metadata:
+  class: Book
+  base_name: Delle imprese trattato di Giulio Cesare Capaccio
+  filename: Delle imprese trattato di Giulio Cesare Capaccio.md
+  label: Delle imprese trattato di Giulio Cesare Capaccio
+  id: dQ9xxyE3Lchz
+  n_id: 730271814414724923707
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Delle imprese trattato di Giulio Cesare Capaccio. In tre libri diuiso. Nel primo, del modo di far l'impresa da qualsiuoglia oggetto, o naturale, o artificioso con nuoue maniere si ragiona. Nel secondo, tutti ieroglifici, simboli e cose mistiche in lettere sacre, o profane si scuoprono; e come da quegli cauar si ponno l'imprese. Nel terzo, nel figurar degli emblemi di molte cose naturali per l'imprese si tratta
+  inception:
+    - value: 1592
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE009062
+      publication_date: 1592
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+          label: Napoli
+      IIIF_manifest: https://jmms.iccu.sbn.it/jmms/metadata/VFdGblZHVmpZU0F0SUVsRFExVV8_/b2FpOnd3dy5pbnRlcm5ldGN1bHR1cmFsZS5zYm4uaXQvVGVjYToyMDpOVDAwMDA6Q05DRTAwOTA2Mg__/manifest.json
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VkQaPhBBEyhd
+      label: Giulio Cesare Capaccio
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jvXE4XLN7yQS
+      label: emblem book
+  has_part:
+  based_on:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE009062
+assets:
+  iiif:
+    - https://jmms.iccu.sbn.it/jmms/metadata/VFdGblZHVmpZU0F0SUVsRFExVV8_/b2FpOnd3dy5pbnRlcm5ldGN1bHR1cmFsZS5zYm4uaXQvVGVjYToyMDpOVDAwMDA6Q05DRTAwOTA2Mg__/manifest.json
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dQ9xxyE3Lchz.json
+content:
+  markdown_content: ""

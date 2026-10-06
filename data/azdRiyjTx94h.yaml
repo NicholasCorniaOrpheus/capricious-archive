@@ -1,0 +1,19 @@
+metadata:
+  class: Concept
+  base_name: poetic form
+  filename: poetic form.md
+  label: poetic form
+  id: azdRiyjTx94h
+  n_id: 680847607285155190233
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q89522629
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/azdRiyjTx94h.json
+content:
+  markdown_content: ""

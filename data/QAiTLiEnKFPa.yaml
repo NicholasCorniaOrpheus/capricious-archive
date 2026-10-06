@@ -1,0 +1,64 @@
+metadata:
+  class: NotatedMusic
+  label: Di Giulio Fiesco il primo libro di madrigali a quattro voci,
+  description:
+  aliases:
+  base_name: Di Giulio Fiesco il primo libro di madrigali a quattro voci
+  filename: Di Giulio Fiesco il primo libro di madrigali a quattro voci.md
+  id: QAiTLiEnKFPa
+  n_id: 457142945073440646452
+statements:
+  identifier:
+    - https://rism.online/sources/990017938
+    - http://id.sbn.it/bid/MUS0132078
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Giulio Fiesco il primo libro di madrigali a quattro voci, nouamente da lui composti, & da Antonio Gardane con somma diligentia stampati, & dati in luce
+  inception:
+    - value: 1554
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0132078
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1554
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      external_source: https://stimmbuecher.digitale-sammlungen.de/view?id=bsb00071908
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00071908/manifest
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/48CK8MVg6hgV
+      label: Giulio Fiesco
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00071908/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QAiTLiEnKFPa.json
+content:
+  markdown_content: ""

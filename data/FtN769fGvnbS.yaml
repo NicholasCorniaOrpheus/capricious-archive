@@ -1,0 +1,46 @@
+metadata:
+  class: Book
+  label: Il primo libro dell'opere toscane di m. Laura Battiferra degli Ammannati
+  description:
+  aliases:
+  base_name: Il primo libro dell'opere toscane di m. Laura Battiferra degli Ammannati
+  filename: Il primo libro dell'opere toscane di m. Laura Battiferra degli Ammannati.md
+  id: FtN769fGvnbS
+  n_id: 286495959649379487639
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Il primo libro dell'opere toscane di m. Laura Battiferra degli Ammannati
+  inception:
+    - value: 1560
+  has_version:
+    - external_source: https://books.google.be/books?id=702IlHGGFyoC
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      publication_date: 1560
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FL4UQDb2xruF
+        label: Bernardo Giunti
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE004630
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZmpBx2YXnpkE
+      label: Laura Battiferri
+  subject:
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FtN769fGvnbS.json
+content:
+  markdown_content: ""

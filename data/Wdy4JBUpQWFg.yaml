@@ -1,0 +1,69 @@
+metadata:
+  class: PoeticWork
+  label: Oh dolce mia nemica
+  description:
+  aliases:
+    - O dolce mia nemica
+  base_name: Oh dolce mia nemica
+  filename: Oh dolce mia nemica.md
+  id: Wdy4JBUpQWFg
+  n_id: 590825948475211626110
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F043110000101_PPPP00068900C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VGVHbg5uSE8V
+      label: Luigi Cassola
+  part_of:
+    - section: 319
+      pages: 63-64
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MZhwN3rRpy8x
+      label: Madrigali del magnifico signor cavalier Luigi Cassola
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQJGEZiGYFYZ
+      label: desire
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Oh dolce mia nemica,
+      Poiché l'alto amoroso mio desire
+      Non volete, ch'io dica:
+      Io no'l vo dir; ma questo dir vorrei;
+      Che homai i dolori miei
+      Veder vorrei finire;
+      Pur se voi non volete io no'l vo dire.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/oh_dolce_mia_nemica
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Wdy4JBUpQWFg.json
+content:
+  markdown_content: ""

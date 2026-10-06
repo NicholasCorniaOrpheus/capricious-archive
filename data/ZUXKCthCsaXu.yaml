@@ -1,0 +1,58 @@
+metadata:
+  class: Book
+  label: Il Tancredi. Tragedia del signor conte di Camerano
+  description:
+  aliases:
+  base_name: Il Tancredi. Tragedia del signor conte di Camerano
+  filename: Il Tancredi. Tragedia del signor conte di Camerano.md
+  id: ZUXKCthCsaXu
+  n_id: 649311871281961075869
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE003261
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fWcm8Nsn7rXJ
+      label: drama
+  title:
+    - Il Tancredi. Tragedia del signor conte di Camerano. Dal sig. Gherardo Borgogni di nuouo posta in luce
+  inception:
+    - value: 1588
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE003261
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y3YKpBSkeoRD
+        label: Comino Ventura
+      publication_date: 1588
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ADjceYT8WEN6
+          label: Bergamo
+      external_source: https://dl.unito.it/it/ricerca/digitale/?id=mag:32995
+      IIIF_manifest: https://dl.unito.it/fedora/objects/mag:32995/datastreams/MMIIIF/content
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kzACS6hZYUb6
+      label: Federico Asinari
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hnGUsqmNR3ko
+      label: Gierusalemme liberata, poema heroico del sig. Torquato Tasso
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mM3eNkLzPEH8
+      label: Tancredi
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://dl.unito.it/fedora/objects/mag:32995/datastreams/MMIIIF/content
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZUXKCthCsaXu.json
+content:
+  markdown_content: ""

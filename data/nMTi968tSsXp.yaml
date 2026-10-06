@@ -1,0 +1,38 @@
+metadata:
+  class: EmblemClass
+  label: basilisk
+  description:
+  aliases:
+  base_name: basilisk
+  filename: basilisk.md
+  id: nMTi968tSsXp
+  n_id: 915021486132344066959
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q152519
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UFUJo2JAXCT
+      label: (Nocerino 2014)
+  subject:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+  part_of:
+  used_by:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/McrW73AUvkY7
+      reference:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UFUJo2JAXCT
+        label: (Nocerino 2014)
+      label: Giambattista Basile
+  motto:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+assets:
+  image: ""
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nMTi968tSsXp.json
+content:
+  markdown_content: ""

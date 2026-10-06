@@ -1,0 +1,63 @@
+metadata:
+  class: PoeticWork
+  label: Bastami un guardo solo
+  description:
+  aliases:
+  base_name: Bastami un guardo solo
+  filename: Bastami un guardo solo.md
+  id: ebMmoyAnKKZc
+  n_id: 754965055180499365486
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F033570000101_PPPP00023100C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SnB9APyQXi5U
+      label: Paolo Emilio Balzani
+  part_of:
+    - section: Del Faunio
+      pages: 29
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B5dDXV6qVG2p
+      label: Ricreazioni amorose de gli Academici Gelati di Bologna
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VYNVkjFDfTij
+      label: gaze
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Bastami un guardo solo
+      Ma lieto anima mia, per far ch'io viva;
+      A che vostra beltà dunque men priva?
+      Già negar nol dovete,
+      Né con giusta cagion farlo potete.
+      Perché mostra impietà chi non concede.
+      Ad un lungo servir qualche mercede.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/bastami_un_guardo_solo
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ebMmoyAnKKZc.json
+content:
+  markdown_content: ""

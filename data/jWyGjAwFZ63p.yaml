@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: incomplete
+  description:
+  aliases:
+    - partially
+  base_name: incomplete
+  filename: incomplete.md
+  id: jWyGjAwFZ63p
+  n_id: 856559799768494955055
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q100349848
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR6kq3ms3asC
+      label: (Toffetti et al. 2026)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c5DgcEFeD7CP
+      label: quality
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jWyGjAwFZ63p.json
+content:
+  markdown_content: ""

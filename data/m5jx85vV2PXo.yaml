@@ -1,0 +1,23 @@
+metadata:
+  class: Place
+  base_name: Bologna
+  filename: Bologna.md
+  label: Bologna
+  id: m5jx85vV2PXo
+  n_id: 888696234373713289260
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bUguxUya4YGY
+      label: city
+  country:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYFG3hyEFbPP
+      label: Italy
+  identifier:
+    - http://www.wikidata.org/entity/Q1891
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/m5jx85vV2PXo.json
+content:
+  markdown_content: ""

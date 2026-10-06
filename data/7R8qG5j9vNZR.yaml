@@ -1,0 +1,49 @@
+metadata:
+  class: MusicComposition
+  label: Deh Florinda gratiosa (Franzoni)
+  description:
+  aliases:
+  base_name: Deh Florinda gratiosa (Franzoni)
+  filename: Deh Florinda gratiosa (Franzoni).md
+  id: 7R8qG5j9vNZR
+  n_id: 111549639527046282680
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F068240000010101_000000106300C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fA6YCedpv5c5
+      label: canzonetta
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB
+      label: Virginia Ramponi-Andreini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Apsy5vZoHe9a
+      label: Amante Franzoni
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hVa53rWfrWYp
+      label: Il Secondo libro delli Fioretti Musicali a tre voci d'Amante Franzoni Mantovano
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8HV3PxjFdsPQ
+      label: Deh Florinda gratiosa
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/franzoni-deh_florinda_gratiosa
+  jpg:
+    - b_001.jpg
+    - bc_001.jpg
+    - c1_001.jpg
+    - c2_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7R8qG5j9vNZR.json
+content:
+  markdown_content: ""

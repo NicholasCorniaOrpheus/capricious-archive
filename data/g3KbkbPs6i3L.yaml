@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  label: Giovanni Battista Maurizzi
+  description:
+  aliases:
+    - Giovanni Battista Maurizio
+  base_name: Giovanni Battista Maurizzi
+  filename: Giovanni Battista Maurizzi.md
+  id: g3KbkbPs6i3L
+  n_id: 784637964533140682961
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/m5jx85vV2PXo
+      label: Bologna
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pjXu8dNW596
+      pseudonym: L'Immaturo
+      label: Accademia dei Gelati di Bologna
+  occupation:
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 5030
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/g3KbkbPs6i3L.json
+content:
+  markdown_content: ""

@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Geremicca 2017)
+  description:
+  aliases:
+    - geremiccaDamoneperCrisero2017
+  base_name: (Geremicca 2017)
+  filename: (Geremicca 2017).md
+  id: QmQprBXKudMJ
+  n_id: 469702182965219331085
+statements:
+  isbn:
+    - 978-88-6557-321-1
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Geremicca, Antonio. 2017. ‘“Damone” per “Crisero” e gli altri. Benedetto Varchi e gli artisti (prima e dopo l’Accademia Fiorentina)’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Patrizia Tosini, 11–26. Roma: De Luca editori d’arte."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/geremiccaDamoneperCrisero2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QmQprBXKudMJ.json
+content:
+  markdown_content: ""

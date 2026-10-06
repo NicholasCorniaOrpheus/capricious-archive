@@ -1,0 +1,74 @@
+metadata:
+  class: NotatedMusic
+  label: Il lauro verde, madrigali a sei voci di diversi autori
+  description:
+  aliases:
+  base_name: Il lauro verde, madrigali a sei voci di diversi autori
+  filename: Il lauro verde, madrigali a sei voci di diversi autori.md
+  id: 5NBSz3KhHXfg
+  n_id: 69208313284834762424
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE044694
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/NV52010010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Il lauro verde, madrigali a sei voci di diversi autori
+  inception:
+    - value: 1583
+  has_version:
+    - publication_date: 1593
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://orka.bibliothek.uni-kassel.de/viewer/image/1384758684812/59/
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE044695
+    - publication_date: 1583
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+          label: Ferrara
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VG9zdScyJbW2
+        label: Vittorio Baldini
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE044694
+      external_source: https://pbc.gda.pl/dlibra/publication/87732/edition/79478
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9m3H9u9QfrNg
+      label: sextus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5NBSz3KhHXfg.json
+content:
+  markdown_content: ""

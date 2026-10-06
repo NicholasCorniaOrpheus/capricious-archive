@@ -1,0 +1,54 @@
+metadata:
+  class: Agent
+  label: Lucrezia Gonzaga
+  description:
+  aliases:
+  base_name: Lucrezia Gonzaga
+  filename: Lucrezia Gonzaga.md
+  id: 54UVcxyjhSou
+  n_id: 62799981292180277889
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3839024
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+      label: (Artese 1983)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y9DyFsMs8dox
+        label: patron of the arts
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cn2nwNxEPhn9
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+          label: (Artese 1983)
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Compagnia dei Pastori Fratteggianti
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WvTteUPEscDk
+      label: literary host
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y9DyFsMs8dox
+      label: patron of the arts
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/54UVcxyjhSou.json
+content:
+  markdown_content: ""

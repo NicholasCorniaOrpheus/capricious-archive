@@ -1,0 +1,40 @@
+metadata:
+  class: Book
+  label: La Dori favola pastorale
+  description:
+  aliases:
+  base_name: La Dori favola pastorale
+  filename: La Dori favola pastorale.md
+  id: W2LfiWJvpBF6
+  n_id: 577923725365593274987
+statements:
+  identifier:
+    - http://id.sbn.it/bid/CFIE047254
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cF3HzyFDHqfG
+      label: pastoral drama
+  title:
+    - La Dori fauola pastorale della sig.ra Isabetta Coreglia lucchese
+  inception:
+    - value: 1634
+  has_version:
+    - permalink: http://id.sbn.it/bid/CFIE047254
+      publication_date: 1634
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ewH5TwaXEX7r
+      label: Isabetta Coreglia
+  subject:
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/W2LfiWJvpBF6.json
+content:
+  markdown_content: ""

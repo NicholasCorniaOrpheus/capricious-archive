@@ -1,0 +1,57 @@
+metadata:
+  class: Book
+  label: Quattro libri de dubbi
+  description:
+  aliases:
+  base_name: Quattro libri de dubbi
+  filename: Quattro libri de dubbi.md
+  id: TKcZ2p9D8wfF
+  n_id: 522271469553156530368
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE027028
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+      label: (Faini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - Quattro libri de dubbi con le solutioni a ciascun dubbio accommodate. La materia del primo è naturale, del secondo è mista (benche per lo piu sia morale) del terzo è amorosa, & del quarto è religiosa
+  inception:
+    - value: 1552
+  has_version:
+    - external_source: https://books.google.it/books?id=jYJedrIHTR0C
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1552
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE027028
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YiHNjXxhNeYk
+      label: Isabella Villamarina
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NTXVtd24wHkv
+      label: Ortensio Lando
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NiTWoVWgRtNj
+      label: heterodoxy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J9eV5MBznedX
+      label: doubt
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TKcZ2p9D8wfF.json
+content:
+  markdown_content: The fourth dialogue questions the divinity of [Jesus Christ](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8DvdSnc9KiTf), a recurrent theme in 16th-century Italian [heretic](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7mVrDwTTMwLY) circles.

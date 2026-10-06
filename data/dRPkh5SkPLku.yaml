@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  label: Bartolomeo Arnigio
+  description: Bartolomeo Arnigio
+  aliases:
+  base_name: Bartolomeo Arnigio
+  filename: Bartolomeo Arnigio.md
+  id: dRPkh5SkPLku
+  n_id: 730721399964447797385
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q55225153
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UprfWYGHsS7r
+      label: Brescia
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9rBLADapb8Nx
+      label: Accademia degli Occulti di Brescia
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - value: 15730
+      source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dRPkh5SkPLku.json
+content:
+  markdown_content: ""

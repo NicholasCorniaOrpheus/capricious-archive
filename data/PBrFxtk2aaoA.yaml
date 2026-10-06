@@ -1,0 +1,42 @@
+metadata:
+  class: Organisation
+  label: Accademia dei Rinnovati di Ferrara
+  description:
+  aliases:
+  base_name: Accademia dei Rinnovati di Ferrara
+  filename: Accademia dei Rinnovati di Ferrara.md
+  id: PBrFxtk2aaoA
+  n_id: 436918623794475831026
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1579
+      sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 532
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PBrFxtk2aaoA.json
+content:
+  markdown_content: ""

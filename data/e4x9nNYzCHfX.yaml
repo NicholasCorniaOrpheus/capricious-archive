@@ -1,0 +1,49 @@
+metadata:
+  class: Book
+  label: Dialogo sopra la particolare dichiaratione del giuoco di Pitagora
+  description: Treatise by Benedetto Varchi on proportion as the basis for rithmomachia, a mathematical game played on a chessboard with pieces that each have a shape and a number; a dialogue written by Carlo di Ruberto Strozzi, in which Cosimo Rucellai, who introduced the game to Benedetto Varchi, teaches the rules to Strozzi and Jacopo di Piero Vettori; and other notes on the game. Later unrelated notes and pen trials on leaves before and after main texts. Damage and bleed-through due to oxidation on many leaves.
+  aliases:
+  base_name: Dialogo sopra la particolare dichiaratione del giuoco di Pitagora
+  filename: Dialogo sopra la particolare dichiaratione del giuoco di Pitagora.md
+  id: e4x9nNYzCHfX
+  n_id: 743960308482207594572
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QmQprBXKudMJ
+      label: (Geremicca 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kBuv5hPtPaN6
+      label: manuscript
+  title:
+    - Trattato delle proportioni et proportionalità; Dialogo sopra la particolare dichiaratione del giuoco di Pitagora inter locutori Carlo Strozzi, Cosimo Rucellai, et Iacopo Vettori
+  inception:
+    - value: 1539
+  has_version:
+    - permalink: https://digitalcollections.library.upenn.edu/items/1cbab6fe-218a-471e-9f81-f7ef048c6dfa
+      publication_date: 1539
+      IIIF_manifest: https://colenda.library.upenn.edu/items/ark:/81431/p3c95d/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/h6StbuVvg5XG
+        label: University of Pennsylvania
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Benedetto Varchi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c5v9viUaMzrT
+      label: serio ludere
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dK3CoeMSUGWp
+      label: board game
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://colenda.library.upenn.edu/items/ark:/81431/p3c95d/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/e4x9nNYzCHfX.json
+content:
+  markdown_content: ""

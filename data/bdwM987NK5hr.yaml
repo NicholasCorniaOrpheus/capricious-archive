@@ -1,0 +1,53 @@
+metadata:
+  class: Agent
+  base_name: Francesco Patrizi
+  filename: Francesco Patrizi.md
+  label: Francesco Patrizi
+  id: bdwM987NK5hr
+  n_id: 693994621602307992573
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6JKjMpUiERee
+      label: philosopher
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Hc54xeA8ihZ
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DnqfDbSMBwP8
+          label: (Bolzoni 2004)
+      label: Giulio Camillo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QvaozYdLEWud
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UzEyumEQp7s2
+        label: rival
+      label: Giulio Cesare Brancaccio
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JC4x5ybqVxSV
+        label: teacher
+      label: Tarquinia Molza
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q435300
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/3/37/Frane_Petric.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bdwM987NK5hr.json
+content:
+  markdown_content: ""

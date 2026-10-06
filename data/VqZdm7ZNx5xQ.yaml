@@ -1,0 +1,46 @@
+metadata:
+  class: Book
+  base_name: Gli horti del sole. Poemetto del con. Marc'Ant. Ferretti
+  filename: Gli horti del sole. Poemetto del con. Marc'Ant. Ferretti.md
+  label: Gli horti del sole. Poemetto del con. Marc'Ant. Ferretti
+  id: VqZdm7ZNx5xQ
+  n_id: 574385743282693377316
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  title:
+    - Gli horti del sole. Poemetto del con. Marc'Ant. Ferretti. Al serenissimo Federico prencipe d'Vrbino
+  inception:
+    - value: 1621
+  has_version:
+    - permalink: http://id.sbn.it/bid/TO0E008513
+      publication_date: 1621
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e3c9eYYx4Mw2
+        label: Alessandro Polo
+      external_source: https://books.google.be/books?id=ObSaJQi0LeQC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kkbb96iFbUtv
+      label: Marco Antonio Ferretti
+  subject:
+  has_part:
+  based_on:
+  identifier:
+    - http://id.sbn.it/bid/TO0E008513
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cW5TYy5yxrHw
+      label: (Tostini 2017)
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VqZdm7ZNx5xQ.json
+content:
+  markdown_content: ""

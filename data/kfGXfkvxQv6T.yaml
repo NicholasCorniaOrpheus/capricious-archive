@@ -1,0 +1,65 @@
+metadata:
+  class: PoeticWork
+  label: Costei, che in Cipro nacque, e Calidora
+  description:
+  aliases:
+  base_name: Costei, che in Cipro nacque, e Calidora
+  filename: Costei, che in Cipro nacque, e Calidora.md
+  id: kfGXfkvxQv6T
+  n_id: 880195254488154538210
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8g4zkHCciMB
+      label: (Ray 2015)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QzFWBAu4Ku5H
+      label: Margherita Sarrocchi
+  part_of:
+    - section: Canto III, 37
+      pages: 23
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dXHZMmpg7CAi
+      label: La Scanderbeide poema heroico della signora Margherita Sarrocchi
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2QjJCcEtkiC
+      label: light beam
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/G8qkbNybPaKp
+      label: Calidora
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Costei, che in Cipro nacque, e Calidora
+      E detta, e sposa a Celebino il Duce;
+      Non pur di vaghe rose il volto infiora,
+      E con un più bel Sol ne gli occhi luce,
+      Ma la schiera gentil donnesca honora,
+      Con me caduca, e più mirabil luce:
+      Così d'ogni arte liberal nomata,
+      E con maschio valor femina ornata.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/costei,_che_in_cipro_nacque,_e_calidora
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kfGXfkvxQv6T.json
+content:
+  markdown_content: ""

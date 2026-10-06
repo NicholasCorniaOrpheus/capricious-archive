@@ -1,0 +1,63 @@
+metadata:
+  class: Book
+  label: Rime delle signore Lucrezia Marinella, Veronica Gambara, ed Isabella Della Morra. Di nuouo date in luce da Antonio Bulifon
+  description:
+  aliases:
+  base_name: Rime delle signore Lucrezia Marinella, Veronica Gambara, ed Isabella Della Morra. Di nuouo date in luce da Antonio Bulifon
+  filename: Rime delle signore Lucrezia Marinella, Veronica Gambara, ed Isabella Della Morra. Di nuouo date in luce da Antonio Bulifon.md
+  id: YH5YsDQaNjqj
+  n_id: 624529990204533859997
+statements:
+  identifier:
+    - http://id.sbn.it/bid/SBLE003478
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime delle signore Lucrezia Marinella, Veronica Gambara, ed Isabella Della Morra. Di nuouo date in luce da Antonio Bulifon. Con giunta di quelle fin'ora raccolte della signora Maria Selvaggia Borghini ...
+  inception:
+    - value: 1693
+  has_version:
+    - permalink: http://id.sbn.it/bid/SBLE003478
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+          label: Napoli
+      publication_date: 1693
+      external_source: https://books.google.be/books?id=vtPrDuqcwEkC
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SuAjvvf7F3pz
+        label: Antonio Bulifon
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Veronica Gambara
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nqdaBTbYUu74
+      label: Lucrezia Marinella
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/doo4FV8oxLNi
+      label: Isabella di Morra
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SuAjvvf7F3pz
+      label: Antonio Bulifon
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YH5YsDQaNjqj.json
+content:
+  markdown_content: ""

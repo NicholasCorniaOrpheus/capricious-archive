@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: SHEWROTE
+  description:
+  aliases:
+  base_name: SHEWROTE
+  filename: SHEWROTE.md
+  id: RjHGJFCFwLEw
+  n_id: 489565927797625025873
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q22811588
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nyo58nNBLE9K
+      label: online database
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://shewrote.rich.ru.nl/
+  catalog_identifier:
+  member:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RjHGJFCFwLEw.json
+content:
+  markdown_content: ""

@@ -1,0 +1,22 @@
+metadata:
+  class: Place
+  label: Firenze
+  description:
+  aliases:
+    - Florence
+    - Fiorenza
+  base_name: Firenze
+  filename: Firenze.md
+  id: mT3aY8t7yatb
+  n_id: 896404504765096855218
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2044
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mT3aY8t7yatb.json
+content:
+  markdown_content: ""

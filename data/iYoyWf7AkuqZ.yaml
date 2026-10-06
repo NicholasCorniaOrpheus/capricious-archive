@@ -1,0 +1,84 @@
+metadata:
+  class: NotatedMusic
+  label: Di Vincenzo Neriti di Salò il terzo libro di canzonette a quattro voci
+  description:
+  aliases:
+  base_name: Di Vincenzo Neriti di Salò il terzo libro di canzonette a quattro voci
+  filename: Di Vincenzo Neriti di Salò il terzo libro di canzonette a quattro voci.md
+  id: iYoyWf7AkuqZ
+  n_id: 836588996066251440235
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE044516
+    - https://musicare.beniculturali.unipd.it/database/editions/005804.html
+    - https://rism.online/sources/990046963
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c3xEQoeMNVW8
+      label: Musicare DB
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  title:
+    - Di Vincenzo Neriti maestro di capella nella Chiesa Maggiore di Salò il terzo libro di canzonette a quattro voci, con un dialogo a sette, e una a otto nel fine, nouamente composte, et date in luce
+  inception:
+    - value: 1599
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE044516
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      publication_date: 1599
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pji9p9q5kbxr
+        label: Kassel University Library
+      external_source: https://orka.bibliothek.uni-kassel.de/viewer/image/1460706078272/89/
+      note: Cantus
+      IIIF_manifest: https://orka.bibliothek.uni-kassel.de/viewer/api/v1/records/1460706078272/manifest/
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE044516
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      publication_date: 1599
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pji9p9q5kbxr
+        label: Kassel University Library
+      external_source: https://orka.bibliothek.uni-kassel.de/viewer/image/1460706239454/
+      note: Bassus
+      IIIF_manifest: https://orka.bibliothek.uni-kassel.de/viewer/api/v1/records/1460706239454/manifest/
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/N8QEmmrTZJWu
+      label: Vincenzo Neriti da Salò
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://orka.bibliothek.uni-kassel.de/viewer/api/v1/records/1460706078272/manifest/
+    - https://orka.bibliothek.uni-kassel.de/viewer/api/v1/records/1460706239454/manifest/
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/iYoyWf7AkuqZ.json
+content:
+  markdown_content: ""

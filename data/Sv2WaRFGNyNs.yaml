@@ -1,0 +1,50 @@
+metadata:
+  class: MusicComposition
+  label: Forse è cagion l'Aurora (Spontone)
+  description:
+  aliases:
+  base_name: Forse è cagion l'Aurora (Spontone)
+  filename: Forse è cagion l'Aurora (Spontone).md
+  id: Sv2WaRFGNyNs
+  n_id: 514090514038696443010
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F106210000010101_000000231100C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4
+      label: Tarquinia Molza
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oRzFousoNVsC
+      label: Bartolomeo Spontone
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YV3zHM3jYeVM
+      label: De floridi virtuosi d'Italia, il secondo libro de madrigali a cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/283fCXKnjYhy
+      label: Forse è cagion l'Aurora
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/spontone-forse_è_cagion_l'aurora
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Sv2WaRFGNyNs.json
+content:
+  markdown_content: ""

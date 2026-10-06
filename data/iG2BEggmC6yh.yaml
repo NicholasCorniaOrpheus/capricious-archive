@@ -1,0 +1,74 @@
+metadata:
+  class: PoeticWork
+  label: Oh Mio bel Sol, per quell'interno ardore
+  description:
+  aliases:
+    - O Mio bel Sol, per quell'interno ardore
+  base_name: Oh Mio bel Sol, per quell'interno ardore
+  filename: Oh Mio bel Sol, per quell'interno ardore.md
+  id: iG2BEggmC6yh
+  n_id: 830505490009877521302
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/67AiHmyDq9hS
+      label: Virginia Martini Salvi
+  part_of:
+    - pages: 152
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PagyXFKr5PvT
+      volume: 1
+      section: Virginia Martini Salvi.
+      label: Componimenti poetici delle piu' illustri rimatrici d'ogni secolo
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mmNaTApfKuRD
+      label: martyrdom
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Oh Mio bel Sol, per quell'interno ardore,
+      Che l'alma mia sì dolcemente avviva,
+      Per quella vera gioja, che nodriva
+      Quando in voi pria mirai l'afflitto core;
+
+      Per quei caldi sospir, che a tutte l'ore
+      Passano della Tressa, oltra la riva,
+      Per ritrovar, chi d'ogni ben mi priva,
+      E la vera cagion del mio dolore;
+
+      Per le lagrime triste, e pei martiri,
+      Che m'ancidano ogn'or presso, e lontano,
+      Onde non so, com'io lassa respiri;
+
+      Per gl'occhi vaghi, e per l' amata mano,
+      Che m'empie il petto d'alti, e bei desiri
+      Deh, non rendete il mio sperare or vano.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/oh_mio_bel_sol,_per_quell'interno_ardore
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/iG2BEggmC6yh.json
+content:
+  markdown_content: ""

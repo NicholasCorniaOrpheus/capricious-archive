@@ -1,0 +1,68 @@
+metadata:
+  class: NotatedMusic
+  label: Il Primo libro de Madrigali a cinque voci de Rinaldo Del Mel
+  description:
+  aliases:
+  base_name: Il Primo libro de Madrigali a cinque voci de Rinaldo Del Mel
+  filename: Il Primo libro de Madrigali a cinque voci de Rinaldo Del Mel.md
+  id: Yg4nN9HMR5qm
+  n_id: 632851908540724810795
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV06340010
+    - https://rism.online/sources/990040878
+    - https://edit16.iccu.sbn.it/titolo/CNCE043039
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Il primo libro de madrigali a cinque voci, de Rinaldo Del Mel. Nuouamente posti in luce
+  inception:
+    - value: 1584
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE043039
+      publication_date: 1584
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Gzqem5g838fp
+        label: Girolamo Scotto
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://www.loc.gov/item/2008561340/
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T7HBRvWrg9UH
+        label: Library of Congress
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4hrBVUnLR9nL
+      label: Rinaldo del Mel
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Yg4nN9HMR5qm.json
+content:
+  markdown_content: ""

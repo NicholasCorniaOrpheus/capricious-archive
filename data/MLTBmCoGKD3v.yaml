@@ -1,0 +1,35 @@
+metadata:
+  class: Agent
+  aliases:
+    - Oratio Scaletta
+  base_name: Orazio Scaletta
+  filename: Orazio Scaletta.md
+  label: Orazio Scaletta
+  id: MLTBmCoGKD3v
+  n_id: 398758571776119665080
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+      label: composer
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q21001469
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MLTBmCoGKD3v.json
+content:
+  markdown_content: ""

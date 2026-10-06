@@ -1,0 +1,63 @@
+metadata:
+  class: Book
+  label: Cento giuochi liberali, et d'ingegno
+  description:
+  aliases:
+  base_name: Cento giuochi liberali, et d'ingegno
+  filename: Cento giuochi liberali, et d'ingegno.md
+  id: 46LdQgsVgJM3
+  n_id: 42838203788393859373
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE048459
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dL2X9Z4URcNU
+      label: (Bolzoni 2012)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UAz4DSkxJeE
+      label: (Malato 1993)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Cento giuochi liberali, et d'ingegno, nouellamente da m. Innocentio Ringhieri gentilhuomo bolognese ritrouati, et in dieci libri descritti
+  inception:
+    - value: 1553
+  has_version:
+    - publication_date: 1553
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE048459
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10163860
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TB4y98S9giqN
+        label: Madrigali e pazzarelle a due voci. Libro primo di Nicolò Rubini
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HkGg8CoDYQcR
+        label: Giovanni Maria Bonelli
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10163860/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZaGfUSXdFWJ8
+      label: Caterina de' Medici
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FmVLXoNYsftP
+      label: Innocenzio Ringhiero
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4gDUdsQ3zgkL
+      label: parlour game
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10163860/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/46LdQgsVgJM3.json
+content:
+  markdown_content: ""

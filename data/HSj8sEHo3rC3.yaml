@@ -1,0 +1,36 @@
+metadata:
+  class: Agent
+  label: Clarice de' Medici
+  description:
+  aliases:
+  base_name: Clarice de' Medici
+  filename: Clarice de' Medici.md
+  id: HSj8sEHo3rC3
+  n_id: 318488473076756102275
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q272150
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/b/b5/Clarice_de%27_Medici.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HSj8sEHo3rC3.json
+content:
+  markdown_content: ""

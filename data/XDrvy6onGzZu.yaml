@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: emotion
+  description:
+  aliases:
+    - emotional state
+  base_name: emotion
+  filename: emotion.md
+  id: XDrvy6onGzZu
+  n_id: 602734235718386594808
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q9415
+  described_by_source:
+  instance_of:
+  subclass_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XDrvy6onGzZu.json
+content:
+  markdown_content: ""

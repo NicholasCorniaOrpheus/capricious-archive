@@ -1,0 +1,77 @@
+metadata:
+  class: PoeticWork
+  label: Quando il Sol torna al Cancro, e cangiat'hanno
+  description:
+  aliases:
+  base_name: Quando il Sol torna al Cancro, e cangiat'hanno
+  filename: Quando il Sol torna al Cancro, e cangiat'hanno.md
+  id: VPeHPL36Pj2X
+  n_id: 565002362811332200394
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/5723
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2DmQmy8CrmRF
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Pietro Gradenigo
+  part_of:
+    - volume: 2
+      pages: 98
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L2LbwEDxTqeF
+      label: De le rime di diuersi nobili poeti toscani, raccolte da m. Dionigi Atanagi
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FZP8Rx3LsDxz
+      label: shepherd
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gWJai6Vb7KR2
+      label: natural spring
+  text:
+    - |-
+      Quando il Sol torna al Cancro, e cangiat'hanno
+      Le bionde spiche in bianco il verde vivo;
+      A pastor lassi il gran fervore estivo
+      Tempran le piante, che spess'ombra fanno:
+
+      E gli stanchi corrier, ch'in fretta vanno;
+      Scoprono allegri una fontana, o un rivo:
+      Onde bevendo, un breve, fuggitivo
+      Riposo prendon del passato affanno.
+
+      Così quest'alma travagliata, e lassa
+      Ne l'amoroso ardor s'adagia, e posa
+      A l'ombra vostra, al fonte di pietade:
+
+      In qual tempra la sete, ma non lassa
+      Satia giamai la mia voglia bramosa
+      De le dolci acque, e de l'alma beltade.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/quando_il_sol_torna_al_cancro,_e_cangiat'hanno
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VPeHPL36Pj2X.json
+content:
+  markdown_content: ""

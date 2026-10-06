@@ -1,0 +1,46 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Intenti di Pavia
+  description:
+  aliases:
+  base_name: Accademia degli Intenti di Pavia
+  filename: Accademia degli Intenti di Pavia.md
+  id: hCrWdzqgzEyx
+  n_id: 808728489704200105182
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1593
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9rv9WBBJ8RwF
+      label: Pavia
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 163
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+    - value: Per mutua nixi
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hCrWdzqgzEyx.json
+content:
+  markdown_content: ""

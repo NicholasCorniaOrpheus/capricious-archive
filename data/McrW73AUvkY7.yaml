@@ -1,0 +1,58 @@
+metadata:
+  class: Agent
+  label: Giambattista Basile
+  description:
+  aliases:
+    - Gianbattista Basile
+    - Giovan Battista Basile
+  base_name: Giambattista Basile
+  filename: Giambattista Basile.md
+  id: McrW73AUvkY7
+  n_id: 404699231241486769802
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q555291
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UFUJo2JAXCT
+      label: (Nocerino 2014)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+      label: Napoli
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NzigjQdFbSkY
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      pseudonym: Pigro
+      label: Accademia degli Stravaganti di Candia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mm7yVBHwb943
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Accademia degli Oziosi di Napoli
+  occupation:
+    -
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8caJkM27DMtc
+      label: Lo cunti de li cunti
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 15002
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/McrW73AUvkY7.json
+content:
+  markdown_content: ""

@@ -1,0 +1,50 @@
+metadata:
+  class: Book
+  label: Orazione d'Adriano Valerini veronese, in morte della divina signora Vincenza Armani
+  description:
+  aliases:
+  base_name: Orazione d'Adriano Valerini veronese, in morte della divina signora Vincenza Armani
+  filename: Orazione d'Adriano Valerini veronese, in morte della divina signora Vincenza Armani.md
+  id: cyM2Y5JctEm7
+  n_id: 721653166130545971917
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE054415
+  described_by_source:
+  title:
+    - Oratione d'Adriano Valerini veronese, in morte della diuina signora Vincenza Armani, comica eccellentissima. Et alcune rime dell'istesso, e d'altri auttori, in lode della medesima. Con alquante leggiadre e belle compositioni di detta signora Vincenza
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/V8bNoGP49KUR
+      label: oration
+  inception:
+    - value: 1570
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE054415
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JE4qx5PTzpnN
+          label: Verona
+      publication_date: 1570
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fQ3fpyKesBz6
+      label: Adriano Valerini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2tx2Q6a4EAjj
+      label: Vincenza Armani
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bz2ZiUr2xdwm
+      label: elegy
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cyM2Y5JctEm7.json
+content:
+  markdown_content: ""

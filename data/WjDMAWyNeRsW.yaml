@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  base_name: husband
+  filename: husband.md
+  label: husband
+  id: WjDMAWyNeRsW
+  n_id: 592720563463216723426
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+  subclass_of:
+  opposite_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HPrwTsoCnNuZ
+      label: spouse
+  identifier:
+    - http://www.wikidata.org/entity/Q212878
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/WjDMAWyNeRsW.json
+content:
+  markdown_content: ""

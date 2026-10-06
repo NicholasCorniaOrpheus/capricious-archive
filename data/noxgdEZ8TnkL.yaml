@@ -1,0 +1,20 @@
+metadata:
+  class: Place
+  label: Napoli
+  description:
+  aliases:
+    - Naples
+  base_name: Napoli
+  filename: Napoli.md
+  id: noxgdEZ8TnkL
+  n_id: 924618377314694547522
+statements:
+  identifier:
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/noxgdEZ8TnkL.json
+content:
+  markdown_content: ""

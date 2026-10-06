@@ -1,0 +1,78 @@
+metadata:
+  class: PoeticWork
+  label: Se di Basile il volto
+  description:
+  aliases:
+  base_name: Se di Basile il volto
+  filename: Se di Basile il volto.md
+  id: ZGUjjXzAkdQU
+  n_id: 644951151110186179427
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UFUJo2JAXCT
+      label: (Nocerino 2014)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9cJs7DCtFosi
+      label: Giovanni Francesco Maia Materdona
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/h2xDcFjWqJDz
+      section: Effetti del Suon, del Canto, e del Volto della Sig. Ad.
+      pages: 260
+      label: Il teatro delle glorie della signora Adriana Basile
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5L6x5MH6c78U
+      label: Adriana Basile
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nMTi968tSsXp
+      label: basilisk
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L3e4bqZinJkX
+      label: mermaid
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Se di BASILE il volto
+      Talhor rimiro o'l canto, o'l suono ascolto,
+      Sì dolci, e cari sono
+      Il volto, il canto, il suono,
+      Che ammaliato inebriato il core
+      D'alto gioir, ne more:
+      Dico alhor: quelle fila, ond'esser lice
+      Il voto legno armato,
+      Le Parche hanno filato;
+      Quel canto è di Sirena ingannatrice,
+      Di BASILISCO è'l guardo,
+      Mentre in sì dolce frode e strania sorte,
+      Sotto finto piacer danno la morte.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZGUjjXzAkdQU.json
+content:
+  markdown_content: ""

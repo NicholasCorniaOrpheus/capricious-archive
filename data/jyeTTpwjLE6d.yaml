@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: harbor
+  description:
+  aliases:
+    - harbour
+    - porto
+  base_name: harbor
+  filename: harbor.md
+  id: jyeTTpwjLE6d
+  n_id: 866215217686605244751
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q283202
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3frfeZ8i5JSm
+      label: location
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jyeTTpwjLE6d.json
+content:
+  markdown_content: ""

@@ -1,0 +1,45 @@
+metadata:
+  class: Book
+  base_name: La distruzione di Gierusalemme
+  filename: La distruzione di Gierusalemme.md
+  label: La distruzione di Gierusalemme
+  id: FHb6zxLqq78x
+  n_id: 273907353880168986168
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - La destruttione di Gierusalemme del sig. conte Ridolfo Campeggi, e la prigionia del Santo Sepolcro di Christo, del signor Girolamo Tortoletti
+  inception:
+    - value: 1628
+  has_version:
+    - publication_date: 1628
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NB46pX2he7Z3
+        label: Lodovico Grignani
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      external_source: https://books.google.be/books?id=v-OXeOIc6bMC
+      permalink: http://id.sbn.it/bid/RMLE040048
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FzrdyPjZDVz9
+      label: Ridolfo Campeggi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d6D6vnCgLE5s
+      label: Crusades
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hnGUsqmNR3ko
+      label: Gierusalemme liberata, poema heroico del sig. Torquato Tasso
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FHb6zxLqq78x.json
+content:
+  markdown_content: ""

@@ -1,0 +1,44 @@
+metadata:
+  class: Book
+  base_name: Rime di m. Domenico Mantova
+  filename: Rime di m. Domenico Mantova.md
+  label: Rime di m. Domenico Mantova
+  id: E5Vqwxb8q2MB
+  n_id: 248893730835567091374
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime di m. Domenico Mantoua, gentil'huomo bresciano
+  inception:
+    - value: 1554
+  has_version:
+    - publication_date: 1554
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k5aPQaUQUikE
+        label: Plinio Pietrasanta
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE034664
+      external_source: https://lyra.unil.ch/books/134/images
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+  subject:
+  has_part:
+  based_on:
+  identifier:
+    - https://lyra.unil.ch/books/134
+    - https://edit16.iccu.sbn.it/titolo/CNCE034664
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/E5Vqwxb8q2MB.json
+content:
+  markdown_content: ""

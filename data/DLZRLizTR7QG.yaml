@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: cruelty
+  description:
+  aliases:
+  base_name: cruelty
+  filename: cruelty.md
+  id: DLZRLizTR7QG
+  n_id: 233710993574901036998
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1936750
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TM6fVHGXjWZC
+      label: personality trait
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DLZRLizTR7QG.json
+content:
+  markdown_content: ""

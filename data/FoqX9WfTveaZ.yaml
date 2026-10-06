@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  aliases:
+    - ragionamento
+    - trattato
+    - discorso
+  base_name: treatise
+  filename: treatise.md
+  label: treatise
+  id: FoqX9WfTveaZ
+  n_id: 284859963349695050734
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Xfs7XRwHSxHj
+      label: document
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q384515
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FoqX9WfTveaZ.json
+content:
+  markdown_content: ""

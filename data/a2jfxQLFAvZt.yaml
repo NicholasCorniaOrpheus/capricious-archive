@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  base_name: Luigi Alamanni
+  filename: Luigi Alamanni.md
+  label: Luigi Alamanni
+  id: a2jfxQLFAvZt
+  n_id: 660613435726309337798
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q721846
+  instance_of:
+  gender:
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F8egNqUdzx3A
+      label: Accademia degli Infiammati di Padova
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Em7jisQxKeWa
+      label: Girone il cortese di Luigi Alamanni
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/a2jfxQLFAvZt.json
+content:
+  markdown_content: ""

@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: patron
+  description:
+  aliases:
+    - mecenate
+    - art patron
+  base_name: patron of the arts
+  filename: patron of the arts.md
+  id: Y9DyFsMs8dox
+  n_id: 621687251902776606549
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q15472169
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Y9DyFsMs8dox.json
+content:
+  markdown_content: ""

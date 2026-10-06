@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Martini Salvi 2012)
+  description:
+  aliases:
+    - martinisalviLoperaPoeticaDi2012
+  base_name: (Martini Salvi 2012)
+  filename: (Martini Salvi 2012).md
+  id: eR4qqRGU5FMB
+  n_id: 751237195545043584366
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Martini Salvi, Virginia. 2012. L’opera poetica di Virginia Martini Salvi (Siena, c. 1510 - Roma, post 1571). Edited by Konrad Eisenbichler. Monografie di storia e letteratura senese 17. Siena: Accademia senese degli intronati."
+  isbn:
+    - 978-88-89073-18-6
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/martinisalviLoperaPoeticaDi2012.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/eR4qqRGU5FMB.json
+content:
+  markdown_content: ""

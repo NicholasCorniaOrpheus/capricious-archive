@@ -1,0 +1,42 @@
+metadata:
+  class: Organisation
+  label: Accademia dei Lincei di Roma
+  description:
+  aliases:
+  base_name: Accademia dei Lincei di Roma
+  filename: Accademia dei Lincei di Roma.md
+  id: 5AaYgSooZDn8
+  n_id: 65010631124845600581
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 151
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+    - value: Lynceis restitutis
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5AaYgSooZDn8.json
+content:
+  markdown_content: ""

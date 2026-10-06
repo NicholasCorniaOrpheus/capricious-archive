@@ -1,0 +1,62 @@
+metadata:
+  class: NotatedMusic
+  label: Di Francesco Viola il primo libro de madrigali a quattro voci
+  description:
+  aliases:
+  base_name: Di Francesco Viola il primo libro de madrigali a quattro voci
+  filename: Di Francesco Viola il primo libro de madrigali a quattro voci.md
+  id: 2DFCG3PvKnEQ
+  n_id: 4066077359066005633
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE043620
+    - https://rism.online/sources/990066689
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV08450010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+  inception:
+    - value: 1550
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE043620
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1550
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_U/U374/
+      note: Tenor only.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aagPYddQ7Hxo
+      label: Francesco dalla Viola
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2DFCG3PvKnEQ.json
+content:
+  markdown_content: ""

@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  base_name: Adriana Basile
+  filename: Adriana Basile.md
+  label: Adriana Basile
+  id: 5L6x5MH6c78U
+  n_id: 68455729193056925687
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q642186
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UFUJo2JAXCT
+      label: (Nocerino 2014)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+      label: Napoli
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DSK596BdwpXR
+      label: singer
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/McrW73AUvkY7
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GCEVZzJm8qBX
+        label: sibling
+      label: Giambattista Basile
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/a/a7/Signora_Adriana_Basile.PNG?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5L6x5MH6c78U.json
+content:
+  markdown_content: ""

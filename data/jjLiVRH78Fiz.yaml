@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - duraccioPionerasVocesFemeninas2021
+  base_name: (Duraccio 2021)
+  filename: (Duraccio 2021).md
+  label: (Duraccio 2021)
+  id: jjLiVRH78Fiz
+  n_id: 861034099266098702717
+statements:
+  part_of:
+  citation:
+    - "Duraccio, Caterina, ed. 2021. Pioneras : las voces femeninas en la construcción cultural italiana y europea. Escritoras y escrituras. Madrid: Dykinson. https://digital.casalini.it/9788413775760."
+  isbn:
+    - 978-84-1377-576-0
+  identifier:
+    - https://digital.casalini.it/9788413775760
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/duraccioPionerasVocesFemeninas2021.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jjLiVRH78Fiz.json
+content:
+  markdown_content: ""

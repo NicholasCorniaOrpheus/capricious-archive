@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Occhipinti 2017)
+  description:
+  aliases:
+    - occhipintiSullAccademiaNottiVaticane2017
+  base_name: (Occhipinti 2017)
+  filename: (Occhipinti 2017).md
+  id: X8kzC44fCXJc
+  n_id: 600886317941070714217
+statements:
+  isbn:
+    - 978-88-6557-321-1
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Occhipinti, Carmelo. 2017. ‘Sull’Accademia delle Notti Vaticane. Scritti di Carlo Borromeo, Giovanni Battista Amalteo e di altri sodali’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Paolo Procaccioli, 125–37. Roma: De Luca editori d’arte."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/occhipintiSullAccademiaNottiVaticane2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/X8kzC44fCXJc.json
+content:
+  markdown_content: ""

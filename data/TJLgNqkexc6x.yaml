@@ -1,0 +1,44 @@
+metadata:
+  class: Agent
+  base_name: Domenico Mantova
+  filename: Domenico Mantova.md
+  label: Domenico Mantova
+  id: TJLgNqkexc6x
+  n_id: 521808631988091537036
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UprfWYGHsS7r
+      label: Brescia
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+          label: (Faini 2020)
+      label: Girolamo Ruscelli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mqkH5awacs3c
+      label: Accademia dei Dubbiosi di Venezia
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/E5Vqwxb8q2MB
+      label: Rime di m. Domenico Mantova
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q140933179
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TJLgNqkexc6x.json
+content:
+  markdown_content: ""

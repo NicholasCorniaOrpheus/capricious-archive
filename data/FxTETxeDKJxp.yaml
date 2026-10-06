@@ -1,0 +1,59 @@
+metadata:
+  class: MusicComposition
+  label: S'è ver quel che si legge (Lando)
+  description:
+  aliases:
+    - Se'l ver quel che si legge
+  base_name: S'è ver quel che si legge (Lando)
+  filename: S'è ver quel che si legge (Lando).md
+  id: FxTETxeDKJxp
+  n_id: 287976672953224203115
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F263400000010101_000000134800C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mjs2CZhUwdNf
+      label: Stefano Lando
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/V6FTS9bq4reT
+      label: Luigi Transillo
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mydgokBWcphK
+      label: Di Stefano Lando il primo libro de madrigali a quattro voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Se'l ver quel che si legge
+      che l'amante in quel ch'ama si trasforma
+      presa l'amata forma
+      Io non so quel ch'i m'era ma son voi 
+      se cosa dunque ho detto che v'annoi
+      Non incolpate donna il parlar mio
+      che la diceste voi non la diss'io.
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/lando-s'è_ver_quel_che_si_legge
+  jpg:
+    - a_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FxTETxeDKJxp.json
+content:
+  markdown_content: ""

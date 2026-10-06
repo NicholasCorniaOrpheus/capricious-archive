@@ -1,0 +1,35 @@
+metadata:
+  class: Organisation
+  label: House of Gonzaga
+  description:
+  aliases:
+  base_name: House of Gonzaga
+  filename: House of Gonzaga.md
+  id: gqJgwxnCkvij
+  n_id: 801285725701519985555
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q594373
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nhTthG2m2P3q
+      label: family
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hwWposH4v2nt
+      label: Mantova
+  official_website:
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gqJgwxnCkvij.json
+content:
+  markdown_content: ""

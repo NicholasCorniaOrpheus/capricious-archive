@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  label: Isabella della Rovere
+  description:
+  aliases:
+  base_name: Isabella della Rovere
+  filename: Isabella della Rovere.md
+  id: ZqD6BmWcwLzR
+  n_id: 656798794146979227317
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3802265
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y9DyFsMs8dox
+      label: patron of the arts
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5HJWdrzniH6G
+      label: religion
+  catalog_identifier:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/a/af/Isabella_Feltria_della_Rovere_%28cropped%29.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZqD6BmWcwLzR.json
+content:
+  markdown_content: ""

@@ -1,0 +1,71 @@
+metadata:
+  class: MusicComposition
+  base_name: Tu che 'l passato mio buon tempo sai (Dentice)
+  filename: Tu che 'l passato mio buon tempo sai (Dentice).md
+  label: Tu che 'l passato mio buon tempo sai (Dentice)
+  id: CxTmHsi28jpv
+  n_id: 226072407859797799261
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AKKfgzSbrwH6
+      label: aria
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KnJT5DynpjVR
+      label: Scipione Dentice
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/24JgpP5MrNjd
+      label: Aeri racolti insieme
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Tu che'l passato mio buon tempo sai
+      & quanti giorni e quante notti care
+      Con la mia donna e con amor vegghiai.
+      Mentre l'amai.
+
+      Et hor sai ben di che novelle amare
+      Per queste orecchie avvelenato il core
+      Ch'a poco a poco il vedrai consumare.
+      Non più amare.
+
+      Di generosa mia senza timore,
+      A sua gran donna questi pochi altieri
+      Ultimi detti che non dette amore.
+      Ma gran dolore.
+
+      Mai come pria dell'amor mio più speri
+      Caduto come ﬁor ch'aratro tocchi
+      Poi c'ebbi di cangiati suoi pensieri.
+      Messaggi veri.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ApTxwHF6JNzT
+      label: barzelletta
+  depicts:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/290270000010101_000000083600C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+assets:
+  local_asset_path: ./assets/music_compositions/dentice-tu_che'l_passato_mio_buon_tempo_sai
+  jpg:
+    - b_001.jpg
+    - c_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CxTmHsi28jpv.json
+content:
+  markdown_content: ""

@@ -1,0 +1,58 @@
+metadata:
+  class: Organisation
+  base_name: Accademia dei Gelati di Bologna
+  filename: Accademia dei Gelati di Bologna.md
+  label: Accademia dei Gelati di Bologna
+  id: 3pjXu8dNW596
+  n_id: 37553174452613166919
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1588
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+    - sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      value: 1799
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/m5jx85vV2PXo
+      label: Bologna
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 1
+  member:
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJ5rjP86CXEj
+          label: (Nicolaci 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FzrdyPjZDVz9
+      pseudonym: Rugginoso
+      label: Ridolfo Campeggi
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PAfwtQUEB4mS
+      label: emblem
+  notable_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q106701551
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SXT3ByQCDj49
+      label: (Gurrei 2020)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3pjXu8dNW596.json
+content:
+  markdown_content: ""

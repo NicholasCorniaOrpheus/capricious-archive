@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  aliases:
+    - tiranno
+    - tiranna
+  base_name: tyrant
+  filename: tyrant.md
+  label: tyrant
+  id: EZDBUaPa8YSY
+  n_id: 258924752873396145912
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q180095
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EZDBUaPa8YSY.json
+content:
+  markdown_content: ""

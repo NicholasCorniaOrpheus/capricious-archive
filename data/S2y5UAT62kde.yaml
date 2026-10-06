@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  description: natural object visible in the sky to the naked eye
+  base_name: celestial body
+  filename: celestial body.md
+  label: celestial body
+  id: S2y5UAT62kde
+  n_id: 495611313244835752698
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PBpvEEsLjb3i
+      label: natural entity
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q1519541
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/S2y5UAT62kde.json
+content:
+  markdown_content: ""

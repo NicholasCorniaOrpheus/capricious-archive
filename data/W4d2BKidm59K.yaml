@@ -1,0 +1,51 @@
+metadata:
+  class: MusicComposition
+  label: Voi, che né a pianto mai, Donna crudele (Cottone)
+  description: The Alto part is missing.
+  aliases:
+  base_name: Voi, che né a pianto mai, Donna crudele (Cottone)
+  filename: Voi, che né a pianto mai, Donna crudele (Cottone).md
+  id: W4d2BKidm59K
+  n_id: 578751583038112815644
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F308465000010101_000000072900C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZcWT5Zdy9Zwp
+      label: Girolamo Parabosco
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fiA4JEERCeTs
+      label: Giovanni Pietro Cottone
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VHmMGS2Mohva
+      label: Di Giovan Pietro Cottone musico del serenissimo duca di Savoia, il secondo libro de madrigali a cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MXKKHNQVf38X
+      label: Voi, che né a pianto mai, Donna crudele
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/cottone-voi,_che_né_a_pianto_mai,_donna_crudele
+  png:
+    - b_001.png
+    - c_001.png
+    - q_001.png
+    - t_001.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/W4d2BKidm59K.json
+content:
+  markdown_content: ""

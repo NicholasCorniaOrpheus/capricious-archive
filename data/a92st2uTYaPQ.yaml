@@ -1,0 +1,74 @@
+metadata:
+  class: MusicComposition
+  base_name: Son vecchio innamorao (Agostini)
+  filename: Son vecchio innamorao (Agostini).md
+  label: Son vecchio innamorao (Agostini)
+  id: a92st2uTYaPQ
+  n_id: 662888587702096880527
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LD4RrZzU9uiL
+      label: villanella
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nogU49CqvCeC
+      label: Andrea Calmo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SjqizepxoSSs
+      label: Lodovico Agostini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A7RhLcoNzDub
+      label: Musica di Lodovico Agostini ferrarese sopra le rime bizzarre di m. Andrea Calmo
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Son vecchio innamorao
+      E volentiera,
+      M'alliegro e canto sono de lauto
+      E non in tel mio horto,
+      Sunado fighi
+      I bianchi negri e zali.
+      Può tutti quanti i dago per tributo
+      Al viso de Lionora.
+      Ch'amando me desseca de hora in hora.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5MwBnJaT8JKD
+      label: Venetian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SE8dJXKowffE
+      label: bizzarria
+  poetic_type:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oVPnqZSgWvz9
+      label: lute
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5f6kHhAxyPZh
+      label: music making
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RR2QSzZoe9rP
+      label: Pantalone
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+  metre:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F274790000010101_000000002400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+assets:
+  local_asset_path: ./assets/music_compositions/agostini-son_vecchio_innamorao
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/a92st2uTYaPQ.json
+content:
+  markdown_content: ""

@@ -1,0 +1,78 @@
+metadata:
+  class: PoeticWork
+  label: Da i più profondi, e tenebrosi abissi
+  description: A madman, blinded by love, has turned into a fearful wandering monster.
+  aliases:
+  base_name: Da i più profondi, e tenebrosi abissi
+  filename: Da i più profondi, e tenebrosi abissi.md
+  id: hMvEmAM5vrex
+  n_id: 812010426644352885705
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4iQL4zuQfNQR
+      label: Francesco Maria Caccianemici
+  part_of:
+    - section: Del Tenebroso
+      pages: 33
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B5dDXV6qVG2p
+      label: Ricreazioni amorose de gli Academici Gelati di Bologna
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TrnoRtA45mkr
+      label: rage
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o5E4uDGcg6qr
+      label: insanity
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aHgkm4kqQFXB
+      label: monster
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/esdPVkcqtoQn
+      label: ice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R7sbNmdF69BB
+      label: forest
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ycoef6Pb8HJA
+      label: screaming
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Da i più profondi, e tenebrosi abissi
+      Esci Megera, e di veneno infetto,
+      Con l'usato furor,  m'ingrombra il petto
+      In così tetre e paventose eclissi.
+
+      Che, qual fia'l mio, non mai rimbombo udissi
+      In aspre voci, o in forsennato aspetto,
+      Mentre d'horrido gielo il corpo astretto
+      M'havrai, e al cuore angui infernali affissi
+
+      Spaventerò col grido huomini, e belve:
+      Tremeranno al muggito alberi, e piante:
+      Tutta empierò d' horror l' immensa mole.
+
+      Così per boschi oscuri, ed atre selve
+      Privo del suo bel folgorante Sole,
+      Gridava un cieco e disperato amante.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/da_i_più_profondi,_e_tenebrosi_abissi
+  png:
+    - 001.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hMvEmAM5vrex.json
+content:
+  markdown_content: ""

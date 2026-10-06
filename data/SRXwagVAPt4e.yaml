@@ -1,0 +1,81 @@
+metadata:
+  class: PoeticWork
+  label: Mentre'l Pianeta gira in Capricorno
+  description:
+  aliases:
+  base_name: Mentre'l Pianeta gira in Capricorno
+  filename: Mentre'l Pianeta gira in Capricorno.md
+  id: SRXwagVAPt4e
+  n_id: 503778526074887763903
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/13389
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dRPkh5SkPLku
+      label: Bartolomeo Arnigio
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2EqW4HoVn2ms
+      pages: 109
+      section: Del Solingo
+      label: Rime de gli Academici Occulti con le loro imprese et discorsi
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/esdPVkcqtoQn
+      label: ice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KvTzic2hAwWg
+      label: tree
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8JCJNiEPyPxR
+      label: Sun
+  text:
+    - |-
+      Mentre'l Pianeta gira in Capricorno
+      Che scalda hor questo hor quell'altro hemispero;
+      Et da noi si diparte'l mio Sol vero,
+      Gelido, breve, & nubiloso è il Giorno.
+
+      Gli arbori nudi, e i monti stanno intorno
+      Vestiti del color contrario al nero;
+      Et con sembiante rio, squallido, & fero
+      Hor Austro spira, hor' Aquilon dal corno.
+
+      Ma se'l mio Sol d'altera luce pieno
+      Torna; quantunque l'altro lungi stia;
+      Ne ver noi volga pigro il carro leve;
+
+      Vedrò temprato'l Dì, lungo & sereno;
+      Gli Arbori haver le frondi come pria,
+      Fiorir'il Ghiaccio & fiammeggiar la Neve.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/mentre'l_pianeta_gira_in_capricorno
+  jpeg:
+    - 001.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SRXwagVAPt4e.json
+content:
+  markdown_content: ""

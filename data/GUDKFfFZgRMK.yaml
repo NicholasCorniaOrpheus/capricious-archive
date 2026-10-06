@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: quarrel of ancients and moderns
+  description:
+  aliases:
+    - ancients and moderns
+    - Querelle des Anciens et des Modernes
+  base_name: quarrel of ancients and moderns
+  filename: quarrel of ancients and moderns.md
+  id: GUDKFfFZgRMK
+  n_id: 298387252188450823475
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q267863
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/D5meAE34UpL5
+      label: (Black 1982)
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GUDKFfFZgRMK.json
+content:
+  markdown_content: ""

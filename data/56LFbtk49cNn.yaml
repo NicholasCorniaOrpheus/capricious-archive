@@ -1,0 +1,74 @@
+metadata:
+  class: PoeticWork
+  label: Chiuso in angusta parte Augusto parto
+  description:
+  aliases:
+  base_name: Chiuso in angusta parte Augusto parto
+  filename: Chiuso in angusta parte Augusto parto.md
+  id: 56LFbtk49cNn
+  n_id: 63471674150928561830
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W4sWHRRv6ZXt
+      label: Gustavus Selenus
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HjhtUu9o8iuQ
+      label: Philipp Hainhofer
+  part_of:
+    - section: Madrigale di Filippo Hainhofer, Cittadino d'Augusta.
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5rXXXivjHnqu
+      label: ingenuity
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k3nhzcwa5PvD
+      label: time
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6fSa3RgfAvLv
+      label: secret
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      CHiuso in angusta parte Augusto parto,
+      Non starai, che lodato
+      Da l'ingegni più rari
+      Andrai col Tempo al pari,
+      Ovunque Febo snoda il crin aurato,
+      Come nascosto, come
+      Privo sarà di nome,
+      Chi tenta altrui scuoprire
+      quanto può mai celar l'arte nel dire?
+      Né palesati suoi secreti l'Arte
+      Scoprirà te secreto in ogni parte.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/chiuso_in_angusta_parte_augusto_parto
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/56LFbtk49cNn.json
+content:
+  markdown_content: ""

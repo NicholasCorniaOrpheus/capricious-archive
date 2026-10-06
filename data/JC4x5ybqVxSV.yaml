@@ -1,0 +1,29 @@
+metadata:
+  class: Concept
+  label: teacher
+  description:
+  aliases:
+    - mentor
+    - maestro
+  base_name: teacher
+  filename: teacher.md
+  id: JC4x5ybqVxSV
+  n_id: 333813459473002773000
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q37226
+    - http://www.wikidata.org/entity/Q16515647
+  described_by_source:
+  opposite_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dJDNhJQSYzz2
+      label: student
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JC4x5ybqVxSV.json
+content:
+  markdown_content: ""

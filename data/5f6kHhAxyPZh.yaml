@@ -1,0 +1,27 @@
+metadata:
+  class: Concept
+  label: music making
+  description:
+  aliases:
+    - musicking
+    - music-making
+    - concento
+    - concerto
+  base_name: music making
+  filename: music making.md
+  id: 5f6kHhAxyPZh
+  n_id: 75333049481871276828
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q110958572
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5f6kHhAxyPZh.json
+content:
+  markdown_content: ""

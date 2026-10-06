@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: salon
+  description:
+  aliases:
+    - literary salon
+  base_name: salon
+  filename: salon.md
+  id: 5kTufm84drrw
+  n_id: 77277642845807534201
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q576342
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3frfeZ8i5JSm
+      label: location
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5kTufm84drrw.json
+content:
+  markdown_content: ""

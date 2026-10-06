@@ -1,0 +1,68 @@
+metadata:
+  class: PoeticWork
+  base_name: Lacci, catene, ceppi
+  filename: Lacci, catene, ceppi.md
+  label: Lacci, catene, ceppi
+  id: cWVYEuhygUes
+  n_id: 711932387223699347305
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/V6FTS9bq4reT
+      label: Luigi Transillo
+  part_of:
+    - section: Luigi Transillo.
+      pages: 40
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RejRRize222j
+      label: Libro quinto delle rime di diversi illustri signori napoletani
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XEsomeCuBNMG
+      label: chain
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/esdPVkcqtoQn
+      label: ice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Lacci, catene e ceppi,
+      Giogo, prigion, saette, fiamme, & gelo,
+      Mentre mi copre il cielo,
+      Non mi lasciate un punto senza voi.
+      Amor fa, quanto poi;
+      Che benché molto pata, poco il sento;
+      Sì dolce è la cagion del mio tormento.
+assets:
+  local_asset_path: ./assets/poems/lacci,_catene,_ceppi
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cWVYEuhygUes.json
+content:
+  markdown_content: ""

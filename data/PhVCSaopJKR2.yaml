@@ -1,0 +1,62 @@
+metadata:
+  class: Book
+  label: I sei primi libri del Eneide di Vergilio, tradotti à piu illustre & honorate donne
+  description: Translation in Italian verses of Virgil's Aeneid, created by the collective effort of the Accademia degli Intronati of Siena
+  base_name: I sei primi libri del Eneide di Vergilio, tradotti à piu illustre & honorate donne
+  filename: I sei primi libri del Eneide di Vergilio, tradotti à piu illustre & honorate donne.md
+  id: PhVCSaopJKR2
+  n_id: 447645849487674960156
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jyhTvZZ4D7Fy
+      label: epic poem
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/evkr2baE5Du2
+      label: translation
+  title:
+    - I sei primi libri del Eneide di Vergilio, tradotti à piu illustre & honorate donne. Et tra l'altre à la nobilissima & diuina madonna Aurelia Tolomei de Borghesi, à cui ancho è indirizzato tutto il presente volume
+  inception:
+    - value: 1540
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE027857
+      publication_date: 1544
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      IIIF_manifest: https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/AA3774B945C9406B91D8FB8A337BEDEE/manifest/5D1B4615A4B245EB8176D99AE8504A03
+      external_source: https://books.google.it/books?id=HgdQ0BWJBykC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NLZ9HyHBdDfb
+      label: Accademia degli Intronati di Siena
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bN5CAXDKu3e4
+      label: Alessandro Piccolomini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S3kU5uYUeBxN
+      label: Bartolomeo Carli Piccolomini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B7dYQES7bzgL
+      label: classical antiquity
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YZxrUHJwWF66
+      label: Aeneid
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE027857
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhzyuxcFHpz3
+      label: (Pallini 2020)
+assets:
+  iiif:
+    - https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/AA3774B945C9406B91D8FB8A337BEDEE/manifest/5D1B4615A4B245EB8176D99AE8504A03
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PhVCSaopJKR2.json
+content:
+  markdown_content: ""

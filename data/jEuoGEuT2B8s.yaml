@@ -1,0 +1,47 @@
+metadata:
+  class: Agent
+  label: Elena Cornaro Piscopia
+  description:
+  aliases:
+    - Helena Lucrezia Cornaro Piscopia
+  base_name: Elena Cornaro Piscopia
+  filename: Elena Cornaro Piscopia.md
+  id: jEuoGEuT2B8s
+  n_id: 850745262275104667107
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q466851
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J3V2dhYN784W
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Frb7my4duMiR
+          label: (Everson 2017)
+      label: Accademia degli Infecondi di Roma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6JKjMpUiERee
+      label: philosopher
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0236
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jEuoGEuT2B8s.json
+content:
+  markdown_content: ""

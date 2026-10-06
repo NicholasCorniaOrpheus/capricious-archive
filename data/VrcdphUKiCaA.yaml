@@ -1,0 +1,48 @@
+metadata:
+  class: Organisation
+  label: concerto delle donne
+  description:
+  aliases:
+    - concerto delle donne di Ferrara
+  base_name: concerto delle donne
+  filename: concerto delle donne.md
+  id: VrcdphUKiCaA
+  n_id: 574766838027745407266
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q579283
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+  instance_of:
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y9DyFsMs8dox
+        label: patron of the arts
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DKPpSEmDwRA2
+      label: Margherita Gonzaga
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/efnzkFCQj5tH
+      label: Laura Peverara
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JC4x5ybqVxSV
+        label: teacher
+      label: Tarquinia Molza
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VrcdphUKiCaA.json
+content:
+  markdown_content: ""

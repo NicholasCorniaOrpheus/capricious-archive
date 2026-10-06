@@ -1,0 +1,62 @@
+metadata:
+  class: PoeticWork
+  base_name: Monti selve fontane piagg'e sassi
+  filename: Monti selve fontane piagg'e sassi.md
+  label: Monti selve fontane piagg'e sassi
+  id: i2EmLTkC88Nm
+  n_id: 825517040789876289385
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dbbU5aPBAxvp
+      label: Jacopo Sannazaro
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/23rCvdgVPxoA
+      section: Egloga IV
+      label: Arcadia del Sannazaro
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8cSCusLrr4RD
+      label: eclogue
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W9eRxiUsP4C5
+      label: travel
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Monti selve fontane piagg'e sassi
+      Vo cercand’io, se pur potessi un giorno
+      In parte rallentar l’acerbo pianto;
+      Ma ben veggio or che solo in una valle
+      Trovo riposo alle mie stanche rime,
+      Che mormorando van per mille campi.
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F025800000101_PPPP00260406C
+assets:
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/i2EmLTkC88Nm.json
+content:
+  markdown_content: ""

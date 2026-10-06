@@ -1,0 +1,50 @@
+metadata:
+  class: MusicComposition
+  label: Dolcemente s'adira (Menta)
+  description:
+  aliases:
+  base_name: Dolcemente s'adira (Menta)
+  filename: Dolcemente s'adira (Menta).md
+  id: hENN3N9NpsYo
+  n_id: 809273756273659945101
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F079080000010101_000000158600C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pp2gGLhezfyx
+      label: Lodovico Martelli
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UKYoTw5GTXnY
+      label: Francesco Menta
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/igz5Ta6tjbTR
+      label: Madrigali a quattro voci, di Francesco Menta
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fw9CrwSe6RSe
+      label: Dolcemente s'adira
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/menta-dolcemente_s'adira
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hENN3N9NpsYo.json
+content:
+  markdown_content: ""

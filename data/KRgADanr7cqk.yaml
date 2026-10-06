@@ -1,0 +1,71 @@
+metadata:
+  class: Book
+  label: Le immagini del tempio della signora donna Giovanna Aragona
+  description: (Fictional) dialogues from academic gatherings of salonnière Giovanna d'Aragona.
+  aliases:
+    - Le insegne del tempio della signora donna Giovanna d'Aragona
+  base_name: Le immagini del tempio della signora donna Giovanna Aragona
+  filename: Le immagini del tempio della signora donna Giovanna Aragona.md
+  id: KRgADanr7cqk
+  n_id: 359379334421138523981
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE005675
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+      label: (Faini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - Le imagini del tempio della signora donna Giouanna Aragona, dialogo di m. Giuseppe Betussi
+  inception:
+    - value: 1557
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE005675
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1557
+      external_source: https://bdt.bibcom.trento.it/Testi-a-stampa/16076
+      IIIF_manifest: https://dl.unito.it/fedora/objects/mag:956/datastreams/MMIIIF/content
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hbv5BTLjNJJU
+      label: Luca Contile
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Lb2oTLg4h2DU
+      label: Vittoria Colonna
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M6PatcnEXsv4
+      label: Giuseppe Betussi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WvTteUPEscDk
+        label: literary host
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      label: Giovanna d'Aragona
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WvTteUPEscDk
+      label: literary host
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://dl.unito.it/fedora/objects/mag:956/datastreams/MMIIIF/content
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KRgADanr7cqk.json
+content:
+  markdown_content: ""

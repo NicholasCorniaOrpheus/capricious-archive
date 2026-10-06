@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Artese 1983)
+  description:
+  aliases:
+    - arteseOrazioToscanellaMaestro1983
+  base_name: (Artese 1983)
+  filename: (Artese 1983).md
+  id: 6TbtBehFUF3E
+  n_id: 91809621413334375189
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - Artese, Luciano. 1983. ‘Orazio Toscanella, Un Maestro Del XVI Secolo’. In Annali Dell’Istituto Di Filosofia Dell’Università Di Firenze, 5:61–95. Olschki.
+  isbn:
+    - 978-88-222-3169-7
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/arteseOrazioToscanellaMaestro1983.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6TbtBehFUF3E.json
+content:
+  markdown_content: ""

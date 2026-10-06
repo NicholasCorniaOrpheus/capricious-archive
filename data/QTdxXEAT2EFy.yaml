@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  label: Giovanni Battista Ciotti
+  description:
+  aliases:
+  base_name: Giovanni Battista Ciotti
+  filename: Giovanni Battista Ciotti.md
+  id: QTdxXEAT2EFy
+  n_id: 463269006384948543370
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q17279972
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noRgAWmjYV8o
+      label: publisher
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QTdxXEAT2EFy.json
+content:
+  markdown_content: ""

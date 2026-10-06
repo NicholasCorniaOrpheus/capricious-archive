@@ -1,0 +1,78 @@
+metadata:
+  class: PoeticWork
+  label: Altri fra squadre in fero campo armate
+  description:
+  aliases:
+  base_name: Altri fra squadre in fero campo armate
+  filename: Altri fra squadre in fero campo armate.md
+  id: iYBP772gVPjX
+  n_id: 836356508781692494778
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/agAvDjPLYaLN
+      label: Flaminio Scala
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BU44ZRHETrHk
+      label: Dionisio Lazzari
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U8QH2ZNaC9bX
+      section: Del Sig. Ercole Marliani all'Autore.
+      label: Il teatro delle favole rappresentative, overo La ricreatione comica, boschereccia, e tragica
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KX53XRWp7L4v
+      label: juxtaposition
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PuzofSmPxjQf
+      label: theater
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hv6rwLYH8FSX
+      label: warrior
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Altri fra squadre in fero campo armate
+      Si videro trattar brandi guerrieri:
+      Altri di Scettri, e di Corone alteri
+      D’immortal gloria alzar le fronte ornate:
+
+      Ci fu chi per leggiadra alma beltate
+      In carte dispiegò saggi pensieri:
+      Chi per tragici affetti, aspri, e severi
+      Seppe carte arricchir d’opre laudate.
+
+      Tu ne i Theatri, e ne Ie Scene illustri
+      Ove s’ammira ciò ch’il mondo ha in pregio,
+      Se' guerrier, se t’aggrada, e duce, e amante
+
+      Vesti cothurni, e socchi in modi industri,
+      E quel ch'è più, e che t’aggiunge fregio:
+      La tua penna è di te tromba sonante.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/altri_fra_squadre_in_fero_campo_armate
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/iYBP772gVPjX.json
+content:
+  markdown_content: ""

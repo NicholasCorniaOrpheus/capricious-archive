@@ -1,0 +1,64 @@
+metadata:
+  class: NotatedMusic
+  label: Il Primo Libro de Madrigali a quattro, a cinque et a sei voci di Gio. Battista Moscaglia intitolati gl'Amorosi Gigli
+  description:
+  aliases:
+  base_name: Il Primo Libro de Madrigali a quattro, a cinque et a sei voci di Gio. Battista Moscaglia intitolati gl'Amorosi Gigli
+  filename: Il Primo Libro de Madrigali a quattro, a cinque et a sei voci di Gio. Battista Moscaglia intitolati gl'Amorosi Gigli.md
+  id: DtH2G9scfAmt
+  n_id: 245191864964134867334
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE046472
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV14600010
+    - https://rism.online/sources/990042370
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Il primo libro de madrigali a quattro, a cinque ed a sei voci con due dialogi a otto
+  inception:
+    - value: 1575
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE046472
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1575
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MV342DTV6Haa
+      label: Giovanni Battista Moscaglia
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DtH2G9scfAmt.json
+content:
+  markdown_content: ""

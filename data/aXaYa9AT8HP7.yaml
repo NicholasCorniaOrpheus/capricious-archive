@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  label: Giovanni Andrea Valvassore
+  description:
+  aliases:
+    - Giovanni Andrea Valvassorio
+  base_name: Giovanni Andrea Valvassore
+  filename: Giovanni Andrea Valvassore.md
+  id: aXaYa9AT8HP7
+  n_id: 671054415648778644746
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q17181905
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noRgAWmjYV8o
+      label: publisher
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 16098
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aXaYa9AT8HP7.json
+content:
+  markdown_content: ""

@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - delbiancoDubbiaPaceCerta2022
+  base_name: (Del Bianco 2022)
+  filename: (Del Bianco 2022).md
+  label: (Del Bianco 2022)
+  id: GRpPqVc5BLsh
+  n_id: 297523965215031915858
+statements:
+  part_of:
+  citation:
+    - "Del Bianco, Giulia. 2022. ‘«in dubbia pace e certa guerra io vivo». Il Petrarchismo tormentato di Laura Battiferri: lingua, stile e metrica.’ Master, Padua, Italy: Università degli Studi di Padova."
+  isbn:
+  identifier:
+    - https://thesis.unipd.it/handle/20.500.12608/31217
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/delbiancoDubbiaPaceCerta2022.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GRpPqVc5BLsh.json
+content:
+  markdown_content: ""

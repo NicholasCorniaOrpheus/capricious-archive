@@ -1,0 +1,35 @@
+metadata:
+  class: Organisation
+  label: Duchess Anna Amalia Library
+  description:
+  aliases:
+    - Herzogin Anna Amalia Bibliothek
+  base_name: Duchess Anna Amalia Library
+  filename: Duchess Anna Amalia Library.md
+  id: Lnmzuw4n6M7c
+  n_id: 387655119074905930957
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q50711
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U72CH62RBSiC
+      label: digital library
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://haab-digital.klassik-stiftung.de/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Lnmzuw4n6M7c.json
+content:
+  markdown_content: ""

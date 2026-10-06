@@ -1,0 +1,50 @@
+metadata:
+  class: Agent
+  base_name: Torquato Perotti
+  filename: Torquato Perotti.md
+  label: Torquato Perotti
+  id: QgoL9LvwGAQ5
+  n_id: 468034900088592370092
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tjNWon78ob2
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+      label: Accademia degli Umoristi di Roma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+      label: poet
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NxdKPbfut7Ew
+      label: bishop
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WiCEVVDwxhAu
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dJDNhJQSYzz2
+        label: student
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+      label: Marco Antonio Bonciari
+  notable_work:
+  interested_in:
+  catalog_identifier:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QgoL9LvwGAQ5.json
+content:
+  markdown_content: ""

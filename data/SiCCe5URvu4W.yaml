@@ -1,0 +1,77 @@
+metadata:
+  class: PoeticWork
+  label: De l'Inghilterra, oh vaghe Ninfe et belle
+  description: Praise of English women by Giordano Bruno.
+  aliases:
+  base_name: De l'Inghilterra, oh vaghe Ninfe et belle
+  filename: De l'Inghilterra, oh vaghe Ninfe et belle.md
+  id: SiCCe5URvu4W
+  n_id: 509807630097523513249
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e7PbxpNbbM2c
+      section: Iscusazion del Nolano. Alle più virtuose, et leggiadre dame.
+      label: De gli eroici furori
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZTekfwVRnUbd
+      label: canzone
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HDNEwQhdjKrY
+      label: Artemis
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5rXXXivjHnqu
+      label: ingenuity
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      De l'Inghilterra, oh vaghe Ninfe et belle,
+      Non voi ha nostro spirt'in schif', e sdegna;
+      Né per mettervi giù suo stil s'ingegna,
+      Se non convien che femine v'appelle.
+
+      Né computar, né eccettuar da quelle,
+      Son certo che voi dive mi convegna,
+      Se l'influsso commun in voi non regna,
+      Et siete in terra quel ch'in ciel le stelle.
+
+      De voi oh Dame la beltà sovrana
+      Nostro rigor né morder può, né vuole,
+      Che non fa mira a specie sopr'humana.
+
+      Lungi arsenico tal quindi s'invole,
+      Dove si scorge l'unica Diana,
+      Qual è tra voi quel che tra gli astri il sole.
+
+      L'ingegno, le parole
+      El mio (qualunque sia) vergar di carte
+      Faranv' ossequio s'il studio, e l'arte.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/de_l'Inghilterra,_oh_vaghe_ninfe_et_belle
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SiCCe5URvu4W.json
+content:
+  markdown_content: ""

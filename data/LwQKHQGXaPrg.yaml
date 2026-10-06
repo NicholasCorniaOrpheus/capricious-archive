@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: composer
+  base_name: composer
+  filename: composer.md
+  id: LwQKHQGXaPrg
+  n_id: 390775621187395058321
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q36834
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LwQKHQGXaPrg.json
+content:
+  markdown_content: ""

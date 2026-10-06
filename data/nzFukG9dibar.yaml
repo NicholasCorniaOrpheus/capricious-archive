@@ -1,0 +1,32 @@
+metadata:
+  class: EmblemClass
+  label: Allegory of Prudence
+  description:
+  aliases:
+  base_name: Allegory of Prudence
+  filename: Allegory of Prudence.md
+  id: nzFukG9dibar
+  n_id: 928341796338335664063
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2528145
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dL2X9Z4URcNU
+      label: (Bolzoni 2012)
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k3nhzcwa5PvD
+      label: time
+  depicts:
+  part_of:
+  used_by:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/K5nDsiN27Nem
+      label: Tiziano
+  motto:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/a/a7/Titian_-_Allegorie_der_Zeit.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nzFukG9dibar.json
+content:
+  markdown_content: ""

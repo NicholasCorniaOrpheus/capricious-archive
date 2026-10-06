@@ -1,0 +1,69 @@
+metadata:
+  class: Agent
+  label: Artemisia Gentileschi
+  description:
+  aliases:
+  base_name: Artemisia Gentileschi
+  filename: Artemisia Gentileschi.md
+  id: MQhsWqatKAW2
+  n_id: 400300054673671248267
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q212657
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Jg8QjAtXpBjn
+      start_date: 1626
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia dei Desiosi di Venezia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9B2indRe4jzU
+      start_date: 1616
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia del Disegno di Firenze
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LGtUC5uzAbN8
+      label: painter
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5f6kHhAxyPZh
+      label: music making
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/3/32/Artemisia_Gentileschi_Selfportrait_Martyr.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  local_asset_path: ./assets/agents/artemisia_gentileschi
+  jpg:
+    - 3415_María_Magdalena_como_melancolía.jpg
+    - Artemisa_Susanna_1622.jpg
+    - Artemisia_Gentileschi_Mary_Magdalene_Pitti.jpg
+    - Esther-before-ahasuerus.jpg
+    - Saint_Cecilia_by_Artemisia_Gentileschi.jpg
+    - Self-portrait_as_the_Allegory_of_Painting_by_Artemisia_Gentileschi.jpg
+    - St-cecilia.jpg
+  jpeg:
+    - Artemisia_Gentileschi_-_Self-Portrait_as_a_Lute_Player.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MQhsWqatKAW2.json
+content:
+  markdown_content: ""

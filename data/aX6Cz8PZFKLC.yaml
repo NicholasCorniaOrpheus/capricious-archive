@@ -1,0 +1,26 @@
+metadata:
+  class: Place
+  label: Ancona
+  description:
+  aliases:
+  base_name: Ancona
+  filename: Ancona.md
+  id: aX6Cz8PZFKLC
+  n_id: 670874393022015675943
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3415
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bUguxUya4YGY
+      label: city
+  country:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYFG3hyEFbPP
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aX6Cz8PZFKLC.json
+content:
+  markdown_content: ""

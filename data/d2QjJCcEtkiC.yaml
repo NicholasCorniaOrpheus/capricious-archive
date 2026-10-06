@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  aliases:
+    - raggio
+    - ray of light
+    - beam of light
+  base_name: light beam
+  filename: light beam.md
+  label: light beam
+  id: d2QjJCcEtkiC
+  n_id: 722400828656876046976
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/N4bFzzPPkFAZ
+      label: natural phenomenon
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q2493660
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/d2QjJCcEtkiC.json
+content:
+  markdown_content: ""

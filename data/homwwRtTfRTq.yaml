@@ -1,0 +1,46 @@
+metadata:
+  class: Book
+  label: Gerusalemme distrutta
+  description:
+  aliases:
+  base_name: Gerusalemme distrutta
+  filename: Gerusalemme distrutta.md
+  id: homwwRtTfRTq
+  n_id: 821370718782378660407
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJ5rjP86CXEj
+      label: (Nicolaci 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kBuv5hPtPaN6
+      label: manuscript
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+  inception:
+    - sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      value: 1617
+  has_version:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iAn5hb6SChbm
+      label: Paolo Guidotti
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d6D6vnCgLE5s
+      label: Crusades
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hnGUsqmNR3ko
+      label: Gierusalemme liberata, poema heroico del sig. Torquato Tasso
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/homwwRtTfRTq.json
+content:
+  markdown_content: ""

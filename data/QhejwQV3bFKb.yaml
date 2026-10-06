@@ -1,0 +1,43 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Incostanti di Firenze
+  description:
+  aliases:
+  base_name: Accademia degli Incostanti di Firenze
+  filename: Accademia degli Incostanti di Firenze.md
+  id: QhejwQV3bFKb
+  n_id: 468342423179947177905
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A7K8FzhUQ2Bq
+      label: (Cosentino 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y9DyFsMs8dox
+        label: patron of the arts
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M4sAGJio9XZE
+      label: Don Giovanni de' Medici
+  interested_in:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Kyg2HCt7oBHE
+      label: La finta mora
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9QoPVnbEVYau
+      label: La Fiera commedia di Michelagnolo Buonarruoti il giovane
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QhejwQV3bFKb.json
+content:
+  markdown_content: ""

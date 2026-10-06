@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: volvelle
+  description:
+  aliases:
+    - wheel chart
+    - combinatorial wheel
+  base_name: volvelle
+  filename: volvelle.md
+  id: 7WzaN4hdqgqS
+  n_id: 113675719538923091013
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1653748
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/my6YsDbEHxhR
+      label: artificial object
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7WzaN4hdqgqS.json
+content:
+  markdown_content: ""

@@ -1,0 +1,56 @@
+metadata:
+  class: MusicComposition
+  label: Stella, che fra le stelle (Viola)
+  description:
+  aliases:
+  base_name: Stella, che fra le stelle (Viola)
+  filename: Stella, che fra le stelle (Viola).md
+  id: 3tQnzH9H92T2
+  n_id: 38882311504896550674
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/279760000010101_000000076800C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5i39NyxCPans
+      label: Bartolomeo Ferrini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/eJkZtqiCPcgu
+      label: Alfonso dalla Viola
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/koYRuMoaxBMQ
+      label: Primo libro di Madrigali d'Alfonso dalla Viola
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/22RqnT9cUbBL
+      label: Stella, che fra le stelle
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/viola-stella,_che_fra_le_stelle
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3tQnzH9H92T2.json
+content:
+  markdown_content: ""

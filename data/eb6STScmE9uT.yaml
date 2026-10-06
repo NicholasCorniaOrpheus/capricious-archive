@@ -1,0 +1,60 @@
+metadata:
+  class: PoeticWork
+  label: En volucuis generosa minas sub arundine spernit
+  description: |-
+    Opening poem of the treatise Arithmologia, dedicated to the Nádasdy family. An English translation of the text is "Behold, the generous bird scorns the threats under the reed.
+    While they cherish the rough, forged bark.
+    Thus you join to yourself the secure pasture of Nadasdie,
+    To whom alone, the sadder shadow of weapons, rest
+    Behold, the generous bird scorns the threats under the reed.
+    While they cherish the rough, forged bark.
+    Thus you join to yourself the secure pasture of Nadasdie,
+    To whom alone, the sadder shadow of weapons, rest".
+  aliases:
+  base_name: En volucuis generosa minas sub arundine spernit
+  filename: En volucuis generosa minas sub arundine spernit.md
+  id: eb6STScmE9uT
+  n_id: 754867625951676228190
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZnAwJRxKMGDX
+      label: Athanasius Kircher
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4827Mbm9Sta6
+      section: Frotispiece
+      label: Arithmologia sive De abditis Numerorum mysteriis
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LdZT89xoVRXU
+      label: hexameter
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+  text:
+    - |-
+      En volucuis generosa minas sub arundine spernit.
+      Aspera dum ficto cortice fovent.
+      Sic tibi securam iungis Nadasdie pasem,
+      Sola cui, armorum tristior umbra, quies
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/en_volucuis_generosa_minas_sub_arundine_spernit
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/eb6STScmE9uT.json
+content:
+  markdown_content: ""

@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: leader
+  description: Leading figure of an organization, such as a "principe" from an Italian academy.
+  aliases:
+    - principe
+  base_name: leader
+  filename: leader.md
+  id: EUQs5QBHtvEE
+  n_id: 257188864150907040972
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1251441
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EUQs5QBHtvEE.json
+content:
+  markdown_content: ""

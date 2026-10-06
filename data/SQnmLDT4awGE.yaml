@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: alto
+  description:
+  aliases:
+    - altus
+  base_name: altus
+  filename: altus.md
+  id: SQnmLDT4awGE
+  n_id: 503510622085356860484
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TdzoJDcQqZEP
+      label: type of musical instrument
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q6983813
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SQnmLDT4awGE.json
+content:
+  markdown_content: ""

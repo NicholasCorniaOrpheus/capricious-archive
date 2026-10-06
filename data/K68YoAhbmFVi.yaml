@@ -1,0 +1,55 @@
+metadata:
+  class: PoeticWork
+  description: There seems to be any poetry collection including this poem by Molza, except from the madrigal by Vinci.
+  base_name: Ne la dolce stagion di Primavera
+  filename: Ne la dolce stagion di Primavera.md
+  label: Ne la dolce stagion di Primavera
+  id: K68YoAhbmFVi
+  n_id: 352299971422581966697
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4
+      label: Tarquinia Molza
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9T89JMf24QQZ
+      label: Di Pietro Vinci Il terzo libro de madrigali a cinque voci
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFcsbFYFrFvB
+      label: laurel
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Ne la dolce stagion Di primavera
+      Senza foglie vedrò mirti et allori
+      Di vern'al ghiaccio i fiori
+      Sorger lieti e fiorir rose e viole
+      Pria che da voi mio sole
+      Sciolga quest'alma o che per altr'oggetto,
+      Nuovo foco d'amor mi scald'il petto.
+assets:
+  local_asset_path: ./assets/poems/ne_la_dolce_stagion_di_primavera
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/K68YoAhbmFVi.json
+content:
+  markdown_content: ""

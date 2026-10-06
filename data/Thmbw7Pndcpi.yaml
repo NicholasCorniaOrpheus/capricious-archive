@@ -1,0 +1,40 @@
+metadata:
+  class: Agent
+  label: Tommaso Del Nero
+  description:
+  aliases:
+  base_name: Tommaso Del Nero
+  filename: Tommaso Del Nero.md
+  id: Thmbw7Pndcpi
+  n_id: 530293691073310966618
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q55226987
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Nx8bqYnm9d6V
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      label: Accademia degli Alterati di Firenze
+  occupation:
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Thmbw7Pndcpi.json
+content:
+  markdown_content: ""

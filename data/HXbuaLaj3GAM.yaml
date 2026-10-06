@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Urbaniak 2018)
+  description:
+  aliases:
+    - urbaniakFuriosoDiGiovanni2018
+  base_name: (Urbaniak 2018)
+  filename: (Urbaniak 2018).md
+  id: HXbuaLaj3GAM
+  n_id: 320252809333175255725
+statements:
+  identifier:
+    - https://www.italianisti.it/pubblicazioni/atti-di-congresso/la-letteratura-italiana-e-le-arti
+  described_by_source:
+  part_of:
+  citation:
+    - "Urbaniak, Martyna. 2018. ‘Il “Furioso” di Giovanni Varisco (1568) e la tradizione illustrativa cinquecentesca del poema di Ariosto’. In La letteratura italiana e le arti. Atti del XX Congresso dell’ADI - Associazione degli Italianisti (Napoli, 7-10 settembre 2016). Rome, Italy: Adi editore."
+  isbn:
+    - 978-88-907905-5-3
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/urbaniakFuriosoDiGiovanni2018.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HXbuaLaj3GAM.json
+content:
+  markdown_content: ""

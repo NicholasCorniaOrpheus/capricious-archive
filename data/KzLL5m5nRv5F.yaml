@@ -1,0 +1,166 @@
+metadata:
+  class: PoeticWork
+  label: Quest'amore, Quest'arsura
+  description:
+  aliases:
+  base_name: Quest'amore, Quest'arsura
+  filename: Quest'amore, Quest'arsura.md
+  id: KzLL5m5nRv5F
+  n_id: 371200504125052139341
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EfY2dL7MpgHY
+      label: anonymous
+  part_of:
+    - section: Scherzo XLII. Dello stesso. Varie difinizioni d'Amore
+      volume: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6PtpfEAH4kyX
+      pages: 207-210
+      label: Della corona di Apollo composta del piu vago de' fiori di permesso. Da Piergirolamo Gentile
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9XkyVfBG5hTX
+      label: love
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUkQiYzJMHtq
+      label: anaphora
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ApTxwHF6JNzT
+      label: barzelletta
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bN59SRcB24eU
+      label: octosyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3cN6GaYEFUgZ
+      label: lover
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cMmSMNQW8ZTW
+      label: jealousy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LThUzJVzHcFH
+      label: game
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CawKsiNZXBxK
+      label: poison
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EZDBUaPa8YSY
+      label: tyrant
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gTxT7dv2YZpB
+      label: labyrinth
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eg2JbgfD3eXo
+      label: enemy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NmhmV8hW6RjH
+      label: magician
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JJB6LuxryAUn
+      label: infinity
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JPb2CgmojbX7
+      label: fleeing
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      QUest'amore,
+      Quest'arsura,
+      Che mi strugge, e mi arde il petto,
+      Un ardore
+      Una cura
+      E che mi empie di sospetto.
+
+      Questo amore,
+      Questo affanno,
+      Che lusingo, e covo in seno,
+      Un Signore
+      Un Tiranno
+      E, che mi empie di veleno.
+
+      Questo amore
+      Questa speme,
+      Ch'esca fassi al mio desio
+      È un timore
+      Che mi tiene
+      Di me stesso in fero oblio.
+
+      Quest'amore
+      Questa gioia,
+      Per cui lagrimo, e sospiro,
+      Un dolore
+      una noia
+      E ch'accresce il mio martiro.
+
+      Quest'amore
+      Questa morte,
+      Ond'io vivo in un bel viso;
+      È un orrore
+      Così forte
+      Che tormenta il cor anciso.
+
+      Questo amore
+      Questo intrico,
+      Onde stommi in laberinto,
+      Un rancore,
+      Un nemico
+      E che m'have quasi estinto.
+
+      Questo amore
+      Questo gioco,
+      Che a gl'amanti tanto piace,
+      È un malore
+      È un rio foco
+      Che perturba ogni mia pace.
+
+      Questo amore,
+      Questa fera,
+      Che le viscere divora
+      È un terrore
+      Di Megera
+      Che mi afflige l'alma ogn'hora.
+
+      Questo amore,
+      Questo vento,
+      Che 'l mar turba di mia vita
+      È un tremore
+      È un tormento
+      Che mia pena fa infinita
+
+      Questo amore
+      Fanciulino
+      Voglia par benigna, e pia
+      Grande il core
+      Fa meschino
+      Pien di tema, e gelosia.
+
+      Questo amore
+      Di cui parlo,
+      Per cui son presso all'inferno,
+      Un furore,
+      un gran tarlo
+      E che i cuor rode in eterno.
+
+      Dunque amanti
+      Fuggiam pure
+      Questa febre; questa lue;
+      Che di pianti,
+      Che di pene
+      Sempre amor prodigo fue.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/quest'amore,_quest'arsura
+  jpg:
+    - 001.jpg
+    - 002.jpg
+    - 003.jpg
+    - oo4.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KzLL5m5nRv5F.json
+content:
+  markdown_content: ""

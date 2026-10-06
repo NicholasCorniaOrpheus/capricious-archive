@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  aliases:
+    - Petrus Phalesius the Younger
+  base_name: Pierre Phalèse the Younger
+  filename: Pierre Phalèse the Younger.md
+  label: Pierre Phalèse the Younger
+  id: FPDujohL8nSA
+  n_id: 275945029256467669265
+statements:
+  instance_of:
+  gender:
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3itm2rqDGnBv
+      label: Antwerpen
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noRgAWmjYV8o
+      label: publisher
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q21075428
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FPDujohL8nSA.json
+content:
+  markdown_content: ""

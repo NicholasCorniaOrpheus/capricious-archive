@@ -1,0 +1,27 @@
+metadata:
+  class: Place
+  label: Genova
+  description:
+  aliases:
+    - Genoa
+  base_name: Genova
+  filename: Genova.md
+  id: APGXXko9yAiK
+  n_id: 172782109177507086131
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1449
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bUguxUya4YGY
+      label: city
+  country:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYFG3hyEFbPP
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/APGXXko9yAiK.json
+content:
+  markdown_content: ""

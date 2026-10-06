@@ -1,0 +1,35 @@
+metadata:
+  class: Organisation
+  label: Munich Digitization Center
+  description:
+  aliases:
+    - MDZ
+    - Münchener Digitalisierungszentrum
+  base_name: Munich Digitization Center
+  filename: Munich Digitization Center.md
+  id: T648K9QCGaj9
+  n_id: 517359035637429034243
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1645155
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U72CH62RBSiC
+      label: digital library
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://www.digitale-sammlungen.de
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/T648K9QCGaj9.json
+content:
+  markdown_content: ""

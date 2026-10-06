@@ -1,0 +1,50 @@
+metadata:
+  class: NotatedMusic
+  base_name: Madrigali e pazzarelle a due voci. Libro primo di Nicolò Rubini
+  filename: Madrigali e pazzarelle a due voci. Libro primo di Nicolò Rubini.md
+  label: Madrigali e pazzarelle a due voci. Libro primo di Nicolò Rubini
+  id: TB4y98S9giqN
+  n_id: 519174642741316786448
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jkCs6Sb8PMex
+      label: music score
+  title:
+    - "Madrigali e pazzarelle a due voci : per cantare nel arpicordo over tiorba : libro primo / di Nicolò Rubini da Modena"
+  inception:
+    - value: 1610
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0274029
+      publication_date: 1610
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ES6YsgRBW7Rp
+        label: Ricciardo Amadino
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/35zyajrobsrv
+      label: Nicolò Rubini
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFRZ6pAZFnbn
+      label: continuo group
+    - quantity: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJY5Y5H82dpd
+      label: voice
+  identifier:
+    - https://rism.online/sources/990056331
+    - http://id.sbn.it/bid/MUS0274029
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV18530010
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TB4y98S9giqN.json
+content:
+  markdown_content: ""

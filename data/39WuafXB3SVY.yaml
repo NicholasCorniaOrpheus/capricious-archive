@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  aliases:
+  base_name: anatomical entity
+  filename: anatomical entity.md
+  label: anatomical entity
+  id: 39WuafXB3SVY
+  n_id: 23353720878237174372
+statements:
+  instance_of:
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q27043950
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/39WuafXB3SVY.json
+content:
+  markdown_content: ""

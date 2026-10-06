@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Toffetti et al. 2026)
+  description:
+  aliases:
+    - toffettiMusicareDBDatabase2026
+  base_name: (Toffetti et al. 2026)
+  filename: (Toffetti et al. 2026).md
+  id: dR6kq3ms3asC
+  n_id: 730613440693295702536
+statements:
+  identifier:
+    - https://doi.org/10.5281/zenodo.21234768
+  described_by_source:
+  part_of:
+  citation:
+    - "Toffetti, Marina, Gabriele Taschetti, Chiara Comparin, and Enrico Scavo. 2026. ‘Musicare DB – A Database of Incomplete Printed Music. Project “MUSICARE. Musiche Incomplete: Censimento, Analisi, Restituzione / Taking CARE of Incomplete MUSIC”’. Zenodo. doi:10.5281/ZENODO.21234768."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/toffettiMusicareDBDatabase2026.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dR6kq3ms3asC.json
+content:
+  markdown_content: ""

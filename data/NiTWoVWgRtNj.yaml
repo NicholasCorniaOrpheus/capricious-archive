@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: heterodoxy
+  description:
+  aliases:
+  base_name: heterodoxy
+  filename: heterodoxy.md
+  id: NiTWoVWgRtNj
+  n_id: 427361326598059609385
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1992247
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NiTWoVWgRtNj.json
+content:
+  markdown_content: ""

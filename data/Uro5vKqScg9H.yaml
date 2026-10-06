@@ -1,0 +1,78 @@
+metadata:
+  class: Book
+  label: Rime della signora Tullia di Aragona et di diversi a lei
+  description:
+  aliases:
+  base_name: Rime della signora Tullia di Aragona et di diversi a lei
+  filename: Rime della signora Tullia di Aragona et di diversi a lei.md
+  id: Uro5vKqScg9H
+  n_id: 554197249470755769948
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/LIBX00001809
+    - https://edit16.iccu.sbn.it/titolo/CNCE002287
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime della signora Tullia di Aragona; et di diuersi a lei
+  inception:
+    - value: 1547
+  has_version:
+    - publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10190169/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10190169
+      publication_date: 1549
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      note: Reprint.
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE002288
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE002287
+      external_source: https://viewer.onb.ac.at/10A55303/
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/10A55303
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      publication_date: 1547
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3GL3Dt8fNHA5
+      label: Eleanor of Toledo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iajxupbXH9BQ
+      label: Tullia d'Aragona
+  subject:
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10190169/manifest
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/10A55303
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Uro5vKqScg9H.json
+content:
+  markdown_content: ""

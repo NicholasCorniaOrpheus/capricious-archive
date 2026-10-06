@@ -1,0 +1,27 @@
+metadata:
+  class: Place
+  label: Mantova
+  description:
+  aliases:
+    - Mantua
+  base_name: Mantova
+  filename: Mantova.md
+  id: hwWposH4v2nt
+  n_id: 824170918731831622703
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q6247
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bUguxUya4YGY
+      label: city
+  country:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYFG3hyEFbPP
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hwWposH4v2nt.json
+content:
+  markdown_content: ""

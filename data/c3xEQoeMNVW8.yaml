@@ -1,0 +1,37 @@
+metadata:
+  class: Organisation
+  label: Musicare DB
+  description:
+  aliases:
+  base_name: Musicare DB
+  filename: Musicare DB.md
+  id: c3xEQoeMNVW8
+  n_id: 702326990363338462608
+statements:
+  identifier:
+    - https://doi.org/10.5281/zenodo.21234768
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nyo58nNBLE9K
+      label: online database
+  inception:
+    - value: 2026
+  dissolved:
+  location:
+  official_website:
+    - https://musicare.beniculturali.unipd.it/
+  catalog_identifier:
+  member:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/c3xEQoeMNVW8.json
+content:
+  markdown_content: ""

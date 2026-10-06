@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - besuttiStorieDiEmancipazione2019
+  base_name: (Besutti 2019)
+  filename: (Besutti 2019).md
+  label: (Besutti 2019)
+  id: nS5ZgWwzPxTR
+  n_id: 916690979217475412000
+statements:
+  part_of:
+  citation:
+    - "Besutti, Paola. 2019. ‘Storie Di Emancipazione: Virginia Ramponi Andreini (1583–1631) Dal Suocero al Marito’. Italica Wratislaviensia 10 (2). Wydawnictwo Adam Marszałek: 65–83."
+  isbn:
+  identifier:
+    - https://doi.org/10.15804/IW.2019.10.1.17
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/besuttiStorieDiEmancipazione2019.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nS5ZgWwzPxTR.json
+content:
+  markdown_content: ""

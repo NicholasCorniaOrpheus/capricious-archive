@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Ross 2010)
+  description:
+  aliases:
+    - rossBirthFeminismWoman2010
+  base_name: (Ross 2010)
+  filename: (Ross 2010).md
+  id: Er6SYXZFyvp5
+  n_id: 265036538434358423499
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Ross, Sarah Gwyneth. 2010. The Birth of Feminism: Woman as Intellect in Renaissance Italy and England. Harvard University Press."
+  isbn:
+    - 978-0-674-05453-0
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/rossBirthFeminismWoman2010.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Er6SYXZFyvp5.json
+content:
+  markdown_content: ""

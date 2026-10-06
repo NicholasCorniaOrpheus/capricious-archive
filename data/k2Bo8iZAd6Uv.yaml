@@ -1,0 +1,87 @@
+metadata:
+  class: PoeticWork
+  label: Ruscelli, onde sì lungo, e chiaro fiume
+  description:
+  aliases:
+  base_name: Ruscelli, onde sì lungo, e chiaro fiume
+  filename: Ruscelli, onde sì lungo, e chiaro fiume.md
+  id: k2Bo8iZAd6Uv
+  n_id: 866769986097452393842
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+  part_of:
+    - section: Benedetto Varchi a Girol. Ruscelli.
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YnKescy9oBAL
+      pages: 373
+      label: Del tempio alla divina signora donna Giovanna d'Aragona
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DHTHVpQnvYLr
+      label: humility
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      label: Giovanna d'Aragona
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3H8EUFWaF3kZ
+      label: river
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5f6kHhAxyPZh
+      label: music making
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      RUSCELLI, onde sì lungo, e chiaro fiume
+      Nasce d'ogni virtute; de deriva
+      Mar' ampio si, che non ha fondo, o riva,
+      D'ogni rara eccellenza, e bel costume;
+
+      Se'l mio sì basso stil cantar presume,
+      E cercando lodar, di lode priva
+      L'alta Donna ARAGONIA, a voi s'ascriva,
+      Che Dedal sete, a le mie inferme piume.
+
+      Come volete voi, che rozo, e vile,
+      E roco suon de la mia canna arrive,
+      Dove a gran pena va la vostra squilla?
+
+      Poi l'alma fronde, chel'ira prescrive
+      Di Giove, sempre, oh sia'n cittade, o'n villa,
+      Tutto a se trami per antico stile.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/ruscelli,_onde_sì_lungo,_e_chiaro_fiume
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/k2Bo8iZAd6Uv.json
+content:
+  markdown_content: ""

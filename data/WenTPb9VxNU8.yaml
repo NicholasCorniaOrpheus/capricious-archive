@@ -1,0 +1,19 @@
+metadata:
+  class: Concept
+  base_name: poetry genre
+  filename: poetry genre.md
+  label: poetry genre
+  id: WenTPb9VxNU8
+  n_id: 591120689181748256487
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q110220157
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/WenTPb9VxNU8.json
+content:
+  markdown_content: ""

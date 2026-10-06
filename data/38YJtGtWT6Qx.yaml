@@ -1,0 +1,49 @@
+metadata:
+  class: NotatedMusic
+  label: L'Apollo di Ottavio Tronsarelli
+  description:
+  aliases:
+  base_name: L'Apollo di Ottavio Tronsarelli
+  filename: L'Apollo di Ottavio Tronsarelli.md
+  id: 38YJtGtWT6Qx
+  n_id: 23000524862369198556
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0020086
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MmwqyGSf2bpf
+      label: (Terzaghi 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8ECQGMNHahT5
+      label: opera
+  title:
+    - L' Apollo di Ottavio Tronsarelli
+  inception:
+    - value: 1634
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0020086
+      publication_date: 1634
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGmzLJPd5rUo
+        label: Francesco Corbelletti
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUreZmQUA3Bx
+        label: librettist
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nxtaeZb4ETk2
+      label: Ottavio Tronsarelli
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+  has_part:
+  instrumentation:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/38YJtGtWT6Qx.json
+content:
+  markdown_content: ""

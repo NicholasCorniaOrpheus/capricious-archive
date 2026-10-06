@@ -1,0 +1,37 @@
+metadata:
+  class: Book
+  label: Canzoniere
+  description:
+  aliases:
+    - Rerum vulgarium fragmenta
+  base_name: Canzoniere
+  filename: Canzoniere.md
+  id: XdigZy4zTaZG
+  n_id: 611370618775344190052
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q777574
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rerum vulgarium fragmenta
+  inception:
+  has_version:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QqXpkAFcv5qY
+      label: Francesco Petrarca
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XdigZy4zTaZG.json
+content:
+  markdown_content: ""

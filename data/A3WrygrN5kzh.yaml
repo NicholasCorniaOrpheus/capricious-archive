@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - urbiniProcaccioliFortuna2010
+  base_name: (Urbini and Procaccioli 2010)
+  filename: (Urbini and Procaccioli 2010).md
+  label: (Urbini and Procaccioli 2010)
+  id: A3WrygrN5kzh
+  n_id: 165632530861811585538
+statements:
+  part_of:
+  citation:
+    - "Urbini, Silvia, and Paolo Procaccioli. 2010. ‘Fortuna “donna di Palazzo”. Libri sorte da Lorenzo Spirito a Giuseppe Maria Mitelli’. In Dea Fortuna - Iconografia di un mito, edited by Manuela Rossi. Modena, IT: Festival della Filosofia di Modena."
+  isbn:
+  identifier:
+    - https://www.academia.edu/1105862
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/urbiniProcaccioliFortuna2010.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/A3WrygrN5kzh.json
+content:
+  markdown_content: ""

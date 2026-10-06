@@ -1,0 +1,49 @@
+metadata:
+  class: Book
+  label: La turca comedia boschereccia
+  description:
+  aliases:
+  base_name: La turca comedia boschereccia
+  filename: La turca comedia boschereccia.md
+  id: Paj4fTFZAefB
+  n_id: 445199670355773578124
+statements:
+  identifier:
+    - http://id.sbn.it/bid/BVEE024626
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nR5FxU5FRPkD
+      label: comedy
+    - "[[libretto]]"
+  title:
+    - La turca comedia boschereccia, et maritima, di Gio. Battista Andreini fiorentino comico fedele
+  inception:
+    - value: 1611
+  has_version:
+    - permalink: http://id.sbn.it/bid/BVEE024626
+      publication_date: 1620
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6kipdXKBjcao
+        label: Paolo Guerigli
+      external_source: https://teca.bncf.firenze.sbn.it/ImageViewer/servlet/ImageViewer?idr=BNCF0003837544
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BzZ5xTZQpucC
+      label: Giambattista Andreini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Paj4fTFZAefB.json
+content:
+  markdown_content: ""

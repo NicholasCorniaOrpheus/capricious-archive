@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: river
+  description:
+  aliases:
+    - rio
+    - fiume
+    - ruscello
+  base_name: river
+  filename: river.md
+  id: 3H8EUFWaF3kZ
+  n_id: 26105897076890038348
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q4022
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PBpvEEsLjb3i
+      label: natural entity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3H8EUFWaF3kZ.json
+content:
+  markdown_content: ""

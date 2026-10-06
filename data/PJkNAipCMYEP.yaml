@@ -1,0 +1,47 @@
+metadata:
+  class: Agent
+  label: Maddalena Casulana
+  description:
+  aliases:
+  base_name: Maddalena Casulana
+  filename: Maddalena Casulana.md
+  id: PJkNAipCMYEP
+  n_id: 439415438081302302429
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q269690
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RCbk8wAUnQ7c
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia Olimpica di Vicenza
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DQyic7zZsNUw
+      label: courtesan
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DSK596BdwpXR
+      label: singer
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+      label: composer
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PJkNAipCMYEP.json
+content:
+  markdown_content: ""

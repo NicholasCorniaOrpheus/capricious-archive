@@ -1,0 +1,49 @@
+metadata:
+  class: Book
+  label: Notte solazzevole di cento enigmi da indovinare
+  description:
+  aliases:
+  base_name: Notte solazzevole di cento enigmi da indovinare
+  filename: Notte solazzevole di cento enigmi da indovinare.md
+  id: 6hh9Qhdn4UgF
+  n_id: 96911430886180161748
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE014418
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Notte solazzeuole di cento enigmi da indouinare, aggiontoui altri sette sonetti nel medesimo genere ... Di Giulio Cesare dalla Croce
+  inception:
+    - value: 1599
+  has_version:
+    - IIIF_manifest: https://brixiana.jarvis.memooria.org/meta/iiif/36f75618-be81-4a3b-a705-38eeaeec7a97/manifest
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE014418
+      publication_date: 1599
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JE4qx5PTzpnN
+          label: Verona
+      external_source: https://edit16.iccu.sbn.it/titolo/CNCE014418
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fNQ3Yu7akyGg
+      label: Giulio Cesare Croce
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8LkVSvtxvTfr
+      label: riddle
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://brixiana.jarvis.memooria.org/meta/iiif/36f75618-be81-4a3b-a705-38eeaeec7a97/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6hh9Qhdn4UgF.json
+content:
+  markdown_content: ""

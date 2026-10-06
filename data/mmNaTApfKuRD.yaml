@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: martyrdom
+  description:
+  aliases:
+    - martirio
+  base_name: martyrdom
+  filename: martyrdom.md
+  id: mmNaTApfKuRD
+  n_id: 903041772800502669956
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q46999986
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mmNaTApfKuRD.json
+content:
+  markdown_content: ""

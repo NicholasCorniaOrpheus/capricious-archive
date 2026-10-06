@@ -1,0 +1,79 @@
+metadata:
+  class: PoeticWork
+  label: S'alcun fia mai, che i versi mie negletti
+  description:
+  aliases:
+    - S'alcun sia mai, che i versi mie negletti
+  base_name: S'alcun fia mai, che i versi mie negletti
+  filename: S'alcun fia mai, che i versi mie negletti.md
+  id: JGvGSebDEQje
+  n_id: 335574749131147023207
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZcXP8sVmx6Dy
+      label: (Sorrentini 2015)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+  part_of:
+    - section: Sonetto Primo.
+      pages: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UpNUpRqtonTK
+      label: Rime d'Isabella Andreini padovana comica Gelosa
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FhSgpXZP28HH
+      label: acting
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2g7SZLhhziYy
+      label: Muse
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EeZ4bUwdHyrE
+      label: deception
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      S'alcun fia mai che i versi miei negletti
+      Legga, non creda a questi finti ardori
+      Che ne le Scene imaginati amori
+      Usa a trattar con non leali affetti:
+
+      Con bugiardi non men che finti detti
+      De le Muse spiegai gli alti furori:
+      Talhor piangendo i falsi miei dolori,
+      Talhor cantando i falsi miei diletti;
+
+      E come ne' Teatri hor Donna, ed hora
+      Huom fei rappresentando in vario stile
+      Quanto volle insegnar Natura ed Arte
+
+      Così la stella mia seguendo ancora
+      Di fuggitiva età nel verde Aprile
+      Vergai con vario stil ben mille carte.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/s'alcun_fia_mai,_che_i_versi_miei_negletti
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JGvGSebDEQje.json
+content:
+  markdown_content: ""

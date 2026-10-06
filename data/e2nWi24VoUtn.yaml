@@ -1,0 +1,29 @@
+metadata:
+  class: Organisation
+  base_name: Progetto Lyra
+  filename: Progetto Lyra.md
+  label: Progetto Lyra
+  id: e2nWi24VoUtn
+  n_id: 743175058689373422398
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nyo58nNBLE9K
+      label: online database
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://lyra.unil.ch/
+  catalog_identifier:
+  member:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  notable_work:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/e2nWi24VoUtn.json
+content:
+  markdown_content: ""

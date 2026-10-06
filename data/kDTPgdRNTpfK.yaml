@@ -1,0 +1,82 @@
+metadata:
+  class: PoeticWork
+  label: La fosca notte già con l'ali tese
+  description:
+  aliases:
+  base_name: La fosca notte già con l'ali tese
+  filename: La fosca notte già con l'ali tese.md
+  id: kDTPgdRNTpfK
+  n_id: 870851364215542621076
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Hc54xeA8ihZ
+      label: Giulio Camillo
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KTS4KPKRX4gX
+      pages: 250
+      section: Rime di M. Giulio Camillo.
+      label: Di m. Giulio Camillo. Tutte le opere
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HXwdX5qkqNv6
+      label: departure
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ByPQWJQU37nM
+      label: night
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Lbex6MKsuMGD
+      label: Lidia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FHkhZJZzAo88
+      label: thousand
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VVfa3GAtLauf
+      label: blood
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      LA FOSCA notte già con l'ali tese
+      L'aere abbracciava, e'l mio partire amaro;
+      Quando de la mia LIDIA il viso chiaro
+      Levato al ciel tutte le stelle accese,
+
+      Parea dicesse loro; oh luci apprese
+      Imparate arder da splendor più raro:
+      Che i Dei la terra d’altro lume ornaro;
+      Mentre la mia beltà qua giù discese.
+
+      Poi volta a me con folgori cocenti,
+      Senza temprar de la lor gran virtute
+      Con lagrime pietosa pur un poco;
+
+      Vatene, disse, in pace: & mille ardenti
+      Fiamme mi mandò al cor, mille ferute.
+      Dunque andrò in pace così sangue & foco?
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/la_fosca_notte_già_con_l'ali_tese
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kDTPgdRNTpfK.json
+content:
+  markdown_content: ""

@@ -1,0 +1,62 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Insensati di Perugia
+  description:
+  aliases:
+  base_name: Accademia degli Insensati di Perugia
+  filename: Accademia degli Insensati di Perugia.md
+  id: BpATM36nYWpT
+  n_id: 202430266889198780269
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GEFAfEGG8p4Q
+      label: (Sacchini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 123
+  member:
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/55EFhGGzKkrw
+          label: OPAC SBN
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oANLr2HLt4wi
+      pseudonym: Furioso
+      label: Leandro Bovarini
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3XYUyiyZcdqz
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+      pseudonym: Forsennato
+      label: Sforza degli Oddi
+    - pseudonym: Scioperato
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FunxZXZiph3r
+      label: Gaspare Murtola
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/j8UKpcDKiaAH
+      label: Ippolita Benigni Manfredi
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mvgBJSj73GUY
+      pseudonym: Sonnacchioso
+      label: Federico Zuccari
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BpATM36nYWpT.json
+content:
+  markdown_content: ""

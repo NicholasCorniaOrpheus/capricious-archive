@@ -1,0 +1,53 @@
+metadata:
+  class: Book
+  label: Cosmographia Petri Apiani
+  description:
+  aliases:
+  base_name: Cosmographia Petri Apiani
+  filename: Cosmographia Petri Apiani.md
+  id: 8eULwfz4JJWZ
+  n_id: 137015847938627464957
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+  inception:
+    - value: 1564
+  has_version:
+    - publication_date: 1564
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3itm2rqDGnBv
+          label: Antwerpen
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GQ2cDPWxBAg5
+        label: Internet Archive
+      external_source: https://archive.org/details/cosmographiaapia00apia
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QmDX7vvxBQGt
+      label: Peter Apian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7SzNifkq9dZo
+      label: astronomy
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7WzaN4hdqgqS
+      label: volvelle
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZrFbfroCnSgR
+      label: astrolabe
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8eULwfz4JJWZ.json
+content:
+  markdown_content: ""

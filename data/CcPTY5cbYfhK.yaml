@@ -1,0 +1,68 @@
+metadata:
+  class: PoeticWork
+  label: Quanto mi sia dolore, e grieve affanno
+  description: Ottava rima for the premature death of Eleonora Sanseverino.
+  aliases:
+  base_name: Quanto mi sia dolore, e grieve affanno
+  filename: Quanto mi sia dolore, e grieve affanno.md
+  id: CcPTY5cbYfhK
+  n_id: 218804357400578873369
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nogTh57GD9Fg
+      label: Eleonora Sanseverino
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MUzXCQRBaVpr
+      section: Canto I. All'Illustrissima donna Elionora Sanseverina.
+      pages: 5
+      label: Discorso sopra tutti li primi canti d'Orlando Furioso
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bz2ZiUr2xdwm
+      label: elegy
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nogTh57GD9Fg
+      label: Eleonora Sanseverino
+  text:
+    - |-
+      Quanto mi sia dolore, e grieve affanno,
+      Illustrissima mia donna Eleonora
+      Del vostro breve tempo e lungo danno
+      Che con fedel consorte io vidi allora
+      Scemar, ne la più verde età de l'anno,
+      Quando in più gioia amor l'arco lavora,
+      Ma lascia il duol che sel mortal suo velo
+      Giace sotterra l'alma hor viene in Cielo.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/quando_mi_sia_dolore,_e_grieve_affanno
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CcPTY5cbYfhK.json
+content:
+  markdown_content: ""

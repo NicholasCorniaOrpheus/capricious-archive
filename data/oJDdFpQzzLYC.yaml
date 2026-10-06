@@ -1,0 +1,49 @@
+metadata:
+  class: MusicComposition
+  label: Oh dolorosi amanti (Menta)
+  description:
+  aliases:
+  base_name: Oh dolorosi amanti (Menta)
+  filename: Oh dolorosi amanti (Menta).md
+  id: oJDdFpQzzLYC
+  n_id: 934481821597387235614
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/191650000010101_000000158600C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UKYoTw5GTXnY
+      label: Francesco Menta
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/igz5Ta6tjbTR
+      label: Madrigali a quattro voci, di Francesco Menta
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7sBL3sm4F4L3
+      label: Oh dolorosi amanti
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/menta-oh_dolorosi_amanti
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/oJDdFpQzzLYC.json
+content:
+  markdown_content: ""

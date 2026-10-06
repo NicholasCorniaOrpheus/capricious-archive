@@ -1,0 +1,46 @@
+metadata:
+  class: Book
+  label: Le scorse olimpiche
+  description:
+  aliases:
+  base_name: Le scorse olimpiche
+  filename: Le scorse olimpiche.md
+  id: 9RfQdDC8TJVt
+  n_id: 153015590213371902677
+statements:
+  identifier:
+    - http://id.sbn.it/bid/CFIE011325
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - Le scorse olimpiche. Trattamenti academici, del commend. conte Pietro Paolo Bissari prencipe dell'Academia olimpica. Libro primo
+  inception:
+    - value: 1648
+  has_version:
+    - publication_date: 1648
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: http://id.sbn.it/bid/CFIE011325
+  contributor:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5kTufm84drrw
+      label: salon
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RHVQ6S4zNphr
+      label: republic of letters
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9RfQdDC8TJVt.json
+content:
+  markdown_content: ""

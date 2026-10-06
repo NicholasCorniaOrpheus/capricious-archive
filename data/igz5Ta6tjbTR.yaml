@@ -1,0 +1,62 @@
+metadata:
+  class: NotatedMusic
+  label: Madrigali a quattro voci, di Francesco Menta
+  description:
+  aliases:
+  base_name: Madrigali a quattro voci, di Francesco Menta
+  filename: Madrigali a quattro voci, di Francesco Menta.md
+  id: igz5Ta6tjbTR
+  n_id: 839549328446912670026
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV13480010
+    - https://rism.online/sources/990040951
+    - https://edit16.iccu.sbn.it/titolo/CNCE046916
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Madrigali a quattro voci, di Francesco Menta nuovamente da lui composti & dati in luce
+  inception:
+    - value: 1560
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE046916
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_T/T097/
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      publication_date: 1560
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9fNbwzr8q8r3
+        label: Antonio Barré
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UKYoTw5GTXnY
+      label: Francesco Menta
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/igz5Ta6tjbTR.json
+content:
+  markdown_content: ""

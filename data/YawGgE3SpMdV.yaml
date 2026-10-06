@@ -1,0 +1,46 @@
+metadata:
+  class: MusicComposition
+  label: Quest'amore, Quest'arsura (Saracini)
+  description:
+  aliases:
+  base_name: Quest'amore, Quest'arsura (Saracini)
+  filename: Quest'amore, Quest'arsura (Saracini).md
+  id: YawGgE3SpMdV
+  n_id: 631000325588265205827
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F237960000010101_000000219900C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AKKfgzSbrwH6
+      label: aria
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kEfNxRTtEXw3
+      label: Claudio Saracini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7FuvbqFsNdbV
+      label: Le seconde musiche di Claudio Saracini
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KzLL5m5nRv5F
+      label: Quest'amore, Quest'arsura
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/saracini-quest'amore,_quest'arsura
+  jpg:
+    - fs_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YawGgE3SpMdV.json
+content:
+  markdown_content: ""

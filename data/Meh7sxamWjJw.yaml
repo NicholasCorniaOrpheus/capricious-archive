@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Nardi 2020)
+  description:
+  aliases:
+    - nardiDunAltoMonte2020
+  base_name: (Nardi 2020)
+  filename: (Nardi 2020).md
+  id: Meh7sxamWjJw
+  n_id: 405363659724005537207
+statements:
+  identifier:
+    - https://art.torvergata.it/handle/2108/259644
+  described_by_source:
+  part_of:
+  citation:
+    - "Nardi, Florinda. 2020. ‘«D’un alto monte, ove si scorge il mare». Il petrarchismo “naturale” di Isabella Morra’. In Dal paesaggio all’ambiente: sentimento della natura nella tradizione poetica italiana, edited by Roberto Rea, 35–48. Temi e testi 196. Roma: Edizioni di storia e letteratura."
+  isbn:
+    - 978-88-9359-450-9
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/nardiDunAltoMonte2020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Meh7sxamWjJw.json
+content:
+  markdown_content: ""

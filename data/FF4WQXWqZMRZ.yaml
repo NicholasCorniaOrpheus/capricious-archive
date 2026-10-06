@@ -1,0 +1,56 @@
+metadata:
+  class: Book
+  label: Bizzarria di varie figure
+  description:
+  aliases:
+  base_name: Bizzarria di varie figure
+  filename: Bizzarria di varie figure.md
+  id: FF4WQXWqZMRZ
+  n_id: 272988998878497040054
+statements:
+  identifier:
+    - https://catalogue.bnf.fr/ark:/12148/cb301534561
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+      label: Bibliothèque nationale de France
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fnaMY86gpvzk
+      label: art print
+  title:
+    - Bizzarie di varie figure , di Giovanbatista Braccelli, pittore fiorentino, all' ill.mo S. Don Pietro Medici
+  inception:
+    - value: 1624
+  has_version:
+    - permalink: http://ark.bnf.fr/ark:/12148/cb301534561
+      external_source: https://gallica.bnf.fr/ark:/12148/bpt6k3175268
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k3175268/manifest.json
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      publication_date: 1624
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZDjvaijZfdeL
+          label: Livorno
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B6yWEcQkNK3k
+      label: Giovanni Battista Bracelli
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SE8dJXKowffE
+      label: bizzarria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Jn2SrMsbo8RA
+      label: visual arts
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k3175268/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FF4WQXWqZMRZ.json
+content:
+  markdown_content: ""

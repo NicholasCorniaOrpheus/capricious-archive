@@ -1,0 +1,43 @@
+metadata:
+  class: Organisation
+  label: Accademia dei Desiosi di Venezia
+  description:
+  aliases:
+  base_name: Accademia dei Desiosi di Venezia
+  filename: Accademia dei Desiosi di Venezia.md
+  id: Jg8QjAtXpBjn
+  n_id: 343972305552803531198
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    -
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 361
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+    - value: Ad invicem
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Jg8QjAtXpBjn.json
+content:
+  markdown_content: ""

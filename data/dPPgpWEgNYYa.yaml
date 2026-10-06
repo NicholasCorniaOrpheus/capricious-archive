@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: exoticism
+  description:
+  aliases:
+    - esotismo
+  base_name: exoticism
+  filename: exoticism.md
+  id: dPPgpWEgNYYa
+  n_id: 729996902119336524863
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q368949
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/n5nvJ6q3ja9D
+      label: art movement
+  subclass_of:
+  opposite_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dPPgpWEgNYYa.json
+content:
+  markdown_content: ""

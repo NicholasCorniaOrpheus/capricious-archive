@@ -1,0 +1,42 @@
+metadata:
+  class: Agent
+  label: Anton Francesco Grazzini
+  description:
+  aliases:
+  base_name: Anton Francesco Grazzini
+  filename: Anton Francesco Grazzini.md
+  id: d2rMEHf4Fhun
+  n_id: 722563507579844486843
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q602056
+    - https://it.wikisource.org/wiki/Autore:Anton_Francesco_Grazzini
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UAz4DSkxJeE
+      label: (Malato 1993)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/d2rMEHf4Fhun.json
+content:
+  markdown_content: ""

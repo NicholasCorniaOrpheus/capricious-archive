@@ -1,0 +1,83 @@
+metadata:
+  class: PoeticWork
+  label: S'ottenebra la Terra, il Sol s'oscura
+  description:
+  aliases:
+  base_name: S'ottenebra la Terra, il Sol s'oscura
+  filename: S'ottenebra la Terra, il Sol s'oscura.md
+  id: 7SV8hSwTENSp
+  n_id: 112040534564190273745
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jEuoGEuT2B8s
+      label: Elena Cornaro Piscopia
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PagyXFKr5PvT
+      volume: 2
+      section: Elena Lucrezia Cornaro Piscopia.
+      pages: 169
+      label: Componimenti poetici delle piu' illustri rimatrici d'ogni secolo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5HJWdrzniH6G
+      label: religion
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mmNaTApfKuRD
+      label: martyrdom
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TKGZ59mDx3q
+      label: sin
+  poetic_type:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8DvdSnc9KiTf
+      label: Jesus Christ
+  text:
+    - |-
+      S'ottenebra la Terra, il Sol s'oscura
+      E dal corso primier rivolto ei riede;
+      Vedova sta la fede,
+      Ove egli pria solea varcar l'Empiro,
+      Né per questo io m'ammiro;
+      Che se in Croce sospeso è un Dio, che muore,
+      Convien, che mora ancor il Dio dell'ore.
+
+      L'infinito, umanato omai finisce,
+      Si risente perciò quel, ch'è finito,
+      E se il maggior ferito
+      Cadde, giust'è, ch'anche il minor ne pera,
+      E dentro fosca sera
+      Il Mondo stia di tenebre corrotte,
+      Fatto Fabbro da sé d'eterna notte.
+
+      Lagrimate tutte, o Genti;
+      Del fattor, che vi creò,
+      Il figliuolo fra tormenti,
+      Per voi morte sopportò,
+
+      E pur ingrato l'Uomo al Redentore
+      L'offende co' peccati a tutte l'ore.
+      Oh del Genere Umano iniqua sorte,
+      Abbandona la vita, e corre a morte.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/http://id.sbn.it/bid/VIAE008330
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7SV8hSwTENSp.json
+content:
+  markdown_content: ""

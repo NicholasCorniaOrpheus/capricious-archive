@@ -1,0 +1,73 @@
+metadata:
+  class: PoeticWork
+  label: Di tre corpi è composto il Tempo alato
+  description: Praise of Time, divided in the three bodies of Present, Past and Future. The three entities are related to a lightning, a dream, and a shadow respectively.
+  aliases:
+  base_name: Di tre corpi è composto il Tempo alato
+  filename: Di tre corpi è composto il Tempo alato.md
+  id: UmiD2x9vDrzm
+  n_id: 552356116527473853223
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hyw2JvyN8B9h
+      label: Francesco Maria Santinelli
+  part_of:
+    - section: Descrittione del Tempo
+      volume: Rime morali
+      pages: 62
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/j7DoSeBZLZrw
+      label: (Santinelli 1985)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nzFukG9dibar
+      label: Allegory of Prudence
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k3nhzcwa5PvD
+      label: time
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Di tre corpi è composto il Tempo alato
+      L'uno in mezzo agli due detto è Presente,
+      Brevissimo di Mole, e ogni hor cadente,
+      Agilissimo al volo, e ogni hor legato.
+
+      L'altro, che resta indietro, egli è 'l Passato,
+      Quasi ridotto a imaginabil Ente,
+      Sembra un Fragmento informe, anzi un niente,
+      In cui torna a giacer tutto il Creato.
+
+      L'ultimo Corpo suo poscia è 'l Futuro,
+      Che di tenebre ignote il volto ingombra,
+      Né si ravvisa mai, stando all'oscuro.
+
+      Tale il Tempo fugace a l'Huom s'adombra,
+      In questo Gerion, ch'esser figuro
+      Su tre momenti, un Lampo, un Sogno, un'Ombra.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UmiD2x9vDrzm.json
+content:
+  markdown_content: ""

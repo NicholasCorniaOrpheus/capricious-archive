@@ -1,0 +1,76 @@
+metadata:
+  class: MusicComposition
+  label: Noi siam Pastori che cantand'insieme (Fiesco)
+  description:
+  aliases:
+  base_name: Noi siam Pastori che cantand'insieme (Fiesco)
+  filename: Noi siam Pastori che cantand'insieme (Fiesco).md
+  id: 9UFvPk58RBmt
+  n_id: 153952571685939442487
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/171150000010101_000000098900C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/48CK8MVg6hgV
+      label: Giulio Fiesco
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QAiTLiEnKFPa
+      label: Di Giulio Fiesco il primo libro di madrigali a quattro voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Noi siam Pastori che cantand'insieme
+      I nostri amor per queste selv'andiamo
+      E con pac'infinita e gioi'estreme
+      De soavi desir l'alm'appaghiamo
+      Né invidia né superbia il cor ci preme
+      Che più lieta fortuna non cerchiamo
+      E sol fra noi e quel viver beato
+      Ch'altri cerchan fra l'or fra gemm'e stato.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FZP8Rx3LsDxz
+      label: shepherd
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PB7asmJe7rz6
+      label: gold
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R7sbNmdF69BB
+      label: forest
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQJGEZiGYFYZ
+      label: desire
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z4qtpZ24v7ZF
+      label: gemstone
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/fiesco-noi_siam_pastori_che_cantand'insieme
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9UFvPk58RBmt.json
+content:
+  markdown_content: ""

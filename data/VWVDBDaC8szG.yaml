@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: translator
+  description:
+  aliases:
+  base_name: translator
+  filename: translator.md
+  id: VWVDBDaC8szG
+  n_id: 567478963577171526608
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q333634
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VWVDBDaC8szG.json
+content:
+  markdown_content: ""

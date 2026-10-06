@@ -1,0 +1,39 @@
+metadata:
+  class: Organisation
+  label: Accademia Veneziana
+  description:
+  aliases:
+    - Accademia della Fama
+  base_name: Accademia Veneziana
+  filename: Accademia Veneziana.md
+  id: jxuodBQDnmQ9
+  n_id: 865950703128663521032
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1557
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/j9aLuiEVF7Lm
+      label: Domenico Venier
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jxuodBQDnmQ9.json
+content:
+  markdown_content: ""

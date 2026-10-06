@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: republic of letters
+  description:
+  aliases:
+  base_name: republic of letters
+  filename: republic of letters.md
+  id: RHVQ6S4zNphr
+  n_id: 480230147070592712238
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q449359
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RHVQ6S4zNphr.json
+content:
+  markdown_content: ""

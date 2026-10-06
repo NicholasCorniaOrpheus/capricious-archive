@@ -1,0 +1,76 @@
+metadata:
+  class: Book
+  label: De le rime di diuersi nobili poeti toscani, raccolte da m. Dionigi Atanagi
+  description:
+  aliases:
+  base_name: De le rime di diuersi nobili poeti toscani, raccolte da m. Dionigi Atanagi
+  filename: De le rime di diuersi nobili poeti toscani, raccolte da m. Dionigi Atanagi.md
+  id: L2LbwEDxTqeF
+  n_id: 371564305580469958024
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE003330
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - De le rime di diuersi nobili poeti toscani, raccolte da m. Dionigi Atanagi, libro primo [-secondo]. Con vna tauola del medesimo, ne la quale, oltre molte altre cose degne di notitia, taluolta si dichiarano alcune cose pertinenti a la lingua toscana, et a l'arte del poetare
+  inception:
+    - value: 1565
+  has_version:
+    - publication_date: 1565
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE003330
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GhY7UMq2rSdq
+        label: Ludovico Avanzi
+      note: volume 1
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10207913
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10207913/manifest
+    - publication_date: 1565
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE003330
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GhY7UMq2rSdq
+        label: Ludovico Avanzi
+      note: volume 2
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10932571
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10932571/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJigWkauAvXU
+      label: Sperone Speroni
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mPqE5ievmfzS
+      label: Giovanni Battista Amalteo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cvuefyi5YHTW
+      label: Tommaso Spica
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6W8dn8W7kWhU
+      label: Dionigi Atanagi
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10207913/manifest
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10932571/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/L2LbwEDxTqeF.json
+content:
+  markdown_content: ""

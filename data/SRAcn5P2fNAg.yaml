@@ -1,0 +1,72 @@
+metadata:
+  class: NotatedMusic
+  label: Le gemme. Madrigali a cinque de diversi eccellentissimi musici della città di Bologna
+  description: According to RePIM and Musicare DB, the bassus part is missing.
+  aliases:
+  base_name: Le gemme. Madrigali a cinque de diversi eccellentissimi musici della città di Bologna
+  filename: Le gemme. Madrigali a cinque de diversi eccellentissimi musici della città di Bologna.md
+  id: SRAcn5P2fNAg
+  n_id: 503643050474542100900
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0153763
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV52640010
+    - https://rism.online/sources/993120886
+    - https://musicare.beniculturali.unipd.it/database/editions/006980.html
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c3xEQoeMNVW8
+      label: Musicare DB
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  title:
+    - "Le gemme : madrigali a cinque de diversi eccellentissimi musici della città di Bologna"
+  inception:
+    - value: 1590
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0153763
+      publication_date: 1590
+      publisher:
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RFFMqXMnRXik
+          label: Milano
+      note: Quintus only.
+      external_source: https://repository.royalholloway.ac.uk/items/7f632d01-91e6-e518-3fc0-7db32d9398e1/1/
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5FHvUYXkdJfX
+        label: Royal Holloway University of London
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HUCvETuLN2VG
+      label: Paolo Consoni
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SRAcn5P2fNAg.json
+content:
+  markdown_content: ""

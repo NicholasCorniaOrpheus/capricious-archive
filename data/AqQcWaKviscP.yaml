@@ -1,0 +1,51 @@
+metadata:
+  class: Book
+  label: Drammi musicali di Ottavio Tronsarelli
+  description:
+  aliases:
+  base_name: Drammi musicali di Ottavio Tronsarelli
+  filename: Drammi musicali di Ottavio Tronsarelli.md
+  id: AqQcWaKviscP
+  n_id: 182246342322577922808
+statements:
+  identifier:
+    - http://id.sbn.it/bid/BVEE026890
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PJtahBbEtZMD
+      label: drama collection
+  title:
+    - Drammi musicali di Ottauio Tronsarelli
+  inception:
+    - value: 1631
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGmzLJPd5rUo
+        label: Francesco Corbelletti
+      publication_date: 1631
+      permalink: http://id.sbn.it/bid/BVEE026890
+      external_source: https://books.google.be/books?id=x0WjAEwzJ2QC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UNXjsaCZv8Ub
+      label: Maurizio di Savoia
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nxtaeZb4ETk2
+      label: Ottavio Tronsarelli
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AqQcWaKviscP.json
+content:
+  markdown_content: ""

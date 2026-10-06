@@ -1,0 +1,82 @@
+metadata:
+  class: NotatedMusic
+  label: Giardino de musici ferraresi madrigali a cinque voci
+  description:
+  aliases:
+  base_name: Giardino de musici ferraresi madrigali a cinque voci
+  filename: Giardino de musici ferraresi madrigali a cinque voci.md
+  id: JXwh4igXGs97
+  n_id: 341014343426523439217
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE044023
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/NV52730010
+    - https://musicare.beniculturali.unipd.it/database/editions/006988.html
+    - https://rism.online/sources/993120938
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c3xEQoeMNVW8
+      label: Musicare DB
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  title:
+  inception:
+    - value: 1591
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE044023
+      publication_date: 1591
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZAzHXrGbea5e
+        label: Alessandro Vincenti
+      external_source: https://edl.cultura.gov.it/item/koj873vgr2
+      IIIF_manifest: https://edl-jarvis.cultura.gov.it/meta/iiif/3df44799-3d6e-4a9b-9298-f003dbf6c795/manifest
+      note: Only altus, tenor and bassus survive.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YdXiLDnH4XMc
+      label: Alessandro Milleville
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SjqizepxoSSs
+      label: Lodovico Agostini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dATCh2RJFN7G
+      label: Giulio Eremita
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://edl-jarvis.cultura.gov.it/meta/iiif/3df44799-3d6e-4a9b-9298-f003dbf6c795/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JXwh4igXGs97.json
+content:
+  markdown_content: ""

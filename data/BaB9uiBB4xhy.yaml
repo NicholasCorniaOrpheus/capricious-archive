@@ -1,0 +1,61 @@
+metadata:
+  class: Book
+  label: L'alchimista comedia di m. Bernardino Lombardi
+  description:
+  aliases:
+  base_name: L'alchimista comedia di m. Bernardino Lombardi
+  filename: L'alchimista comedia di m. Bernardino Lombardi.md
+  id: BaB9uiBB4xhy
+  n_id: 197366209882844794660
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE058579
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nR5FxU5FRPkD
+      label: comedy
+  title:
+    - L'alchimista comedia di m. Bernardino Lombardi comico confidente ..
+  inception:
+    - value: 1583
+  has_version:
+    - publication_date: 1583
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE058579
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+          label: Ferrara
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VG9zdScyJbW2
+        label: Vittorio Baldini
+      external_source: https://books.google.it/books?id=9Nd8ShHZkRgC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJFucdkRobUR
+      label: Bernardino Lombardi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/exrUScrzgGF2
+      label: alchemist
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BaB9uiBB4xhy.json
+content:
+  markdown_content: ""

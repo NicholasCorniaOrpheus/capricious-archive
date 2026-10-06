@@ -1,0 +1,54 @@
+metadata:
+  class: MusicComposition
+  label: Mi duol non haver stile (Agostini)
+  description: The composer changed the dedication from Lodovico Domenichi to Alessandro Andriasi.
+  aliases:
+  base_name: Mi duol non haver stile (Agostini)
+  filename: Mi duol non haver stile (Agostini).md
+  id: 2e8734PD3oX8
+  n_id: 13071867886208319267
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F161280000010101_000000002400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i5ERN62FqnwN
+      label: contrafactum
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pgvz7HXbEsUg
+      label: Giovanni Maria Bonardo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SjqizepxoSSs
+      label: Lodovico Agostini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XSLwZmE43osQ
+      label: Il nuovo echo a cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ni979sazCSnd
+      label: Mi duol non haver stile
+  derivative_work:
+  text:
+  language:
+  subject:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/agostini-mi_duol_non_aver_stile
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2e8734PD3oX8.json
+content:
+  markdown_content: ""

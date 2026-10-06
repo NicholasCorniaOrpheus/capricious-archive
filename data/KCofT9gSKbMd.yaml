@@ -1,0 +1,39 @@
+metadata:
+  class: Organisation
+  label: House of d'Este
+  description:
+  aliases:
+    - House of Este
+    - d'Este family
+  base_name: House of d'Este
+  filename: House of d'Este.md
+  id: KCofT9gSKbMd
+  n_id: 354720619298735318747
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q677173
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nhTthG2m2P3q
+      label: family
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  official_website:
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KCofT9gSKbMd.json
+content:
+  markdown_content: ""

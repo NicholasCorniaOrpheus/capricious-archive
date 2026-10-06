@@ -1,0 +1,49 @@
+metadata:
+  class: Organisation
+  label: Accademia di San Luca di Roma
+  description:
+  aliases:
+    - Accademia del Disegno di Roma
+  base_name: Accademia di San Luca di Roma
+  filename: Accademia di San Luca di Roma.md
+  id: LCi2QgRv6qn2
+  n_id: 375320634192953267298
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q338523
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1593
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 159
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mvgBJSj73GUY
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Federico Zuccari
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Jn2SrMsbo8RA
+      label: visual arts
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LCi2QgRv6qn2.json
+content:
+  markdown_content: ""

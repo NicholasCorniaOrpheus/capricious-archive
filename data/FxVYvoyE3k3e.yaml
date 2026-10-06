@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Cornia and Forment 2024)
+  description:
+  aliases:
+    - corniaWhosAfraidArtyfyshall2024
+  base_name: (Cornia and Forment 2024)
+  filename: (Cornia and Forment 2024).md
+  id: FxVYvoyE3k3e
+  n_id: 287991434086967101656
+statements:
+  identifier:
+    - https://doi.org/10.5281/zenodo.14877381
+  described_by_source:
+  part_of:
+  citation:
+    - "Cornia, Nicholas, and Bruno Forment. 2024. ‘Who’s Afraid of the “Artyfyshall Byrd”? Historical Notions and Current Challenges of Musical Artificiality’. Proceedings of the 25th International Society for Music Information Retrieval Conference, ISMIR 2024, San Francisco, California, USA and Online, November 10-14, 2024. San Francisco, USA: ISMIR, 486–92."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/corniaWhosAfraidArtyfyshall2024.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FxVYvoyE3k3e.json
+content:
+  markdown_content: ""

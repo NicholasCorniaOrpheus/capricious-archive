@@ -1,0 +1,50 @@
+metadata:
+  class: MusicComposition
+  base_name: Nasce la vita mia dal mio morire (Conforti)
+  filename: Nasce la vita mia dal mio morire (Conforti).md
+  label: Nasce la vita mia dal mio morire (Conforti)
+  id: 5z3sgBwaPQNt
+  n_id: 82193452358372384978
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F167090001010101_000000067200C
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C4NXw8vEgx8e
+      label: Gaspara Stampa
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aNoV8WX6vFco
+      label: Giovanni Battista Conforti
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eu5cdWGiLi7e
+      label: Madrigali di Giovan Battista Conforti nuovamente dati in luce et corretti da Claudio Correggio. A cinque voci. Libro primo
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/am4GoyTKy6jn
+      label: Nasce la vita mia dal mio morire
+  derivative_work:
+  text:
+assets:
+  local_asset_path: ./assets/music_compositions/conforti-nasce_la_vita_mia_dal_mio_morire
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - q_001.jpg
+    - q_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5z3sgBwaPQNt.json
+content:
+  markdown_content: ""

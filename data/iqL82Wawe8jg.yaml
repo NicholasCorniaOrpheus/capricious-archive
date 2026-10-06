@@ -1,0 +1,65 @@
+metadata:
+  class: PoeticWork
+  label: Angelica, se'l mondo
+  description: Madrigale in praise of Angelica N., musician.
+  base_name: Angelica, se'l mondo
+  filename: Angelica, se'l mondo.md
+  id: iqL82Wawe8jg
+  n_id: 842566558170446347121
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nxtaeZb4ETk2
+      label: Ottavio Tronsarelli
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RidaxpYHRDz3
+      section: Alla Signoraa Angelica N. sonatrice
+      pages: 182
+      label: Rime di Ottavio Tronsarelli
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TAip7T448drv
+      label: musician
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TAip7T448drv
+      label: musician
+  text:
+    - |-
+      Angelica, se'l mondo
+      Con occulti tormenti
+      E vivo Inferno di pensier nocenti,
+      Per te solo il mio petto
+      Di contento è ricetto;
+      Poiché, con suon giocondo,
+      Temprando i pensier miei,
+      Ne l'Inferno de' vivi Angiola sei.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  identifier:
+assets:
+  local_asset_path: ./assets/poems/angelica,_se'l_mondo
+  jpeg:
+    - 001.jpeg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/iqL82Wawe8jg.json
+content:
+  markdown_content: ""

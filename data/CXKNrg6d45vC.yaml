@@ -1,0 +1,68 @@
+metadata:
+  class: PoeticWork
+  label: Vis urbes, vis mille locos, vis oppida mille
+  description: |-
+    Introductory poem to Apian's geographical and astronomical treatise. Translation: You want cities, you want thousands of places, you want thousands of towns,
+    Everything is not a great closed book to see? 
+    You want to know in what place, or in what country he died
+    Persian, Brabantine while you alone worship
+    Persian, or Hyrcanus, or painted with the bow of nobility
+    Parthius, and in the shelter of the Turks, proud of the horse?
+    The force also of the tracts of the earth, and the paths of the heavens,
+    And clear starry signs to mark the pole? 
+    Do you want a big treasure bought for a small amount of money? Buy this and read it regularly as a Reader.
+  aliases:
+  base_name: Vis urbes, vis mille locos, vis oppida mille
+  filename: Vis urbes, vis mille locos, vis oppida mille.md
+  id: CXKNrg6d45vC
+  n_id: 216968264120182907236
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QmDX7vvxBQGt
+      label: Peter Apian
+  part_of:
+    - section: Didaci Pyrrhi Lusitani Carmen.
+      pages: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8eULwfz4JJWZ
+      label: Cosmographia Petri Apiani
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7SzNifkq9dZo
+      label: astronomy
+  poetic_type:
+  metre:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W9eRxiUsP4C5
+      label: travel
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+  text:
+    - |-
+      Vis urbes, vis mille locos, vis oppida mille,
+      Omnia non magno clausa videre libro? 
+      Vis quo scire loco, vel qua regione moretur
+      Persa, Brabantinum dum colis ipse solum,
+      Persa, vel Hyrcanus, vel picto nobilitis arcu
+      Parthus, et in refugo Turca superbus equo?
+      Vis etiam terrae tractus, coelíque meatus,
+      Claraque stellifero signa notare polo? 
+      Vis tibi thesaurum magnum paruo aere redemptum?
+      Hoc eme, et assidue perlege Lector opus.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/vis_urbes,_vis_mille_locos,_vis_oppida_mille
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CXKNrg6d45vC.json
+content:
+  markdown_content: ""

@@ -1,0 +1,56 @@
+metadata:
+  class: Book
+  label: La famosa disputa fatta tra l'armi, e le lettere con la definizione, quali di loro cedino in nobiltà
+  description:
+  aliases:
+  base_name: La famosa disputa fatta tra l'armi, e le lettere con la definizione, quali di loro cedino in nobiltà
+  filename: La famosa disputa fatta tra l'armi, e le lettere con la definizione, quali di loro cedino in nobiltà.md
+  id: 6dy4DFPLmU4W
+  n_id: 95564341401582574114
+statements:
+  identifier:
+    - http://id.sbn.it/bid/CFIE041195
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/V8bNoGP49KUR
+      label: oration
+  title:
+    - "La famosa disputa fatta tra l'armi, & le lettere con la difinitione, quali di loro cedino in nobiltà: composta da m. Fedele Honofri. Dedicata all'eccellentissimo signor don Giovanni de medici, suo patrone colendiss"
+  inception:
+    - value: 1610
+  has_version:
+    - permalink: http://id.sbn.it/bid/CFIE041195
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Jd4syX5mnmQY
+        label: Francesco Tosi
+      publication_date: 1610
+      external_source: https://books.google.be/books?id=0JwRuNqG4kAC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M4sAGJio9XZE
+      label: Don Giovanni de' Medici
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/97mbKPeJxsy2
+      label: Fedele Onofri
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SZzbeTU3XAvA
+      label: quarrel of arms and letters
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6dy4DFPLmU4W.json
+content:
+  markdown_content: ""

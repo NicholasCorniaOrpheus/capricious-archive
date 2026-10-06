@@ -1,0 +1,45 @@
+metadata:
+  class: Agent
+  aliases:
+    - Hypneo da Schio
+  base_name: Daniele Barbaro
+  filename: Daniele Barbaro.md
+  label: Daniele Barbaro
+  id: 7fshJCKQUuMv
+  n_id: 116890331733850511431
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    -
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VWVDBDaC8szG
+      label: translator
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kmxeyh5sL7th
+      label: cardinal
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kqyYU8Yzo9Wh
+      label: Predica de i sogni
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iNdoFVbAtpFo
+      label: Vitruvius
+  catalog_identifier:
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q378870
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+      label: (Faini 2020)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7fshJCKQUuMv.json
+content:
+  markdown_content: ""

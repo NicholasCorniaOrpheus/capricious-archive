@@ -1,0 +1,58 @@
+metadata:
+  class: PoeticWork
+  aliases:
+    - O beati color; c'hanno duo cori
+  base_name: Oh beati color; c'hanno duo cori
+  filename: Oh beati color; c'hanno duo cori.md
+  label: Oh beati color; c'hanno duo cori
+  id: XybNiaqcE7EM
+  n_id: 618564836278066876858
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+  part_of:
+    - section: Canto II, 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7TvK2MaWYE9G
+      label: D'Angelica di m. Pietro Aretino due primi canti
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3cN6GaYEFUgZ
+      label: lover
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oXBgWheDPaCK
+      label: heart
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Oh beati color ch'hanno duo cori
+      In un sol core, è due alme in un'alma,
+      Due vite in una vita, è i loro ardori
+      Quetano in pace graziosa & alma;
+      Beatissimi quei, c'hanno i fervori
+      Con desio pari scarchi d'ogni salma,
+      Né invidia o gelosia, né avara sorte
+      Gli nega alcun piacer sino a la morte.
+assets:
+  local_asset_path: ./assets/poems/oh_beati_color;_c'hanno_duo_cori
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XybNiaqcE7EM.json
+content:
+  markdown_content: ""

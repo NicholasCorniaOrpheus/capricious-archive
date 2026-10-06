@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: warrior
+  description:
+  aliases:
+    - guerriero
+    - guerriera
+    - fighter
+  base_name: warrior
+  filename: warrior.md
+  id: Hv6rwLYH8FSX
+  n_id: 328395090323876721347
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1250916
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Hv6rwLYH8FSX.json
+content:
+  markdown_content: ""

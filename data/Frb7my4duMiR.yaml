@@ -1,0 +1,27 @@
+metadata:
+  class: BibliographicResource
+  label: (Everson 2017)
+  description:
+  aliases:
+    - eversonLAccademiaInfecondiLetteratura2017
+  base_name: (Everson 2017)
+  filename: (Everson 2017).md
+  id: Frb7my4duMiR
+  n_id: 285854539858279588367
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Everson, Jane E. 2017. ‘L’Accademia degli Infecondi e la letteratura d’occasione: Ecfrasi e attualità’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Paolo Procaccioli, 241–53. Roma: De Luca editori d’arte."
+  isbn:
+    - 978-88-6557-321-1
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/eversonLAccademiaInfecondiLetteratura2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Frb7my4duMiR.json
+content:
+  markdown_content: ""

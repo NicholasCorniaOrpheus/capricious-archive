@@ -1,0 +1,41 @@
+metadata:
+  class: Book
+  base_name: Secreti novi di maravigliosa virtù
+  filename: Secreti novi di maravigliosa virtù.md
+  label: Secreti novi di maravigliosa virtù
+  id: JFphns3F4jLL
+  n_id: 335177432281454480388
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+  inception:
+    - value: 1567
+  has_version:
+    - publication_date: 1567
+      external_source: https://books.google.be/books?id=TPzZcnBALRoC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+  based_on:
+  catalog_identifier:
+  has_part:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE047660
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+      label: (Procaccioli 2020)
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JFphns3F4jLL.json
+content:
+  markdown_content: ""

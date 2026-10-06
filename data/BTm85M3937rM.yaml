@@ -1,0 +1,61 @@
+metadata:
+  class: PoeticWork
+  label: Quella che 'n voi bontà quasi infinita
+  description:
+  aliases:
+  base_name: Quella che 'n voi bontà quasi infinita
+  filename: Quella che 'n voi bontà quasi infinita.md
+  id: BTm85M3937rM
+  n_id: 195047720279832443986
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QmQprBXKudMJ
+      label: (Geremicca 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UXvzgo4tYk5F
+      label: Raffaello da Montelupo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+  part_of:
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fibtk65Ak5cM
+      label: sculptor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bwjZU6AmoTyh
+      label: sculpture
+  text:
+    - |-
+      Quella che 'n voi bontà quasi infinita
+      Amai, nel vostro e mio giovanil fiore,
+      E quella, non di lei virtù minore,
+      Di dare ai bronzi moto, ai i marmi vita,
+      Di giorno in giorno in voi col tempo è gita
+      Crescendo, sì che quella il primo honore
+      Quest' ha il secondo et vi nasce e vi muore
+      Il sol vostro valor doppio d'addita.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BTm85M3937rM.json
+content:
+  markdown_content: ""

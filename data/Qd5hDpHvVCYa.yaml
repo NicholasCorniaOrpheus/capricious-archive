@@ -1,0 +1,48 @@
+metadata:
+  class: Agent
+  label: Francesco Barozzi
+  description: Italian mathematician
+  aliases:
+  base_name: Francesco Barozzi
+  filename: Francesco Barozzi.md
+  id: Qd5hDpHvVCYa
+  n_id: 466684387462014666098
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q657600
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W7HigQ3mEDdA
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      label: Accademia dei Vivi
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JUFqTijHk6Az
+      label: mathematician
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rb2rx4k3x5Dx
+      label: Rythmomachia
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c5v9viUaMzrT
+      label: serio ludere
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 19592
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Qd5hDpHvVCYa.json
+content:
+  markdown_content: ""

@@ -1,0 +1,27 @@
+metadata:
+  class: Concept
+  label: cabinet of curiosities
+  description:
+  aliases:
+    - wunderkammer
+    - cabinet of wonder
+  base_name: cabinet of curiosities
+  filename: cabinet of curiosities.md
+  id: ZEt9A8deY5eq
+  n_id: 644375665630081953533
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1146002
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YVemVu9t2FTQ
+      label: (McKay 2015)
+  instance_of:
+  subclass_of:
+  opposite_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZEt9A8deY5eq.json
+content:
+  markdown_content: ""

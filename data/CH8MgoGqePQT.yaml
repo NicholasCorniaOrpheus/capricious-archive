@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Brown 2020)
+  description:
+  aliases:
+    - brownDefiningPlaceAcademies2020
+  base_name: (Brown 2020)
+  filename: (Brown 2020).md
+  id: CH8MgoGqePQT
+  n_id: 211829800666370237866
+statements:
+  isbn:
+    - 978-1-909662-57-5
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3trBJ33k7YmX
+      label: (Everson, Reidy, and Sampson 2020)
+  citation:
+    - "Brown, Alison. 2020. ‘Defining the Place of Academies in Florentine Culture and Politics’. In The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent, edited by Jane E. Everson, Denis V. Reidy, and Lisa Sampson, 22–37. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/brownDefiningPlaceAcademies2020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CH8MgoGqePQT.json
+content:
+  markdown_content: ""

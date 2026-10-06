@@ -1,0 +1,55 @@
+metadata:
+  class: Agent
+  label: Giovanni Pellesini
+  description:
+  aliases:
+    - Pedrolino
+  base_name: Giovanni Pellesini
+  filename: Giovanni Pellesini.md
+  id: QfqdYnwfzyJd
+  n_id: 467687509831507849427
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q17631735
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    -
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+          label: (Ferrone 2011)
+      label: actor
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nxSdCvve9PKs
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a3yHMczUHstd
+        label: employee
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+          label: (Ferrone 2011)
+      label: Alfonso II d'Este
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  catalog_identifier:
+  present_in_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/E7WkCqwGe7tV
+      label: La gran vittoria di Pedrolino contra il dottor Gratiano, per amor de la bella Franceschina
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QfqdYnwfzyJd.json
+content:
+  markdown_content: ""

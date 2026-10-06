@@ -1,0 +1,59 @@
+metadata:
+  class: Book
+  label: Francisci Georgii De harmonia mundi
+  description:
+  aliases:
+  base_name: Francisci Georgii De harmonia mundi
+  filename: Francisci Georgii De harmonia mundi.md
+  id: HfnRsLwdLYoB
+  n_id: 323215855295773258152
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE021022
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eb5aj2HkQaXZ
+      label: (Forshaw 2010)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Francisci Georgii Veneti minoritanae familiae De harmonia mundi totius cantica tria
+  inception:
+    - value: 1525
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE021022
+      publication_date: 1525
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9Aoez2jHnnNQ
+        label: Bernardino Vitali
+      external_source: https://books.google.it/books?id=KZ5sHldM0NMC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jfG2imrexYFE
+      label: Francesco Giorgi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bxtQcQpdXsKm
+      label: hermeticism
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ExKEBQZvSQ8Y
+      label: coincidentia oppositorum
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FzHkt4cv9QNY
+      label: proportion
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HfnRsLwdLYoB.json
+content:
+  markdown_content: ""

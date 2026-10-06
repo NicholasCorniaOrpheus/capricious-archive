@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Giaccone 1989)
+  description:
+  aliases:
+    - giacconeScritturaComeGioco1989
+  base_name: (Giaccone 1989)
+  filename: (Giaccone 1989).md
+  id: dfNgyuJzXPJ6
+  n_id: 735783102346185539170
+statements:
+  identifier:
+    - https://www.criticaletteraria.net/fascicoli/anno-xvii-1989-fasc-iv-n-65/
+  described_by_source:
+  part_of:
+  citation:
+    - "Giaccone, Gabriella. 1989. ‘La Scrittura Come Gioco: Da Aretino a Calvino’. Critica Letteraria, Critica Letteraria, 4 (65): 769–80."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/giacconeScritturaComeGioco1989.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dfNgyuJzXPJ6.json
+content:
+  markdown_content: ""

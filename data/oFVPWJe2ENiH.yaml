@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: Dux gregis, armenti regem sublatus in iram
+  description:
+  aliases:
+  base_name: Dux gregis, armenti regem sublatus in iram
+  filename: Dux gregis, armenti regem sublatus in iram.md
+  id: oFVPWJe2ENiH
+  n_id: 933495813288496530513
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5oLQ9LiSvsQY
+      pages:
+      section: Intentio XIII. N
+      label: De umbris idearum
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mXh2Rsv82eCY
+      label: astrology
+  poetic_type:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LdZT89xoVRXU
+      label: hexameter
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MB5SfSEWa8KE
+      label: zodiac
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+  text:
+    - |-
+      Dux gregis armenti regem, sublatus in iram
+      In geminosque pedes, impete fronte ferit.
+      Vindex, mente vacans, hinc Taurus concitus ictu
+      Irruit in Geminos impaciente fratres.
+      Germanos iuvenes affines protinus undae
+      Excipiunt. Cancer rosida prata petit.
+
+      Repens obliquo lympharum Cancer alumnus
+      Villosi vultum forte Leonis adit.
+      Percitus inde Leo crinitos surgit in harmos,
+      Unde vagans rapidae visa Puella ferae est.
+      Hanc petit, illa fugit; quae gressu insana fugaci
+      Librantem incurrit Persica lance virum.
+      Aestuat hic, cupidis quem dum complexibus haeret,
+      Attriti Vermis cuspis adunca ferit.
+
+      Formidans laetum, medicas dum currit ad artes,
+      Pone Sagittiferum sentìt adesse virum.
+      Qui modo stuprata, quam credit, virgine laesus
+      Quo petit hunc iaculo, vulnerat ecce Caprum.
+      Ut primum intrusum ferrum persensit inique,
+      Effugit in rapidas praecipitosus Aquas;
+      Sic caper, a gurgite tractus aquarum,
+      Insueta inclusis Piscibus esca datur.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/dux_gregis,_armenti_regem_sublatus_in_iram
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/oFVPWJe2ENiH.json
+content:
+  markdown_content: ""

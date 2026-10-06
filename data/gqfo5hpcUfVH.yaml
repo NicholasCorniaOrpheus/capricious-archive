@@ -1,0 +1,68 @@
+metadata:
+  class: MusicComposition
+  base_name: La bella Urania mia (Coma)
+  filename: La bella Urania mia (Coma).md
+  label: La bella Urania mia (Coma)
+  id: gqfo5hpcUfVH
+  n_id: 801419788148815181922
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/eupaearsacUZ
+      label: Annibale Coma
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YN3F2v4DkopU
+      label: Di Annibale Coma il secondo libro de madrigali a quattro voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      La bella Urania mia
+      Quando tal'hor mi mira
+      se ne ride e fuggie e poi sospira
+      All'hor s'oscura il cielo
+      e si cangia il mio cor per tema in gelo.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UEx82wKyUY8o
+      label: Urania
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JPb2CgmojbX7
+      label: fleeing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DZoqcMSppVGt
+      label: shadow
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/esdPVkcqtoQn
+      label: ice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QtPQjtdS5xiX
+      label: laughter
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VYNVkjFDfTij
+      label: gaze
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+assets:
+  local_asset_path: ./assets/music_compositions/coma-la_bella_urania_mia
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gqfo5hpcUfVH.json
+content:
+  markdown_content: ""

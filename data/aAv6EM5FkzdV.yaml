@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: Amor poich'io son priva
+  description: Love has deprived the "light" (the view of her beloved) because of departure. Theme of the "mirror of the soul" in the eyes of the beloved.
+  aliases:
+  base_name: Amor poich'io son priva
+  filename: Amor poich'io son priva.md
+  id: aAv6EM5FkzdV
+  n_id: 663575809079685869439
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+  part_of:
+    - section: Poems of Love, 4
+      pages: 41
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MqDmEhNBNTYH
+      label: (Gambara 2014)
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XdigZy4zTaZG
+      label: Canzoniere
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pfqef5YBTXjD
+      label: abandonment
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+  text:
+    - |-
+      Amor poich'io son priva
+      De l’alma vista in cui mia vita giace
+      Dammi almen qualche pace,
+      Acciò ch’in tanto duol possa star viva!
+
+      Fa che l’alta speranza che nutriva
+      Miei spiriti tristi 'nanzi la partita
+      Non abandoni il core,
+      Che, pien di grave ardore,
+      Senza lei non porria tenersi in vita,
+      Ma con l’aiuto suo spera far tanto
+      Che starà vivo, benché in doglia e in pianto.
+
+      E se lontan dal bel mio lume santo
+      Pur debb'io star fa che la data fede
+      Non mi sia rotta mai,
+      Che a 'sti miei crudi guai
+      Né al mio languir dimando altra mercede;
+      Ma se mancar mi dee fa almen ch'insieme
+      La vita manchi e le mie doglie estreme.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aAv6EM5FkzdV.json
+content:
+  markdown_content: ""

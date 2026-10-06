@@ -1,0 +1,64 @@
+metadata:
+  class: PoeticWork
+  base_name: Colma di fasto, io me ne già cantando
+  filename: Colma di fasto, io me ne già cantando.md
+  label: Colma di fasto, io me ne già cantando
+  id: Z6H7vVyHpMVu
+  n_id: 641256961699204429947
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kBMsLgUXhcwj
+      section: Rime della S. Isabella Andreini.
+      pages: 287
+      label: Rime di diversi celebri poeti dell'età nostra
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L9GWLvrsrrgw
+      label: mortality
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YvSVvwPw9ogd
+      label: flower
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Colma di fasto, io me ne già cantando
+      Lungo un fiorito colle;
+      E quasi (oh mia sciochezza,)
+      Godea di questa mia frale bellezza;
+      Quando frai l'herba molle
+      Vidi languir un fiore
+      Privo del suo vital soav'humore.
+      E conobbi, che tale
+      Era beltà mortale.
+assets:
+  local_asset_path: ./assets/poems/colma_di_fasto,_io_me_ne_gia_cantando
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Z6H7vVyHpMVu.json
+content:
+  markdown_content: ""

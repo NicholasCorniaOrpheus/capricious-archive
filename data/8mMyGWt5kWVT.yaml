@@ -1,0 +1,47 @@
+metadata:
+  class: MusicComposition
+  base_name: Dicesti anima mia (Aleotti)
+  filename: Dicesti anima mia (Aleotti).md
+  label: Dicesti anima mia (Aleotti)
+  id: 8mMyGWt5kWVT
+  n_id: 139509667350686157172
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HcGnpY9zTGoY
+      label: Vittoria Aleotti
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AcGzVakLKXAM
+      label: Annibale Pocaterra
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MZUS3iUrUfEX
+      label: Ghirlanda de madrigali a quattro voci di Vittoria Aleotti
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZT7XURhzZzNg
+      label: Dicesti anima mia
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  local_asset_path: ./assets/music_compositions/aleotti-dicesti_anima_mia
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8mMyGWt5kWVT.json
+content:
+  markdown_content: ""

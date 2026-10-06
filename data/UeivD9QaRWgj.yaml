@@ -1,0 +1,64 @@
+metadata:
+  class: PoeticWork
+  label: Marte, e Cupido, amici dolci, e cari
+  description:
+  aliases:
+  base_name: Marte, e Cupido, amici dolci, e cari
+  filename: Marte, e Cupido, amici dolci, e cari.md
+  id: UeivD9QaRWgj
+  n_id: 549826471703473028084
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZU5ZzNrZfToD
+      label: Alessandro Caravia
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NYFsLcyKkgrn
+      section: Canto I, 1
+      label: Naspo bizaro
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/forZLBVMjEfd
+      label: Mars
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MfBWzgNTqiki
+      label: Cupid
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GfJn75HsAD4J
+      label: watercraft
+  text:
+    - |-
+      Marte, e Cupido, amisi dolci, e cari,
+      De chi de l'arme, e d'amor se deleta.
+      Deme gratia, e favor, che fazza chiari
+      De quel, che ho in fantasia, chi al dir m'aspeta:
+      E son ligao, co se le nave a i fari,
+      Fina che'l tempo al mio camin s'asseta:
+      Marte sia il mio timon, Cupido vela.
+      E l'un, e l'altro mio peota, e stela.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5MwBnJaT8JKD
+      label: Venetian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/marte,_e_cupido,_amici_dolci,_e_cari
+  jpeg:
+    - 001.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UeivD9QaRWgj.json
+content:
+  markdown_content: ""

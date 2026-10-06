@@ -1,0 +1,72 @@
+metadata:
+  class: PoeticWork
+  label: Scema il tempo fugace ogni martire
+  description:
+  aliases:
+  base_name: Scema il tempo fugace ogni martire
+  filename: Scema il tempo fugace ogni martire.md
+  id: TeYGEn6YR7Vt
+  n_id: 529122826095920527316
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/67AiHmyDq9hS
+      label: Virginia Martini Salvi
+  part_of:
+    - section: Di Mad. Virginia Martini de' Salvi, Senese.
+      pages: 162
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XjSeXnJQ9W6d
+      label: Rime diverse d'alcune nobilissime, et virtuosissime donne
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GYGwj2xP2wD8
+      label: hope
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Scema il tempo fugace ogni martire;
+      Così può ravvivar la Morte speme,
+      Et far minore il mal, che l'alma preme,
+      Per cui s'appaga poi l'altrui desire.
+
+      Con maggior forza in Me prende suo ardire
+      Il grave duol, che con la vita insieme
+      Sen'va; né pria, che giunta a l'hore estreme
+      Spero, c'habbia a scemar, non che a finire.
+
+      Che, se di giorno in giorno più risplende
+      La virtù del mio Sol senz'altra eguale,
+      Né volger d'hore, o Morte pur l'offende;
+
+      Come può il tempo far minore il male
+      Nel cor mio, che d'amarlo ogn'hor s'accende,
+      Sperando co'l suo sol farsi immortale?
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/scema_il_tempo_fugace_ogni_martire
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TeYGEn6YR7Vt.json
+content:
+  markdown_content: ""

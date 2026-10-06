@@ -1,0 +1,47 @@
+metadata:
+  class: Agent
+  label: Gerolamo Cardano
+  description:
+  aliases:
+    - Girolamo Cardano
+  base_name: Gerolamo Cardano
+  filename: Gerolamo Cardano.md
+  id: MjkhF6fTYxAN
+  n_id: 407196597270184700660
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q184530
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8g4zkHCciMB
+      label: (Ray 2015)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kKJdQnQw3L5W
+      label: (Schleuse 2015)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kFSiUkKnEyrq
+      label: (Rhodes and Sawday 2000)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JUFqTijHk6Az
+      label: mathematician
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DJodVh42iK9t
+      label: tarot card game
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mXh2Rsv82eCY
+      label: astrology
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MjkhF6fTYxAN.json
+content:
+  markdown_content: ""

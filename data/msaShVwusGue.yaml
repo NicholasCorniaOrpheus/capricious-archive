@@ -1,0 +1,53 @@
+metadata:
+  class: Agent
+  label: Giambattista Marino
+  description:
+  aliases:
+    - Giovanni Battista Marino
+  base_name: Giambattista Marino
+  filename: Giambattista Marino.md
+  id: msaShVwusGue
+  n_id: 905289326924014568556
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q332489
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GEFAfEGG8p4Q
+      label: (Sacchini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BpATM36nYWpT
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BYS2dCp2ckrV
+          label: (Moralejo Ortega 2017)
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GEFAfEGG8p4Q
+          label: (Sacchini 2020)
+      start_date: 1602
+      end_date: 1602
+      label: Accademia degli Insensati di Perugia
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NiTWoVWgRtNj
+      label: heterodoxy
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 5605
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/msaShVwusGue.json
+content:
+  markdown_content: ""

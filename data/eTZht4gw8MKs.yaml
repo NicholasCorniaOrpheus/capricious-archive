@@ -1,0 +1,74 @@
+metadata:
+  class: PoeticWork
+  label: Vivo su questo scoglio orrido e solo
+  description: The author feels like a lonesome bird on a desolate cliff, unable to fly.
+  aliases:
+  base_name: Vivo su questo scoglio orrido e solo
+  filename: Vivo su questo scoglio orrido e solo.md
+  id: eTZht4gw8MKs
+  n_id: 752144568330599892253
+statements:
+  identifier:
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=14857
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Lb2oTLg4h2DU
+      label: Vittoria Colonna
+  part_of:
+    - section: Vittoria Colonna, VI
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mWT5q2KSyozm
+      label: (van Dooren 1992)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/htMN9mN4PnnW
+      label: skerry
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PD77VU2hvP2t
+      label: flying
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Vivo su questo scoglio orrido e solo
+      Quasi dolente augel che 'l verde ramo
+      E l'acqua pura aborre, e a quelli ch'amo
+      Nel mondo ed a me stessa ancor m'involo
+
+      Perché expedito al Sol ch'adoro e colo
+      Vada il pensiero, e se ben quanto bramo
+      L'ali non spiega, pur, quand'io il richiamo,
+      Volge da l'altre strade a questa il volo,
+
+      E 'n quel punto che giunge lieto e ardente
+      Là 've l'invio, sì breve gioia avanza
+      Qui di gran lunga ogni mondan diletto.
+
+      Ma se potesse l'alta sua sembianza
+      Formar quant'ella vuol l'accesa mente
+      Parte avrei forse qui del ben perfetto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/eTZht4gw8MKs.json
+content:
+  markdown_content: ""

@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  label: Chiara Matraini
+  description:
+  aliases:
+  base_name: Chiara Matraini
+  filename: Chiara Matraini.md
+  id: YXRaAHQ4vwY8
+  n_id: 629725628928430094838
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q645763
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RjHGJFCFwLEw
+        label: SHEWROTE
+      value: 0cf3e0cf-b971-4e91-90bd-ba724ba622d6
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0029
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YXRaAHQ4vwY8.json
+content:
+  markdown_content: ""

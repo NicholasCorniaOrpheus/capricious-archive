@@ -1,0 +1,76 @@
+metadata:
+  class: PoeticWork
+  label: Alti son questi monti, et alti sono
+  description:
+  aliases:
+  base_name: Alti son questi monti, et alti sono
+  filename: Alti son questi monti, et alti sono.md
+  id: dWnNT7W5ncx5
+  n_id: 732675171507277008963
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/369
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=29222
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXRaAHQ4vwY8
+        label: Chiara Matraini
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RgjvBxtsjnyR
+      pages: 95
+      label: Rime di diversi signori napoletani Libro settimo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR7sSTMz4jjt
+      label: despair
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5kE5GZUK8UyJ
+      label: plant
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8JCJNiEPyPxR
+      label: Sun
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  text:
+    - |-
+      Alti son questi monti, & alti sono
+      Li miei pensier, che null'altro gli adombra:
+      Questi di piante il ciel, sterili ingombra;
+      Le mie speranze senza frutto sono.
+
+      Scendon fonti da lor con alto suono,
+      Poggiando i venti a l'alte cime & ombra:
+      Rivi di pianto da quest'occhi sgombra
+      Doglia, e sospir, di cui sempre ragiono.
+
+      Nemiche fere in loro empie e rapaci
+      S’annidan solo; e nel mio seno alberga
+      Idra fera, & Arpia, che'l cor divora.
+
+      Godon pur questi le superne faci,
+      Qualhor vil nebbia almo seren disperga:
+      Ma non veggio io il mio Sol, che l’alma adora.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/alti_son_questi_monti,_et_alti_sono
+  jpeg:
+    - 001.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dWnNT7W5ncx5.json
+content:
+  markdown_content: ""

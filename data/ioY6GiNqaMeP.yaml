@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - cosentinoDeeImperatriciCortigiane2020
+  base_name: (Cosentino 2020)
+  filename: (Cosentino 2020).md
+  label: (Cosentino 2020)
+  id: ioY6GiNqaMeP
+  n_id: 841918513965520881468
+statements:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3trBJ33k7YmX
+      label: (Everson, Reidy, and Sampson 2020)
+  citation:
+    - "Cosentino, Paola. 2020. ‘Dee, Imperatrici, Cortigiane: La Natura Della Donna Nei Romanzi Degli Incogniti (Venezia)’. In _The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent_, edited by Jane E. Everson, Denis V. Reidy, and Lisa Sampson, 292–305. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+  isbn:
+    - 978-0-367-59848-8
+  identifier:
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/cosentinoDeeImperatriciCortigiane2020.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ioY6GiNqaMeP.json
+content:
+  markdown_content: ""

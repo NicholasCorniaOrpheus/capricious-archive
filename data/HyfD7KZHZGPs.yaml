@@ -1,0 +1,71 @@
+metadata:
+  class: Book
+  label: Libro de la sorte
+  description:
+  aliases:
+    - Libro della ventura
+    - Libro delle sorti
+  base_name: Libro de la sorte
+  filename: Libro de la sorte.md
+  id: HyfD7KZHZGPs
+  n_id: 329686571815192129405
+statements:
+  identifier:
+    - http://id.sbn.it/bid/VEAE120755
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LopzLbNHXviz
+      label: (Palmer 2016)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A3WrygrN5kzh
+      label: (Urbini and Procaccioli 2010)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/39wLPiPQYmqM
+      label: libro sorte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4gDUdsQ3zgkL
+      label: parlour game
+  title:
+    - Sorte composite per lo nobile ingiegno de Lorenzo spirito perugino
+  inception:
+    - value: 1484
+  has_version:
+    - publication_date: 1515
+      external_source: https://www.rae.es/archivo-digital/libro-del-juego-de-las-suertes
+      permalink: https://www.rae.es/biblioteca/catalogo/?TITN=98013
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/caeWqFd5jCJ4
+        label: Royal Spanish Academy
+    - publication_date: 1484
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UprfWYGHsS7r
+          label: Brescia
+      IIIF_manifest: https://jmms.iccu.sbn.it/jmms/metadata/YldGeVkybGhibUVf/b2FpOjE5My4yMDYuMTk3LjEyMToxODpWRTAwNDk6QVJNMDAwMDA2Ng__/manifest.json
+      external_source: http://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3A193.206.197.121%3A18%3AVE0049%3AARM0000066&mode=all&teca=marciana
+      permalink: http://id.sbn.it/bid/VEAE120755
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Bqg3oat8dyZM
+      label: Lorenzo Gualtieri
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mXh2Rsv82eCY
+      label: astrology
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i6aLsHeCyDtH
+      label: destiny
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8AksXBHfuu7g
+      label: Fortuna
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cYmsKViWTeP7
+      label: wheel of Fortune
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://jmms.iccu.sbn.it/jmms/metadata/YldGeVkybGhibUVf/b2FpOjE5My4yMDYuMTk3LjEyMToxODpWRTAwNDk6QVJNMDAwMDA2Ng__/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HyfD7KZHZGPs.json
+content:
+  markdown_content: ""

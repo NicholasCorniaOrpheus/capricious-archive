@@ -1,0 +1,64 @@
+metadata:
+  class: NotatedMusic
+  label: Libro Quarto de Madrigali a cinque voci di Orlandi Santi
+  description: The altus part is missing.
+  aliases:
+  base_name: Libro Quarto de Madrigali a cinque voci di Orlandi Santi
+  filename: Libro Quarto de Madrigali a cinque voci di Orlandi Santi.md
+  id: 5E58dMNec7FB
+  n_id: 66271891702884852963
+statements:
+  identifier:
+    - https://musicare.beniculturali.unipd.it/database/editions/005825.html
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c3xEQoeMNVW8
+      label: Musicare DB
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  title:
+  inception:
+    - value: 1607
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0158832
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y9nhcSdtPnce
+        label: Kunstmuseum Den Haag
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      note: Altus is missing.
+      publication_date: 1607
+  contributor:
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5E58dMNec7FB.json
+content:
+  markdown_content: ""

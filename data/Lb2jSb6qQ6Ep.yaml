@@ -1,0 +1,58 @@
+metadata:
+  class: Book
+  base_name: Angelica, comedia de Fabritio de Fornaris
+  filename: Angelica, comedia de Fabritio de Fornaris.md
+  label: Angelica, comedia de Fabritio de Fornaris
+  id: Lb2jSb6qQ6Ep
+  n_id: 383397914660519008828
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE016362
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nR5FxU5FRPkD
+      label: comedy
+  title:
+    - Angelica, comedia de Fabritio de Fornaris napolitano ditto il Capitano Coccodrillo Comico Confidente
+  inception:
+    - value: 1585
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE016362
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/64m48iDXC7Fc
+          label: Paris
+      publication_date: 1585
+      IIIF_manifest: https://dl.unito.it/fedora/objects/mag:39707/datastreams/MMIIIF/content
+      external_source: https://dl.unito.it/it/ricerca/digitale/?id=mag:39707
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cSEutaDy6YwJ
+      label: Fabrizio de Fornaris
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/msgn7qjS9yQx
+      label: Angelica
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif:
+    - https://dl.unito.it/fedora/objects/mag:39707/datastreams/MMIIIF/content
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Lb2jSb6qQ6Ep.json
+content:
+  markdown_content: ""

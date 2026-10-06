@@ -1,0 +1,124 @@
+metadata:
+  class: PoeticWork
+  label: Deh Florinda gratiosa
+  description:
+  aliases:
+  base_name: Deh Florinda gratiosa
+  filename: Deh Florinda gratiosa.md
+  id: 8HV3PxjFdsPQ
+  n_id: 129417543161731410457
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB
+      label: Virginia Ramponi-Andreini
+  part_of:
+    - section: Scherzo I. Dello stesso. Alla sig. Virginia Ramponi Andreini.
+      volume: 2
+      pages: 237-239
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6PtpfEAH4kyX
+      label: Della corona di Apollo composta del piu vago de' fiori di permesso. Da Piergirolamo Gentile
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ApTxwHF6JNzT
+      label: barzelletta
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bN59SRcB24eU
+      label: octosyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB
+      label: Virginia Ramponi-Andreini
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FhSgpXZP28HH
+      label: acting
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FHkhZJZzAo88
+      label: thousand
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Deh FLORINDA gratiosa,
+      Ch'hai ne gl'occhi amor dipinto,
+      Ch'hai nell'una, e l'altra rosa
+      Amoroso Laberinto,
+      A che stai tacita, e mesta?
+      E pur eri tutta festa.
+
+      Spegni, spegni quel rancore,
+      Che'l bel volto impallidisce,
+      Deh racquista quel candore,
+      Che mill'anime ferisce,
+      Le procelle del cor queta,
+      E qual pria ritorna lieta.
+
+      Cor sincero, anima pura
+      Non estiman falsa accusa,
+      Né l'aﬄigon giammai cura,
+      Di dolor mista, e confusa,
+      Ma quai, sono amici al vero
+      Fan più candido il pensiero.
+
+      Tu che se'sempre vissuta
+      Di virtute vera amante,
+      Da ree cure combattuta
+      Credi al duol troppo arrogante:
+      No, no, no FLORINDA mia,
+      Tanto mal teco non stia,
+
+      La virtù fassi più bella,
+      Sol quando have gran contrasto,
+      Né si sa se verginella
+      Habbia il cor pudico, e casto,
+      Se non spregia il mondo, e inerme
+      Fa del senso l'alme inferme.
+
+      Cor gentile, e generoso
+      Perturbar non mai si deve,
+      Cor villano, e timoroso
+      Passione in sé riceve,
+      E sol pensa a la vendetta,
+      Perché alberga alma negletta.
+
+      Può l'invidia in petto humano,
+      Credi, molto; & argomento
+      Sia del tuo valor sovrano
+      Sentir, ch'altri n'ha tormento.
+      E che seco fa tal guerra,
+      Che nel cor l'inferno serra.
+
+      Dunque espelli dal tuo petto,
+      Oh FLORINDA mia gentile,
+      Ogni cura, ogni sospetto,
+      Ch'ugge il fiore del tuo Aprile,
+      Che scelora il tuo bel viso,
+      Ch'è d'Amore...
+
+      Dunque il ciglio rasserena,
+      Oh celeste Citerea,
+      Deh non dar co'l tuo duol pena
+      A chi in te sol si ricrea,
+      Che mentre hai virtù per Duce,
+      De le Donne sei la luce.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/deh_florinda_gratiosa
+  jpeg:
+    - 001.jpeg
+    - 002.jpeg
+    - 003.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8HV3PxjFdsPQ.json
+content:
+  markdown_content: ""

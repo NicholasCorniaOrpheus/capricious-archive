@@ -1,0 +1,41 @@
+metadata:
+  class: Agent
+  label: Calidora
+  description:
+  aliases:
+  base_name: Calidora
+  filename: Calidora.md
+  id: G8qkbNybPaKp
+  n_id: 291378062458833944470
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8g4zkHCciMB
+      label: (Ray 2015)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4JHBjobL9bGr
+      label: literary character
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NmhmV8hW6RjH
+      label: magician
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+  catalog_identifier:
+  present_in_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dXHZMmpg7CAi
+      label: La Scanderbeide poema heroico della signora Margherita Sarrocchi
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/G8qkbNybPaKp.json
+content:
+  markdown_content: ""

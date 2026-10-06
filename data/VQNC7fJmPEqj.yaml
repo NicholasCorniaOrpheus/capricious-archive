@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Bolzoni and Girotto 2013)
+  description:
+  aliases:
+    - bolzoniDonneCavalieriIncanti2013
+  base_name: (Bolzoni and Girotto 2013)
+  filename: (Bolzoni and Girotto 2013).md
+  id: VQNC7fJmPEqj
+  n_id: 565262184988426966733
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - Bolzoni, Lina, and Carlo Alberto Girotto, eds. 2013. Donne cavalieri incanti follia. Viaggio attraverso le immagini dell’Orlando furioso. Maria Pacini Fazzi Editore.
+  isbn:
+    - 978-88-6550-173-3
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/bolzoniDonneCavalieriIncanti2013.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VQNC7fJmPEqj.json
+content:
+  markdown_content: ""

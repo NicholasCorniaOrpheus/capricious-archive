@@ -1,0 +1,65 @@
+metadata:
+  class: Book
+  label: De umbris idearum
+  description:
+  aliases:
+  base_name: De umbris idearum
+  filename: De umbris idearum.md
+  id: 5oLQ9LiSvsQY
+  n_id: 78315991677291206490
+statements:
+  identifier:
+    - https://mdz-nbn-resolving.de/details:bsb10208311
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LFnX7JTYkXgP
+      label: (Yates 1964)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SDKSRXpTbiaX
+      label: (Perella 1969)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4ttpXCihTJVo
+      label: (Eco 1993)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+  inception:
+    - value: 1582
+  has_version:
+    - permalink: https://mdz-nbn-resolving.de/details:bsb10208311
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10208311
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      publication_date: 1582
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10208311/manifest
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/64m48iDXC7Fc
+          label: Paris
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YhKrNQitoXh8
+      label: art of memory
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mXh2Rsv82eCY
+      label: astrology
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7WzaN4hdqgqS
+      label: volvelle
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10208311/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5oLQ9LiSvsQY.json
+content:
+  markdown_content: ""

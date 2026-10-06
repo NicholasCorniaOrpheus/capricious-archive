@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  label: Benedictus Figulus
+  description:
+  aliases:
+    - Benedikt Töpfer
+    - Benedict Heffner
+    - Benedict Figulus
+  base_name: Benedictus Figulus
+  filename: Benedictus Figulus.md
+  id: EsHT4rwmGq4j
+  n_id: 265468495204530633359
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q109400
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eb5aj2HkQaXZ
+      label: (Forshaw 2010)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/exrUScrzgGF2
+      label: alchemist
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EsHT4rwmGq4j.json
+content:
+  markdown_content: ""

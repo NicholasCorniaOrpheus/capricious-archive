@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: querelle des femmes
+  filename: querelle des femmes.md
+  label: querelle des femmes
+  id: jSo2wG8h9SDa
+  n_id: 855046615451453133536
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q7777178
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jSo2wG8h9SDa.json
+content:
+  markdown_content: ""

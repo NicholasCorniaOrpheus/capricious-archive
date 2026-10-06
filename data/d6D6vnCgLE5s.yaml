@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  label: Crusades
+  description:
+  aliases:
+  base_name: Crusades
+  filename: Crusades.md
+  id: d6D6vnCgLE5s
+  n_id: 723775044550598025664
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q12546
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/d6D6vnCgLE5s.json
+content:
+  markdown_content: ""

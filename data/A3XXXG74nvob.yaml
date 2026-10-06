@@ -1,0 +1,89 @@
+metadata:
+  class: PoeticWork
+  label: Chi vuol vedere un bosco
+  description:
+  aliases:
+  base_name: Chi vuol vedere un bosco
+  filename: Chi vuol vedere un bosco.md
+  id: A3XXXG74nvob
+  n_id: 165636713493277142883
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F053910000101_PPPP00145801C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/G35qGbLoFcWv
+      label: Angelo Grillo
+  part_of:
+    - pages: 136
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kBMsLgUXhcwj
+      section: Di Livio Celiano.
+      label: Rime di diversi celebri poeti dell'età nostra
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUkQiYzJMHtq
+      label: anaphora
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/n2mfZQ4uA5Ut
+      label: ode
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R7sbNmdF69BB
+      label: forest
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Yeipn8BLRFXZ
+      label: ocean
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      CHI vuol veder un bosco
+      Di piante opaco, e folco,
+      Venga a vederlo mio trafitto cuore
+      Pien di saette, ohimè, pien di dolore;
+      Così l'ha concio Amore.
+
+      Chi vuol veder un mare
+      Sol di lagrime amare,
+      Venga a veder il lagrimoso humore,
+      Ch'io verso notte, e dì per gli occhi fuore;
+      Così m'ha concio Amore.
+
+      Chi vuol veder l'inferno
+      Con il suo foco eterno,
+      Venga a vedermi il sen pieno d'ardore,
+      Tormentato dal foco, e dal timore,
+      Così l'ha concio Amore.
+
+      E chi saper desia
+      Quale cagion sia,
+      Ch'Amor mi faccia bosco, e mare, e inferno,
+      Venga a veder questa mia tigre amata
+      Sì cruda, e sì spietata.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/chi_vuol_vedere_un_bosco
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/A3XXXG74nvob.json
+content:
+  markdown_content: ""

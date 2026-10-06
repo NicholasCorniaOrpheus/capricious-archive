@@ -1,0 +1,67 @@
+metadata:
+  class: NotatedMusic
+  label: Il desiderio. Primo libro de diversi eccellentissimi autori a quattro voci
+  description:
+  aliases:
+  base_name: Il desiderio. Primo libro de diversi eccellentissimi autori a quattro voci
+  filename: Il desiderio. Primo libro de diversi eccellentissimi autori a quattro voci.md
+  id: 49gbiUSidMB4
+  n_id: 44051144925249880931
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE036871
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV51320010
+    - https://rism.online/sources/993120395
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Primo libro de diuersi eccellent.mi auttori a quattro voci, intitulato Il desiderio. Nouamente posti in luce, per Giulio Bonagionta da S. Genesi, musico dell'illustriss. sig. di Vineggia
+  inception:
+    - value: 1566
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE036871
+      external_source: https://stimmbuecher.digitale-sammlungen.de/view?id=bsb00074124
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1566
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Gzqem5g838fp
+        label: Girolamo Scotto
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074124/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kws5Bs7CbGE8
+      label: Gasparo Patronieri
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00074124/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/49gbiUSidMB4.json
+content:
+  markdown_content: ""

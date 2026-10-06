@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Broccia 2008)
+  description:
+  aliases:
+    - brocciaWomanFireMapping2008
+  base_name: (Broccia 2008)
+  filename: (Broccia 2008).md
+  id: KKGPbAF8mryF
+  n_id: 357056190090051808840
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Broccia, Lillyrose Veneziano. 2008. ‘Woman on Fire: Mapping the Four Elements in Gaspara Stampa’s “Rime”’. Phd, Columbia University. https://www.proquest.com/docview/304625233."
+  isbn:
+    - 978-1243555441
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/brocciaWomanFireMapping2008.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KKGPbAF8mryF.json
+content:
+  markdown_content: ""

@@ -1,0 +1,78 @@
+metadata:
+  class: NotatedMusic
+  label: Di Pietro Cavatoni veronese, Il primo libro de madrigali a cinque voci
+  description:
+  aliases:
+  base_name: Di Pietro Cavatoni veronese, Il primo libro de madrigali a cinque voci
+  filename: Di Pietro Cavatoni veronese, Il primo libro de madrigali a cinque voci.md
+  id: UzopdFLfV3sW
+  n_id: 557098274188410286909
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE036951
+    - https://rism.online/sources/990009220
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/NV04550010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Pietro Cauatoni veronese, Il primo libro de madrigali a cinque voci
+  inception:
+    - value: 1579
+  has_version:
+    - IIIF_manifest: https://edl-jarvis.cultura.gov.it/meta/iiif/ffbb57cb-aefc-4778-b5a2-06e63e891794/manifest
+      external_source: https://edl.cultura.gov.it/item/xojw0qg65v
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1579
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P44R9qpzhArY
+        label: Francesco Rampazetto
+      note: Only altus and bassus.
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE036951
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE036951
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P44R9qpzhArY
+        label: Francesco Rampazetto
+      publication_date: 1579
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_S/S001/
+      note: Bassus missing.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqHcYG9y3PRT
+      label: Pietro Cavatoni
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://edl-jarvis.cultura.gov.it/meta/iiif/ffbb57cb-aefc-4778-b5a2-06e63e891794/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UzopdFLfV3sW.json
+content:
+  markdown_content: ""

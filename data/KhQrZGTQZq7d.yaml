@@ -1,0 +1,93 @@
+metadata:
+  class: Agent
+  label: Girolamo Ruscelli
+  description:
+  aliases:
+  base_name: Girolamo Ruscelli
+  filename: Girolamo Ruscelli.md
+  id: KhQrZGTQZq7d
+  n_id: 365074739968359182216
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2903986
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+      label: (Faini 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+      label: (Procaccioli 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+      label: (Artese 1983)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RFFMqXMnRXik
+      label: Milano
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+      label: Napoli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/h4DTC6WTofxN
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+          label: (Procaccioli 2020)
+      label: Accademia dei Segreti di Napoli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jxuodBQDnmQ9
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+          label: (Procaccioli 2020)
+      label: Accademia Veneziana
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cn2nwNxEPhn9
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+          label: (Procaccioli 2020)
+      label: Compagnia dei Pastori Fratteggianti
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mqkH5awacs3c
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+          label: (Procaccioli 2020)
+      label: Accademia dei Dubbiosi di Venezia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J3cLnKSExhXi
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+          label: (Procaccioli 2020)
+      label: Accademia degli Ardenti di Napoli
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LqryCDaRuF3C
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AifjKLZro2Wf
+          label: (Procaccioli 2017)
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+          label: (Procaccioli 2020)
+      label: Accademia dello Sdegno di Roma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noRgAWmjYV8o
+      label: publisher
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+          label: (Procaccioli 2020)
+      label: alchemy
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 16499
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KhQrZGTQZq7d.json
+content:
+  markdown_content: ""

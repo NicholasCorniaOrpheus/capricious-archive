@@ -1,0 +1,78 @@
+metadata:
+  class: Agent
+  label: Laura Battiferri
+  aliases:
+    - Laura Battiferra
+    - Laura Battiferri Ammannati
+  description:
+  base_name: Laura Battiferri
+  filename: Laura Battiferri.md
+  id: ZmpBx2YXnpkE
+  n_id: 655573605632164653834
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q426217
+    - https://lyra.unil.ch/agents/222
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GRpPqVc5BLsh
+      label: (Del Bianco 2022)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QmQprBXKudMJ
+          label: (Geremicca 2017)
+      label: Firenze
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RaJhWxFT8idQ
+      start_date: 1550
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Assorditi di Urbino
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NLZ9HyHBdDfb
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      start_date: 1560
+      label: Accademia degli Intronati di Siena
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      relationship: "[[entity/student]]"
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QmQprBXKudMJ
+          label: (Geremicca 2017)
+      label: Benedetto Varchi
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BPi2MMDNAKWM
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GRpPqVc5BLsh
+          label: (Del Bianco 2022)
+      label: Petrarchism
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 16371
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0006
+assets:
+  image: https://commons.wikimedia.org/wiki/File:Laura_Battiferri_by_Angelo_Bronzino.jpg
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZmpBx2YXnpkE.json
+content:
+  markdown_content: ""

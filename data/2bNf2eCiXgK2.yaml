@@ -1,0 +1,81 @@
+metadata:
+  class: PoeticWork
+  label: Questo felice, e glorioso Tempio
+  description:
+  aliases:
+  base_name: Questo felice, e glorioso Tempio
+  filename: Questo felice, e glorioso Tempio.md
+  id: 2bNf2eCiXgK2
+  n_id: 12078253297114992996
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      label: Giovanna d'Aragona
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C4NXw8vEgx8e
+      label: Gaspara Stampa
+  part_of:
+    - pages: 149
+      section: Giovan Battista Giraldi Cinthio.
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YnKescy9oBAL
+      label: Del tempio alla divina signora donna Giovanna d'Aragona
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RHVQ6S4zNphr
+      label: republic of letters
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cn2nwNxEPhn9
+      label: Compagnia dei Pastori Fratteggianti
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9QZ6MpiNNFjR
+      label: poetry
+  text:
+    - |-
+      QUESTO felice, e glorioso Tempio
+      De la più chiara Dea, ch'oggi s'honori,
+      Poi ch'io non ho condegni incensi, e fiori
+      Colpa del duro mio destino, & empio,
+
+      Dietro a voi, che di morte fate scempio
+      Fra i famosi, e più saggi scrittori
+      Dotti figli d'Esperia almi pastori
+      Di queste belle rime adorno, & empio;
+
+      Che se m'havesse il Cielo alzata, dove
+      Alzato ha lei, alzato ha'l vostro stile,
+      Oh me beata, e paghi i desir miei.
+
+      Voi dunque in rime disusate, e nove,
+      Fate udire il suo nome a Battro, e a Tile,
+      E tutto quel ch'io volli, e non potei.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/questo_felice,_e_glorioso_tempio
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2bNf2eCiXgK2.json
+content:
+  markdown_content: ""

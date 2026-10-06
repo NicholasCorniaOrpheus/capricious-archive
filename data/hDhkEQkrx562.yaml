@@ -1,0 +1,54 @@
+metadata:
+  class: MusicComposition
+  label: Le donne antique hanno mirabil cose (Nollet)
+  description:
+  aliases:
+  base_name: Le donne antique hanno mirabil cose (Nollet)
+  filename: Le donne antique hanno mirabil cose (Nollet).md
+  id: hDhkEQkrx562
+  n_id: 809034873754633255164
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mD8Dnuf55Dcb
+      label: Nollet
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ajYLLLYbBNoX
+      label: Il primo libro di madrigali de diversi eccellentissimi autori a misura di breve a quattro voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BCCyfMTvSZVM
+      label: Le donne antique hanno mirabil cose
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/nollet-le_donne_antique_hanno_mirabil_cose
+  jpg:
+    - a.jpg
+    - b.jpg
+    - c.jpg
+    - q.jpg
+    - t.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hDhkEQkrx562.json
+content:
+  markdown_content: ""

@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Treadwell 2013)
+  description:
+  aliases:
+    - treadwellSimilCombattimentoFatto2013
+  base_name: (Treadwell 2013)
+  filename: (Treadwell 2013).md
+  id: ikGeNUD5JHua
+  n_id: 840734367556243676738
+statements:
+  identifier:
+    - https://doi.org/10.4324/9780203055496
+  described_by_source:
+  part_of:
+  citation:
+    - "Treadwell, Nina. 2013. ‘“Simil Combattimento Fatto Da Dame”: The Musico-Theatrical Entertainments of Margherita Gonzaga’s Balletto Delle Donne and the Female Warrior in Ferrarese Cultural History’. In Gender, Sexuality, and Early Music, edited by Todd C. Borgerding, 1st edn, 14–30. Routledge. doi:https://doi.org/10.4324/9780203055496."
+  isbn:
+    - 978-1-136-53316-7
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/treadwellSimilCombattimentoFatto2013.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ikGeNUD5JHua.json
+content:
+  markdown_content: ""

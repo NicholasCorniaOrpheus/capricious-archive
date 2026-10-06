@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  aliases:
+    - water source
+  base_name: natural spring
+  filename: natural spring.md
+  label: natural spring
+  id: gWJai6Vb7KR2
+  n_id: 794406396690413662047
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PBpvEEsLjb3i
+      label: natural entity
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q124714
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gWJai6Vb7KR2.json
+content:
+  markdown_content: ""

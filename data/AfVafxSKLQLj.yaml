@@ -1,0 +1,53 @@
+metadata:
+  class: MusicComposition
+  label: Sa quest'altier ch'io l'amo e ch'io l'adoro (Martoretta)
+  description:
+  aliases:
+  base_name: Sa quest'altier ch'io l'amo e ch'io l'adoro (Martoretta)
+  filename: Sa quest'altier ch'io l'amo e ch'io l'adoro (Martoretta).md
+  id: AfVafxSKLQLj
+  n_id: 178657561811909206319
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F247580000020101_000000133700C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TmP2FaKYdJii
+      label: Giandomenico Martoretta
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jj33YgYDCDzd
+      label: De lo eccellentissimo musico La Martoretta li madrigali a quattro voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WpJLjsrV6zZE
+      label: Sa questo altier ch'io l'amo e ch'io l'adoro
+  derivative_work:
+  text:
+  language:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2XhtX4ZoJ8mP
+      label: arie per cantare
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/martoretta-sa_quest'altier_ch'io_l'amo_e_ch'io_l'adoro
+  jpg:
+    - c_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AfVafxSKLQLj.json
+content:
+  markdown_content: ""

@@ -1,0 +1,56 @@
+metadata:
+  class: MusicComposition
+  label: Viverò dunque, & altri indegnamente (Ruffo)
+  description:
+  aliases:
+  base_name: Viverò dunque, & altri indegnamente (Ruffo)
+  filename: Viverò dunque, & altri indegnamente (Ruffo).md
+  id: WA9bCiRSdXEe
+  n_id: 580749621987657607749
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F307000000010101_000000215000C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cv9uVmQKzPqv
+      label: Vincenzo Ruffo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6AzxMx4vDePE
+      label: Angelo Firenzuola
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EdKWKZpv5rgp
+      label: Di Vincenzo Ruffo il Primo libro de madrigali a cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CyK3nNqd9PsU
+      label: Quel Vivo Sol, ch'a la mia vita oscura
+  derivative_work:
+  text:
+    - ""
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/ruffo-viverò_dunque,_&_altri_indegnamente
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/WA9bCiRSdXEe.json
+content:
+  markdown_content: ""

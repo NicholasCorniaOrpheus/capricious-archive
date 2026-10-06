@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: natural phenomenon
+  description:
+  aliases:
+    - natural event
+  base_name: natural phenomenon
+  filename: natural phenomenon.md
+  id: N4bFzzPPkFAZ
+  n_id: 413653222755065631052
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1322005
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/N4bFzzPPkFAZ.json
+content:
+  markdown_content: ""

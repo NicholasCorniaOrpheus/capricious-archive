@@ -1,0 +1,44 @@
+metadata:
+  class: Agent
+  label: Agostino Valier
+  description:
+  aliases:
+  base_name: Agostino Valier
+  filename: Agostino Valier.md
+  id: bcvzMeu9TgNw
+  n_id: 693630384202914397880
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1768433
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YyPA52fS2nPw
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8kzC44fCXJc
+          label: (Occhipinti 2017)
+      label: Accademia delle Notti Vaticane
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kmxeyh5sL7th
+      label: cardinal
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 16339
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/c/cd/Agostino_Valier_Via.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bcvzMeu9TgNw.json
+content:
+  markdown_content: ""

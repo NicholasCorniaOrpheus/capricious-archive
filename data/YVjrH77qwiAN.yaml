@@ -1,0 +1,47 @@
+metadata:
+  class: Book
+  base_name: Fillide. Egloga pastorale. Di Camillo Della Valle
+  filename: Fillide. Egloga pastorale. Di Camillo Della Valle.md
+  label: Fillide. Egloga pastorale. Di Camillo Della Valle
+  id: YVjrH77qwiAN
+  n_id: 629117684778791394035
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cF3HzyFDHqfG
+      label: pastoral drama
+  title:
+    - Fillide. Egloga pastorale. Di Camillo Della Valle ..
+  inception:
+    - value: 1584
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE016589
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+          label: Ferrara
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VG9zdScyJbW2
+        label: Vittorio Baldini
+      publication_date: 1584
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8pmZM6mhguAm
+      label: Camillo Della Valle
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdeyMkYtsKFp
+      label: Filli
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YVjrH77qwiAN.json
+content:
+  markdown_content: ""

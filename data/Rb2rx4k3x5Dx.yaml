@@ -1,0 +1,52 @@
+metadata:
+  class: Book
+  label: Rythmomachia
+  description:
+  aliases:
+  base_name: Rythmomachia
+  filename: Rythmomachia.md
+  id: Rb2rx4k3x5Dx
+  n_id: 486578251735952374869
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE004261
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dK3CoeMSUGWp
+      label: board game
+  title:
+    - Il Nobilissimo et antiquissimo giuoco Pythagoreo nominato Rythmomachia cioè battaglia de consonantie de numeri
+  inception:
+    - value: 1572
+  has_version:
+    - publication_date: 1572
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4nx3zfX2jfz7
+        label: Grazioso Percacino
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE004261
+      external_source: https://books.google.it/books?id=PQZovyIc70gC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Qd5hDpHvVCYa
+      label: Francesco Barozzi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c5v9viUaMzrT
+      label: serio ludere
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FzHkt4cv9QNY
+      label: proportion
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e4x9nNYzCHfX
+      label: Dialogo sopra la particolare dichiaratione del giuoco di Pitagora
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Rb2rx4k3x5Dx.json
+content:
+  markdown_content: This board game inspired by Pythagorean proportions has been circulating already in the 1530's in manuscript form, as in the case of [Dialogo sopra la particolare dichiaratione del giuoco di Pitagora](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e4x9nNYzCHfX) by [Benedetto Varchi](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx).

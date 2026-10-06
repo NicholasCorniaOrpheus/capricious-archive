@@ -1,0 +1,68 @@
+metadata:
+  class: Book
+  base_name: Amor nello specchio commedia. Di Gio. Battista Andreini
+  filename: Amor nello specchio commedia. Di Gio. Battista Andreini.md
+  label: Amor nello specchio commedia. Di Gio. Battista Andreini
+  id: 3cdeApSssq7Z
+  n_id: 33171363012455177581
+statements:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YTYEKR5GKuMa
+      label: (Wilbourne 2009)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nR5FxU5FRPkD
+      label: comedy
+  title:
+    - Amor nello specchio commedia. Di Gio. Battista Andreini fiorentino
+  inception:
+    - value: 1622
+  has_version:
+    - permalink: https://catalogue.bnf.fr/ark:/12148/cb300197658
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      external_source: https://gallica.bnf.fr/ark:/12148/bd6t57527070
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bd6t57527070/manifest.json
+      place_of_publication:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/64m48iDXC7Fc
+        label: Paris
+      publication_date: 1622
+    - permalink: http://id.sbn.it/bid/MILE044470
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/64m48iDXC7Fc
+          label: Paris
+      publisher:
+      publication_date: 1622
+      external_source: http://www.urfm.braidense.it/rd/04359_2.pdf
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BzZ5xTZQpucC
+      label: Giambattista Andreini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7mWesfkGiygJ
+      label: reflection
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hq5fryYEkuQW
+      label: magic
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i5Hx28kAoBiU
+      label: transvestism
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bd6t57527070/manifest.json
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3cdeApSssq7Z.json
+content:
+  markdown_content: ""

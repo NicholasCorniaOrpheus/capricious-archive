@@ -1,0 +1,76 @@
+metadata:
+  class: PoeticWork
+  label: Donna; che tante tue virtuti, & tante
+  description:
+  aliases:
+  base_name: Donna; che tante tue virtuti, & tante
+  filename: Donna; che tante tue virtuti, & tante.md
+  id: EtUwH4Yy9K3e
+  n_id: 265903538456213084136
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M6PatcnEXsv4
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Giuseppe Betussi
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KRgADanr7cqk
+      pages: 28-29
+      label: Le immagini del tempio della signora donna Giovanna Aragona
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4zDHNwC4tdTU
+      label: eye
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8JCJNiEPyPxR
+      label: Sun
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2QjJCcEtkiC
+      label: light beam
+  text:
+    - |-
+      Donna; che tante tue virtuti, & tante
+      Bellezze, come stelle in ciel cosparte,
+      Raccolte in te con meraviglia, & arte
+      Con rara CORTESIA fregi & ammante;
+
+      Qual sarà mai, che sopra te si vante
+      D'haver ne l'alme altrui sì degna parte;
+      Se tutti i suoi pensieri in te comparte
+      Il mondo del tuo bel già fatto amante?
+
+      Tu, come il Sol, co' suoi lucenti rai
+      Desta il vigor a la gran madre in seno,
+      Ond'ella s'orna poi d'herbe, & di fiori
+
+      Co'l lume altier de' tuoi begli occhi fai
+      Di senno, & di valor ogni cor pieno;
+      Onde convien, ch'ogn'un't'ame & honori.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/donna;_che_tante_tue_virtuti,_&_tante
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EtUwH4Yy9K3e.json
+content:
+  markdown_content: ""

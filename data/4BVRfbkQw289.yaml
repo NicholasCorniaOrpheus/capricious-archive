@@ -1,0 +1,85 @@
+metadata:
+  class: MusicComposition
+  label: Usciam ninfe omai fuor di questi boschi (Vinci)
+  description:
+  aliases:
+  base_name: Usciam ninfe omai fuor di questi boschi (Vinci)
+  filename: Usciam ninfe omai fuor di questi boschi (Vinci).md
+  id: 4BVRfbkQw289
+  n_id: 44704225601109690541
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/296810000010101_000000253800C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GcTBTPrRxSj7
+      label: Pietro Vinci
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9T89JMf24QQZ
+      label: Di Pietro Vinci Il terzo libro de madrigali a cinque voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Usciam nimphe homai fuor di questi boschi
+      Et di fior bianchi e gialli
+      Tessian ghirlande e cingiansene i crini
+      Che dopo horrida e fiera 
+      stagion con fiori e frondi
+      Torna la desiata primavera
+      Orsù faccian le valli
+      Sonar col canto e su le verd'herbette
+      Guidan con dolce suono in gir'i balli.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QnXnJU93h3jw
+      label: nymph
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R7sbNmdF69BB
+      label: forest
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WPvGfotRo5vK
+      label: garland
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YvSVvwPw9ogd
+      label: flower
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6zBfU2Yrasgv
+      label: dance
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/vinci-usciam_ninfe_omai_fuor_di_questi_boschi
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - q_001.jpg
+    - q_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/4BVRfbkQw289.json
+content:
+  markdown_content: ""

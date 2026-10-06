@@ -1,0 +1,53 @@
+metadata:
+  class: Agent
+  aliases:
+    - Innocentio Ringhieri
+    - Innocenzio Ringhieri
+    - Innocenzo Ringhieri
+  base_name: Innocenzio Ringhiero
+  filename: Innocenzio Ringhiero.md
+  label: Innocenzio Ringhiero
+  id: FmVLXoNYsftP
+  n_id: 284007685307553272286
+statements:
+  instance_of:
+  gender:
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/m5jx85vV2PXo
+      label: Bologna
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TBygQiVhyNBJ
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Accademia Bocchiana di Bologna
+  occupation:
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/46LdQgsVgJM3
+      label: Cento giuochi liberali, et d'ingegno
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4gDUdsQ3zgkL
+      label: parlour game
+  catalog_identifier:
+    - value: 16027
+      source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q41617826
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Tddx7wLgZ5yo
+      label: (Haar 1962)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dL2X9Z4URcNU
+      label: (Bolzoni 2012)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UAz4DSkxJeE
+      label: (Malato 1993)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FmVLXoNYsftP.json
+content:
+  markdown_content: ""

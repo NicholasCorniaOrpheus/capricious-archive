@@ -1,0 +1,27 @@
+metadata:
+  class: Concept
+  aliases:
+    - gem
+    - gemma
+    - gemme
+    - precious stone
+  base_name: gemstone
+  filename: gemstone.md
+  label: gemstone
+  id: Z4qtpZ24v7ZF
+  n_id: 640741144505504581870
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PBpvEEsLjb3i
+      label: natural entity
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q83437
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Z4qtpZ24v7ZF.json
+content:
+  markdown_content: ""

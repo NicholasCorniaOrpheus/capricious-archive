@@ -1,0 +1,42 @@
+metadata:
+  class: Book
+  label: Rime scelte de' poeti ferraresi antichi e moderni
+  description:
+  aliases:
+  base_name: Rime scelte de' poeti ferraresi antichi e moderni
+  filename: Rime scelte de' poeti ferraresi antichi e moderni.md
+  id: GGpqccYqz24j
+  n_id: 294268537214478864605
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2F502060010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime scelte de' poeti ferraresi antichi e moderni. Aggiuntevi nel fine alcune brevi Notizie istoriche intorno ad essi
+  inception:
+    - value: 1713
+  has_version:
+    - publication_date: 1713
+      external_source: https://books.google.it/books?id=O7RdAAAAcAAJ
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5i39NyxCPans
+      label: Bartolomeo Ferrini
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GGpqccYqz24j.json
+content:
+  markdown_content: ""

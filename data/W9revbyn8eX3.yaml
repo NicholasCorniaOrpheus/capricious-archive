@@ -1,0 +1,62 @@
+metadata:
+  class: MusicComposition
+  label: A te candidi pomi a te pendenti (Moscaglia)
+  description: The original dedication to GIBERTO has been changed to Mario.
+  aliases:
+  base_name: A te candidi pomi a te pendenti (Moscaglia)
+  filename: A te candidi pomi a te pendenti (Moscaglia).md
+  id: W9revbyn8eX3
+  n_id: 580648414768922301127
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F290350002010101_000000166800
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Hc54xeA8ihZ
+      label: Giulio Camillo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MV342DTV6Haa
+      label: Giovanni Battista Moscaglia
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DtH2G9scfAmt
+      label: Il Primo Libro de Madrigali a quattro, a cinque et a sei voci di Gio. Battista Moscaglia intitolati gl'Amorosi Gigli
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dZCC6aDWKLS9
+      label: Tu, che secondo l'alta Roma honora
+  derivative_work:
+  text:
+    - |-
+      A te i candidi pomi a te pendenti
+      Metton dolce rossore e'l ciel sereno
+      Più assai si mostra e i prati assai più molli
+
+      Così cantò da un sasso in dolci accenti
+      Di furor pieno il gran pastor Sileno
+      E di Mario cantar Massimi colli.
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/moscaglia-a_te_candidi_pomi_a_te_pendenti
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/W9revbyn8eX3.json
+content:
+  markdown_content: ""

@@ -1,0 +1,27 @@
+metadata:
+  class: BibliographicResource
+  label: (Di Maro 2021)
+  description:
+  aliases:
+    - dimaroDianoraSanseverinoLaura2021
+  base_name: (Di Maro 2021)
+  filename: (Di Maro 2021).md
+  id: PXXpcDi5cmLa
+  n_id: 444042249371963436884
+statements:
+  identifier:
+    - https://digital.casalini.it/4972730
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjLiVRH78Fiz
+      label: (Duraccio 2021)
+  citation:
+    - "Di Maro, Maria. 2021. ‘Dianora Sanseverino e Laura Terracina : Esempi Di Riscrittura Ariostesca Nel Regno Di Napoli’. Pioneras : Las Voces Femeninas En La Construcción Cultural Italiana y Europea. - ( Escritoras y Escrituras), 35–58. https://www.torrossa.com/en/resources/an/4972730."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/dimaroDianoraSanseverinoLaura2021.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PXXpcDi5cmLa.json
+content:
+  markdown_content: ""

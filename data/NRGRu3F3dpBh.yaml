@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  aliases:
+    - fera
+    - animale
+    - fere
+  base_name: animal
+  filename: animal.md
+  label: animal
+  id: NRGRu3F3dpBh
+  n_id: 421136347564261260003
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q729
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NRGRu3F3dpBh.json
+content:
+  markdown_content: ""

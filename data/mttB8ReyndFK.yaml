@@ -1,0 +1,63 @@
+metadata:
+  class: PoeticWork
+  label: Ma disteso ed eretto il fero Argante
+  description:
+  aliases:
+  base_name: Ma disteso ed eretto il fero Argante
+  filename: Ma disteso ed eretto il fero Argante.md
+  id: mttB8ReyndFK
+  n_id: 905763950474321227565
+statements:
+  identifier:
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=35264
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh
+      label: Torquato Tasso
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hnGUsqmNR3ko
+      section: Canto XIX, 12
+      label: Gierusalemme liberata, poema heroico del sig. Torquato Tasso
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2uHcFcbRzB9
+      label: duel
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mM3eNkLzPEH8
+      label: Tancredi
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Uwuk3ZLWKdUA
+      label: Argante
+  text:
+    - |-
+      Ma disteso, & eretto il fero Argante  
+      Dimostra arte simile, atto diverso.  
+      Quanto egli può va co'l gran braccio inante, 
+      E cerca il ferro no, ma il corpo averso,
+      Quel tenta aditi novi in ogni instante.
+      Questi gli ha il ferro al volto ogn'hor converso.  
+      Minaccia, e intento a proibirgli stassi  
+      Furtive entrate, e subiti trapassi.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/ma_disteso_ed_eretto_il_fero_argante
+  jpeg:
+    - 001.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mttB8ReyndFK.json
+content:
+  markdown_content: ""

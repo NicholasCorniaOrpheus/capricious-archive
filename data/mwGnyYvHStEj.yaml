@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Perrucci [1699] 2008)
+  description:
+  aliases:
+    - perrucciTreatiseActingMemory2008
+  base_name: (Perrucci [1699] 2008)
+  filename: (Perrucci [1699] 2008).md
+  id: mwGnyYvHStEj
+  n_id: 906625393898050470209
+statements:
+  isbn:
+    - 978-0-8108-6033-9
+  described_by_source:
+  part_of:
+  citation:
+    - Perrucci, Andrea. (1699) 2008. A Treatise on Acting, from Memory and by Improvisation (1699). Edited by Francesco Cotticelli and Thomas F. Heck. Translated by Anne Goodrich Heck. Scarecrow Press.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/perrucciTreatiseActingMemory2008.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mwGnyYvHStEj.json
+content:
+  markdown_content: ""

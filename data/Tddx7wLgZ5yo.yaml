@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Haar 1962)
+  description:
+  aliases:
+    - haarMusicalGames16th1962
+  base_name: (Haar 1962)
+  filename: (Haar 1962).md
+  id: Tddx7wLgZ5yo
+  n_id: 528796993873420222725
+statements:
+  identifier:
+    - https://doi.org/10.2307/830052
+  described_by_source:
+  part_of:
+  citation:
+    - "Haar, James. 1962. ‘On Musical Games in the 16th Century’. Journal of the American Musicological Society 15 (1): 22–34."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/haarMusicalGames16th1962.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Tddx7wLgZ5yo.json
+content:
+  markdown_content: ""

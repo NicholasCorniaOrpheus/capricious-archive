@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Halton 2008)
+  description:
+  aliases:
+    - haltonFeministIconCelebrating2008
+  base_name: (Halton 2008)
+  filename: (Halton 2008).md
+  id: h2PimdzJxHNF
+  n_id: 804938018990858354296
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Halton, Jennifer. 2008. ‘A Feminist Icon: Celebrating the Life and Work of Isabella Andreini and the Commedia Dell’arte in Renaissance Italy’. Maynooth Musicology: Postgraduate Journal 1. Maynooth Musicology: 78–98."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/haltonFeministIconCelebrating2008.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/h2PimdzJxHNF.json
+content:
+  markdown_content: ""

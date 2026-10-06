@@ -1,0 +1,48 @@
+metadata:
+  class: Book
+  label: I fiori delle rime de' poeti illustri, nuouamente raccolti et ordinati da Girolamo Ruscelli
+  description:
+  aliases:
+  base_name: I fiori delle rime de' poeti illustri, nuouamente raccolti et ordinati da Girolamo Ruscelli
+  filename: I fiori delle rime de' poeti illustri, nuouamente raccolti et ordinati da Girolamo Ruscelli.md
+  id: bhDJvuMyzWec
+  n_id: 695175748761065863462
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE079995
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - I fiori delle rime de' poeti illustri, nuouamente raccolti et ordinati da Girolamo Ruscelli. Con alcune annotationi del medesimo, sopra i luoghi, che le ricercano per l'intendimento delle sentenze, o per le regole et precetti della lingua, et dell'ornamento
+  inception:
+    - value: 1558
+  has_version:
+    - publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ETxQtbjAywwf
+        label: Melchiorre Sessa
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1558
+      external_source: https://www.polodigitalenapoli.it/it/viewer/mirador/viewer?domain=sbn&id=LO1E000757
+      IIIF_manifest: https://dam.polodigitalenapoli.it/istituto-italiano-per-gli-studi-storici/containers/yRdroBl/manifest
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE079995
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://dam.polodigitalenapoli.it/istituto-italiano-per-gli-studi-storici/containers/yRdroBl/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bhDJvuMyzWec.json
+content:
+  markdown_content: ""

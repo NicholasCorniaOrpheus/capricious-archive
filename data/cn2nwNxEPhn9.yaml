@@ -1,0 +1,46 @@
+metadata:
+  class: Organisation
+  label: Compagnia dei Pastori Fratteggianti
+  description:
+  aliases:
+  base_name: Compagnia dei Pastori Fratteggianti
+  filename: Compagnia dei Pastori Fratteggianti.md
+  id: cn2nwNxEPhn9
+  n_id: 717555070158589529140
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+      label: (Artese 1983)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5kTufm84drrw
+      label: salon
+  inception:
+    - value: 1559
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+          label: (Artese 1983)
+  dissolved:
+  location:
+  official_website:
+  catalog_identifier:
+  member:
+    -
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+          label: (Artese 1983)
+      label: Lodovico Dolce
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cn2nwNxEPhn9.json
+content:
+  markdown_content: ""

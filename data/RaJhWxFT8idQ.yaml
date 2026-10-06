@@ -1,0 +1,43 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Assorditi di Urbino
+  description:
+  aliases:
+  base_name: Accademia degli Assorditi di Urbino
+  filename: Accademia degli Assorditi di Urbino.md
+  id: RaJhWxFT8idQ
+  n_id: 486316789872243561109
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hcSe52ZgpEik
+      label: Urbino
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 3
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZmpBx2YXnpkE
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Laura Battiferri
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RaJhWxFT8idQ.json
+content:
+  markdown_content: ""

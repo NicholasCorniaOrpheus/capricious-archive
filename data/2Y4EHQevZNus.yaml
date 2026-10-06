@@ -1,0 +1,20 @@
+metadata:
+  class: Organisation
+  label: Ghent University
+  description:
+  aliases:
+  base_name: Ghent University
+  filename: Ghent University.md
+  id: 2Y4EHQevZNus
+  n_id: 10875070117702721992
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1137665
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2Y4EHQevZNus.json
+content:
+  markdown_content: ""

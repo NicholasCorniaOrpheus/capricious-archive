@@ -1,0 +1,77 @@
+metadata:
+  class: MusicComposition
+  label: Mentre tu canti (Ingegneri)
+  description:
+  aliases:
+  base_name: Mentre tu canti (Ingegneri)
+  filename: Mentre tu canti (Ingegneri).md
+  id: C6iYehT3k2jj
+  n_id: 208064605338116134805
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F159600000010101_000000130500C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AcRv2wudsTSk
+      label: Marco Antonio Ingegneri
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iupJ62QRBYCe
+      label: Il Secondo libro de' Madrigali di Marc'Antonio Ingegneri a quattro voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Mentre tu canti io canto teco e moro,
+      Di dolcezza rinasco, 
+      Così del canto e del morir mi pasco,
+      Canta dunque poi ch'io 
+      per te Cigno divento,
+      E faccio nel morir dolce concento,
+      Che'l cantar tuo non mi può dar martoro,
+      Né se m' ancide i' moro,
+      Ma dà forz'e virtù al morir mio.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LVFgSQZJH6F8
+      label: swan
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nCimZWBzP648
+      label: death
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/ingegneri-mentre_tu_canti
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/C6iYehT3k2jj.json
+content:
+  markdown_content: ""

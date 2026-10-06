@@ -1,0 +1,63 @@
+metadata:
+  class: PoeticWork
+  label: Dal mare, oh Margherita, il nome avesti
+  description:
+  aliases:
+  base_name: Dal mare, oh Margherita, il nome avesti
+  filename: Dal mare, oh Margherita, il nome avesti.md
+  id: LMjJmEyTAUhn
+  n_id: 378587108684643999290
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nxtaeZb4ETk2
+      label: Ottavio Tronsarelli
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RidaxpYHRDz3
+      section: Loda la Sig. Margherita N. di belleza, e di virtù.
+      pages: 354
+      label: Rime di Ottavio Tronsarelli
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9bHS2Z6zpJ6k
+      label: Venus
+  text:
+    - |-
+      Dal mare, oh Margherita, il nome havesti.
+      Ma chi de le tue luci i rai vegheggia,
+      Scorge ne gli occhi tuoi vanti celesti,
+      Che l'eterna beltate in te lampeggia.
+      Sorse Vener crudel dai flutti infesti,
+      Ed hebbe per natal l'ondosa reggia:
+      Ma tu gradita uscendo a l'aura fuore
+      Sei nel mar di beltà Vener d'Amore.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/dal_mare,_oh_margherita,_il_nome_avesti
+  jpeg:
+    - 001.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LMjJmEyTAUhn.json
+content:
+  markdown_content: ""

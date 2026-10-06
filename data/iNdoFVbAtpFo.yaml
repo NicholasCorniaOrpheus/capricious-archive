@@ -1,0 +1,35 @@
+metadata:
+  class: Agent
+  label: Vitruvius
+  description:
+  aliases:
+    - Vitruvio
+  base_name: Vitruvius
+  filename: Vitruvius.md
+  id: iNdoFVbAtpFo
+  n_id: 832904004190979537751
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hqjJZsFhkfWv
+      label: architect
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/iNdoFVbAtpFo.json
+content:
+  markdown_content: ""

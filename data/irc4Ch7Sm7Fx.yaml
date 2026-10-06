@@ -1,0 +1,112 @@
+metadata:
+  class: PoeticWork
+  label: Quel Creator delle cose create
+  description:
+  aliases:
+  base_name: Quel Creator delle cose create
+  filename: Quel Creator delle cose create.md
+  id: irc4Ch7Sm7Fx
+  n_id: 843029789086246268901
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FnabqhEkKVwB
+      label: Antonio Alamanni
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gk7k6gQBqrbE
+      volume: 1
+      pages: 150-151
+      section: Trionfo de; Quattro Elementi.
+      label: Tutti i trionfi, carri, mascherate o canti carnascialeschi andati per Firenze dal tempo del Magnifico Lorenzo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MeCVRw88z9MS
+      label: classical elements
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Cxgarr2gfrW6
+      label: devotion
+  poetic_type:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8DvdSnc9KiTf
+      label: Jesus Christ
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9mn3vxiqWyus
+      label: lightning
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/db7CEX6LDpXR
+      label: water
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KZ6PgT6cBtyo
+      label: storm
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Quel Creator delle cose create,
+      Ch'è vita de' viventi,
+      Fece quattro Elementi,
+      Ed onorò chi  voi  poco onorate.
+
+      Questo consuma, e  mai nulla produce,
+      La notte splende, e  le tenebre scaccia,
+      E  luce nella luce,
+      Riscalda,  e  incende chi tremando agghiaccia:
+      Giove con lui minaccia
+      L'Universo disfare,
+      L'Acqua, la Terra,  e 'l Mare:
+      Treman l'Inferno,  e  l'anime dannate.
+
+      In questa ogn'uccelletto l'ale muove;
+      Grandine, nube, neve, tuoni  e  lampi,
+      Saette, venti  e  piove,
+      Manda sopra i terresti, ombrosi campi,
+      E luminosi lampi;
+      Riceve, e toglie il Sole,
+      E fa, quando lei vuole,
+      Primavera, Autunno, Verno  e State.
+
+      L'altra riga la terra, immolla  e  'nfresca,
+      Nutrisce, e pasce, e  l'acqua all'acqua rende;
+      Perch'ogni cosa cresca,
+      Con suoi liquidi umor sì la difende:
+      E  chi compra,  e  chi vende
+      Guida di porto in porto;
+      Ed è sommo conforto
+      De' corpi infermi  e  d'anime affannate.
+
+      Da questa grave,  e  lapidosa terra
+      Nascon nostri diletti,  e  nostri amori,
+      E  morte, fame,  e  guerra,
+      Piante, pomi, animali, erbette  e  fiori;
+      La letizia,  e' dolori
+      Della misera gente;
+      Ma l'uom savio  e  prudente
+      Chiama ricchezza ogni suo povertate.
+
+      In questi è nostra morte,  e  nostra vita,
+      Per questi si conserva la Natura;
+      Costoro al ciel c'invita
+      A quel  che  fu Fattor d'ogni fattura:
+      E  ogni creatura
+      Debbe onorar colui,
+      Che  dié sé per altrui,
+      Et è contento dell'alme beate.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/quel_creator_delle_cose_create
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/irc4Ch7Sm7Fx.json
+content:
+  markdown_content: ""

@@ -1,0 +1,61 @@
+metadata:
+  class: NotatedMusic
+  label: La nobiltà di Roma. Versi in lode di cento gentildonne romane. Et le villanelle a tre voci di Gasparo Fiorino
+  description:
+  aliases:
+  base_name: La nobiltà di Roma. Versi in lode di cento gentildonne romane. Et le villanelle a tre voci di Gasparo Fiorino
+  filename: La nobiltà di Roma. Versi in lode di cento gentildonne romane. Et le villanelle a tre voci di Gasparo Fiorino.md
+  id: D8tp4vPHSCmz
+  n_id: 229489803357217111688
+statements:
+  identifier:
+    - https://rism.online/sources/990018169
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV08290010
+    - https://edit16.iccu.sbn.it/titolo/CNCE043591
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7FeDbjrMGHRk
+      label: (Taschetti 2024)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BcgEqSDqJaZX
+      label: choirbook
+  title:
+    - La nobiltà di Roma. Versi in lode di cento gentildonne romane. Et le vilanelle à tre voci di Gasparo Fiorino, della città di Rossano, musico dell'illustrissimo & reuerendissimo signore cardinale di Ferrara. Intauolate dal magnifico m. Francesco di Parise, musico eccellentissimo in Roma. Nuouamente ristampate
+  inception:
+    - value: 1573
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE043591
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Gzqem5g838fp
+        label: Girolamo Scotto
+      publication_date: 1573
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_S/S139/
+      note: Notated music section.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NGjAVUdo3dUq
+      label: Gasparo Fiorino
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/D8tp4vPHSCmz.json
+content:
+  markdown_content: ""

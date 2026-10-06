@@ -1,0 +1,73 @@
+metadata:
+  class: Book
+  label: Orlando furioso di m. Ludovico Ariosto novissimamente alla sua integrità ridotto et ornato di varie figure. Con alcune stanze del s. Aluigi Gonzaga in lode del medesmo
+  description:
+  aliases:
+  base_name: Orlando furioso di m. Ludovico Ariosto novissimamente alla sua integrità ridotto et ornato di varie figure. Con alcune stanze del s. Aluigi Gonzaga in lode del medesmo
+  filename: Orlando furioso di m. Ludovico Ariosto novissimamente alla sua integrità ridotto et ornato di varie figure. Con alcune stanze del s. Aluigi Gonzaga in lode del medesmo.md
+  id: MfDGFUx3Ps6H
+  n_id: 405548783659308007080
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE002628
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQNC7fJmPEqj
+      label: (Bolzoni and Girotto 2013)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Orlando furioso di m. Ludouico Ariosto nouissimamente alla sua integrita ridotto et ornato di varie figure. Con alcune stanze del s. Aluigi Gonzaga in lode del medesmo. Aggiuntoui per ciascun canto alcune allegorie et nel fine vna breue espositione et tauola di tutto quello, che nell'opera si contiene
+  inception:
+    - value: 1542
+  has_version:
+    - IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10165918/manifest
+      permalink: https://mdz-nbn-resolving.de/details:bsb10165918
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10165918
+      publication_date: 1543
+      note: Reprint
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1542
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE002628
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/29KJqfsF4AHJ
+        label: commentator
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5DgaVgX3rHY9
+      label: Luigi Gonzaga
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fnaMY86gpvzk
+      label: art print
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10165918/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MfDGFUx3Ps6H.json
+content:
+  markdown_content: ""

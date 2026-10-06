@@ -1,0 +1,78 @@
+metadata:
+  class: PoeticWork
+  label: Pur converrà, che i miei martiri Amore
+  description:
+  aliases:
+  base_name: Pur converrà, che i miei martiri Amore
+  filename: Pur converrà, che i miei martiri Amore.md
+  id: 2zsbkmYXs55j
+  n_id: 20588848958392340738
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F049270000101_PPPP00178500C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pp2gGLhezfyx
+      label: Lodovico Martelli
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/699KXqXpEfDj
+      pages: 20
+      label: Le Rime volgari di Lodovico di Lorenzo Martelli
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR7sSTMz4jjt
+      label: despair
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MfBWzgNTqiki
+      label: Cupid
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mmNaTApfKuRD
+      label: martyrdom
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/he75W4YL8aFz
+      label: sigh
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      PUR converrà, che i miei martiri Amore
+      Sfoghi col pianto, & co i sospiri ardenti:
+      Finché sia voto il petto, & gli occhi spenti,
+      Che fur principio al mio sì lungo errore.
+
+      Pur converrà, che si diserri il core:
+      Et s'appalesi al Mondo, & a le genti.
+      Oh disir folli, oh pensier tristi, intenti
+      Al fonte sol del vostro aspro dolore.
+
+      Ch'io volea già tener per tempo a freno,
+      Del vostro lungo traviare accorto
+      Dietro al bel viso sovra'l ciel sereno.
+
+      Deh menate a veder qual pena io porto
+      Il vostro cor, che pria, ch'io venga meno,
+      Parlerò pur con voi di chi m'ha morto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/pur_converrà,_che_i_miei_martiri_amore
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2zsbkmYXs55j.json
+content:
+  markdown_content: ""

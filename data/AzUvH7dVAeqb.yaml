@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Orpheus Instituut
+  description:
+  aliases:
+  base_name: Orpheus Instituut
+  filename: Orpheus Instituut.md
+  id: AzUvH7dVAeqb
+  n_id: 185532027549228598404
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2289519
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U72CH62RBSiC
+      label: digital library
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https:cat.orpheusinstituut.be
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AzUvH7dVAeqb.json
+content:
+  markdown_content: ""

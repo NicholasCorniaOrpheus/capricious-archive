@@ -1,0 +1,46 @@
+metadata:
+  class: MusicComposition
+  label: Deh girate, luci amate (Rubini)
+  description:
+  aliases:
+  base_name: Deh girate, luci amate (Rubini)
+  filename: Deh girate, luci amate (Rubini).md
+  id: 4RQgYCTP2TRb
+  n_id: 49742591885736134700
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/068420000010101_000000214500C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AKKfgzSbrwH6
+      label: aria
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/35zyajrobsrv
+      label: Nicolò Rubini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TB4y98S9giqN
+      label: Madrigali e pazzarelle a due voci. Libro primo di Nicolò Rubini
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UwF2GZLoZGyW
+      label: Deh girate, luci amate
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/rubini-deh_girate,_luci_amate
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/4RQgYCTP2TRb.json
+content:
+  markdown_content: ""

@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  label: Niccolò Barbieri
+  description:
+  aliases:
+  base_name: Niccolò Barbieri
+  filename: Niccolò Barbieri.md
+  id: Rx8sqzS4xAPb
+  n_id: 494219160054342322305
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2055429
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NYHSUz6Vry8D
+      pseudonym: Beltrame
+      label: Compagnia dei Confidenti
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kQTagGwVLuoA
+      label: playwright
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Rx8sqzS4xAPb.json
+content:
+  markdown_content: ""

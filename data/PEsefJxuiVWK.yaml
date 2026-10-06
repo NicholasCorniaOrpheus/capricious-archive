@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  aliases:
+    - humoral theory
+    - humors
+    - humoralism
+  base_name: four temperaments
+  filename: four temperaments.md
+  label: four temperaments
+  id: PEsefJxuiVWK
+  n_id: 438013603729838999180
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q5782572
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PEsefJxuiVWK.json
+content:
+  markdown_content: ""

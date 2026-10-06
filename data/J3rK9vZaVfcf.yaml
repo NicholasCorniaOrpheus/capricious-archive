@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: Congrega oh cielo ogni Pianeta amico
+  description:
+  aliases:
+  base_name: Congrega oh cielo ogni Pianeta amico
+  filename: Congrega oh cielo ogni Pianeta amico.md
+  id: J3rK9vZaVfcf
+  n_id: 330843211576364126587
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nqQcKS338PJu
+      pages: 27
+      label: Libro terzo de le rime di diversi nobilissimi et eccellentissimi autori nuovamente raccolte
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUaQe9C3WPVp
+      label: star
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i6aLsHeCyDtH
+      label: destiny
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Congrega oh cielo ogni Pianeta amico,
+      I larghi influssi, e le cortesi stelle,
+      Tutte le luci fortunate, e quelle,
+      Che alcun non mostrar mai segno inimico;
+
+      Ragunale tu ciel, mentre ch;'io'l dico;
+      E de le gratie loro propitie, e belle,
+      A onta de le sorti empie, e ribelle,
+      Fanne diadema al glorioso HENRICO.
+
+      Benché il suo senno gli è destino, e fato,
+      Come il proprio valor trompho, e impero;
+      Tal che può senza te farsi beato.
+
+      È ciò voler di Dio fermo, e sincero,
+      Che regna regnado ei, per regnar nato;
+      La pietà, la ragion, la fede, e'l vero.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/congrega_oh_cielo_ogni_pianeta_amico
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/J3rK9vZaVfcf.json
+content:
+  markdown_content: ""

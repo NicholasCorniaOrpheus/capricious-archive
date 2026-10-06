@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: sand
+  description:
+  aliases:
+    - arena
+    - rena
+  base_name: sand
+  filename: sand.md
+  id: DvtkaRL3mGVK
+  n_id: 246142948537984157234
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q34679
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PBpvEEsLjb3i
+      label: natural entity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DvtkaRL3mGVK.json
+content:
+  markdown_content: ""

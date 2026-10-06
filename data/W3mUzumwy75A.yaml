@@ -1,0 +1,59 @@
+metadata:
+  class: MusicComposition
+  label: Ruggiadose dolcezze in matutini (Mosto)
+  description:
+  aliases:
+  base_name: Ruggiadose dolcezze in matutini (Mosto)
+  filename: Ruggiadose dolcezze in matutini (Mosto).md
+  id: W3mUzumwy75A
+  n_id: 578443351608642608180
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Hc54xeA8ihZ
+      label: Giulio Camillo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Kq7n5TZxTnW
+      label: Giovanni Battista Mosto
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KHnKLLVoA5yf
+      label: Di Gio. Battista Mosto il primo libro de madrigali a cinque voci con un Eco a dieci nel fine
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ezkf6CsiwvNL
+      label: Ruggiadose dolcezze in matutini
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/mosto-ruggiadose_dolcezze_in_matutini
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - q_001.jpg
+    - q_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/W3mUzumwy75A.json
+content:
+  markdown_content: ""

@@ -1,0 +1,64 @@
+metadata:
+  class: Organisation
+  label: Bentveughels
+  description: 16th-century collective of young Dutch artists based around Via Margutta, Rome.
+  aliases:
+  base_name: Bentveughels
+  filename: Bentveughels.md
+  id: DQAmbYQDa9kz
+  n_id: 235015300818791294573
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q514377
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ws34pzCNqACj
+      label: (Hendrix 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJKX5NkH9MsF
+      label: artist collective
+  inception:
+    - value: 1620
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ws34pzCNqACj
+          label: (Hendrix 2017)
+  dissolved:
+    - value: 1720
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ws34pzCNqACj
+          label: (Hendrix 2017)
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  official_website:
+  catalog_identifier:
+  member:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X342ZcTd54oi
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ws34pzCNqACj
+          label: (Hendrix 2017)
+      label: initiation ritual
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J33irkAjq2cU
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ws34pzCNqACj
+          label: (Hendrix 2017)
+      label: album amicorum
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Jn2SrMsbo8RA
+      label: visual arts
+  notable_work:
+  related_to:
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ws34pzCNqACj
+          label: (Hendrix 2017)
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UzEyumEQp7s2
+        label: rival
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LCi2QgRv6qn2
+      label: Accademia di San Luca di Roma
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DQAmbYQDa9kz.json
+content:
+  markdown_content: ""

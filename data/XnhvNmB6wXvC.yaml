@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: madrigale
+  filename: madrigale.md
+  label: madrigale
+  id: XnhvNmB6wXvC
+  n_id: 614624105392938712336
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/azdRiyjTx94h
+      label: poetic form
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q338699
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XnhvNmB6wXvC.json
+content:
+  markdown_content: ""

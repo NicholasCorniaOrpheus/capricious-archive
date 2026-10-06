@@ -1,0 +1,26 @@
+metadata:
+  class: Place
+  label: Modena
+  description:
+  aliases:
+  base_name: Modena
+  filename: Modena.md
+  id: 34LsSWtbTh3a
+  n_id: 21479800808130051878
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q279
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bUguxUya4YGY
+      label: city
+  country:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYFG3hyEFbPP
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/34LsSWtbTh3a.json
+content:
+  markdown_content: ""

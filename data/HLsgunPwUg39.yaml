@@ -1,0 +1,84 @@
+metadata:
+  class: MusicComposition
+  label: Il fuoco essendo fuor de la soa sphera (Passetto)
+  description:
+  aliases:
+  base_name: Il fuoco essendo fuor de la soa sphera (Passetto)
+  filename: Il fuoco essendo fuor de la soa sphera (Passetto).md
+  id: HLsgunPwUg39
+  n_id: 316370655527665906801
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F120530000010101_000000182900C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EfY2dL7MpgHY
+      label: anonymous
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NG59X2AJp46C
+      label: Giordano Passetto
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hj9HyzwqCAFm
+      label: Madrigali nuovi a voci pari composti per il doct. musico messer Giordano Passetto. Libro Primo
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      IL fuoco essendo fuor de la soa sphera
+      naturalmente spera 
+      unirs'a quella nell'ardente facella
+      S'acqueta mai finché non giong'al loco
+      V possa il fuoco in fuoco
+      così madonna l'ardente mio desio
+      brama possarsi v si possa il cor mio
+      donque la causa ch'io torno sovent'a rivedermi oretta
+      e sol che l'affitt'alma s'acqueta in voi.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MeCVRw88z9MS
+      label: classical elements
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7SzNifkq9dZo
+      label: astronomy
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQJGEZiGYFYZ
+      label: desire
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/passetto-il_fuoco_essendo_fuor_de_la_soa_sphera
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HLsgunPwUg39.json
+content:
+  markdown_content: I could not make sense of the abbreviation `V` appearing in the printed text of the madrigal.

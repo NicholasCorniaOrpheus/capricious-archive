@@ -1,0 +1,21 @@
+metadata:
+  class: Place
+  base_name: United Kingdom
+  filename: United Kingdom.md
+  label: United Kingdom
+  id: ZPwefVFENLPM
+  n_id: 647656308843376696444
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LdjF2rcsrZ4k
+      label: country
+  country:
+  identifier:
+    - http://www.wikidata.org/entity/Q145
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZPwefVFENLPM.json
+content:
+  markdown_content: ""

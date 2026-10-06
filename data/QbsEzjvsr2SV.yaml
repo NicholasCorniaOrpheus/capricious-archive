@@ -1,0 +1,21 @@
+metadata:
+  class: Agent
+  label: Pellegrina Capello
+  description:
+  aliases:
+    - Pellegrina Capello Bentivoglio
+  base_name: Pellegrina Capello
+  filename: Pellegrina Capello.md
+  id: QbsEzjvsr2SV
+  n_id: 466249567282946277957
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q110412025
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QbsEzjvsr2SV.json
+content:
+  markdown_content: ""

@@ -1,0 +1,49 @@
+metadata:
+  class: Book
+  label: The Countess of Montgomery's Urania
+  description:
+  aliases:
+  base_name: The Countess of Montgomery's Urania
+  filename: The Countess of Montgomery's Urania.md
+  id: GipHispdF7Wz
+  n_id: 303677850352654576283
+statements:
+  identifier:
+    - https://name.umdl.umich.edu/A15791.0001.001
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/87RhmBz8z8dT
+      label: (Campbell 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cF3HzyFDHqfG
+      label: pastoral drama
+  title:
+  inception:
+  has_version:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NTsBa5tDLToW
+      label: Lady Mary Wroth
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  based_on:
+    -
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UEx82wKyUY8o
+      label: Urania
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pkoygy4mPEmk
+      label: English
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GipHispdF7Wz.json
+content:
+  markdown_content: ""

@@ -1,0 +1,41 @@
+metadata:
+  class: EmblemClass
+  label: Non come soglio il folgorar pavento
+  description: The emblem depicts a swan finding shelter from lightnings under a laurel, a tree sacred to Zeus.
+  aliases:
+  base_name: Non come soglio il folgorar pavento
+  filename: Non come soglio il folgorar pavento.md
+  id: AimPNFABwR38
+  n_id: 179844024827721034557
+statements:
+  identifier:
+  described_by_source:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9mn3vxiqWyus
+      label: lightning
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZadN4FPyf8fk
+      label: Zeus
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJeBx69phTcG
+      label: shelter
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LVFgSQZJH6F8
+      label: swan
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFcsbFYFrFvB
+      label: laurel
+  part_of:
+    - page: 8
+      section: Dell'Adombrato
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2EqW4HoVn2ms
+      label: Rime de gli Academici Occulti con le loro imprese et discorsi
+  used_by:
+  motto:
+    - value: Non come soglio il folgorar pavento
+assets:
+  image: ""
+  local_asset_path: ./assets/emblems/Adombrato_Non_come_soglio_il_folgorar_pavento
+  jpeg:
+    - 001.jpeg
+    - 002.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AimPNFABwR38.json
+content:
+  markdown_content: ""

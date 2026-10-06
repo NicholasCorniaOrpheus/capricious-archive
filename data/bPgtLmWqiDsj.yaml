@@ -1,0 +1,50 @@
+metadata:
+  class: Agent
+  label: Maffeo Venier
+  description:
+  aliases:
+    - Maffio Venier
+  base_name: Maffeo Venier
+  filename: Maffeo Venier.md
+  id: bPgtLmWqiDsj
+  n_id: 688834360123420414931
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3843049
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/87RhmBz8z8dT
+      label: (Campbell 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jxuodBQDnmQ9
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/87RhmBz8z8dT
+          label: (Campbell 2018)
+      label: Accademia Veneziana
+  occupation:
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RjeAA9urZgxC
+      label: Veronica Franco
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 20218
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bPgtLmWqiDsj.json
+content:
+  markdown_content: ""

@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: humorous poetry
+  description:
+  aliases:
+    - poesia burlesca
+    - comic poetry
+  base_name: humorous poetry
+  filename: humorous poetry.md
+  id: 2zJ3QRUFy4nX
+  n_id: 20375645194383719975
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q114805151
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2zJ3QRUFy4nX.json
+content:
+  markdown_content: ""

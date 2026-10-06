@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  label: form of creative work
+  description:
+  aliases:
+    - artistic form
+    - artistic work
+  base_name: form of creative work
+  filename: form of creative work.md
+  id: kDzd8qozXwHz
+  n_id: 871049757412814683259
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q110452794
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kDzd8qozXwHz.json
+content:
+  markdown_content: ""

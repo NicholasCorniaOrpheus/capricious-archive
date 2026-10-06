@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Sampson 2020)
+  description:
+  aliases:
+    - sampsonReformingTheaterFarnese2020
+  base_name: (Sampson 2020)
+  filename: (Sampson 2020).md
+  id: EqmkB5MVBD5R
+  n_id: 264924175892353365776
+statements:
+  isbn:
+    - 978-1-909662-57-5
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3trBJ33k7YmX
+      label: (Everson, Reidy, and Sampson 2020)
+  citation:
+    - "Sampson, Lisa. 2020. ‘Reforming Theater in Farnese Parma: The Case of the Accademia Degli Innominati (1574-1608)’. In The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent, edited by Jane E. Everson, Denis V. Reidy, and Lisa Sampson, 62–76. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/sampsonReformingTheaterFarnese2020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EqmkB5MVBD5R.json
+content:
+  markdown_content: ""

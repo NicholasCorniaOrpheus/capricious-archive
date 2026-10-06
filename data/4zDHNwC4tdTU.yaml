@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: eye
+  filename: eye.md
+  label: eye
+  id: 4zDHNwC4tdTU
+  n_id: 61617244788246392417
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/39WuafXB3SVY
+      label: anatomical entity
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q7364
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/4zDHNwC4tdTU.json
+content:
+  markdown_content: ""

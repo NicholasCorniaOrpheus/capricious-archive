@@ -1,0 +1,65 @@
+metadata:
+  class: MusicComposition
+  base_name: Occhi soavi e belli (Agostini)
+  filename: Occhi soavi e belli (Agostini).md
+  label: Occhi soavi e belli (Agostini)
+  id: G3YKLJTpLEdg
+  n_id: 289457105740817819102
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SjqizepxoSSs
+      label: Lodovico Agostini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/N7CLccqJnHWb
+      label: Musica di don Lodovico Agostini ferrarese libro secondo de madrigali a quattro voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Occhi soavi e belli,
+      Occhi sereni honesti e leggiadretti,
+      Hor che di voi son privo
+      In dolor sempre vivo
+      Deh occhi amorosetti
+      Poiché privo di voi sen mor mia vita,
+      Tornate occhi tornate a darle aita.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUkQiYzJMHtq
+      label: anaphora
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4zDHNwC4tdTU
+      label: eye
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/186310000010101_000000002400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+assets:
+  local_asset_path: ./assets/music_compositions/agostini-occhi_soavi_e_belli
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/G3YKLJTpLEdg.json
+content:
+  markdown_content: ""

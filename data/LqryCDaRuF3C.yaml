@@ -1,0 +1,52 @@
+metadata:
+  class: Organisation
+  label: Accademia dello Sdegno di Roma
+  description:
+  aliases:
+    - Accademia degli Sdegnati
+  base_name: Accademia dello Sdegno di Roma
+  filename: Accademia dello Sdegno di Roma.md
+  id: LqryCDaRuF3C
+  n_id: 388772783376486177631
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NvMPgyVZUZyq
+      label: (Vagenheim 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1540
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NvMPgyVZUZyq
+          label: (Vagenheim 2017)
+      sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 147
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mj3bZCvepyHJ
+      label: Francesco Maria Molza
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxKzwPaFqdfz
+      label: Pirro Ligorio
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B7dYQES7bzgL
+      label: classical antiquity
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LqryCDaRuF3C.json
+content:
+  markdown_content: ""

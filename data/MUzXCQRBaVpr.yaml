@@ -1,0 +1,78 @@
+metadata:
+  class: Book
+  label: Discorso sopra tutti li primi canti d'Orlando Furioso
+  description: Commentary in ottava rima of the chivalry poem Orlando Furioso by Ludovico Ariosto. At the end of each canto, the author dedicates a stanza for members of her intellectual and social network.
+  aliases:
+  base_name: Discorso sopra tutti li primi canti d'Orlando Furioso
+  filename: Discorso sopra tutti li primi canti d'Orlando Furioso.md
+  id: MUzXCQRBaVpr
+  n_id: 401853898218186859659
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE054714
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2akh6MQphaCo
+      label: (Lucioli 2024)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQNC7fJmPEqj
+      label: (Bolzoni and Girotto 2013)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NoC5RFxc7i7n
+      label: (Driscoll 2022)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Discorso sopra tutti li primi canti d'Orlando Furioso fatti [!] per la signora Laura Terracina
+  inception:
+    - value: 1549
+  has_version:
+    - IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10758640/manifest
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10758640
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      publication_date: 1570
+      permalink: https://mdz-nbn-resolving.de/details:bsb10758640
+    - publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      external_source: https://books.google.it/books?id=_AF9YOXQrlsC
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1550
+      note: Reprint with original engravings.
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE027004
+    - publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      publication_date: 1549
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE054714
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ckEmuMKavtj2
+      label: commentary
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fnaMY86gpvzk
+      label: art print
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10758640/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MUzXCQRBaVpr.json
+content:
+  markdown_content: ""

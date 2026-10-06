@@ -1,0 +1,44 @@
+metadata:
+  class: Agent
+  label: Barbara degli Albizzi Tagliamochi
+  description:
+  aliases:
+    - Barbara Tigliamochi degli Albizi
+  base_name: Barbara degli Albizzi Tagliamochi
+  filename: Barbara degli Albizzi Tagliamochi.md
+  id: kqch7g9zcx3C
+  n_id: 883943668612443878743
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q110136206
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cqk2UG6Z6tRK
+      label: Ascanio errante
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RjHGJFCFwLEw
+        label: SHEWROTE
+      value: 20440d1d-dcbf-40eb-843a-b78547bd2499
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kqch7g9zcx3C.json
+content:
+  markdown_content: ""

@@ -1,0 +1,36 @@
+metadata:
+  class: Agent
+  label: Philomela
+  description: legendary princess of Athens transformed into a swallow or nightingale
+  aliases:
+  base_name: Philomela
+  filename: Philomela.md
+  id: fci7UDehHUZr
+  n_id: 776092096162790073924
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q115449
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XS93TrymdpqC
+      label: princess
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/fci7UDehHUZr.json
+content:
+  markdown_content: ""

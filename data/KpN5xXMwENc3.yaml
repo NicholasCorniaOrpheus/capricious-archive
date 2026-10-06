@@ -1,0 +1,44 @@
+metadata:
+  class: MusicComposition
+  label: Care gioie, che le noie (Rubini)
+  description:
+  aliases:
+  base_name: Care gioie, che le noie (Rubini)
+  filename: Care gioie, che le noie (Rubini).md
+  id: KpN5xXMwENc3
+  n_id: 367591301526379143892
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/038980000010101_000000214500C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AKKfgzSbrwH6
+      label: aria
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/35zyajrobsrv
+      label: Nicolò Rubini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TB4y98S9giqN
+      label: Madrigali e pazzarelle a due voci. Libro primo di Nicolò Rubini
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQN5zh3RvnSg
+      label: Care gioie, che le noie
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/rubini-care_gioie,_che_le_noie
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KpN5xXMwENc3.json
+content:
+  markdown_content: ""

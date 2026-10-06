@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Tostini 2017)
+  description:
+  aliases:
+    - tostiniCammeoIntrecciVirtuosi2017
+  base_name: (Tostini 2017)
+  filename: (Tostini 2017).md
+  id: cW5TYy5yxrHw
+  n_id: 711779430294667355723
+statements:
+  isbn:
+    - 978-88-6557-321-1
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Tostini, Patrizia. 2017. ‘Un cammeo per gli “intrecci virtuosi”: Marco Antonio Ferretti poeta accademico anconitano e Cristoforo Roncalli pittore’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Paolo Procaccioli, 195–211. Roma: De Luca editori d’arte."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/tostiniCammeoIntrecciVirtuosi2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cW5TYy5yxrHw.json
+content:
+  markdown_content: ""

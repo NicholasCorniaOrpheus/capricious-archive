@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: Quant'ho più da lontan l'aspetto vostro
+  description:
+  aliases:
+  base_name: Quant'ho più da lontan l'aspetto vostro
+  filename: Quant'ho più da lontan l'aspetto vostro.md
+  id: kuaYmBFrb3gR
+  n_id: 885378169446979787795
+statements:
+  identifier:
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=29136
+    - https://lyra.unil.ch/poems/6023
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXRaAHQ4vwY8
+        label: Chiara Matraini
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+  part_of:
+    - section:
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RgjvBxtsjnyR
+      pages: 104
+      label: Rime di diversi signori napoletani Libro settimo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HdQB3CYz2ig3
+      label: loyalty
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HXwdX5qkqNv6
+      label: departure
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oXBgWheDPaCK
+      label: heart
+  text:
+    - |-
+      QUANT'HO più da lontan l'aspetto vostro
+      Più lo sento ne l'alma a parte a parte
+      Scolpito, e vivo, e'n ciascheduna parte
+      Insignorirsi del mortal suo chiostro:
+
+      Né poggio, sasso, o valle Amor m'ha mostro
+      Fin, dove il Serchio arriva, o donde parte,
+      Ch'io non vi veda con mirabil arte
+      Scritto il nome, ch'adorna il secol nostro.
+
+      Così potesse del mio amor far fede
+      Il cor, che nel partir vi lassai in pegno,
+      ond'ugual fosse amor sempre tra noi;
+
+      Che sì nel petto il bel nodo mi sede,
+      Ch'unqua nol cangerà tempo né sdegno;
+      Ma sempre v’amerò viva, e dapoi.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/quant'ho_più_da_lontan_l'aspetto_vostro
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kuaYmBFrb3gR.json
+content:
+  markdown_content: ""

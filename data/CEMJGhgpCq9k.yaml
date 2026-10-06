@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Austrian National Library
+  description:
+  aliases:
+    - Österreichische Nationalbibliothek
+    - ÖNB
+  base_name: Austrian National Library
+  filename: Austrian National Library.md
+  id: CEMJGhgpCq9k
+  n_id: 210825888281055022716
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q304037
+  described_by_source:
+  instance_of:
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://www.onb.ac.at/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CEMJGhgpCq9k.json
+content:
+  markdown_content: ""

@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: bizzarria
+  description: L’esser bizzarro, stranezza, stravaganza, originalità
+  aliases:
+  base_name: bizzarria
+  filename: bizzarria.md
+  id: SE8dJXKowffE
+  n_id: 499648038486411731883
+statements:
+  identifier:
+    - https://www.treccani.it/vocabolario/bizzarria/
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hhqYAYQvTtm5
+      label: Treccani Vocabulary
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SE8dJXKowffE.json
+content:
+  markdown_content: ""

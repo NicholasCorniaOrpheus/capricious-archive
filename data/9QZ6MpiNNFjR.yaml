@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: poetry
+  description:
+  aliases:
+    - rima
+    - rime
+    - poesia
+    - poesie
+  base_name: poetry
+  filename: poetry.md
+  id: 9QZ6MpiNNFjR
+  n_id: 152613412325568064478
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q482
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9QZ6MpiNNFjR.json
+content:
+  markdown_content: ""

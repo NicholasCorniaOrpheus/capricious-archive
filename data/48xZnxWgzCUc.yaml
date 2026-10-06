@@ -1,0 +1,52 @@
+metadata:
+  class: MusicComposition
+  base_name: Che pena si può dire (Merulo)
+  filename: Che pena si può dire (Merulo).md
+  label: Che pena si può dire (Merulo)
+  id: 48xZnxWgzCUc
+  n_id: 43790520909044923375
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F043200000010101_000000159500C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fA6YCedpv5c5
+      label: canzonetta
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FxEAn4obvSRm
+      label: Claudio Merulo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EfY2dL7MpgHY
+      label: anonymous
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9XP9AcQx3Vow
+      label: Di Claudio Merulo da Correggio il primo libro de madrigali a tre voci
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GJgtqkJmuqmp
+      label: Che pena si può dire
+  derivative_work:
+  subject:
+  poetic_type:
+  metre:
+  depicts:
+  language:
+  text:
+assets:
+  local_asset_path: ./assets/music_compositions/merulo-che_pena_si_può_dire
+  jpg:
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/48xZnxWgzCUc.json
+content:
+  markdown_content: ""

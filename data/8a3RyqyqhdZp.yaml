@@ -1,0 +1,66 @@
+metadata:
+  class: PoeticWork
+  label: Entro d'un chiaro fonte
+  description: Pastoral scene depicting a naked woman singing observed, and later courted by the poet/shepperd.
+  aliases:
+  base_name: Entro d'un chiaro fonte
+  filename: Entro d'un chiaro fonte.md
+  id: 8a3RyqyqhdZp
+  n_id: 135409489462337966761
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SnB9APyQXi5U
+      label: Paolo Emilio Balzani
+  part_of:
+    - section: Del Faunio
+      pages: 23
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B5dDXV6qVG2p
+      label: Ricreazioni amorose de gli Academici Gelati di Bologna
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QnXnJU93h3jw
+      label: nymph
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FZP8Rx3LsDxz
+      label: shepherd
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Entro d' un chiaro fonte
+      Veggio la bella NISA ignuda, e sola
+      Cantare, hor vola vola
+      Anima mia fra quelle braccia stretta
+      Del tuo pastore, e ivi si diletta.
+      Il pastor, ch'ode sovragiunge, ed ella
+      Poi li si mostra rigidetta, e fella:
+      Vuole, non vuol, come chi vieti, e ceda,
+      Pur li si dona in preda.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/entro_d'un_chiaro_fonte
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8a3RyqyqhdZp.json
+content:
+  markdown_content: ""

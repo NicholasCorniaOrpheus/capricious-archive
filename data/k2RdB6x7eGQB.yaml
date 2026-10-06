@@ -1,0 +1,51 @@
+metadata:
+  class: Agent
+  label: Virginia Ramponi-Andreini
+  description:
+  aliases:
+    - La Florinda
+    - Virginia Andreini
+  base_name: Virginia Ramponi-Andreini
+  filename: Virginia Ramponi-Andreini.md
+  id: k2RdB6x7eGQB
+  n_id: 866857796917084495965
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3560663
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UDnCN4u7MtNP
+      label: (Wilbourne 2007)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nS5ZgWwzPxTR
+      label: (Besutti 2019)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/n2tbuzTbadXu
+      label: (Wilbourne 2016)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YTYEKR5GKuMa
+      label: (Wilbourne 2009)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C7U3GddqnuPM
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Spensierati di Firenze
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/k2RdB6x7eGQB.json
+content:
+  markdown_content: ""

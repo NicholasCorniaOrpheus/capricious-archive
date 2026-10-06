@@ -1,0 +1,27 @@
+metadata:
+  class: Concept
+  label: garden
+  description:
+  aliases:
+    - giardin
+    - giardino
+  base_name: garden
+  filename: garden.md
+  id: U3W24sdZDPUp
+  n_id: 537073277097029942356
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1107656
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3frfeZ8i5JSm
+      label: location
+  subclass_of:
+  opposite_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/U3W24sdZDPUp.json
+content:
+  markdown_content: ""

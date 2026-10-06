@@ -1,0 +1,71 @@
+metadata:
+  class: MusicComposition
+  label: Crudel fiera selvaggia (Viola)
+  description:
+  aliases:
+  base_name: Crudel fiera selvaggia (Viola)
+  filename: Crudel fiera selvaggia (Viola).md
+  id: LUwX5wkuyxAY
+  n_id: 381198931330065164766
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F061730000010101_000000076800C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/eJkZtqiCPcgu
+      label: Alfonso dalla Viola
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/koYRuMoaxBMQ
+      label: Primo libro di Madrigali d'Alfonso dalla Viola
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Crudel fiera selvaggia
+      Contr'un vero fedele
+      Tant'ire, tanti sdegni e tai querele
+      Il cor m'infoc'acceso
+      I miei continui guai 
+      Il mio duol, il mio languire
+      Dovria haver omai
+      Trovar alcun compenso 
+      E far conform'al mio vero desire
+      E voi per più martire 
+      Crudel più che crudele
+      Con poco mel mischiat'un tanto fele.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mmNaTApfKuRD
+      label: martyrdom
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HdQB3CYz2ig3
+      label: loyalty
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/viola-crudel_fiera_selvaggia
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LUwX5wkuyxAY.json
+content:
+  markdown_content: ""

@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Taschetti 2024)
+  description:
+  aliases:
+    - taschettiMusicTarquiniaMolza2024
+  base_name: (Taschetti 2024)
+  filename: (Taschetti 2024).md
+  id: 7FeDbjrMGHRk
+  n_id: 108115877072131688388
+statements:
+  identifier:
+    - https://doi.org/10.3986/dmd19.2.08
+  described_by_source:
+  part_of:
+  citation:
+    - "Taschetti, Gabriele. 2024. ‘Music for Tarquinia Molza Rediscovered: Cantate o Nove Alme/Mater Misericordiae by Domenico Micheli/Geronimo Cavaglieri’. De Musica Disserenda 19 (2)."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/taschettiMusicTarquiniaMolza2024.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7FeDbjrMGHRk.json
+content:
+  markdown_content: ""

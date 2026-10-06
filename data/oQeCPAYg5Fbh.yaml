@@ -1,0 +1,78 @@
+metadata:
+  class: PoeticWork
+  label: Cantava un giorno la mia Nimpha, quando
+  description:
+  aliases:
+  base_name: Cantava un giorno la mia Nimpha, quando
+  filename: Cantava un giorno la mia Nimpha, quando.md
+  id: oQeCPAYg5Fbh
+  n_id: 936810036746614031754
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L8Tf2qNBGXFK
+      label: Dianora Sanseverino
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EVLHUYPjvWMB
+      section: Alla S. Dianora Terracina.
+      pages: 22
+      label: Quinte Rime della signora Laura Terracina detta Phebea nell'Academia de gl'Incogniti
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mYTHrWKC38sb
+      label: lyre
+  text:
+    - |-
+      Cantava un giorno la mia Nimpha, quando
+      Riprese Apollo in man l'amata lira;
+      E sì gioioso a la sua voce mira,
+      Che'l carro al più bel corso ha posto in bando.
+
+      Io che tal'odo anchor, bramosa n'andò
+      Ove l'altero suon dolce mi tira:
+      E con quella armonia che'l core aggira
+      Mi va quasi col corpo al ciel portando.
+
+      E benché nel partir habbia gran pena
+      Per lasciar qui di mei pensier'il pondo
+      Godo pur, ch'altra , non qual'era i sono.
+
+      Così tremante e d'allegrezza piena,
+      Lodo sovente il gran fattor del mondo:
+      Che tra noi die' sì glorioso dono.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/cantava_un_giorno_la_mia_nimpha,_quando
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/oQeCPAYg5Fbh.json
+content:
+  markdown_content: ""

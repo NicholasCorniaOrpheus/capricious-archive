@@ -1,0 +1,62 @@
+metadata:
+  class: Book
+  label: Dialogo di Pietro Aretino nel quale si parla del gioco con moralità piacevole
+  description:
+  aliases:
+    - Le carte parlanti
+  base_name: Dialogo di Pietro Aretino nel quale si parla del gioco con moralità piacevole
+  filename: Dialogo di Pietro Aretino nel quale si parla del gioco con moralità piacevole.md
+  id: nMRXTDYKcVPP
+  n_id: 915007592930029116357
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE002454
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dfNgyuJzXPJ6
+      label: (Giaccone 1989)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - Dialogo di Pietro Aretino nelquale si parla del gioco con moralita piaceuole. Con priuilegio
+  inception:
+    - value: 1545
+  has_version:
+    - publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ETxQtbjAywwf
+        label: Melchiorre Sessa
+      publication_date: 1545
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE002454
+      external_source: https://www.google.be/books/edition/Dialogo_nel_quale_si_parla_del_gioco_con/QNs6AAAAcAAJ
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LThUzJVzHcFH
+      label: game
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DJodVh42iK9t
+      label: tarot card game
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/K5nDsiN27Nem
+      label: Tiziano
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nMRXTDYKcVPP.json
+content:
+  markdown_content: ""

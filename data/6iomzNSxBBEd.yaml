@@ -1,0 +1,69 @@
+metadata:
+  class: PoeticWork
+  label: Ohimè la bella fera
+  description:
+  aliases:
+  base_name: Ohimè la bella fera
+  filename: Ohimè la bella fera.md
+  id: 6iomzNSxBBEd
+  n_id: 97315650247395847247
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a2jfxQLFAvZt
+      label: Luigi Alamanni
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AXVikvXrHX9B
+      pages: 209
+      label: Opere toscane di Luigi Alamanni
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZTekfwVRnUbd
+      label: canzone
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NknErMsF55g9
+      label: thorn
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Ohimè la bella fera 
+      Ch'io cacciai tanto invano;
+      Tolta al mio desiar d'altrui fu preda,
+      L'antica primavera 
+      Lasciando me lontano 
+      Conviene hormai ch'al pigro verno ceda, 
+      Amante più non creda
+      A' liete frondi & fiori
+      Che frutto poi non nasce, 
+      Et mentre indarno pasce 
+      Folle speranza de lor falsi honori;
+      Siam poi carchi alla fine 
+      Di secchi rami, & di pungenti spine.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/ohimè_la_bella_fera
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6iomzNSxBBEd.json
+content:
+  markdown_content: ""

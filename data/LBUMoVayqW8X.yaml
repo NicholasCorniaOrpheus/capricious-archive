@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: woman
+  description:
+  aliases:
+    - lady
+  base_name: woman
+  filename: woman.md
+  id: LBUMoVayqW8X
+  n_id: 374871842138942346917
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q467
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LBUMoVayqW8X.json
+content:
+  markdown_content: ""

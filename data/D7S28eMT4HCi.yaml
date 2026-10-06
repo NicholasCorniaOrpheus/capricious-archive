@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  label: Leonora de' Medici Gonzaga
+  description:
+  aliases:
+    - Eleanor de' Medici
+  base_name: Leonora de' Medici Gonzaga
+  filename: Leonora de' Medici Gonzaga.md
+  id: D7S28eMT4HCi
+  n_id: 228957513543438015697
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1991420
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/D7S28eMT4HCi.json
+content:
+  markdown_content: ""

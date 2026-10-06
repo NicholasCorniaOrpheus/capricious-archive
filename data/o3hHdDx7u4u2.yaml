@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: sonnet
+  filename: sonnet.md
+  label: sonnet
+  id: o3hHdDx7u4u2
+  n_id: 929226975803226389997
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/azdRiyjTx94h
+      label: poetic form
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q80056
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/o3hHdDx7u4u2.json
+content:
+  markdown_content: ""

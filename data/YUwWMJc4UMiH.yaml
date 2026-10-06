@@ -1,0 +1,61 @@
+metadata:
+  class: PoeticWork
+  label: Mentre l'alte promesse a mille a mille
+  description:
+  aliases:
+  base_name: Mentre l'alte promesse a mille a mille
+  filename: Mentre l'alte promesse a mille a mille.md
+  id: YUwWMJc4UMiH
+  n_id: 628829648621476746948
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+  part_of:
+    - section: 11
+      pages: 68-69
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hi5GzysL3aMZ
+      label: (Gambara 1995)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UKk9xKyR5owm
+      label: betrayal
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FHkhZJZzAo88
+      label: thousand
+  text:
+    - |-
+      Mentre l'alte promesse a mille a mille
+      Con mentita pietà non m'ingannaro
+      Furon le fiame mie dolci e tranquille,
+      E'l dolor e 'l piacer corsero al paro.
+      Crebbero poi sì calde le faville,
+      Sommerse il poco dolce il molt'amaro,
+      E sì corse l'infermo mio desio
+      Che la speranza col tardar morio.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YUwWMJc4UMiH.json
+content:
+  markdown_content: ""

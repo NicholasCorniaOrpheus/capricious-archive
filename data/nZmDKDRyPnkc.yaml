@@ -1,0 +1,83 @@
+metadata:
+  class: PoeticWork
+  label: Un bel ricco Ocean di chiari pianti
+  description:
+  aliases:
+  base_name: Un bel ricco Ocean di chiari pianti
+  filename: Un bel ricco Ocean di chiari pianti.md
+  id: nZmDKDRyPnkc
+  n_id: 919477000778798463496
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/15018
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/msaShVwusGue
+      label: Giambattista Marino
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FunxZXZiph3r
+      label: Gaspare Murtola
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RYgwWvCbEmKy
+      pages: 240
+      label: Rime di Gio. Battista Marino, amorose, marittime, boscherecce, heroiche, lugubri, morali, sacre, & varie
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAAWbiBLrFsC
+      label: epistolary literature
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/msaShVwusGue
+      label: Giambattista Marino
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oYZRv6aG7yMk
+      label: dolphin
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Yeipn8BLRFXZ
+      label: ocean
+  text:
+    - |-
+      Un bel ricco Ocean di chiari pianti
+      Se' tu MARIN, dove delfino il core
+      Fatto sostien su'l nobil dorso Amore,
+      Che più dolce Arione avien, che canti.
+
+      Non conche, o perle a te pure stillanti
+      Mancan, non di fin'or vago splendore,
+      Non Alba, ch'apra del tuo grembo fore
+      Rugiadosi i suoi raggi, e sfavillanti.
+
+      Ch'a te conche amorose offron due belle
+      Labra vermiglie; e son lor perle i denti
+      De la donna gentil, ch'n te s'aviva.
+
+      L'oro il suo crin; la face accesa e viva,
+      Ch'ha ne'begli occhi, e le faville ardenti
+      Son dl tuo Mare il Sol, l'Alba, e le stelle.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/un_bel_ricco_ocean_di_chiari_pianti
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nZmDKDRyPnkc.json
+content:
+  markdown_content: ""

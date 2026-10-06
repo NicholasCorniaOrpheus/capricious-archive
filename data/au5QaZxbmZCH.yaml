@@ -1,0 +1,43 @@
+metadata:
+  class: Book
+  label: Dell'arte rappresentativa premeditata, ed all'improviso
+  description:
+  aliases:
+  base_name: Dell'arte rappresentativa premeditata, ed all'improviso
+  filename: Dell'arte rappresentativa premeditata, ed all'improviso.md
+  id: au5QaZxbmZCH
+  n_id: 678834065961751138677
+statements:
+  identifier:
+    - http://id.sbn.it/bid/VEAE003733
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mwGnyYvHStEj
+      label: (Perrucci [1699] 2008)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Dell'arte rappresentativa premeditata, ed all'improviso parti due. Giovevole non solo a chi si diletta di rappresentare; ma a' predicatori, oratori, accademici, e curiosi del dottor Andrea Perrucci
+  inception:
+    - value: 1699
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+          label: Napoli
+      permalink: http://id.sbn.it/bid/VEAE003733
+      publication_date: 1699
+  contributor:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/34DZHbTfjKob
+      label: improvisational theater
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/au5QaZxbmZCH.json
+content:
+  markdown_content: ""

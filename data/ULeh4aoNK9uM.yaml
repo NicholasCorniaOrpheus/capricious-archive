@@ -1,0 +1,65 @@
+metadata:
+  class: PoeticWork
+  label: Penetra con l'acuto alto intelletto
+  description:
+  aliases:
+  base_name: Penetra con l'acuto alto intelletto
+  filename: Penetra con l'acuto alto intelletto.md
+  id: ULeh4aoNK9uM
+  n_id: 543283000587429802480
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8g4zkHCciMB
+      label: (Ray 2015)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QzFWBAu4Ku5H
+      label: Margherita Sarrocchi
+  part_of:
+    - section: Canto III, 38
+      pages: 23
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dXHZMmpg7CAi
+      label: La Scanderbeide poema heroico della signora Margherita Sarrocchi
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mXh2Rsv82eCY
+      label: astrology
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/G8qkbNybPaKp
+      label: Calidora
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Penetra con l'acuto alto intelletto,
+      Da le cagion primiere a le seconde,
+      Che producon tra noi diverso effetto,
+      Con qualitati, e sterili, e feconde,
+      Che con vario del ciel corso, & aspetto,
+      Dan le fortune averse, e le feconde,
+      E così de le stelle il lume, e'l moto,
+      E di natura l'operar l'è noto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/penetra_con_l'acuto_alto_intelletto
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ULeh4aoNK9uM.json
+content:
+  markdown_content: ""

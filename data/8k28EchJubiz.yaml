@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: satyr
+  description:
+  aliases:
+    - satiro
+  base_name: satyr
+  filename: satyr.md
+  id: 8k28EchJubiz
+  n_id: 139021492502882477039
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q163709
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8k28EchJubiz.json
+content:
+  markdown_content: ""

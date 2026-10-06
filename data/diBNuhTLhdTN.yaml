@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Castelli 2002)
+  description:
+  aliases:
+    - castelliFrancescoPatriziFilosofo2002
+  base_name: (Castelli 2002)
+  filename: (Castelli 2002).md
+  id: diBNuhTLhdTN
+  n_id: 736797322308087630932
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - Castelli, Patrizia. 2002. Francesco Patrizi Filosofo Platonico Nel Crepuscolo Del Rinascimento. LS Olschki.
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/castelliFrancescoPatriziFilosofo2002.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/diBNuhTLhdTN.json
+content:
+  markdown_content: ""

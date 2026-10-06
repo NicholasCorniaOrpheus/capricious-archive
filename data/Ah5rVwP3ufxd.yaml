@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: A voi Donna reale, al vostro immenso
+  description:
+  aliases:
+  base_name: A voi Donna reale, al vostro immenso
+  filename: A voi Donna reale, al vostro immenso.md
+  id: Ah5rVwP3ufxd
+  n_id: 179230956669168374249
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      label: Giovanna d'Aragona
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8FS3byBrtF9L
+      label: Annibale Caro
+  part_of:
+    - pages: 52
+      section: Annibal Caro.
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YnKescy9oBAL
+      label: Del tempio alla divina signora donna Giovanna d'Aragona
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      label: Giovanna d'Aragona
+  text:
+    - |-
+      A voi Donna reale, al vostro immenso
+      Valore, a l'accortezza, a l'honestate,
+      A quella serenissima beltate,
+      Ond'havete d'amore il mondo incenso,
+
+      A l'alta incontra al fato, e'ncontra al senso,
+      Costante, inespugnabile humiltate,
+      A la vostra divina humanitate
+      Erge quest'ara universal consenso.
+
+      A cui sacra d'intorno, e la virtute,
+      E la gloria de' vostri, e'l nostro merto,
+      Tante di vero honor, chiare facelle;
+
+      Che le rozze mie Muse, e fredde, e mute,
+      Ma solo offrendo, e questo picciol serto,
+      Lassan l'Eternità che ne favelle.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/a_voi_donna_reale,_al_vostro_immenso
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Ah5rVwP3ufxd.json
+content:
+  markdown_content: ""

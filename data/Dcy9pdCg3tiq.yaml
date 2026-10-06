@@ -1,0 +1,66 @@
+metadata:
+  class: NotatedMusic
+  label: Di Luca Marenzio il terzo libro de madrigali a cinque voci
+  description:
+  aliases:
+  base_name: Di Luca Marenzio il terzo libro de madrigali a cinque voci
+  filename: Di Luca Marenzio il terzo libro de madrigali a cinque voci.md
+  id: Dcy9pdCg3tiq
+  n_id: 239654233636729761902
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE045282
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Luca Marenzio il terzo libro de madrigali a cinque voci. Nouamente composti & dati in luce
+  inception:
+    - value: 1582
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE045282
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1582
+      external_source: https://stimmbuecher.digitale-sammlungen.de/view?id=bsb00083511
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00083511/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JL7PpUDfWgSe
+      label: Luca Marenzio
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00083511/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Dcy9pdCg3tiq.json
+content:
+  markdown_content: ""

@@ -1,0 +1,71 @@
+metadata:
+  class: PoeticWork
+  label: Come potrò narrarvi il dolor mio
+  description:
+  aliases:
+    - Come potrò narrarv'il dolor mio
+  base_name: Come potrò narrarvi il dolor mio
+  filename: Come potrò narrarvi il dolor mio.md
+  id: Ett5nZf4XGnF
+  n_id: 266050459775567417545
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F072370000101_000000181100C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZcWT5Zdy9Zwp
+      label: Girolamo Parabosco
+  part_of:
+    - pages: 42
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KwrPfTNGrnKT
+      label: Rime di m. Girolamo Parabosco
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mmNaTApfKuRD
+      label: martyrdom
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Come potrò narrarvi il dolor mio
+      Donna, se innanzi al vostro almo conspetto
+      Provo sì gran diletto,
+      Ch'ogni cosa di me pongo in oblio?
+
+      Ma voi, che nel mio petto,
+      Eterno albergo bavete
+      E'l mio martir vedete,
+      Perché non provedete,
+      O ch'io non provi quel martir assente;
+      O che mai sempre a voi resti presente?
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/come_potrò_narrarvi_il_dolor_mio
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Ett5nZf4XGnF.json
+content:
+  markdown_content: ""

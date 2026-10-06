@@ -1,0 +1,97 @@
+metadata:
+  class: PoeticWork
+  label: D'un alto monte; ove si scorge il mare
+  description: The author laments her reclusion in het father's house.
+  aliases:
+  base_name: D'un alto monte; ove si scorge il mare
+  filename: D'un alto monte; ove si scorge il mare.md
+  id: LDR7gnfMvs8f
+  n_id: 375575281309176998563
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/1569
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Meh7sxamWjJw
+      label: (Nardi 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/doo4FV8oxLNi
+      label: Isabella di Morra
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RejRRize222j
+      section: Isabella di Morra.
+      pages: 310
+      label: Libro quinto delle rime di diversi illustri signori napoletani
+    - section: Isabella di Morra.
+      pages: 15
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YH5YsDQaNjqj
+      label: Rime delle signore Lucrezia Marinella, Veronica Gambara, ed Isabella Della Morra. Di nuouo date in luce da Antonio Bulifon
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR7sSTMz4jjt
+      label: despair
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C5ipjJaua6Bx
+      label: mountain
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Yeipn8BLRFXZ
+      label: ocean
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i6aLsHeCyDtH
+      label: destiny
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUaQe9C3WPVp
+      label: star
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GYGwj2xP2wD8
+      label: hope
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/25aVTU3ikP69
+      label: transformation
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GfJn75HsAD4J
+      label: watercraft
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      D'Un'alto monte; onde si scorge il mare,
+      Miro sovente io tua figlia Isabella,
+      S'alcun legno spalmato in quello appare,
+      Che di te Padre a me doni novella.
+
+      Ma la mia adversa, e dispietata stella
+      Non vuol, ch'alcun conforto possa entrare
+      Nel tristo cor, ma di pietà rubella
+      La calda speme in pianto fa mutare.
+
+      Ch'io non veggo nel mar remo, né vela;
+      (Così deserto è lo infelice lito,)
+      Che l'onde fenda, o che la gonfi al vento.
+
+      Contra fortuna allhor spargo querela,
+      Et ho in odio il denigrato sito;
+      Come sola cagion del mio tormento.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/d'un_alto_monte;_onde_si_scorge_il_mare
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LDR7gnfMvs8f.json
+content:
+  markdown_content: ""

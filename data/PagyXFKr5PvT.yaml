@@ -1,0 +1,87 @@
+metadata:
+  class: Book
+  label: Componimenti poetici delle piu' illustri rimatrici d'ogni secolo
+  description:
+  aliases:
+  base_name: Componimenti poetici delle piu' illustri rimatrici d'ogni secolo
+  filename: Componimenti poetici delle piu' illustri rimatrici d'ogni secolo.md
+  id: PagyXFKr5PvT
+  n_id: 445186505667082295890
+statements:
+  identifier:
+    - http://id.sbn.it/bid/VIAE008330
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Componimenti poetici delle piu' illustri rimatrici d'ogni secolo, raccolti da Luisa Bergalli. Parte prima [-seconda]
+  inception:
+    - value: 1726
+  has_version:
+    - external_source: https://www.digitale-sammlungen.de/en/view/bsb10812949
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10812949/manifest
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      permalink: http://id.sbn.it/bid/VIAE008330
+      note: volume 2
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1726
+      note: volume 1
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10754251/manifest
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10754251
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      permalink: http://id.sbn.it/bid/VIAE008330
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QzFWBAu4Ku5H
+      label: Margherita Sarrocchi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hKo3ybdS8hXx
+      label: Innocenza Carrari
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6vLSy3dtmexs
+      label: Barbara Torelli Benedetti
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fVQzs2ANL4VK
+      label: Anna Rosalia Caruso
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jEuoGEuT2B8s
+      label: Elena Cornaro Piscopia
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/etwu2MYrAYLf
+      label: Luisa Bergalli
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10812949/manifest
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10754251/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PagyXFKr5PvT.json
+content:
+  markdown_content: ""

@@ -1,0 +1,50 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Infecondi di Roma
+  description:
+  aliases:
+  base_name: Accademia degli Infecondi di Roma
+  filename: Accademia degli Infecondi di Roma.md
+  id: J3V2dhYN784W
+  n_id: 330707990870173611673
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Frb7my4duMiR
+      label: (Everson 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 125
+  member:
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Frb7my4duMiR
+          label: (Everson 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jEuoGEuT2B8s
+      pseudonym: L'Inalterabile
+      label: Elena Cornaro Piscopia
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZDmL3yzTzmyf
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Frb7my4duMiR
+          label: (Everson 2017)
+      label: Romanesco
+  notable_work:
+  related_to:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/J3V2dhYN784W.json
+content:
+  markdown_content: ""

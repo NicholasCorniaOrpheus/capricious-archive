@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: partbook
+  description: Music book composed of separate parts.
+  aliases:
+    - polyphonic book
+  base_name: partbook
+  filename: partbook.md
+  id: WoXXLHXBBLj4
+  n_id: 594284156483168312720
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q4366612
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P6pRP3sK8VKi
+      label: notated music
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/WoXXLHXBBLj4.json
+content:
+  markdown_content: ""

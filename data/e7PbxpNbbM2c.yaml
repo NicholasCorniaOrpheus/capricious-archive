@@ -1,0 +1,77 @@
+metadata:
+  class: Book
+  aliases:
+    - Eroici furori
+    - De gl'heroici furori
+  base_name: De gli eroici furori
+  filename: De gli eroici furori.md
+  label: De gli eroici furori
+  id: e7PbxpNbbM2c
+  n_id: 744839727824562628606
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - Giordano Bruno Nolano. De gl'heroici furori
+  inception:
+    - value: 1583
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LFnX7JTYkXgP
+          label: (Yates 1964)
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AwpgRUaYkZWy
+          label: (Canone 2007)
+  has_version:
+    - IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10857258/manifest
+      publication_date: 1585
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/64m48iDXC7Fc
+          label: Paris
+      permalink: https://mdz-nbn-resolving.de/details:bsb10857258
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10857258
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE007714
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/64m48iDXC7Fc
+          label: Paris
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M4CDHkHzJWTe
+          label: London
+      publication_date: 1585
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mzVqud2uGYeD
+        label: John Charlewood
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9QZ6MpiNNFjR
+      label: poetry
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bxtQcQpdXsKm
+      label: hermeticism
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/V6FTS9bq4reT
+      label: Luigi Transillo
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE007714
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AwpgRUaYkZWy
+      label: (Canone 2007)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LFnX7JTYkXgP
+      label: (Yates 1964)
+assets:
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10857258/manifest
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/e7PbxpNbbM2c.json
+content:
+  markdown_content: ""

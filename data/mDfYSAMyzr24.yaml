@@ -1,0 +1,42 @@
+metadata:
+  class: Agent
+  label: Lucrezia Borgia
+  description:
+  aliases:
+  base_name: Lucrezia Borgia
+  filename: Lucrezia Borgia.md
+  id: mDfYSAMyzr24
+  n_id: 891564456217863495701
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q191103
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KCofT9gSKbMd
+      label: House of d'Este
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/b/b6/Dosso_DOSSI_%2C_Battista_DOSSI_%28attributed_to%29_-_Lucrezia_Borgia%2C_Duchess_of_Ferrara_-_Google_Art_Project.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mDfYSAMyzr24.json
+content:
+  markdown_content: ""

@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  aliases:
+    - Giove
+    - Jupiter
+  base_name: Zeus
+  filename: Zeus.md
+  label: Zeus
+  id: ZadN4FPyf8fk
+  n_id: 651522497411399826627
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q34201
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZadN4FPyf8fk.json
+content:
+  markdown_content: ""

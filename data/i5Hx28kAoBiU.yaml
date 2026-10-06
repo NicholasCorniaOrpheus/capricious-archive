@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: transvestism
+  description:
+  aliases:
+    - transvesting
+    - cross-dressing
+  base_name: transvestism
+  filename: transvestism.md
+  id: i5Hx28kAoBiU
+  n_id: 826623385051040093504
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q486680
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/i5Hx28kAoBiU.json
+content:
+  markdown_content: ""

@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Ferrone 2011)
+  description:
+  aliases:
+    - ferroneAttoriMercantiCorsari2011
+  base_name: (Ferrone 2011)
+  filename: (Ferrone 2011).md
+  id: mxz4KL9JjrEt
+  n_id: 907249433882310234716
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Ferrone, Siro. (1993) 2011. Attori mercanti corsari: la Commedia dell’ Arte in Europa tra Cinque e Seicento. Vol. 773. Piccola biblioteca Einaudi. Torino: G. Einaudi."
+  isbn:
+    - 978-88-06-20757-1
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/ferroneAttoriMercantiCorsari2011.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mxz4KL9JjrEt.json
+content:
+  markdown_content: ""

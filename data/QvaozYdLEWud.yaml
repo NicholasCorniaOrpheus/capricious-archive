@@ -1,0 +1,44 @@
+metadata:
+  class: Agent
+  base_name: Giulio Cesare Brancaccio
+  filename: Giulio Cesare Brancaccio.md
+  label: Giulio Cesare Brancaccio
+  id: QvaozYdLEWud
+  n_id: 473023902501746883584
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3769560
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iDbc2yVDhCMD
+      label: (Wistreich 2016)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DSK596BdwpXR
+      label: singer
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d4L6StxVVqKo
+      label: condottiero
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2uHcFcbRzB9
+      label: duel
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SZzbeTU3XAvA
+      label: quarrel of arms and letters
+  catalog_identifier:
+  present_in_work:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QvaozYdLEWud.json
+content:
+  markdown_content: ""

@@ -1,0 +1,127 @@
+metadata:
+  class: PoeticWork
+  label: Porta nel viso Aprile
+  description:
+  aliases:
+  base_name: Porta nel viso Aprile
+  filename: Porta nel viso Aprile.md
+  id: eTkAiYNiZGcm
+  n_id: 752210961508601165395
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F035185000101_PPPP00145801C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/G35qGbLoFcWv
+      label: Angelo Grillo
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kBMsLgUXhcwj
+      pages: 111
+      section: Di Livio Celiano.
+      label: Rime di diversi celebri poeti dell'età nostra
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DLZRLizTR7QG
+      label: cruelty
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QnXnJU93h3jw
+      label: nymph
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fbsdVj85SBKJ
+      label: honey
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QtPQjtdS5xiX
+      label: laughter
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3cN6GaYEFUgZ
+      label: lover
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CawKsiNZXBxK
+      label: poison
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UEx82wKyUY8o
+      label: Urania
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FZP8Rx3LsDxz
+      label: shepherd
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YvSVvwPw9ogd
+      label: flower
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3H8EUFWaF3kZ
+      label: river
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gWJai6Vb7KR2
+      label: natural spring
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      PORTA nel viso Aprile
+      La mia Ninfa gentile,
+      Et have ne' begli occhi il Luglio ardente,
+      Settembre in seno, e'n cor Gennaio algente.
+
+      E ne la bocca ha il mele,
+      Nel petto tosco, e fele;
+      E meglio l'empietà la cruda adopra,
+      Se di finta pietà vien che la copra.
+
+      E s'ella move un riso,
+      Ne resta il core ucciso;
+      E se piange per vezzo, oppur sospira,
+      Arde co'pianti, e co'sospir martira.
+
+      Hora vedete Amanti,
+      De la mia Ninfa i vanti,
+      Come tra dolci frutti, e la verd'herba
+      Il veleno nasconde, e gli angui serba.
+
+      Quando urania rimira
+      Il Cielo, il Ciel sospira,
+      Quasi dir voglia, Ogni mia chiara stella
+      Vint'è da gli occhi d'una Pastorella.
+
+      E quando per il prati
+      Coglie fiori odorati,
+      N'apre più co'l bel piè, che non ne coglie,
+      E co'l bel viso il pregio a tutti toglie.
+
+      E quando in fiume, o'n fonte
+      Specchia la vaga fronte,
+      Si fan l'onde d'argento, e ferma il fiume
+      Per vagheggiarla il natur al costume.
+
+      E quando fra le rose
+      Spira note amorose,
+      Al suon de' suoi soavi, e dolci accenti
+      L'Acqua, e la Terra, e'l Ciel vi stanno intenti.
+
+      Felice te, felice,
+      Oh bella vincitrice
+      De la Terra, e del Ciel, che meraviglia
+      Fia, se mi vinci ad un girar di ciglia?
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/porta_nel_mio_viso_aprile
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/eTkAiYNiZGcm.json
+content:
+  markdown_content: ""

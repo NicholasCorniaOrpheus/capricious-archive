@@ -1,0 +1,55 @@
+metadata:
+  class: Book
+  label: Astolfeide del divino Pietro Aretino
+  description:
+  aliases:
+  base_name: Astolfeide del divino Pietro Aretino
+  filename: Astolfeide del divino Pietro Aretino.md
+  id: SifJFtUcR76e
+  n_id: 509979744794662828140
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE080106
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iFXJgwZy2vLK
+      label: (Selepiuc 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Astolfeide del diuino Pietro Aretino, opera deletteuole da leggere, che continene la vita, & fatti de tutti li paladini di Francia, & di doue nacque òa casa di Maganza, & chi fu Gano, & di che genti, e conditione fu la sua genologia. Cosa bellissima d'amore, & gran bataglie di Orlando, & di Rinaldo
+  inception:
+    - sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      value: 1547
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iFXJgwZy2vLK
+          label: (Selepiuc 2020)
+  has_version:
+    - external_source: https://gallica.bnf.fr/ark:/12148/bpt6k725844
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k725844/manifest.json
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE080106
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KMUK2cMVB7uM
+      label: Astolfo
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k725844/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SifJFtUcR76e.json
+content:
+  markdown_content: ""

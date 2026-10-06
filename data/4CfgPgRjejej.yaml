@@ -1,0 +1,60 @@
+metadata:
+  class: MusicComposition
+  label: In un boschetto adorno (Sabino)
+  description:
+  aliases:
+  base_name: In un boschetto adorno (Sabino)
+  filename: In un boschetto adorno (Sabino).md
+  id: 4CfgPgRjejej
+  n_id: 45131413871364849140
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F125650001010101_000000216200
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4iQL4zuQfNQR
+      label: Francesco Maria Caccianemici
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7oPrQMs9LgfG
+      label: Ippolito Sabino
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jycNv6saQW5p
+      label: Di Ippolito Sabino il Sesto libro de Madrigali a cinque & a sei voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/sabino-in_un_boschetto_adorno
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - c_001.jpg
+    - c_002.jpg
+    - q_001.jpg
+    - q_002.jpg
+    - sx_001.jpg
+    - sx_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/4CfgPgRjejej.json
+content:
+  markdown_content: ""

@@ -1,0 +1,66 @@
+metadata:
+  class: Book
+  label: Di m. Giulio Camillo. Tutte le opere
+  description:
+  aliases:
+  base_name: Di m. Giulio Camillo. Tutte le opere
+  filename: Di m. Giulio Camillo. Tutte le opere.md
+  id: KTS4KPKRX4gX
+  n_id: 360013823377353051668
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE008714
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/001870010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - "Di m. Giulio Camillo Tutte le opere cioè Discorso in materia del suo theatro. Lettera del riuolgimento dell'huomo a Dio. La idea. Due trattati: l'uno delle materie, l'altro della imitatione. Due orationi. Rime del detto"
+  inception:
+    - value: 1554
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE008714
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      publication_date: 1554
+      external_source: https://viewer.onb.ac.at/10981A4A/
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/10981A4A
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Hc54xeA8ihZ
+      label: Giulio Camillo
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YhKrNQitoXh8
+      label: art of memory
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bxtQcQpdXsKm
+      label: hermeticism
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/10981A4A
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KTS4KPKRX4gX.json
+content:
+  markdown_content: ""

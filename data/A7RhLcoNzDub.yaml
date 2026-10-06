@@ -1,0 +1,67 @@
+metadata:
+  class: NotatedMusic
+  label: Musica di Lodovico Agostini ferrarese sopra le rime bizzarre di m. Andrea Calmo
+  description: The pieces n. 16 "Amor m'ha bastonat" misses the bassus part.
+  aliases:
+  base_name: Musica di Lodovico Agostini ferrarese sopra le rime bizzarre di m. Andrea Calmo
+  filename: Musica di Lodovico Agostini ferrarese sopra le rime bizzarre di m. Andrea Calmo.md
+  id: A7RhLcoNzDub
+  n_id: 167047831545259823151
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE036474
+    - https://rism.online/sources/990000402
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV00220010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Musica di Lodovico Agostini ferrarese sopra le rime bizzarre di m. Andrea Calmo, et altri autori. A 4 voci
+  inception:
+    - value: 1567
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE036474
+      publication_date: 1567
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RFFMqXMnRXik
+          label: Milano
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nogU49CqvCeC
+      label: Andrea Calmo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SjqizepxoSSs
+      label: Lodovico Agostini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SE8dJXKowffE
+      label: bizzarria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/A7RhLcoNzDub.json
+content:
+  markdown_content: ""

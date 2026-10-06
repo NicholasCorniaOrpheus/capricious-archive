@@ -1,0 +1,47 @@
+metadata:
+  class: Agent
+  label: Maddalena Campiglia
+  description:
+  aliases:
+  base_name: Maddalena Campiglia
+  filename: Maddalena Campiglia.md
+  id: 5Jsdv369DonH
+  n_id: 68015456330200341762
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3842277
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RCbk8wAUnQ7c
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg8JCZR6z88s
+        label: visitor
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      start_date: 1580
+      label: Accademia Olimpica di Vicenza
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5Jsdv369DonH.json
+content:
+  markdown_content: ""

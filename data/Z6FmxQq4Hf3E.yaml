@@ -1,0 +1,28 @@
+metadata:
+  class: Concept
+  label: artistic legacy
+  description: Intellectual heritage of an artist or work of art.
+  aliases:
+    - intellectual heritage
+  base_name: artistic legacy
+  filename: artistic legacy.md
+  id: Z6FmxQq4Hf3E
+  n_id: 641248496816620219521
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q122761756
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+  subclass_of:
+  opposite_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dJDNhJQSYzz2
+      label: student
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Z6FmxQq4Hf3E.json
+content:
+  markdown_content: ""

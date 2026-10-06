@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Palmer 2016)
+  description:
+  aliases:
+    - palmerLorenzoSpiritoGualtieris2016
+  base_name: (Palmer 2016)
+  filename: (Palmer 2016).md
+  id: LopzLbNHXviz
+  n_id: 388036141605211826084
+statements:
+  identifier:
+    - https://doi.org/10.1086/SCJ4703002
+  described_by_source:
+  part_of:
+  citation:
+    - "Palmer, Allison Lee. 2016. ‘Lorenzo “Spirito” Gualtieri’s Libro Delle Sorti in Renaissance Perugia’. The Sixteenth Century Journal 47 (3): 557–78."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/palmerLorenzoSpiritoGualtieris2016.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LopzLbNHXviz.json
+content:
+  markdown_content: ""

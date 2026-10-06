@@ -1,0 +1,55 @@
+metadata:
+  class: Book
+  label: Delle rime di Cesare Rinaldi bolognese parte terza
+  description:
+  aliases:
+  base_name: Delle rime di Cesare Rinaldi bolognese parte terza
+  filename: Delle rime di Cesare Rinaldi bolognese parte terza.md
+  id: NwG5MX6XGh7E
+  n_id: 431995057323282925713
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE073048
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/007410010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Delle rime di Cesare Rinaldi bolognese parte terza alla ill.ma et ecc.ma sig.ra la sig.ra Pellegrina Capello Bentiuoglia
+  inception:
+    - value: 1590
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE073048
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/m5jx85vV2PXo
+          label: Bologna
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mYrUwiXH55KT
+        label: Vittorio Benacci
+      publication_date: 1590
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QbsEzjvsr2SV
+      label: Pellegrina Capello
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Kq4PswoDPxtR
+      label: Giulio Renaldi
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NwG5MX6XGh7E.json
+content:
+  markdown_content: ""

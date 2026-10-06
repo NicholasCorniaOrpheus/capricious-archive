@@ -1,0 +1,52 @@
+metadata:
+  class: Book
+  label: Dell'imprese di Scipione Bargagli gentil'huomo senese
+  description:
+  aliases:
+  base_name: Dell'imprese di Scipione Bargagli gentil'huomo senese
+  filename: Dell'imprese di Scipione Bargagli gentil'huomo senese.md
+  id: MfrTV25ssVYq
+  n_id: 405785039919068234009
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE004211
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - "Dell'imprese di Scipion Bargagli gentil'huomo sanese. Alla prima parte, la seconda, e la terza nuouamente aggiunte: doue; doppo tutte l'opere cosi scritte a penna, come stampate, ch'egli potuto ha leggendo vedere di coloro, che della materia dell'imprese hanno parlato; della vera natura di quelle si ragiona"
+  inception:
+    - value: 1594
+  has_version:
+    - publication_date: 1594
+      external_source: https://books.google.it/books?id=Sp8gPV-8p8gC
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WYnzTvWeVJ4e
+        label: Francesco De Franceschi
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE004211
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cZUVbSop7dAE
+      label: Scipione Bargagli
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jvXE4XLN7yQS
+      label: emblem book
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Xtb9PGJyFnuB
+      label: Ragionamento di Luca Contile sopra la proprietà delle imprese con le particolari de gli Academici Affidati et con le interpretationi et croniche
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MfrTV25ssVYq.json
+content:
+  markdown_content: ""

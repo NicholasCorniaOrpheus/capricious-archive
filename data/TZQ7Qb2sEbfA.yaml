@@ -1,0 +1,89 @@
+metadata:
+  class: NotatedMusic
+  label: Libro terzo de madrigali a cinque voci di Santi Orlandi
+  description: According to RePIM, the cantus and quintus parts are held in  the Harding private collection in Oxford, while the bassus seems to be missing.
+  aliases:
+  base_name: Libro terzo de madrigali a cinque voci di Santi Orlandi
+  filename: Libro terzo de madrigali a cinque voci di Santi Orlandi.md
+  id: TZQ7Qb2sEbfA
+  n_id: 527260864050084852965
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0153177
+    - https://rism.online/sources/990047462
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/NV15290010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  title:
+    - Libro terzo de madrigali a cinque voci di Santi Orlandi
+  inception:
+    - value: 1605
+  has_version:
+    - holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hPyqj8iJNqWR
+        label: Bodleian Library
+      note: Cantus and Quintus
+      permalink: https://solo.bodleian.ox.ac.uk/permalink/44OXF_INST/rl48sd/alma990136534450107026
+      publication_date: 1605
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      permalink: http://id.sbn.it/bid/MUS0153177
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/BB/BB062/
+      note: Altus only.
+      publication_date: 1605
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      permalink: http://id.sbn.it/bid/MUS0153177
+      external_source: https://gallica.bnf.fr/ark:/12148/bpt6k12801555
+      note: Tenor only.
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k12801555/manifest.json
+      publication_date: 1605
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L2vAfVLuJq37
+      label: Santi Orlandi
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k12801555/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TZQ7Qb2sEbfA.json
+content:
+  markdown_content: ""

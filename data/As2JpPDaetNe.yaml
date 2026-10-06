@@ -1,0 +1,66 @@
+metadata:
+  class: NotatedMusic
+  label: Canzonette a tre voci del signor Tomaso Pecci. Libro primo
+  description:
+  aliases:
+  base_name: Canzonette a tre voci del signor Tomaso Pecci. Libro primo
+  filename: Canzonette a tre voci del signor Tomaso Pecci. Libro primo.md
+  id: As2JpPDaetNe
+  n_id: 182828705904717187101
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV15960010
+    - https://rism.online/sources/990048692
+    - http://id.sbn.it/bid/MUS0156575
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Canzonette a tre voci del signor Tomaso Pecci gentil'huomo sanese. Novamente composte & date in luce. Libro Primo.
+  inception:
+    - value: 1603
+  has_version:
+    - publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FPDujohL8nSA
+        label: Pierre Phalèse the Younger
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3itm2rqDGnBv
+          label: Antwerpen
+      publication_date: 1624
+      permalink: https://libcatalog.ugent.be/permalink/32RUG_INST/klssi4/alma990012376600409161
+      note: Separate links for each partbook
+      external_source: https://books.google.be/books?id=xthNAAAAcAAJ
+    - publication_date: 1603
+      permalink: http://id.sbn.it/bid/MUS0156575
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_U/U037/
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TkSL3NGH6dAk
+        label: Giacomo Vincenti
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/n2WfmeaUx5Kh
+        label: Tommaso Pecci
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+      label: composer
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/As2JpPDaetNe.json
+content:
+  markdown_content: ""

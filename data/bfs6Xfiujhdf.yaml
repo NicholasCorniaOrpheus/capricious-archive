@@ -1,0 +1,76 @@
+metadata:
+  class: PoeticWork
+  label: Fera, son'io di quest'ombroso loco
+  description:
+  aliases:
+  base_name: Fera, son'io di quest'ombroso loco
+  filename: Fera, son'io di quest'ombroso loco.md
+  id: bfs6Xfiujhdf
+  n_id: 694691655072369293176
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/2524
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=29221
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXRaAHQ4vwY8
+        label: Chiara Matraini
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RgjvBxtsjnyR
+      pages: 59
+      label: Rime di diversi signori napoletani Libro settimo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR7sSTMz4jjt
+      label: despair
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HXwdX5qkqNv6
+      label: departure
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CLmtCZLTvT24
+      label: songbird
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+  text:
+    - |-
+      Fera, son'io di quest'ombroso loco,
+      Che vo' con la saetta in mezzo il core
+      Fuggendo (lassa) il fin del mio dolore;
+      E cerco chi mi strugge a poco, a poco.
+
+      E come Augel, che fra le penne il foco
+      Si sent'appeso, ond'ei volando fore
+      Del dolce nido suo, mentre l’ardore
+      Fugge, con l’ali più raccende il foco:
+
+      Tal'io fra queste frondi a l'aura estiva
+      Con l’ali del desio volando in alto
+      Cerco il foco fuggir, che meco porto.
+
+      Ma quanto vado più di riva in riva
+      Per fuggir'il mio mal, con fiero assalto
+      Lunga morte procaccio al viver corto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/fera,_son'io_di_quest'ombroso_loco
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bfs6Xfiujhdf.json
+content:
+  markdown_content: ""

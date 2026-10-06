@@ -1,0 +1,82 @@
+metadata:
+  class: PoeticWork
+  base_name: Nasce la vita mia dal mio morire
+  filename: Nasce la vita mia dal mio morire.md
+  label: Nasce la vita mia dal mio morire
+  id: am4GoyTKy6jn
+  n_id: 675930582634050044825
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RU2aFypUA6xt
+      label: Ortensia Colonna
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZmpBx2YXnpkE
+      label: Laura Battiferri
+  part_of:
+    - section: Alla S. Hortensia Colonna
+      pages: 21
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FtN769fGvnbS
+      label: Il primo libro dell'opere toscane di m. Laura Battiferra degli Ammannati
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUkQiYzJMHtq
+      label: anaphora
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BPi2MMDNAKWM
+      label: Petrarchism
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GYGwj2xP2wD8
+      label: hope
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FHkhZJZzAo88
+      label: thousand
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Nasce la vita mia dal mio morire,
+      E s'egli avvien, che mille volte io mora, 
+      Ritorna il viver mio più bello alhora,
+      E vien lo scampo mio dal mio perire;
+
+      Oh miracol d'Amor, dal mio languire
+      Nasce il gioir che sì forte m'accora,
+      Quanto scema la speme d'hora, in hora,
+      Tanto sormonta più l'alto desire.
+
+      Ch'il crederà, che dall'aspro tormento
+      Venga la gioia, ch'ogni gioia avanza 
+      E che tanto piacere il duol m'apporte?
+
+      Chi crederà, che morta la speranza
+      Viva il disio? e che'l mio gran contento 
+      Nasca dalla cagion della mia morte?
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GRpPqVc5BLsh
+      label: (Del Bianco 2022)
+assets:
+  local_asset_path: ./assets/poems/nasce_la_vita_mia_dal_mio_morire
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/am4GoyTKy6jn.json
+content:
+  markdown_content: ""

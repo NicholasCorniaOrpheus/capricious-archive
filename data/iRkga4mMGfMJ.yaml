@@ -1,0 +1,73 @@
+metadata:
+  class: PoeticWork
+  label: Tu dunque figlio sei morto, che solo
+  description:
+  aliases:
+  base_name: Tu dunque figlio sei morto, che solo
+  filename: Tu dunque figlio sei morto, che solo.md
+  id: iRkga4mMGfMJ
+  n_id: 834033820706705646037
+statements:
+  identifier:
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=29251
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXRaAHQ4vwY8
+        label: Chiara Matraini
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+  part_of:
+    - section: Chiara Matraini, IV
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mWT5q2KSyozm
+      label: (van Dooren 1992)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bz2ZiUr2xdwm
+      label: elegy
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cUPhYVXwwzmw
+      label: child
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nCimZWBzP648
+      label: death
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KZ6PgT6cBtyo
+      label: storm
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  text:
+    - |-
+      Tu dunque, figlio, sei morto, che solo
+      Eri qui della mia vita conforto,
+      E del mio legno travagliato il porto,
+      E d'ogn'orrida mia tempesta il polo?
+
+      Ahi come presto al Cielo alzato a volo
+      Ti sei, lasciando me per questo torto
+      Camin, dov'or dubbiosa e stanca porto
+      Questa mia vita fral carca di duolo.
+
+      Ma poiché così piacque al tuo Fattore,
+      Pregal che tempri almeno il dolor mio,
+      Che col pianger non turbi il tuo diletto;
+
+      E vien talor con filiale amore
+      A consolarmi, onde quest'aspro e rio
+      Dolor volghi in più caro e santo affetto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/iRkga4mMGfMJ.json
+content:
+  markdown_content: ""

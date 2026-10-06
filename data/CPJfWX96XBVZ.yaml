@@ -1,0 +1,49 @@
+metadata:
+  class: Book
+  label: La Gismonda, tragedia del signor Torquato Tasso
+  description:
+  aliases:
+  base_name: La Gismonda, tragedia del signor Torquato Tasso
+  filename: La Gismonda, tragedia del signor Torquato Tasso.md
+  id: CPJfWX96XBVZ
+  n_id: 214067500897108266544
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE071587
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fWcm8Nsn7rXJ
+      label: drama
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fqNyvp8swvbU
+      label: forgery
+  title:
+    - La Gismonda, tragedia del signor Torquato Tasso nuovamente composta et posta in luce
+  inception:
+    - value: 1587
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE071587
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/64m48iDXC7Fc
+          label: Paris
+      publication_date: 1587
+      note: Attributed to Torquato Tasso
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJFucdkRobUR
+      note: According to (Ferrone 2021).
+      label: Bernardino Lombardi
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CPJfWX96XBVZ.json
+content:
+  markdown_content: ""

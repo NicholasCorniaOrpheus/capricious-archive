@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Schiltz 2015)
+  description:
+  aliases:
+    - schiltzMusicRiddleCulture2015
+  base_name: (Schiltz 2015)
+  filename: (Schiltz 2015).md
+  id: cDbBs49MiUto
+  n_id: 705813659979412690653
+statements:
+  identifier:
+    - https://doi.org/10.1017/CBO9781139998260
+  described_by_source:
+  part_of:
+  citation:
+    - Schiltz, Katelijne. 2015. Music and Riddle Culture in the Renaissance. 1st edn. Cambridge University Press. doi:10.1017/CBO9781139998260.
+  isbn:
+    - 978-1-139-99826-0
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/schiltzMusicRiddleCulture2015.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cDbBs49MiUto.json
+content:
+  markdown_content: ""

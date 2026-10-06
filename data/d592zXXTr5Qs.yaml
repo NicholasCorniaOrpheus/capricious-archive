@@ -1,0 +1,134 @@
+metadata:
+  class: PoeticWork
+  label: Questa è la fede tua
+  description:
+  aliases:
+    - Lamento d'Olimpia
+  base_name: Questa è la fede tua
+  filename: Questa è la fede tua.md
+  id: d592zXXTr5Qs
+  n_id: 723387166971134862922
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQNC7fJmPEqj
+      label: (Bolzoni and Girotto 2013)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EfY2dL7MpgHY
+      label: anonymous
+  part_of:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/V9LFfxXpts8e
+      label: Olimpia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR7sSTMz4jjt
+      label: despair
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pfqef5YBTXjD
+      label: abandonment
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oXBgWheDPaCK
+      label: heart
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DLZRLizTR7QG
+      label: cruelty
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GfJn75HsAD4J
+      label: watercraft
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FHkhZJZzAo88
+      label: thousand
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nCimZWBzP648
+      label: death
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o5E4uDGcg6qr
+      label: insanity
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Questa è la fede tua
+      Questo è il desio che tu di me mostravi
+      Empio e crudel Bireno
+      Ah modi empi e profani
+      Che mi legaste il core
+      Ahi Bireno crudel
+      Sì che crudel et rio dirsi poiché sia
+      Spechio di crudeltà verso di quella
+      Che il suo ben suo amore
+      Die a te il puro core
+      Così dicea graffiandosi le gote
+      Strasciando i crino e precotendo il petto
+      Poiché la sua fortuna
+      Vide certa e sicura
+      Che di morir fra fere
+      Ma di veder credendo
+      Il suo amante Bireno
+      Per l'alto mar portato da le vele
+      Rinforzando la voce
+      Benché tutta tremante così disse
+      Dove fuggì crudel così veloce
+      Poiché qual duro legno
+      In cui ne vai felice porta seco
+      Il corpo e l'Alma mia
+      Tu crudel seme invia
+      E quasi forsennata vuoi che resti
+      La tua povera Olimpia
+      Se pur deggo dir tua
+      Poiché tua più non sono
+      Ma ben sì d'orsi e tigre
+      Leoni et altre fere
+      \[...\]  in queste selve stano
+
+      \[...\] questa è la fede
+      Questo quest'è l'amore
+      Che tu infedel Bireno
+      Portavi in quell'Olimpia
+      Che sol per te lasciat'ha il stato suo
+      Ahi Bireno crudel
+      Teco porti i miei gridi
+      I preghi e le quarele
+      Ahi crudel chi crudele
+      Oh perfido Bireno
+      Oh maledetto giorno
+      Che al mondo immondo generata fui
+      Qui solla che far deggio
+      Ahimè che mi conforta
+      In così dura sorte
+      Ahi Bireno crudel
+      Crudel più d'ogni fera
+      Poiché d'una sol morte
+      Mi farebbe morire
+      E tu di mille Ahimè morir mi fai
+      Misera me che parlo
+      Poiché il parlare invano
+      Non vi essendo ch'io vegga
+      Opra che qui veruno
+      Vi sia che mi consoli
+      Recidete il mio stame
+      O perché \[...\] fia meglio
+      Poiché meglio è morir una sol volta
+      Che ogni hora mille e mille.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/d592zXXTr5Qs.json
+content:
+  markdown_content: A popular booklet printed around 1650 preserves this poem, strongly inspired by [commedia dell'arte](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9) laments of abandoned ladies.

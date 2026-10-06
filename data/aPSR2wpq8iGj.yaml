@@ -1,0 +1,50 @@
+metadata:
+  class: Agent
+  label: Veronica Gambara
+  description:
+  aliases:
+  base_name: Veronica Gambara
+  filename: Veronica Gambara.md
+  id: aPSR2wpq8iGj
+  n_id: 668106496341394060619
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q437615
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PNb9AFfnn9s4
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      start_date: 1543
+      label: Accademia dei Sonnacchiosi di Bologna
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 19729
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/a/a3/Correggio%2C_Ritratto_di_dama%2C_c.1517-1518.jpg
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aPSR2wpq8iGj.json
+content:
+  markdown_content: ""

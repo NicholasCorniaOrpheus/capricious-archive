@@ -1,0 +1,67 @@
+metadata:
+  class: PoeticWork
+  label: Spenta è d'Amor la face, il dardo è rotto
+  description:
+  aliases:
+  base_name: Spenta è d'Amor la face, il dardo è rotto
+  filename: Spenta è d'Amor la face, il dardo è rotto.md
+  id: J3KBaShgcLGA
+  n_id: 330645472739505237578
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6vLSy3dtmexs
+      label: Barbara Torelli Benedetti
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mWT5q2KSyozm
+      section: Barbara Torelli, 1
+      label: (van Dooren 1992)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UKk9xKyR5owm
+      label: betrayal
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+  text:
+    - |-
+      Spenta è d’Amor la face, il dardo è rotto,
+      E l’arco e la faretra e ogni sua possa,
+      Poi che ha Morte crudel la pianta scossa,
+      A la cui ombra cheta io dormia sotto.
+
+      Deh perché non poss’io la breve fossa
+      Seco entrar, dove l’ha il destin condotto,
+      Colui che appena cinque giorni e otto
+      Amor legò pria de la gran percossa?
+
+      Vorrei col foco mio quel freddo ghiaccio
+      Intepidire, e rimpastar col pianto
+      La polve, e ravvivarla a nuova vita:
+
+      E vorrei poscia, baldanzosa e ardita,
+      Mostrarlo a lui, che ruppe il caro laccio,
+      E dirgli: – Amor, mostro crudel, può tanto.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/J3KBaShgcLGA.json
+content:
+  markdown_content: ""

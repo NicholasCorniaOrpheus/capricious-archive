@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  label: literary character
+  description:
+  aliases:
+  base_name: literary character
+  filename: literary character.md
+  id: 4JHBjobL9bGr
+  n_id: 47160689595325228665
+statements:
+  identifier:
+    - https://www.wikidata.org/wiki/Q3658341
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/4JHBjobL9bGr.json
+content:
+  markdown_content: ""

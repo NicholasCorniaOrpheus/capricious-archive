@@ -1,0 +1,75 @@
+metadata:
+  class: Agent
+  label: Isabella Andreini
+  description:
+  aliases:
+    - Isabella Canali Andreini
+  base_name: Isabella Andreini
+  filename: Isabella Andreini.md
+  id: Fas4LiyE5uzU
+  n_id: 280163246303538205349
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2632451
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/h2PimdzJxHNF
+      label: (Halton 2008)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DA7DkejRBkB2
+      label: (McNeil 1995)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZcXP8sVmx6Dy
+      label: (Sorrentini 2015)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/87RhmBz8z8dT
+      label: (Campbell 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LqE6fDMw67zB
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg8JCZR6z88s
+        label: visitor
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia Filarmonica di Verona
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hCrWdzqgzEyx
+      pseudonym: Accesa
+      start_date: 1601
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Intenti di Pavia
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BzZ5xTZQpucC
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JUSpyywnZMN4
+        label: parent
+      label: Giambattista Andreini
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 19358
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/e/e4/Rime_d%27Isabella_Andreini_1603%2C_frontispiece%2C_engraved_portrait_-_Gallica_2014_%28adjusted%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Fas4LiyE5uzU.json
+content:
+  markdown_content: ""

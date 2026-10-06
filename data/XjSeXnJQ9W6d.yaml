@@ -1,0 +1,60 @@
+metadata:
+  class: Book
+  aliases:
+  base_name: Rime diverse d'alcune nobilissime, et virtuosissime donne
+  filename: Rime diverse d'alcune nobilissime, et virtuosissime donne.md
+  label: Rime diverse d'alcune nobilissime, et virtuosissime donne
+  id: XjSeXnJQ9W6d
+  n_id: 613440968235490699283
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE017557
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8V3DuFaK8SYG
+      label: (Robin 2007)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime diuerse d'alcune nobilissime, et virtuosissime donne, raccolte per m. Lodouico Domenichi, e intitolate al signor Giannotto Castiglione gentil'huomo milanese
+  inception:
+    - value: 1559
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PSSozWnHJJHx
+          label: Lucca
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DVCyvwTPCuKw
+        label: Vincenzo Busdraghi
+      publication_date: 1559
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE017557
+      external_source: https://viewer.onb.ac.at/10B1F7B3/
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/10B1F7B3
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MCJESPwHdULn
+      label: Maria Diamante Dolfi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/67AiHmyDq9hS
+      label: Virginia Martini Salvi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fXijNpAr5BvS
+      label: Lodovico Domenichi
+  subject:
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  iiif:
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/10B1F7B3
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XjSeXnJQ9W6d.json
+content:
+  markdown_content: ""

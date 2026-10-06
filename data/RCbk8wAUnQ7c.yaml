@@ -1,0 +1,38 @@
+metadata:
+  class: Organisation
+  label: Accademia Olimpica di Vicenza
+  description:
+  aliases:
+  base_name: Accademia Olimpica di Vicenza
+  filename: Accademia Olimpica di Vicenza.md
+  id: RCbk8wAUnQ7c
+  n_id: 478460322675872593978
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MRH3qKe97Rkw
+      label: Vicenza
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 387
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RCbk8wAUnQ7c.json
+content:
+  markdown_content: ""

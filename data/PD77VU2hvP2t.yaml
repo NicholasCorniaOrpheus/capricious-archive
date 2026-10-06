@@ -1,0 +1,27 @@
+metadata:
+  class: Concept
+  label: flying
+  description:
+  aliases:
+    - fly
+    - volare
+    - involare
+    - flight
+  base_name: flying
+  filename: flying.md
+  id: PD77VU2hvP2t
+  n_id: 437368632529848436121
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q206021
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PD77VU2hvP2t.json
+content:
+  markdown_content: ""

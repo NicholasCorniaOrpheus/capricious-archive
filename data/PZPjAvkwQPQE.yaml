@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Wolf 2014)
+  description:
+  aliases:
+    - wolfBuildingImaginaryWorlds2014
+  base_name: (Wolf 2014)
+  filename: (Wolf 2014).md
+  id: PZPjAvkwQPQE
+  n_id: 444714897773996991690
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Wolf, Mark. 2014. Building Imaginary Worlds: The Theory and History of Subcreation. 1st edition. Routledge."
+  isbn:
+    - 978-0-415-63120-4
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/wolfBuildingImaginaryWorlds2014.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PZPjAvkwQPQE.json
+content:
+  markdown_content: ""

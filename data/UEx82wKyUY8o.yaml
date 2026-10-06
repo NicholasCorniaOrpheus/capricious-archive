@@ -1,0 +1,30 @@
+metadata:
+  class: Concept
+  label: Urania
+  description: Muse of astronomy and astrology in Greek mythology
+  aliases:
+  base_name: Urania
+  filename: Urania.md
+  id: UEx82wKyUY8o
+  n_id: 541221446545654899186
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q104002
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9w8iYcz955Kd
+      label: mythical character
+  subclass_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2g7SZLhhziYy
+      label: Muse
+  opposite_of:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7SzNifkq9dZo
+      label: astronomy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UEx82wKyUY8o.json
+content:
+  markdown_content: ""

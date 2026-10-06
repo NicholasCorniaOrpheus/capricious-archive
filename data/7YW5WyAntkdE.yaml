@@ -1,0 +1,52 @@
+metadata:
+  class: Agent
+  label: Marfisa
+  description:
+  aliases:
+  base_name: Marfisa
+  filename: Marfisa.md
+  id: 7YW5WyAntkdE
+  n_id: 114218731259864639748
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3846836
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ikGeNUD5JHua
+      label: (Treadwell 2013)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4JHBjobL9bGr
+      label: literary character
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KH2RsQHZMHpE
+      label: knight
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ALtVUbPUXate
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GCEVZzJm8qBX
+        label: sibling
+      label: Ruggiero
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3azdbWZGxLUz
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UzEyumEQp7s2
+        label: rival
+      label: Bradamante
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HnqjYaehrzd4
+      label: Dell'amor di Marfisa tredici canti del Danese Cattaneo da Carrara
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7YW5WyAntkdE.json
+content:
+  markdown_content: ""

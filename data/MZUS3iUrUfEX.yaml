@@ -1,0 +1,67 @@
+metadata:
+  class: NotatedMusic
+  label: Ghirlanda de madrigali a quattro voci di Vittoria Aleotti
+  description:
+  aliases:
+  base_name: Ghirlanda de madrigali a quattro voci di Vittoria Aleotti
+  filename: Ghirlanda de madrigali a quattro voci di Vittoria Aleotti.md
+  id: MZUS3iUrUfEX
+  n_id: 403472946896498525519
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE036495
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV00430010
+    - https://rism.online/sources/990000823
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Ghirlanda de madrigali a quatro voci di Vittoria Aleotti. Nouamente posta in luce
+  inception:
+    - value: 1593
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1593
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TkSL3NGH6dAk
+        label: Giacomo Vincenti
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE036495
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Lnmzuw4n6M7c
+        label: Duchess Anna Amalia Library
+      external_source: https://haab-digital.klassik-stiftung.de/viewer/image/874996287/
+      IIIF_manifest: https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/874996287/manifest/
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HcGnpY9zTGoY
+      label: Vittoria Aleotti
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://haab-digital.klassik-stiftung.de/viewer/api/v1/records/874996287/manifest/
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MZUS3iUrUfEX.json
+content:
+  markdown_content: ""

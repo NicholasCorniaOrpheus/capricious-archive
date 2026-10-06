@@ -1,0 +1,27 @@
+metadata:
+  class: BibliographicResource
+  label: (Moralejo Ortega 2017)
+  description:
+  aliases:
+    - moralejoortegaFedericoZuccariInnovazione2017
+  base_name: (Moralejo Ortega 2017)
+  filename: (Moralejo Ortega 2017).md
+  id: BYS2dCp2ckrV
+  n_id: 196736602860082170225
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Moralejo Ortega, Macarena. 2017. ‘Federico Zuccari: Innovazione e trasgressione nelle accademie italiane tra Cinque e Seicento’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Paolo Procaccioli, 139–52. Roma: De Luca editori d’arte."
+  isbn:
+    - 978-88-6557-321-1
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/moralejoortegaFedericoZuccariInnovazione2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BYS2dCp2ckrV.json
+content:
+  markdown_content: ""

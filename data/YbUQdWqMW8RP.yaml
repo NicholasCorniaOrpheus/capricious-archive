@@ -1,0 +1,54 @@
+metadata:
+  class: Book
+  label: Ars transmutationis metallicae
+  description:
+  aliases:
+  base_name: Ars transmutationis metallicae
+  filename: Ars transmutationis metallicae.md
+  id: YbUQdWqMW8RP
+  n_id: 631191755591855978166
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE034846
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eb5aj2HkQaXZ
+      label: (Forshaw 2010)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Ars transmutationis metallicae cum Leonis X. ponti. max. et conci. capi. Decemuirum Venetorum edicto
+  inception:
+    - value: 1518
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE034846
+      publication_date: 1518
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://www.internetculturale.it/jmms/iccuviewer/iccu.jsp?id=oai%3Awww.internetculturale.sbn.it%2FTeca%3A20%3ANT0000%3ABVEE060444
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aKLmqwCNRzyt
+      label: Giovanni Agostino Panteo
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nd2ncDq4BsAq
+      label: kabbalah
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YbUQdWqMW8RP.json
+content:
+  markdown_content: ""

@@ -1,0 +1,67 @@
+metadata:
+  class: PoeticWork
+  label: De' Filosofi antichi, e de' Poeti
+  description:
+  aliases:
+  base_name: De' Filosofi antichi, e de' Poeti
+  filename: De' Filosofi antichi, e de' Poeti.md
+  id: AqAy5bPkuzvV
+  n_id: 182159713031664284571
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iajxupbXH9BQ
+      label: Tullia d'Aragona
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6JQyzUwccM4D
+      section: Canto I, 2
+      pages: 1
+      label: Il Meschino, altramente detto il Guerrino, fatto in ottava rima dalla signora Tullia d'Aragona
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DHTHVpQnvYLr
+      label: humility
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PB7asmJe7rz6
+      label: gold
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DHTHVpQnvYLr
+      label: humility
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6JKjMpUiERee
+      label: philosopher
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      De' Filosofi antichi, e de' Poeti
+      Non seguo l'orme, in alto loco parmi
+      Da dimostrar de' cieli i bei segreti,
+      Che dove son pellegrinaggi, & armi
+      Lo stile umil, gli accenti mansueti
+      Potranno appresso i più saggi scusarmi
+      Poi ch'io non piglio a far tanto lavoro
+      Per gran desio di fama, o premio d'oro.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/de'_filosofi_antichi,_e_de'_poeti
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AqAy5bPkuzvV.json
+content:
+  markdown_content: ""

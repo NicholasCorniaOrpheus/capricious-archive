@@ -1,0 +1,70 @@
+metadata:
+  class: Book
+  label: Orlando furioso di m. Lodovico Ariosto, corretto e dichiarato da m. Lodovico Dolce, con gli argomenti di Gio. Andrea dell'Anguillara
+  description:
+  aliases:
+  base_name: Orlando furioso di m. Lodovico Ariosto, corretto e dichiarato da m. Lodovico Dolce, con gli argomenti di Gio. Andrea dell'Anguillara
+  filename: Orlando furioso di m. Lodovico Ariosto, corretto e dichiarato da m. Lodovico Dolce, con gli argomenti di Gio. Andrea dell'Anguillara.md
+  id: 7teFGBkRHcND
+  n_id: 121511294950244524352
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE002761
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQNC7fJmPEqj
+      label: (Bolzoni and Girotto 2013)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HXbuaLaj3GAM
+      label: (Urbaniak 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Orlando furioso di m. Lodouico Ariosto, corretto e dichiarato da m. Lodouico Dolce, con gli argomenti di Gio. Andrea dell'Anguillara
+  inception:
+    - value: 1568
+  has_version:
+    - IIIF_manifest:
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE002761
+      external_source: https://books.google.td/books?id=eZTJg49TXPwC
+      publication_date: 1568
+      note: Reprint
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2XTMyih9VTr5
+        label: Giovanni Varisco
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/29KJqfsF4AHJ
+        label: commentator
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      label: Lodovico Dolce
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/29KJqfsF4AHJ
+        label: commentator
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SB93UbS6qneF
+      label: Giovanni Andrea dell'Anguillara
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fnaMY86gpvzk
+      label: art print
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    -
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7teFGBkRHcND.json
+content:
+  markdown_content: ""

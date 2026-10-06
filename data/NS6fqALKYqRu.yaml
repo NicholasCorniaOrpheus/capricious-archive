@@ -1,0 +1,27 @@
+metadata:
+  class: BibliographicResource
+  label: (Girotto 2017)
+  description:
+  aliases:
+    - girottoAccademieDiAnton2017
+  base_name: (Girotto 2017)
+  filename: (Girotto 2017).md
+  id: NS6fqALKYqRu
+  n_id: 421436418708025471062
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  isbn:
+    - 978-88-6557-321-1
+  citation:
+    - "Girotto, Carlo Alberto. 2017. ‘Le accademie di Anton Francesco Doni’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Patrizia Tosini, 27–37. Roma: De Luca editori d’arte."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/girottoAccademieDiAnton2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NS6fqALKYqRu.json
+content:
+  markdown_content: ""

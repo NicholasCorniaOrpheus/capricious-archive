@@ -1,0 +1,54 @@
+metadata:
+  class: Book
+  label: Ricreazioni amorose de gli Academici Gelati di Bologna
+  description:
+  aliases:
+  base_name: Ricreazioni amorose de gli Academici Gelati di Bologna
+  filename: Ricreazioni amorose de gli Academici Gelati di Bologna.md
+  id: B5dDXV6qVG2p
+  n_id: 187032783541861882828
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE000060
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/501120010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SXT3ByQCDj49
+      label: (Gurrei 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Ricreationi amorose de gli Academici Gelati di Bologna
+  inception:
+    - value: 1590
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE000060
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VaaRB4cqSjpJ
+        label: Giovanni Rossi
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/m5jx85vV2PXo
+          label: Bologna
+      external_source: https://archive.org/details/ricreationiamor00carr
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ntjsWciGvjAu
+        label: Duke university
+      publication_date: 1590
+  contributor:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RHVQ6S4zNphr
+      label: republic of letters
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/B5dDXV6qVG2p.json
+content:
+  markdown_content: ""

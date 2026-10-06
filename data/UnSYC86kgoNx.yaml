@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: lips
+  description:
+  aliases:
+    - lip
+    - labra
+    - labbra
+    - labbia
+  base_name: lips
+  filename: lips.md
+  id: UnSYC86kgoNx
+  n_id: 552618661522469543799
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q15173
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UnSYC86kgoNx.json
+content:
+  markdown_content: ""

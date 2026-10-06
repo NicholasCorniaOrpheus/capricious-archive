@@ -1,0 +1,50 @@
+metadata:
+  class: MusicComposition
+  label: M'è pur stato dal core (Eremita)
+  description:
+  aliases:
+  base_name: M'è pur stato dal core (Eremita)
+  filename: M'è pur stato dal core (Eremita).md
+  id: THsHgKVTsFFb
+  n_id: 521640965256756944967
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F160220000010101_000000090400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7RLhfX2EgRPU
+      label: Orsola Bertolai
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dATCh2RJFN7G
+      label: Giulio Eremita
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LTq7wnn8Pb6F
+      label: Il lauro secco libro primo di madrigali a cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P2eXs3FyeUEN
+      label: M'è pur stato dal core
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/eremita-m'è_pur_stato_dal_core
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/THsHgKVTsFFb.json
+content:
+  markdown_content: ""

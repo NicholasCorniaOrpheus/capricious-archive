@@ -1,0 +1,55 @@
+metadata:
+  class: Book
+  base_name: Il sesto libro delle rime di diversi eccellenti autori. Con un discorso di Girolamo Ruscelli
+  filename: Il sesto libro delle rime di diversi eccellenti autori. Con un discorso di Girolamo Ruscelli.md
+  label: Il sesto libro delle rime di diversi eccellenti autori. Con un discorso di Girolamo Ruscelli
+  id: BPEYUYaSxdLM
+  n_id: 193405411291903741198
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE029540
+    - https://lyra.unil.ch/books/11
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2F500330010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Il sesto libro delle rime di diuersi eccellenti autori, nuouamente raccolte, et mandate in luce. Con un discorso di Girolamo Ruscelli
+  inception:
+    - value: 1553
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE029540
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HkGg8CoDYQcR
+        label: Giovanni Maria Bonelli
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1553
+      external_source: https://books.google.it/books?id=vFQoZzHd9AYC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BPEYUYaSxdLM.json
+content:
+  markdown_content: ""

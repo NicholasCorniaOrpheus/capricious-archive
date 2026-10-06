@@ -1,0 +1,108 @@
+metadata:
+  class: NotatedMusic
+  label: Di Vincenzo Ruffo il Primo libro de madrigali a cinque voci
+  description:
+  aliases:
+  base_name: Di Vincenzo Ruffo il Primo libro de madrigali a cinque voci
+  filename: Di Vincenzo Ruffo il Primo libro de madrigali a cinque voci.md
+  id: EdKWKZpv5rgp
+  n_id: 260413094511820182445
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE045694
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV18590010
+    - https://rism.online/sources/990056365
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Vincenzo Ruffo il Primo libro de madrigali a cinque uoci. Nouamente dato in luce
+  inception:
+    - value: 1553
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1553
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045694
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_U/U170/
+      note: Bassus only.
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1553
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045694
+      external_source: https://gallica.bnf.fr/ark:/12148/bpt6k4500244v
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4500244v/manifest.json
+      note: Tenor only.
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1553
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045694
+      external_source:
+      note: Cantus, Altus, Bassus and Quintus.
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UR633q75uL3
+        label: Bischöfliche Zentralbibliothek Regensburg
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1555
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      permalink: https://mdz-nbn-resolving.de/details:bsb00080889
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb00080889
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00080889/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cv9uVmQKzPqv
+      label: Vincenzo Ruffo
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k4500244v/manifest.json
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00080889/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EdKWKZpv5rgp.json
+content:
+  markdown_content: ""

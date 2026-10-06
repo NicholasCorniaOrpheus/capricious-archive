@@ -1,0 +1,61 @@
+metadata:
+  class: Book
+  aliases:
+    - Dialogo dell'infinità d'Amore
+  base_name: Dialogo della signora Tullia D'Aragona della infinità di amore
+  filename: Dialogo della signora Tullia D'Aragona della infinità di amore.md
+  label: Dialogo della signora Tullia D'Aragona della infinità di amore
+  id: gvTUvQCexrwg
+  n_id: 803151715293952885286
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE002289
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8V3DuFaK8SYG
+      label: (Robin 2007)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7oCzU3jd2dSu
+      label: academia fictiva
+  title:
+  inception:
+    - value: 1547
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE002289
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1552
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      note: Reprint
+      external_source: https://books.google.it/books?id=A1bw3R_KupMC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iajxupbXH9BQ
+      label: Tullia d'Aragona
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9XkyVfBG5hTX
+      label: love
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DQyic7zZsNUw
+      label: courtesan
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gvTUvQCexrwg.json
+content:
+  markdown_content: ""

@@ -1,0 +1,42 @@
+metadata:
+  class: Book
+  label: Rime di Francesca Turina Bufalini
+  description:
+  aliases:
+  base_name: Rime di Francesca Turina Bufalini
+  filename: Rime di Francesca Turina Bufalini.md
+  id: E7oJFFsCHgEJ
+  n_id: 249728589917416743748
+statements:
+  identifier:
+    - http://id.sbn.it/bid/UM1E008081
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime di Francesca Turina Bufalini, da Città di Castello. All'illustris. & eccellentis. signora donna Anna Colonna
+  inception:
+    - value: 1628
+  has_version:
+    - permalink: http://id.sbn.it/bid/UM1E008081
+      publication_date: 1628
+      IIIF_manifest: https://jmms.iccu.sbn.it/jmms/metadata/VFdGblZHVmpZU0F0SUVsRFExVV8_/b2FpOnd3dy5pbnRlcm5ldGN1bHR1cmFsZS5zYm4uaXQvVGVjYToyMDpOVDAwMDA6TjpVTTFFMDA4MDgx/manifest.json
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S5X6hHgiMruv
+      label: Francesca Turina Bufalini
+  subject:
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://jmms.iccu.sbn.it/jmms/metadata/VFdGblZHVmpZU0F0SUVsRFExVV8_/b2FpOnd3dy5pbnRlcm5ldGN1bHR1cmFsZS5zYm4uaXQvVGVjYToyMDpOVDAwMDA6TjpVTTFFMDA4MDgx/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/E7oJFFsCHgEJ.json
+content:
+  markdown_content: ""

@@ -1,0 +1,71 @@
+metadata:
+  class: PoeticWork
+  label: Di Democrito rido. A caso ei vuole
+  description:
+  aliases:
+  base_name: Di Democrito rido. A caso ei vuole
+  filename: Di Democrito rido. A caso ei vuole.md
+  id: A9qFkA8BTs2A
+  n_id: 167921482139262392462
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hyw2JvyN8B9h
+      label: Francesco Maria Santinelli
+  part_of:
+    - section: Contro l'opinione di Democrito
+      volume: Rime morali
+      pages: 65
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/j7DoSeBZLZrw
+      label: (Santinelli 1985)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/352NoyPwuTJw
+      label: atomism
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Di Democrito rido. A caso ei vuole,
+      Che de gli Atomi fuor sia fatto il Mondo.
+      Vuol dar con questi a l'universa mole
+      Essere, qualità, misura e pondo.
+
+      Dunque a caso ha natura il sen fecondo?
+      Dunque nascere il tutto a caso suole?
+      Per fortuito concorso è 'l Mar profondo?
+      Per fortuito concorso è chiaro il Sole?
+
+      Studiata follia, che a riso move.
+      Sempre da l'Orto il dì corre a l'Occaso,
+      Né mai può traviar per strade nove.
+
+      Infallibil Natura ha persuaso,
+      Che v'è regola al Tutto, e che là dove
+      Stabil Ordine v'è, non entra il Caos.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/A9qFkA8BTs2A.json
+content:
+  markdown_content: ""

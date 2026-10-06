@@ -1,0 +1,53 @@
+metadata:
+  class: MusicComposition
+  label: Madonna hor che direte (Conforti)
+  description:
+  aliases:
+  base_name: Madonna hor che direte (Conforti)
+  filename: Madonna hor che direte (Conforti).md
+  id: jL6FQsBG2Y4c
+  n_id: 852615394701676759228
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F153070001010101_000000067200C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aNoV8WX6vFco
+      label: Giovanni Battista Conforti
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eu5cdWGiLi7e
+      label: Madrigali di Giovan Battista Conforti nuovamente dati in luce et corretti da Claudio Correggio. A cinque voci. Libro primo
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/conforti-madonna_hor_che_direte
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jL6FQsBG2Y4c.json
+content:
+  markdown_content: ""

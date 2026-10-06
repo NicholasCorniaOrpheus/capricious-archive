@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: desire
+  description:
+  aliases:
+    - desio
+  base_name: desire
+  filename: desire.md
+  id: bQJGEZiGYFYZ
+  n_id: 689052637708130608870
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q775842
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XDrvy6onGzZu
+      label: emotion
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bQJGEZiGYFYZ.json
+content:
+  markdown_content: ""

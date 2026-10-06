@@ -1,0 +1,53 @@
+metadata:
+  class: Book
+  label: Cryptomenytices et Cryptographiae libri IX
+  description:
+  aliases:
+  base_name: Cryptomenytices et Cryptographiae libri IX
+  filename: Cryptomenytices et Cryptographiae libri IX.md
+  id: WRaJhBi9ZL4c
+  n_id: 586337069851610647639
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W8fxAfTV9EuG
+      label: (Eco 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+  inception:
+    - value: 1624
+  has_version:
+    - IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11057746/manifest
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb11057746
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      publication_date: 1624
+      permalink: https://mdz-nbn-resolving.de/details:bsb11057746
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W4sWHRRv6ZXt
+      label: Gustavus Selenus
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PwPxjrNdJkHp
+      label: cryptography
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7WzaN4hdqgqS
+      label: volvelle
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11057746/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/WRaJhBi9ZL4c.json
+content:
+  markdown_content: ""

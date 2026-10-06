@@ -1,0 +1,38 @@
+metadata:
+  class: Book
+  label: Eclogues
+  description:
+  aliases:
+  base_name: Eclogues
+  filename: Eclogues.md
+  id: GFFt3W3Ertgn
+  n_id: 293697175190749829888
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q546203
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+  inception:
+  has_version:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EGiqL2BY3FZ7
+      label: Virgil
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GFFt3W3Ertgn.json
+content:
+  markdown_content: ""

@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Crupi 2024)
+  description:
+  aliases:
+    - crupiLibriAnimatiFra2024
+  base_name: (Crupi 2024)
+  filename: (Crupi 2024).md
+  id: g3pCN7yJKNdN
+  n_id: 784819550111299397747
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Crupi, Gianfranco, ed. 2024. Libri animati fra studio, ricerca, tecnica e creazione. Milano: Ledizioni."
+  isbn:
+    - 979-12-5600-252-8
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/crupiLibriAnimatiFra2024.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/g3pCN7yJKNdN.json
+content:
+  markdown_content: ""

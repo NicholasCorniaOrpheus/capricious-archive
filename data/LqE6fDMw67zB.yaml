@@ -1,0 +1,42 @@
+metadata:
+  class: Organisation
+  label: Accademia Filarmonica di Verona
+  description:
+  aliases:
+  base_name: Accademia Filarmonica di Verona
+  filename: Accademia Filarmonica di Verona.md
+  id: LqE6fDMw67zB
+  n_id: 388538500633797912099
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2822655
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JE4qx5PTzpnN
+      label: Verona
+  official_website:
+    - https://www.accademiafilarmonica.org/ricerca/biblioteca-in-musica
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 543
+  member:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5f6kHhAxyPZh
+      label: music making
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LqE6fDMw67zB.json
+content:
+  markdown_content: ""

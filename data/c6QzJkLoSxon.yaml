@@ -1,0 +1,44 @@
+metadata:
+  class: MusicComposition
+  label: Apri Urania il puro fonte (Radesca)
+  description:
+  aliases:
+  base_name: Apri Urania il puro fonte (Radesca)
+  filename: Apri Urania il puro fonte (Radesca).md
+  id: c6QzJkLoSxon
+  n_id: 703214734615220302172
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/022860000010101_000000200900C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fA6YCedpv5c5
+      label: canzonetta
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kKBegnDY7RmH
+      label: Il Quarto Libro delle Canzonette Madrigali, et Arie alla romana a due voci di Radesca Enrico
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FnfXLBfBJNpo
+      label: Apri Urania il puro fonte
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/radesca-apri_urania_il_puro_fonte
+  jpg:
+    - fs_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/c6QzJkLoSxon.json
+content:
+  markdown_content: ""

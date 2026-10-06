@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: skerry
+  description: rocky islet too small for habitation
+  aliases:
+    - scoglio
+  base_name: skerry
+  filename: skerry.md
+  id: htMN9mN4PnnW
+  n_id: 823024683932897017825
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q216851
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3frfeZ8i5JSm
+      label: location
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/htMN9mN4PnnW.json
+content:
+  markdown_content: ""

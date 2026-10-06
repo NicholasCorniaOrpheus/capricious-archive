@@ -1,0 +1,74 @@
+metadata:
+  class: PoeticWork
+  label: Ride la terra, e d’ogni parte rende
+  description:
+  aliases:
+  base_name: Ride la terra, e d’ogni parte rende
+  filename: Ride la terra, e d’ogni parte rende.md
+  id: QzLGGE4U53py
+  n_id: 474379578313524690565
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+  part_of:
+    - section: 26
+      pages: 84-85
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hi5GzysL3aMZ
+      label: (Gambara 1995)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FHkhZJZzAo88
+      label: thousand
+  text:
+    - |-
+      Ride la terra, e d'ogni parte rende
+      Mille soavi e dilettosi odori;
+      Coperta di leggiadri, e vaghi fiori
+      A guisa d'un bel ciel tutta resplende.
+
+      Amor ch'in tal stagion forza riprende
+      Rinova in ogni cor gli antici amori,
+      E mille cari e leggiadretti ardori
+      D'ogni fedele amante in petto accende.
+
+      Scherzano per le piagge lascivetti
+      Gli animai l'un l'altro festeggiando,
+      Ch'Amore insegna lor novi diletti.
+
+      Sola io, d'ogni mia pace posta in bando
+      Offesa da timor, noie, e sospetti
+      Lontana dal mio ben vivo pensando.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QzLGGE4U53py.json
+content:
+  markdown_content: ""

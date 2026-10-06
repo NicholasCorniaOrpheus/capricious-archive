@@ -1,0 +1,71 @@
+metadata:
+  class: PoeticWork
+  label: Occhi lucenti, e belli
+  description:
+  aliases:
+  base_name: Occhi lucenti, e belli
+  filename: Occhi lucenti, e belli.md
+  id: NiN2YePymsav
+  n_id: 427326420253060489342
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+  part_of:
+    - pages: 289
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UoZHuZQEWyBZ
+      section: Veronica Gambara.
+      label: Rime diverse di molti eccellentiss. autori nuovamente raccolte. Libro primo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fvh8Y8qPzemN
+      section: Veronica Gambara.
+      pages: 5
+      label: Rime di diversi eccellenti autori bresciani
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4zDHNwC4tdTU
+      label: eye
+  text:
+    - |-
+      Occhi lucenti, e belli,
+      Come esser può, ch'in un medesmo instante
+      Nascan da voi sì nove forme, e tante?
+      Lieti, mesti, superbi, humili, alteri.
+      Vi mostrate in un punto; onde di speme,
+      E di timor m'empiete;
+      E tanti effetti dolci, acerbi, e fieri
+      Nel cor' arso per voi, vengono insieme
+      Ad ogn'hor, che volete.
+      Hor poi che voi mia vita, e morte sete
+      Occhi felici, occhi beati, e cari
+      Siate sempre sereni, allegri, e chiari.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/occhi_lucenti,_e_belli
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NiN2YePymsav.json
+content:
+  markdown_content: ""

@@ -1,0 +1,46 @@
+metadata:
+  class: NotatedMusic
+  label: Libro terzo de madrigali a cinque voci, di m. Bartolomeo Spontone
+  description:
+  aliases:
+  base_name: Libro terzo de madrigali a cinque voci, di m. Bartolomeo Spontone
+  filename: Libro terzo de madrigali a cinque voci, di m. Bartolomeo Spontone.md
+  id: Sj7F6b8nLuDu
+  n_id: 510138178867029994365
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE045793
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV19950010
+    - https://rism.online/sources/990060500
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Libro terzo de madrigali a cinque voci, di m. Bartolomeo Spontone nouamente composti, & dati in luce
+  inception:
+    - value: 1583
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE045793
+      publication_date: 1583
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://stimmbuecher.digitale-sammlungen.de/view?id=bsb00080490
+      note: The partbooks miss pages 19-22.
+  contributor:
+  subject:
+  has_part:
+  instrumentation:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Sj7F6b8nLuDu.json
+content:
+  markdown_content: ""

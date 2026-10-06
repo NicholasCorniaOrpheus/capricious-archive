@@ -1,0 +1,42 @@
+metadata:
+  class: Agent
+  aliases:
+    - Maddalena Aceiaiuoli
+  base_name: Maddalena Salvetti-Aceiaiuoli
+  filename: Maddalena Salvetti-Aceiaiuoli.md
+  label: Maddalena Salvetti-Aceiaiuoli
+  id: ZBSPmMsCucNE
+  n_id: 643126056508490159907
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q10322910
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NoC5RFxc7i7n
+      label: (Driscoll 2022)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0052
+  present_in_work:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZBSPmMsCucNE.json
+content:
+  markdown_content: According to [(Driscoll 2022)](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NoC5RFxc7i7n), she worked on a [chivalric poem](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc) in the style of [Orlando furioso](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y) but never finished it.

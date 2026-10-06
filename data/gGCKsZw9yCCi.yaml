@@ -1,0 +1,74 @@
+metadata:
+  class: PoeticWork
+  label: Voi che a gl'aringhi miei dolci contese
+  description:
+  aliases:
+  base_name: Voi che a gl'aringhi miei dolci contese
+  filename: Voi che a gl'aringhi miei dolci contese.md
+  id: gGCKsZw9yCCi
+  n_id: 789298168376388488326
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ran6edubGcts
+      label: Vincenzo Panciatichi
+  part_of:
+    - section: Amore. Del Sig. Cavalliero Vincenzo Panciatichi. Cartello Primo
+      volume: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6PtpfEAH4kyX
+      pages: 41
+      label: Della corona di Apollo composta del piu vago de' fiori di permesso. Da Piergirolamo Gentile
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z6udgtgZac9G
+      label: chivalry
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XEsomeCuBNMG
+      label: chain
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KH2RsQHZMHpE
+      label: knight
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CawKsiNZXBxK
+      label: poison
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2uHcFcbRzB9
+      label: duel
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Voi che a gl'aringhi miei dolci contese
+      Ma di fero velen sovente armate,
+      Aman i Cavallier con Donne accese
+      Di sdegno haveste a' merti vostri ingrate;
+      Vedeste al fin, che di superbe offese,
+      Onde languisce il cor fur disarmate;
+      E così amici, in cari nodi avvinti;
+      Non conosceste o vincitori, o vinti.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/voi_che_a_gl'aringhi_miei_dolci_contese
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gGCKsZw9yCCi.json
+content:
+  markdown_content: ""

@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  aliases:
+    - enigma
+    - puzzle
+  base_name: riddle
+  filename: riddle.md
+  label: riddle
+  id: 8LkVSvtxvTfr
+  n_id: 130601818045468437963
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q47054
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8LkVSvtxvTfr.json
+content:
+  markdown_content: ""

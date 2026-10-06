@@ -1,0 +1,69 @@
+metadata:
+  class: MusicComposition
+  label: Amor tu causi tutt'il penar mio (Dattari)
+  description:
+  aliases:
+  base_name: Amor tu causi tutt'il penar mio (Dattari)
+  filename: Amor tu causi tutt'il penar mio (Dattari).md
+  id: ScfKwnjgPv5w
+  n_id: 507807734234267024009
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/019850000010101_000000078300C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LD4RrZzU9uiL
+      label: villanella
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ERbTBKhzNzBL
+      label: Ghindolfo Dattari
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c9haQqV9stXm
+      label: Di Ghinolfo Dattari bolognese le Villanelle, a tre, a quattro & a cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/biQYgh8Lb2xW
+      note: The lyrics have been substancially changed.
+      label: Amor tu causi tutt'il penar mio
+  derivative_work:
+  text:
+    - |-
+      Amor tu causi tutt'il penar mio
+      Tu mi fai tort'e non colei ch'adoro
+      Ma se tu vuoi ch'io viv'in tal martire
+      Fammi più presto pregoti morire.
+
+      E se tu dessi effeto al mio desio,
+      Havrei nei danni almen qualche ristoro
+      Ma se tu vuoi ch'io viv'in tal martire
+      Fammi più presto pregoti morire.
+
+      Tu fosti sempre un lusinghier d'amore
+      E sei caggion, che per amar io moro
+      Ma se tu vuoi ch'io viv'in tal martire
+      Fammi più presto pregoti morire.
+
+      Ma perché tanto al mio soccorso tardi
+      S'havut'io n'ho da lei parol'e sguardi
+      Tu mi fai star con speme in su la cima,
+      E a corre il frutto un'altro serà prima.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/dattari-amor_tu_causi_tutto_il_penar_mio
+  jpg:
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ScfKwnjgPv5w.json
+content:
+  markdown_content: ""

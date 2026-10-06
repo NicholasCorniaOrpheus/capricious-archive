@@ -1,0 +1,64 @@
+metadata:
+  class: PoeticWork
+  label: Such das Centrum in seiner Erden
+  description:
+  aliases:
+  base_name: Such das Centrum in seiner Erden
+  filename: Such das Centrum in seiner Erden.md
+  id: M32GzNHiBRkX
+  n_id: 392445801477107610500
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eb5aj2HkQaXZ
+      label: (Forshaw 2010)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EsHT4rwmGq4j
+      label: Benedictus Figulus
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mHPFaqRhG7v5
+      section: Carmen Rythmogermanicum de Prima Materia.
+      volume: Tractatus VI
+      pages: 213
+      label: Thesaurinella Olympica aurea tripartita
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+  poetic_type:
+  metre:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BzhJSvB9YReH
+      label: German
+  text:
+    - |-
+      Such das CENTRUM in seiner Erden,
+      Darauß die Metall geboren werden.
+      Im Globo wilstu das Wasser erndten
+      Findstu hier und dort im Land zu Kärndten.
+      Treib darauß seines Geistes Dunst,
+      So hast den Schlüssel zu der Kunst.
+      Treibes fort, biß gantz Rothfarb steht,
+      Ich bin das Wachs welchs Fewer besteht.
+      Beliebt und feyst, ein Schatz gar thewer,
+      In mir findstu das gröste Fewer.
+      Beschließ das Fewer in Wassers Gewalt,
+      Das ist das Ding das Leben erhalt,
+      Bekleidt mit Goldt dis edel Bildt
+      Medicinir darmit dann was du wilt.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/such_das_centrum_in_seiner_erden
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/M32GzNHiBRkX.json
+content:
+  markdown_content: ""

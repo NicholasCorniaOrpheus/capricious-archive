@@ -1,0 +1,57 @@
+metadata:
+  class: PoeticWork
+  base_name: Dir male, & dire il ver genera sdegno
+  filename: Dir male, & dire il ver genera sdegno.md
+  label: Dir male, & dire il ver genera sdegno
+  id: 49JBRVu3XGkJ
+  n_id: 43908705279332682613
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+  part_of:
+    - section: Canto I, 4
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SifJFtUcR76e
+      label: Astolfeide del divino Pietro Aretino
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Dir male, & dire il ver genera sdegno
+      Sogliono dire gl'ipocriti e Piangioni
+      chi ben dice, & mal fa di morte è degno
+      come fanno i cagnacci hipocritoni. 
+      A buon sotii l'orecchia a grattar vegno
+      Non a gli adulator, non a poltroni, 
+      Non è vitio più pregno di veleno 
+      Ch'ornar di lode, chi di biasmo è pieno.
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iFXJgwZy2vLK
+      label: (Selepiuc 2020)
+assets:
+  local_asset_path: ./assets/poems/dir_male,_&_dire_il_ver_genera_sdegno
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/49JBRVu3XGkJ.json
+content:
+  markdown_content: ""

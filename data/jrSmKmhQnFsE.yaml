@@ -1,0 +1,77 @@
+metadata:
+  class: PoeticWork
+  label: Se ben pietosa madre unico figlio
+  description:
+  aliases:
+  base_name: Se ben pietosa madre unico figlio
+  filename: Se ben pietosa madre unico figlio.md
+  id: jrSmKmhQnFsE
+  n_id: 863606756797081694043
+statements:
+  identifier:
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=22687
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iajxupbXH9BQ
+      label: Tullia d'Aragona
+  part_of:
+    - pages: 11
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Uro5vKqScg9H
+      section: A Pietro Manelli.
+      label: Rime della signora Tullia di Aragona et di diversi a lei
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR7sSTMz4jjt
+      label: despair
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KZ6PgT6cBtyo
+      label: storm
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GfJn75HsAD4J
+      label: watercraft
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jyeTTpwjLE6d
+      label: harbor
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Se ben pietosa madre unico figlio
+      Perde talhora, & nuovo alto dolore
+      Le preme il tristo, & sospiroso core,
+      Spera conforto almen, spera consiglio;
+
+      Se scaltro Capitano in gran periglio
+      Mostrando alteramente il suo valore
+      Resta vinto, & prigion, spera uscir fuore
+      Quando che sia con baldanzoso ciglio:
+
+      S'in tempestoso mar giunto si duole
+      Spaventato Nocchier già presso a morte,
+      Ha speme anchor di rivedersi in porto.
+
+      Ma io, s'avvien che perda il mio bel Sole,
+      O per mia colpa, o per malvagia sorte,
+      Non spero haver, né voglio alcun conforto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/se_ben_pietosa_madre_unico_figlio
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jrSmKmhQnFsE.json
+content:
+  markdown_content: ""

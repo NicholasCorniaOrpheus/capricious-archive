@@ -1,0 +1,43 @@
+metadata:
+  class: Agent
+  label: Giovanni Battista Lauri
+  description:
+  aliases:
+    - Giovanni Battista Lauro
+  base_name: Giovanni Battista Lauri
+  filename: Giovanni Battista Lauri.md
+  id: ctMjFjbXnyeP
+  n_id: 719847536148885732024
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q110215173
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+      label: (Teza 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BpATM36nYWpT
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+      label: Accademia degli Insensati di Perugia
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GT5A64zQ8vgY
+      label: astronomer
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ctMjFjbXnyeP.json
+content:
+  markdown_content: ""

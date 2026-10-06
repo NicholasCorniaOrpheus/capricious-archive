@@ -1,0 +1,52 @@
+metadata:
+  class: NotatedMusic
+  label: Il Quarto Libro delle Canzonette Madrigali, et Arie alla romana a due voci di Radesca Enrico
+  description:
+  aliases:
+  base_name: Il Quarto Libro delle Canzonette Madrigali, et Arie alla romana a due voci di Radesca Enrico
+  filename: Il Quarto Libro delle Canzonette Madrigali, et Arie alla romana a due voci di Radesca Enrico.md
+  id: kKBegnDY7RmH
+  n_id: 872923612551904005993
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0276112
+    - https://rism.online/sources/990053445
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV17290010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jkCs6Sb8PMex
+      label: music score
+  title:
+  inception:
+    - value: 1610
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0276112
+      publication_date: 1610
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TkSL3NGH6dAk
+        label: Giacomo Vincenti
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/BB/BB210/
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MzJxi7MP7dJY
+      label: Enrico Radesca
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJY5Y5H82dpd
+      label: voice
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kKBegnDY7RmH.json
+content:
+  markdown_content: ""

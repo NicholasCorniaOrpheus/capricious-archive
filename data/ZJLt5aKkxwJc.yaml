@@ -1,0 +1,56 @@
+metadata:
+  class: Book
+  base_name: Le piacevoli rime di Cesare Caporali
+  filename: Le piacevoli rime di Cesare Caporali.md
+  label: Le piacevoli rime di Cesare Caporali
+  id: ZJLt5aKkxwJc
+  n_id: 645625334733550692166
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Le piaceuoli rime di Cesare Caporali. Di nuouo in questa terza impressione accresciute d'altre graui, per l'adietro non più date in luce
+  inception:
+    - value: 1585
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE009206
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10208014/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10208014
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RFFMqXMnRXik
+          label: Milano
+      publication_date: 1585
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZfLDNXrw4JQb
+        label: Pietro Tini
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/N6p8jUEqGz2y
+      label: Filippo Alberti
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdsFcGZTzpPV
+      label: Cesare Caporali
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10208014/manifest
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZJLt5aKkxwJc.json
+content:
+  markdown_content: ""

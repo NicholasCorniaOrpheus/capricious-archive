@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: founder
+  base_name: founder
+  filename: founder.md
+  id: VQtqbRoGY6GZ
+  n_id: 565456906000025764876
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q4479442
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VQtqbRoGY6GZ.json
+content:
+  markdown_content: ""

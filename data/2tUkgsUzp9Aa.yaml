@@ -1,0 +1,57 @@
+metadata:
+  class: Book
+  label: Della fabrica del mondo di m. Francesco Alunno
+  description:
+  aliases:
+    - La fabbrica del mondo
+  base_name: Della fabrica del mondo di m. Francesco Alunno
+  filename: Della fabrica del mondo di m. Francesco Alunno.md
+  id: 2tUkgsUzp9Aa
+  n_id: 18271560591157580156
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE001317
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TJbEN5HnXM3U
+      label: (Novellari 1993)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ipcTvFgBjnnS
+      label: catalogue
+  title:
+    - Della fabrica del mondo di m. Francesco Alunno da Ferrara libri X ne' quali si contengono le voci di Dante, del Petrarca, del Boccaccio, del Bembo & d'altri buoni autori ... Di nuouo ristampati et ampliati di più di 1500 uocaboli ..
+  inception:
+    - value: 1570
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE001317
+      publication_date: 1570
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://books.google.it/books?id=Mm8nTmt5WGoC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MttJLbUd2atN
+      label: Francesco Alunno
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Qswn49Yodruc
+      label: rhetorical figure
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2tUkgsUzp9Aa.json
+content:
+  markdown_content: ""

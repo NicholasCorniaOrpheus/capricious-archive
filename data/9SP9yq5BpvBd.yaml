@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: politician
+  description:
+  aliases:
+  base_name: politician
+  filename: politician.md
+  id: 9SP9yq5BpvBd
+  n_id: 153274369044631762403
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q82955
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+  subclass_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9SP9yq5BpvBd.json
+content:
+  markdown_content: ""

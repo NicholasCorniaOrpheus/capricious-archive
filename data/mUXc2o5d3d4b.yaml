@@ -1,0 +1,75 @@
+metadata:
+  class: PoeticWork
+  label: Chi è costei, che come nuova Aurora
+  description:
+  aliases:
+  base_name: Chi è costei, che come nuova Aurora
+  filename: Chi è costei, che come nuova Aurora.md
+  id: mUXc2o5d3d4b
+  n_id: 896944544552282530926
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/1093
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJigWkauAvXU
+      label: Sperone Speroni
+  part_of:
+    - volume: 2
+      pages: 7
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L2LbwEDxTqeF
+      label: De le rime di diuersi nobili poeti toscani, raccolte da m. Dionigi Atanagi
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T3ehoUUCyhWR
+      label: dawn
+  text:
+    - |-
+      CHI è costei, che come nuova Aurora,
+      Ma più chiara del Sol, che la Tauro torni,
+      In sul finir de' miei ultimi giorni
+      Lo smarrito cor mio desta, & colora?
+
+      Move da le sue rose una dolcie ora
+      Di vaghi accenti, & di santi atti adorni,
+      Che, quasi seco Amor spiri, & soggiorni,
+      Me neve, & gel di bei desiri infiora;
+
+      Onde non pur la scorza fredda, & bianca,
+      Ma prenda qualità a la parte interna,
+      Di voi cortese Dea, perpetuo tempio:
+
+      Gardir per lei questa altra inferma, & stanca
+      Gratia a me rara, a voi fia gloria eterna,
+      Rinovellando di Titon l'essempio.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/chi_è_costei,_che_come_nuova_aurora
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mUXc2o5d3d4b.json
+content:
+  markdown_content: ""

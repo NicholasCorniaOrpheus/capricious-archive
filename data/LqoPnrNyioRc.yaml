@@ -1,0 +1,19 @@
+metadata:
+  class: Concept
+  base_name: type of musical work
+  filename: type of musical work.md
+  label: type of musical work
+  id: LqoPnrNyioRc
+  n_id: 388750008127877089672
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q107487333
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LqoPnrNyioRc.json
+content:
+  markdown_content: ""

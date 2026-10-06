@@ -1,0 +1,49 @@
+metadata:
+  class: PoeticWork
+  base_name: O bella Dea, che da' celesti giri
+  filename: O bella Dea, che da' celesti giri.md
+  label: O bella Dea, che da' celesti giri
+  id: mdUZaKwLX9QB
+  n_id: 900183517488386569578
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/au2FAKGHhhNM
+      label: Claudio Tolomei
+  part_of:
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/33fBjU7SLdGj
+      label: Accademia delle Virtù di Roma
+  poetic_type:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+  text:
+    - |-
+      O bella Dea, che da' celesti giri
+      Discesa in terra sei spinta d'amore;
+      Che già gli spirti eletti infiammati e inspiri,
+      E vesti il mondo, di novel colore;
+      Empi di santi affetti, e bei desiri,
+      A questa schiera Virtuosa i core.
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R8gaAppcmFNh
+      label: (Moroncini 2017)
+assets:
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mdUZaKwLX9QB.json
+content:
+  markdown_content: ""

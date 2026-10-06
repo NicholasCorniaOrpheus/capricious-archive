@@ -1,0 +1,49 @@
+metadata:
+  class: NotatedMusic
+  label: Di Vincenzo Bell'Haver organista il terzo libro de madrigali a quattro et cinque voci con uno madrigale a sette
+  description: Only a mutilated Cantus part survives in the municipal library of Carcassonne, France.
+  aliases:
+  base_name: Di Vincenzo Bell'Haver organista il terzo libro de madrigali a quattro et cinque voci con uno madrigale a sette
+  filename: Di Vincenzo Bell'Haver organista il terzo libro de madrigali a quattro et cinque voci con uno madrigale a sette.md
+  id: 9HdnxcQhtRAD
+  n_id: 150109110018706430150
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0273318
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV02370010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  title:
+    - Di Vincenzo Bell'Haver organista il terzo libro de madrigali a quatro et cinque voci con uno madrigale a sette
+  inception:
+    - value: 1576
+  has_version:
+    - publication_date: 1576
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HjtJwEQxd2Dn
+      label: Vincenzo Bellavere
+  subject:
+  has_part:
+  instrumentation:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9HdnxcQhtRAD.json
+content:
+  markdown_content: ""

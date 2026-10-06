@@ -1,0 +1,52 @@
+metadata:
+  class: Book
+  label: Dieci canti di Sacripante di messer Lodovico Dolce
+  description:
+  aliases:
+  base_name: Dieci canti di Sacripante di messer Lodovico Dolce
+  filename: Dieci canti di Sacripante di messer Lodovico Dolce.md
+  id: hVTj8yiy7kiU
+  n_id: 814738364562670388633
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE077096
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Dieci canti di Sacripante, di messer Lodouico Dolce, quai seguitano Orlando Furioso, nouamente ristampati, historiati, & con ogni diligentia corretti
+  inception:
+    - value: 1535
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE038640
+      publication_date: 1539
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aXaYa9AT8HP7
+        label: Giovanni Andrea Valvassore
+      external_source: https://books.google.it/books?id=8FBGM9Y-iB8C
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      label: Lodovico Dolce
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W7iNAQdMQJ79
+      label: Sacripante
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hVTj8yiy7kiU.json
+content:
+  markdown_content: ""

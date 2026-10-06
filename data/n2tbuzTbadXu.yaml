@@ -1,0 +1,22 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - wilbourneSeventeenthcenturyOperaSound2016
+  base_name: (Wilbourne 2016)
+  filename: (Wilbourne 2016).md
+  label: (Wilbourne 2016)
+  id: n2tbuzTbadXu
+  n_id: 908300947189607041215
+statements:
+  part_of:
+  citation:
+    - "Wilbourne, Emily. 2016. Seventeenth-Century Opera and the Sound of the Commedia Dell’Arte. Chicago: University of Chicago Press."
+  isbn:
+    - 978-0-226-40157-7
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/wilbourneSeventeenthcenturyOperaSound2016.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/n2tbuzTbadXu.json
+content:
+  markdown_content: ""

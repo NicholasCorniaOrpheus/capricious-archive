@@ -1,0 +1,54 @@
+metadata:
+  class: Book
+  label: Rime di diversi signori napoletani Libro settimo
+  description:
+  aliases:
+  base_name: Rime di diversi signori napoletani Libro settimo
+  filename: Rime di diversi signori napoletani Libro settimo.md
+  id: RgjvBxtsjnyR
+  n_id: 488649187868382041399
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE027134
+    - https://lyra.unil.ch/books/12
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/essfAVeKM7Q7
+      label: EDIT16
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime di diuersi signori napolitani, e d'altri. Nuouamente raccolte et impresse. Libro settimo
+  inception:
+    - value: 1556
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1556
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE027134
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      external_source: https://lyra.unil.ch/books/12/images
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+        label: Progetto Lyra
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      label: Lodovico Dolce
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RgjvBxtsjnyR.json
+content:
+  markdown_content: ""

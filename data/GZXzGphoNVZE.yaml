@@ -1,0 +1,59 @@
+metadata:
+  class: Book
+  label: Poems, and fancies written by the Right Honourable, the Lady Margaret Newcastle
+  description:
+  aliases:
+  base_name: Poems, and fancies written by the Right Honourable, the Lady Margaret Newcastle
+  filename: Poems, and fancies written by the Right Honourable, the Lady Margaret Newcastle.md
+  id: GZXzGphoNVZE
+  n_id: 300316093177413536916
+statements:
+  identifier:
+    - https://name.umdl.umich.edu/A53061.0001.001
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - Poems, and fancies written by the Right Honourable, the Lady Margaret Newcastle.
+  inception:
+    - value: 1653
+  has_version:
+    - permalink: https://name.umdl.umich.edu/A53061.0001.001
+      external_source: https://archive.org/details/poemsfancies00newc
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GQ2cDPWxBAg5
+        label: Internet Archive
+      publication_date: 1653
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M4CDHkHzJWTe
+          label: London
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i88YWS299EAB
+      label: Margaret Cavendish
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cJ4AZvHTtb9D
+      label: science
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/352NoyPwuTJw
+      label: atomism
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MeCVRw88z9MS
+      label: classical elements
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pkoygy4mPEmk
+      label: English
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GZXzGphoNVZE.json
+content:
+  markdown_content: ""

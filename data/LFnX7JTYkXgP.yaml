@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - yatesGiordanoBrunoTradizione2022
+  base_name: (Yates 1964)
+  filename: (Yates 1964).md
+  label: (Yates 1964)
+  id: LFnX7JTYkXgP
+  n_id: 376435337493900632166
+statements:
+  part_of:
+  citation:
+    - "Yates, Franches. (1964) 2022. Giordano Bruno e la tradizione ermetica. Translated by Renzo Pecchioli. 9th edn. Biblioteca Storica. Bari: Gius. Laterza & Figli."
+  isbn:
+  identifier:
+    - 978-88-420-9239-1
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/yatesGiordanoBrunoTradizione2022.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LFnX7JTYkXgP.json
+content:
+  markdown_content: ""

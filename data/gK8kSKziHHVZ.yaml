@@ -1,0 +1,61 @@
+metadata:
+  class: PoeticWork
+  base_name: Falsi i Poeti, & l'Historici vani
+  filename: Falsi i Poeti, & l'Historici vani.md
+  label: Falsi i Poeti, & l'Historici vani
+  id: gK8kSKziHHVZ
+  n_id: 790361598901423868248
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+  part_of:
+    - section: Canto I, 3
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SifJFtUcR76e
+      label: Astolfeide del divino Pietro Aretino
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AsTmRvZ9z4UX
+      label: historian
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Falsi i Poeti, & l'Historici vani 
+      Di Troia, & Tebe di sparta, & Tessaglia 
+      Son presso a l'opra ov'io caccio le mani 
+      A dir de' Paladin, sel ver mi vaglia
+      Son le buggie un Abbaiar de cani. 
+      Io in pace dirò più che in battaglia
+      De' Cronichisti mendaci al dispetto 
+      De' Paladin di Francia il vero schietto.
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iFXJgwZy2vLK
+      label: (Selepiuc 2020)
+assets:
+  local_asset_path: ./assets/poems/falsi_i_poeti,_&_l'historici_vani
+  jpeg:
+    - Astolfeide_del_divino_Pietro_Aretino_[...]L'Arétin_(1492-1556)_bpt6k725844_9.jpeg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gK8kSKziHHVZ.json
+content:
+  markdown_content: ""

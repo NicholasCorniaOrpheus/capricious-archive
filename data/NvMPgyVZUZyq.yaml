@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Vagenheim 2017)
+  description:
+  aliases:
+    - vagenheimAntiquariLetteratiNellAccademia2017
+  base_name: (Vagenheim 2017)
+  filename: (Vagenheim 2017).md
+  id: NvMPgyVZUZyq
+  n_id: 431666825075053198430
+statements:
+  isbn:
+    - 978-88-6557-321-1
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Vagenheim, Ginette. 2017. ‘Antiquari e letterati nell’Accademia degli Sdegnati: il sodalizio di Pirro Ligorio e Francesco Maria Molza’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Patrizia Tosini, 91–100. Roma: De Luca editori d’arte. https://normandie-univ.hal.science/hal-01829101."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/vagenheimAntiquariLetteratiNellAccademia2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NvMPgyVZUZyq.json
+content:
+  markdown_content: ""

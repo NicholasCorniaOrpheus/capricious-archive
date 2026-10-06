@@ -1,0 +1,66 @@
+metadata:
+  class: NotatedMusic
+  label: L'Euterpe di Domenico Brunetti
+  description:
+  aliases:
+  base_name: L'Euterpe di Domenico Brunetti
+  filename: L'Euterpe di Domenico Brunetti.md
+  id: TTsgwS8XBCFM
+  n_id: 525263890992876235444
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV03640010
+    - https://rism.online/sources/990007264
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jkCs6Sb8PMex
+      label: music score
+  title:
+    - L'Euterpe di Domenico Brunetti bolognese, opera musicale di Madrigali, Canzonette, Arie, Stanze e Scherzi diversi, in Dialoghi & Echo, a una, due, tre et quattro voci, da cantarsi in theorba, arpicordo & altri stromenti. All'ill.mo & rev.mo sig. Scipione card.le Borghese, nepote di N.S. Paolo V
+  inception:
+    - value: 1606
+  has_version:
+    - publication_date: 1606
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ES6YsgRBW7Rp
+        label: Ricciardo Amadino
+      permalink: http://catalogue.bnf.fr/ark:/12148/cb397816351
+      external_source: https://gallica.bnf.fr/ark:/12148/bpt6k1280276p
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1280276p/manifest.json
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AH6rbTiaz65w
+      note: Dedication poem to the author.
+      label: Cesare Abelli
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JWaXsJnG7wBB
+      label: Domenico Brunetti
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFRZ6pAZFnbn
+      label: continuo group
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJY5Y5H82dpd
+      label: voice
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1280276p/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TTsgwS8XBCFM.json
+content:
+  markdown_content: ""

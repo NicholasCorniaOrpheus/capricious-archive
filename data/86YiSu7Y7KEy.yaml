@@ -1,0 +1,38 @@
+metadata:
+  class: Agent
+  label: Irene Castriota Scanderbeg
+  description:
+  aliases:
+    - Erina Castriota
+    - Herina Castriota
+  base_name: Irene Castriota Scanderbeg
+  filename: Irene Castriota Scanderbeg.md
+  id: 86YiSu7Y7KEy
+  n_id: 125458582379015142487
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q60447673
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/86YiSu7Y7KEy.json
+content:
+  markdown_content: ""

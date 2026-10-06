@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Stras 2018)
+  description:
+  aliases:
+    - strasWomenMusicSixteenthcentury2018
+  base_name: (Stras 2018)
+  filename: (Stras 2018).md
+  id: fJA6BDZUy9AL
+  n_id: 769372104748440901686
+statements:
+  isbn:
+    - 978-1-107-15407-0
+  described_by_source:
+  part_of:
+  citation:
+    - "Stras, Laurie. 2018. Women and Music in Sixteenth-Century Ferrara. Vol. 28. New Perspectives in Music History and Criticism. Cambridge, United Kingdom New York, NY, USA: Cambridge University Press."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/strasWomenMusicSixteenthcentury2018.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/fJA6BDZUy9AL.json
+content:
+  markdown_content: ""

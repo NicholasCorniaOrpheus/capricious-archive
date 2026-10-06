@@ -1,0 +1,51 @@
+metadata:
+  class: Book
+  label: La seconda libraria del Doni
+  description: Alphabetic list of academies and their members, some of them fictive.
+  aliases:
+  base_name: La seconda libraria del Doni
+  filename: La seconda libraria del Doni.md
+  id: gAoKYSVaufny
+  n_id: 787348232157577336864
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE017686
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ipcTvFgBjnnS
+      label: catalogue
+    - "[[dictionary]]"
+  title:
+    - La seconda libraria del Doni
+  inception:
+    - value: 1551
+  has_version:
+    - publication_date: 1551
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KL2a3Eox62dw
+        label: Francesco Marcolini
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE017686
+      external_source: https://books.google.it/books?id=jlX8x6ARFJsC
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Anton Francesco Doni
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gAoKYSVaufny.json
+content:
+  markdown_content: ""

@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  base_name: document
+  filename: document.md
+  label: document
+  id: Xfs7XRwHSxHj
+  n_id: 612148166456643818942
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/my6YsDbEHxhR
+      label: artificial object
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q49848
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Xfs7XRwHSxHj.json
+content:
+  markdown_content: ""

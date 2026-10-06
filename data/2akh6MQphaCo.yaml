@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Lucioli 2024)
+  description:
+  aliases:
+    - lucioliFuriosoSiRitrova2024
+  base_name: (Lucioli 2024)
+  filename: (Lucioli 2024).md
+  id: 2akh6MQphaCo
+  n_id: 11856182230826617314
+statements:
+  identifier:
+    - 978-88-290-2244-1
+  described_by_source:
+  part_of:
+  citation:
+    - "Lucioli, Francesco. 2024. «Il Furioso si ritrova per tutto». Un secolo di letture e riscritture 1545-1645. Lingue e letterature Carocci 431. Roma: Carocci editore."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/lucioliFuriosoSiRitrova2024.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2akh6MQphaCo.json
+content:
+  markdown_content: ""

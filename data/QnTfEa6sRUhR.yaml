@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Parada-Cabaleiro et al. 2017)
+  description:
+  aliases:
+    - parada-cabaleiroSEILSDatasetSymbolically2017
+  base_name: (Parada-Cabaleiro et al. 2017)
+  filename: (Parada-Cabaleiro et al. 2017).md
+  id: QnTfEa6sRUhR
+  n_id: 470082198217927175384
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Parada-Cabaleiro, Emilia, Anton Batliner, Alice Baird, and Björn Schuller. 2017. ‘The SEILS Dataset: Symbolically Encoded Scores in Modern-Early Notation for Computational Musicology’. In Proceedings 18th International Society for Music Information Retrieval Conference (ISMIR), Suzhou, China, 23-27 October 2017, 575–81. ISMIR."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/parada-cabaleiroSEILSDatasetSymbolically2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QnTfEa6sRUhR.json
+content:
+  markdown_content: ""

@@ -1,0 +1,46 @@
+metadata:
+  class: Agent
+  label: Lorenzo Gualtieri
+  description:
+  aliases:
+    - Lorenzo Spirito
+    - Lorenzo Spirito Gualtieri
+  base_name: Lorenzo Gualtieri
+  filename: Lorenzo Gualtieri.md
+  id: Bqg3oat8dyZM
+  n_id: 202980221697348912352
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3837084
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A3WrygrN5kzh
+      label: (Urbini and Procaccioli 2010)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LopzLbNHXviz
+      label: (Palmer 2016)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bw93VQrfwHMB
+      label: game designer
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4gDUdsQ3zgkL
+      label: parlour game
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/39wLPiPQYmqM
+      label: libro sorte
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Bqg3oat8dyZM.json
+content:
+  markdown_content: ""

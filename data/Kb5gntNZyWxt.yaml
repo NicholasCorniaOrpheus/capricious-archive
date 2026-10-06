@@ -1,0 +1,118 @@
+metadata:
+  class: PoeticWork
+  label: Con quai giri lascivetti
+  description:
+  aliases:
+  base_name: Con quai giri lascivetti
+  filename: Con quai giri lascivetti.md
+  id: Kb5gntNZyWxt
+  n_id: 362780774556324859535
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F000480000101_PPPP00011000C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+  part_of:
+    - section: Scherzo VIII.
+      pages: 163
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UpNUpRqtonTK
+      label: Rime d'Isabella Andreini padovana comica Gelosa
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPyPwnsJ77A8
+      label: assonance
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5RYVLh7yR4s6
+      label: pastoral
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ApTxwHF6JNzT
+      label: barzelletta
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bN59SRcB24eU
+      label: octosyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TNEPehjKNAaU
+      label: Clori
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JPb2CgmojbX7
+      label: fleeing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UnSYC86kgoNx
+      label: lips
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hpn5ALiAqMtb
+      label: odor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UBE75mDERAFY
+      label: rose
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YvSVvwPw9ogd
+      label: flower
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8JCJNiEPyPxR
+      label: Sun
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2QjJCcEtkiC
+      label: light beam
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AkfWFSmvPUnJ
+      label: kiss
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      COn quai giri lascivetti
+      Hoggi alletti
+      Zefiretto la mia Clori?
+      Del suo bel ti vai pascendo
+      (Ahi) fingendo
+      Rasciugarle i bei sudori.
+
+      Tu scherzando hor fuggi, hor riedi,
+      Hor ti siedi
+      Lievemente in quel bel petto;
+      Hor increspi i capei biondi,
+      Hor t'ascondi
+      Entro'l labbro amorosetto.
+
+      Con quant'arte l'aure molci,
+      Come dolci
+      Movi, e freschi i tuoi sospiri;
+      Come in tanto lusingando
+      Vai predando
+      Quell'odor, che grato spiri.
+
+      Non però le rose, e i gigli,
+      Onde pigli
+      Le tue grazie perdon mai
+      Il tesor, che stassi accolto
+      In quel volto,
+      Ch'è del Sol più chiaro assai.
+
+      O tre volte, e più felice
+      Te, cui lice
+      Vagheggiar l'almo sembiante,
+      E baciarlo, mentre in vano
+      Quasi insano
+      Verso (ohimè) lagrime tante.
+
+      Freddo spirot (ah) sì beato
+      Nel tuo stato
+      Senza gielo non saresti,
+      Che sarian que'rai lucenti
+      Sì possenti,
+      Che d'amor meco arderesti.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/con_quai_giri_lascivetti
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Kb5gntNZyWxt.json
+content:
+  markdown_content: ""

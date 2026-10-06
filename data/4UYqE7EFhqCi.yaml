@@ -1,0 +1,56 @@
+metadata:
+  class: Book
+  base_name: Libro quarto delle rime di diversi eccellentissimi autori nella lingua volgare
+  filename: Libro quarto delle rime di diversi eccellentissimi autori nella lingua volgare.md
+  label: Libro quarto delle rime di diversi eccellentissimi autori nella lingua volgare
+  id: 4UYqE7EFhqCi
+  n_id: 50880471070627623715
+statements:
+  identifier:
+    - https://lyra.unil.ch/books/8
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/500280010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Libro quarto delle rime di diuersi eccellentiss. autori nella lingua volgare. Nouamente raccolte
+  inception:
+    - value: 1551
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE025781
+      publication_date: 1551
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/m5jx85vV2PXo
+          label: Bologna
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PbL6ZK3KUSpm
+        label: Anselmo Giaccarelli
+      external_source: https://www.polodigitalenapoli.it/it/viewer/mirador/viewer?domain=sbn&id=UBOE027302
+      IIIF_manifest: https://dam.polodigitalenapoli.it/istituto-italiano-per-gli-studi-storici/containers/yRdP3El/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J4U6vzMd2DM4
+      label: Marguerite d'Angoulême-Valois
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif:
+    - https://dam.polodigitalenapoli.it/istituto-italiano-per-gli-studi-storici/containers/yRdP3El/manifest
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/4UYqE7EFhqCi.json
+content:
+  markdown_content: ""

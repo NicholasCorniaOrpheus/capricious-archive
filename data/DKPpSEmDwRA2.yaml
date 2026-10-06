@@ -1,0 +1,52 @@
+metadata:
+  class: Agent
+  label: Margherita Gonzaga
+  description:
+  aliases:
+    - Margherita Gonzaga, Duchess of Ferrara
+  base_name: Margherita Gonzaga
+  filename: Margherita Gonzaga.md
+  id: DKPpSEmDwRA2
+  n_id: 233288019255624150093
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q891920
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ikGeNUD5JHua
+      label: (Treadwell 2013)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Y9DyFsMs8dox
+      label: patron of the arts
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6zBfU2Yrasgv
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ikGeNUD5JHua
+          label: (Treadwell 2013)
+      label: dance
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5f6kHhAxyPZh
+      label: music making
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DKPpSEmDwRA2.json
+content:
+  markdown_content: ""

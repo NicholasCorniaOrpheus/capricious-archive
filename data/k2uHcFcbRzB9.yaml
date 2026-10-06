@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  base_name: duel
+  filename: duel.md
+  label: duel
+  id: k2uHcFcbRzB9
+  n_id: 867033458438057819701
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q191503
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ikGeNUD5JHua
+      label: (Treadwell 2013)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/k2uHcFcbRzB9.json
+content:
+  markdown_content: ""

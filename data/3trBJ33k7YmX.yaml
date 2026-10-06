@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Everson, Reidy, and Sampson 2020)
+  description:
+  aliases:
+    - eversonItalianAcademies152517002020
+  base_name: (Everson, Reidy, and Sampson 2020)
+  filename: (Everson, Reidy, and Sampson 2020).md
+  id: 3trBJ33k7YmX
+  n_id: 39043470815862214739
+statements:
+  isbn:
+    - 978-1-909662-57-5
+  described_by_source:
+  part_of:
+  citation:
+    - "Everson, Jane E., Denis V. Reidy, and Lisa Sampson, eds. 2020. The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/eversonItalianAcademies152517002020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3trBJ33k7YmX.json
+content:
+  markdown_content: ""

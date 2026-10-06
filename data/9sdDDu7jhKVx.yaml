@@ -1,0 +1,118 @@
+metadata:
+  class: PoeticWork
+  base_name: Notte felice, e lieta
+  filename: Notte felice, e lieta.md
+  label: Notte felice, e lieta
+  id: 9sdDDu7jhKVx
+  n_id: 162414482638293724059
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2tx2Q6a4EAjj
+      label: Vincenza Armani
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KC6WZHKeQ63Q
+      label: Notizie istoriche de' comici italiani che fiorirono intorno all'anno 1550
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ApTxwHF6JNzT
+      label: barzelletta
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bN59SRcB24eU
+      label: octosyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ByPQWJQU37nM
+      label: night
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ULJJdYa8cjNH
+      label: sleep
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Notte felice, e lieta
+      Prescritta al piacer mio,
+      Onde l'alma s'accheta
+      Del suo dolce desio,
+      Notte in che ho ferma spene
+      Por fine alle mie pene.
+
+      Pur fugge or mentre io canto
+      Il tempo, e già s'appressa
+      L'ora bramata tanto
+      Che oggi è a mercè promessa
+      Della mia lunga noia,
+      Principio alla mia gioia.
+
+      Placido amico sonno
+      Deh vieni occupa i sensi
+      Di quei che sturbar ponno
+      I miei piaceri immensi,
+      Tal ch'io senza sospetto
+      Goda il mio ben perfetto.
+
+      Ecco pur giunta è l'ora
+      Prefissa a piacer tanto,
+      Ond'io senza dimora
+      Prendo il notturno manto,
+      Ed al luogo m'invio
+      Dove alberga il cor mio.
+
+      L'uscio, ch'io tocco appena,  
+      Mi sento aprir pian piano,  
+      Poi cheta indi mi mena  
+      Una invisibil mano,  
+      Io con tremante passo  
+      Lieto guidar mi lasso.
+
+      Giunto al felice loco  
+      Ch'è al mio piacer parato,  
+      Dove risplende il foco  
+      Ripiglio alquanto il fiato,  
+      E poi la lingua sciolta,  
+      Io parlo, ed ella ascolta.
+
+      Dunque è ben mio pur vero  
+      Ch'io sia da voi degnato,  
+      Qui dove esser già spero  
+      Felice, anzi beato?  
+      Son desto, o pur sogn'io?  
+      Troppo contento è il mio.
+
+      Non merta la mia pena  
+      Sofferta, e il mio tormento,  
+      Una di mille appena  
+      Gioie, che per voi sento:  
+      E mercè vostra ottegno  
+      Quel di ch'io sono indegno.
+
+      Ella per la tua fede  
+      E per tuo merto dice,  
+      D'amor ti si concede  
+      Quel che ad altri non lice,  
+      E coglier è a te dato  
+      Quel ch'è a ciascun vietato.
+
+      Dolce io l'ammiro, e insieme  
+      Con lei ringrazio Amore,  
+      Che in gioie alme e supreme  
+      Bear voglia il mio core.  
+      Poi nel piacer perduto  
+      La miro, e resto muto.
+assets:
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9sdDDu7jhKVx.json
+content:
+  markdown_content: ""

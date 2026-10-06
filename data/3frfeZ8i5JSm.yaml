@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  label: location
+  description:
+  aliases:
+    - site
+    - place
+  base_name: location
+  filename: location.md
+  id: 3frfeZ8i5JSm
+  n_id: 34340197653151977202
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q17334923
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3frfeZ8i5JSm.json
+content:
+  markdown_content: ""

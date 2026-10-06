@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: madrigal comedy
+  description:
+  aliases:
+  base_name: madrigal comedy
+  filename: madrigal comedy.md
+  id: aioBfuMyVfQr
+  n_id: 675117022578395487414
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3267742
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kKJdQnQw3L5W
+      label: (Schleuse 2015)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LqoPnrNyioRc
+      label: type of musical work
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aioBfuMyVfQr.json
+content:
+  markdown_content: ""

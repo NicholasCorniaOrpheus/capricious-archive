@@ -1,0 +1,76 @@
+metadata:
+  class: PoeticWork
+  label: I vivi cieli, & la virtù eccellente
+  description:
+  aliases:
+  base_name: I vivi cieli, & la virtù eccellente
+  filename: I vivi cieli, & la virtù eccellente.md
+  id: 9oc5aVkrQDD6
+  n_id: 160959146669319831454
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PXXpcDi5cmLa
+      label: (Di Maro 2021)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L8Tf2qNBGXFK
+      label: Dianora Sanseverino
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YFWMf4MqBW3Y
+      section: All'Illustrissima Donna Eleonora Sanseverina Marchesa della Valle Ciciliana
+      volume:
+      pages: 56
+      label: Le seste rime della signora Laura Terracina di Napoli
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      I vivi cieli, & la virtù eccellente
+      de la macchina bella, e del del moto,
+      che sempre stando in un medesimo voto
+      porgono al mondo, il ben partitamente,
+
+      Non gode un sol le gratie giustamente,
+      come si vede, e come a tutti è noto;
+      perché saria colui tanto devoto,
+      che ciaschedun lo segueria sovente.
+
+      Ma la natura va scuotendo, e sbriglia
+      hor questo, hor quello col tesor vitale,
+      come colei che tien di noi la briglia;
+
+      Sì che se n'ho ancora io parte cotale,
+      non vi fate di ciò gran meraviglia.
+      che Dio non è del suo mai partiale.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/i_vivi_cieli,_&_la_virtù_eccellente
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9oc5aVkrQDD6.json
+content:
+  markdown_content: ""

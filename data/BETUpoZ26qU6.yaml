@@ -1,0 +1,70 @@
+metadata:
+  class: Book
+  label: Somniorum synesiorum, omnis generis insomina explicantes Libri IIII
+  description:
+  aliases:
+    - De secretis
+  base_name: Somniorum synesiorum, omnis generis insomina explicantes Libri IIII
+  filename: Somniorum synesiorum, omnis generis insomina explicantes Libri IIII.md
+  id: BETUpoZ26qU6
+  n_id: 190229274209115580987
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8g4zkHCciMB
+      label: (Ray 2015)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+  inception:
+    - value: 1562
+  has_version:
+    - external_source: https://www.digitale-sammlungen.de/en/view/bsb11220889
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11220889/manifest
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gRBfBmNGrCHa
+          label: Basel
+      publication_date: 1562
+      permalink: https://mdz-nbn-resolving.de/details:bsb11220889
+      note: Volume 1
+    - external_source: https://www.digitale-sammlungen.de/en/view/bsb11220890
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11220890/manifest
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gRBfBmNGrCHa
+          label: Basel
+      publication_date: 1562
+      permalink: https://mdz-nbn-resolving.de/details:bsb11220889
+      note: Volume 2
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MjkhF6fTYxAN
+      label: Gerolamo Cardano
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6fSa3RgfAvLv
+      label: secret
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11220889/manifest
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb11220890/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BETUpoZ26qU6.json
+content:
+  markdown_content: ""

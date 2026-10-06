@@ -1,0 +1,46 @@
+metadata:
+  class: Agent
+  label: Ippolita Recupito
+  description:
+  aliases:
+  base_name: Ippolita Recupito
+  filename: Ippolita Recupito.md
+  id: BeXQaENmMBHj
+  n_id: 198943005788764344527
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q113382137
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UFUJo2JAXCT
+      label: (Nocerino 2014)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DSK596BdwpXR
+      label: singer
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P72dZohsoqdb
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HPrwTsoCnNuZ
+        label: spouse
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6UFUJo2JAXCT
+          label: (Nocerino 2014)
+      label: Cesare Marotta
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BeXQaENmMBHj.json
+content:
+  markdown_content: ""

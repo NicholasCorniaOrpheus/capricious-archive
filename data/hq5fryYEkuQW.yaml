@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: magic
+  description:
+  aliases:
+    - wizardry
+    - witchcraft
+    - magia
+  base_name: magic
+  filename: magic.md
+  id: hq5fryYEkuQW
+  n_id: 821838935411392082206
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q81741
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NfW3mt8C2xHA
+      label: field of study
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hq5fryYEkuQW.json
+content:
+  markdown_content: ""

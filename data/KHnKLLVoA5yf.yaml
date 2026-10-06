@@ -1,0 +1,68 @@
+metadata:
+  class: NotatedMusic
+  label: Di Gio. Battista Mosto il primo libro de madrigali a cinque voci con un Eco a dieci nel fine
+  description:
+  aliases:
+  base_name: Di Gio. Battista Mosto il primo libro de madrigali a cinque voci con un Eco a dieci nel fine
+  filename: Di Gio. Battista Mosto il primo libro de madrigali a cinque voci con un Eco a dieci nel fine.md
+  id: KHnKLLVoA5yf
+  n_id: 356522192597501919544
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE046481
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV14670010
+    - https://rism.online/sources/990042398
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Gio. Battista Mosto il primo libro de madrigali a cinque voci con un Ecco a dieci nel fine
+  inception:
+    - value: 1578
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE046481
+      publication_date: 1578
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5FHvUYXkdJfX
+        label: Royal Holloway University of London
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Gzqem5g838fp
+        label: Girolamo Scotto
+      external_source: https://repository.royalholloway.ac.uk/items/4fbcf1c7-100b-a932-ceb5-62309586254d/1/
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Kq7n5TZxTnW
+      label: Giovanni Battista Mosto
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KHnKLLVoA5yf.json
+content:
+  markdown_content: ""

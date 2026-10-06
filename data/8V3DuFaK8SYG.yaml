@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Robin 2007)
+  description:
+  aliases:
+    - robinPublishingWomenSalons2007
+  base_name: (Robin 2007)
+  filename: (Robin 2007).md
+  id: 8V3DuFaK8SYG
+  n_id: 133597976655337242728
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Robin, Diana. 2007. Publishing Women: Salons, the Presses, and the Counter-Reformation in Sixteenth-Century Italy. University of Chicago Press."
+  isbn:
+    - 978-0-226-72156-9
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/robinPublishingWomenSalons2007.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8V3DuFaK8SYG.json
+content:
+  markdown_content: ""

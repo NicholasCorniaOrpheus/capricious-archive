@@ -1,0 +1,34 @@
+metadata:
+  class: Agent
+  aliases:
+    - Francesco Valegio
+  base_name: Francesco Valesio
+  filename: Francesco Valesio.md
+  label: Francesco Valesio
+  id: UN6USeofUGes
+  n_id: 543802415033840619055
+statements:
+  instance_of:
+  gender:
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CNFHvCWXHzEW
+      label: engraver
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 20033
+  identifier:
+    - http://www.wikidata.org/entity/Q21993844
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UN6USeofUGes.json
+content:
+  markdown_content: ""

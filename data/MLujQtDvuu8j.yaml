@@ -1,0 +1,45 @@
+metadata:
+  class: Agent
+  label: Giovan Lorenzo Malpigli
+  description:
+  aliases:
+  base_name: Giovan Lorenzo Malpigli
+  filename: Giovan Lorenzo Malpigli.md
+  id: MLujQtDvuu8j
+  n_id: 398927235818947792397
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJ5rjP86CXEj
+      label: (Nicolaci 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PSSozWnHJJHx
+      label: Lucca
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aDQFZSx54vRN
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      start_date: 1584
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJ5rjP86CXEj
+          label: (Nicolaci 2017)
+      label: Accademia degli Oscuri di Lucca
+  occupation:
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MLujQtDvuu8j.json
+content:
+  markdown_content: ""

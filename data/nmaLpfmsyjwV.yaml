@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: deer
+  description:
+  aliases:
+    - damma
+    - cervo
+    - cervus
+  base_name: deer
+  filename: deer.md
+  id: nmaLpfmsyjwV
+  n_id: 923752372274583441504
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q29838690
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nmaLpfmsyjwV.json
+content:
+  markdown_content: ""

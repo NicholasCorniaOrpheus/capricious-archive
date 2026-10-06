@@ -1,0 +1,52 @@
+metadata:
+  class: MusicComposition
+  label: Da l'humile verme (Wert)
+  description:
+  aliases:
+  base_name: Da l'humile verme (Wert)
+  filename: Da l'humile verme (Wert).md
+  id: 2VNcJZXv5PTR
+  n_id: 9905750139333915665
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F066410000010101_000000256900C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Xxv3n3M2pA6G
+      label: Bernardo Accolti
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8BCR9vyKpTL
+      label: Giaches de Wert
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZoCaZFyrPtF9
+      label: Il primo libro de' madrigali a quattro voci di Giaches de Wert
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/wert-da_humil_verme_tra_l'herbe_rimote
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2VNcJZXv5PTR.json
+content:
+  markdown_content: ""

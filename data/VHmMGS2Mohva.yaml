@@ -1,0 +1,64 @@
+metadata:
+  class: NotatedMusic
+  label: Di Giovan Pietro Cottone musico del serenissimo duca di Savoia, il secondo libro de madrigali a cinque voci
+  description:
+  aliases:
+  base_name: Di Giovan Pietro Cottone musico del serenissimo duca di Savoia, il secondo libro de madrigali a cinque voci
+  filename: Di Giovan Pietro Cottone musico del serenissimo duca di Savoia, il secondo libro de madrigali a cinque voci.md
+  id: VHmMGS2Mohva
+  n_id: 562875055293964309505
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV05760010
+    - https://rism.online/sources/990011621
+    - https://edit16.iccu.sbn.it/titolo/CNCE045522
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Giovan Pietro Cottone musico del serenissimo duca di Savoia, il secondo libro de madrigali a cinque voci
+  inception:
+    - value: 1581
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9WwDryKxCmS9
+          label: Torino
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE045522
+      note:
+      external_source: https://www.loc.gov/item/2010456603
+      publication_date: 1581
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T7HBRvWrg9UH
+        label: Library of Congress
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fiA4JEERCeTs
+      label: Giovanni Pietro Cottone
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VHmMGS2Mohva.json
+content:
+  markdown_content: ""

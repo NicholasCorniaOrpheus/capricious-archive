@@ -1,0 +1,35 @@
+metadata:
+  class: Organisation
+  label: Royal Library of Belgium
+  description:
+  aliases:
+    - KBR
+  base_name: Royal Library of Belgium
+  filename: Royal Library of Belgium.md
+  id: jAezNrSVTgHA
+  n_id: 849203095688511784370
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q383931
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U72CH62RBSiC
+      label: digital library
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://www.kbr.be/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jAezNrSVTgHA.json
+content:
+  markdown_content: ""

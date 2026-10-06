@@ -1,0 +1,47 @@
+metadata:
+  class: Agent
+  label: Angelo Firenzuola
+  description:
+  aliases:
+    - Angolo Firenzuola
+    - Girolamo Giovannini
+  base_name: Angelo Firenzuola
+  filename: Angelo Firenzuola.md
+  id: 6AzxMx4vDePE
+  n_id: 85801604264626863585
+statements:
+  identifier:
+    - https://viaf.org/viaf/12380054
+    - https://lyra.unil.ch/agents/812
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2zJ3QRUFy4nX
+      label: humorous poetry
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 19082
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6AzxMx4vDePE.json
+content:
+  markdown_content: ""

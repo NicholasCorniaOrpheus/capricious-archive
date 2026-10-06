@@ -1,0 +1,71 @@
+metadata:
+  class: Book
+  label: Il teatro delle favole rappresentative, overo La ricreatione comica, boschereccia, e tragica
+  description:
+  aliases:
+  base_name: Il teatro delle favole rappresentative, overo La ricreatione comica, boschereccia, e tragica
+  filename: Il teatro delle favole rappresentative, overo La ricreatione comica, boschereccia, e tragica.md
+  id: U8QH2ZNaC9bX
+  n_id: 538847001883792682255
+statements:
+  identifier:
+    - http://id.sbn.it/bid/BVEE024820
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PJtahBbEtZMD
+      label: drama collection
+  title:
+    - "Il teatro delle fauole rappresentatiue, ouero La ricreatione comica, boschereccia, e tragica: diuisa in cinquanta giornate, composte da Flaminio Scala detto Flauio comico del sereniss. sig. duca di Mantoua. All'ill. sig. conte Ferdinando Riario"
+  inception:
+    - value: 1611
+  has_version:
+    - permalink: http://id.sbn.it/bid/BVEE024820
+      publication_date: 1611
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Nz5sX2qLv3Qi
+        label: Giovanni Battista Pulciani
+      external_source: https://books.google.be/books?id=fkZEvBVZBxsC
+    - permalink: http://id.sbn.it/bid/BVEE024820
+      publication_date: 1611
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Nz5sX2qLv3Qi
+        label: Giovanni Battista Pulciani
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb00048646
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00048646/manifest
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/agAvDjPLYaLN
+      label: Flaminio Scala
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/34DZHbTfjKob
+      label: improvisational theater
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00048646/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/U8QH2ZNaC9bX.json
+content:
+  markdown_content: ""

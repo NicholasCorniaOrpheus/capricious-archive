@@ -1,0 +1,74 @@
+metadata:
+  class: PoeticWork
+  label: Sciogli la lingua al canto, e leghi i cori
+  description:
+  aliases:
+  base_name: Sciogli la lingua al canto, e leghi i cori
+  filename: Sciogli la lingua al canto, e leghi i cori.md
+  id: PBRWALn65LEC
+  n_id: 436761417661417100926
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NDRQPafFjYTy
+      label: Carlo Papini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mumndRrejjeW
+      label: Prospero Polelli
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CVNqJuQekRCD
+      section: All'Irresoluto.
+      label: Fiori di sacra poesia dell'Irresoluto Accademico Intronato
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  text:
+    - |-
+      Sciogli la lingua al canto, e leghi i cori,
+      E scopri in carte anguste angusta vena,
+      Mentre di lui, che l'Universo affrena,
+      Spieghi in sì dolce stil gli aspri dolori.
+
+      D'impuri no, ma di pudici ardori
+      Di magnanimi Eroi tua mente è piena,
+      Onde in contar di lor l'acerba pena,
+      Le spine ingemmi, e'l duro ferro indori.
+
+      Come in gioia si cangi il duol profondo,
+      La morte in vita, in luce ombre funeste,
+      Mostra il tuo stile oltre ogni stil facondo.
+
+      Così spirto immortale in mortal veste,
+      Mentre ti celi altri, ti scopri al Mondo
+      In terreno sembiante Orfeo celeste.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/sciogli_la_lingua_al_canto,_e_leghi_i_cori
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PBRWALn65LEC.json
+content:
+  markdown_content: ""

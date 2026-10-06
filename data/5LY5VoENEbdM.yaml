@@ -1,0 +1,44 @@
+metadata:
+  class: Agent
+  label: Caterina Cybo
+  description:
+  aliases:
+    - Caterina Cibo
+  base_name: Caterina Cybo
+  filename: Caterina Cybo.md
+  id: 5LY5VoENEbdM
+  n_id: 68615232124491502441
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3663498
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8V3DuFaK8SYG
+      label: (Robin 2007)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZmpBx2YXnpkE
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8V3DuFaK8SYG
+          label: (Robin 2007)
+      label: Laura Battiferri
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5LY5VoENEbdM.json
+content:
+  markdown_content: ""

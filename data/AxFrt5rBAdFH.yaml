@@ -1,0 +1,118 @@
+metadata:
+  class: NotatedMusic
+  label: Il primo libro delle villote di Aluvise Castellino
+  description:
+  aliases:
+  base_name: Il primo libro delle villote di Aluvise Castellino
+  filename: Il primo libro delle villote di Aluvise Castellino.md
+  id: AxFrt5rBAdFH
+  n_id: 184725014524717725936
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE037029
+    - https://rism.online/sources/990009109
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV04370010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Il primo libro delle villote di Aluuise Castellino chiamato il Varoter venetiano da lui composti li versi et il canto
+  inception:
+    - value: 1541
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE037029
+      publication_date: 1541
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      note: Cantus
+      external_source: https://viewer.onb.ac.at/1322B5D9
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/1322B5D9
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE037029
+      publication_date: 1541
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      note: Altus
+      external_source: https://viewer.onb.ac.at/11784762
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/11784762
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE037029
+      publication_date: 1541
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      note: Tenor
+      external_source: https://viewer.onb.ac.at/11784740
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/11784740
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE037029
+      publication_date: 1541
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      note: Bassus
+      external_source: https://viewer.onb.ac.at/11784784
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/11784784
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/n7gVCS2XaBxD
+      label: Ercole II d'Este
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGaVXzj5Xoax
+      label: Alvise Castellino
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/1322B5D9
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/11784762
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/11784740
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/11784784
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AxFrt5rBAdFH.json
+content:
+  markdown_content: ""

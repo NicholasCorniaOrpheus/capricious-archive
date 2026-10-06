@@ -1,0 +1,27 @@
+metadata:
+  class: Concept
+  label: dedicatee
+  description:
+  aliases:
+  base_name: dedicatee
+  filename: dedicatee.md
+  id: CgtXMynJGovX
+  n_id: 220437109125118388057
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q28008298
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+  subclass_of:
+  opposite_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CgtXMynJGovX.json
+content:
+  markdown_content: ""

@@ -1,0 +1,53 @@
+metadata:
+  class: NotatedMusic
+  label: Di Luca Marenzio il nono libro de madrigali a cinque voci
+  description:
+  aliases:
+  base_name: Di Luca Marenzio il nono libro de madrigali a cinque voci
+  filename: Di Luca Marenzio il nono libro de madrigali a cinque voci.md
+  id: UUA6drvDWanv
+  n_id: 545997591348314648566
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE046254
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV12410010
+    - https://rism.online/sources/990039310
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YKXFP7eyEXas
+      label: (Refini 2025)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Luca Marenzio il nono libro de madrigali a cinque voci nouamente composto, & dato in luce
+  inception:
+    - value: 1599
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE046254
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1599
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_T/T029/
+      note: Quintus is from the 1601 edition.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JL7PpUDfWgSe
+      label: Luca Marenzio
+  subject:
+  has_part:
+  instrumentation:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UUA6drvDWanv.json
+content:
+  markdown_content: ""

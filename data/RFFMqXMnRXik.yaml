@@ -1,0 +1,27 @@
+metadata:
+  class: Place
+  label: Milano
+  description:
+  aliases:
+    - Milan
+  base_name: Milano
+  filename: Milano.md
+  id: RFFMqXMnRXik
+  n_id: 479416909895009253837
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q490
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bUguxUya4YGY
+      label: city
+  country:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYFG3hyEFbPP
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RFFMqXMnRXik.json
+content:
+  markdown_content: ""

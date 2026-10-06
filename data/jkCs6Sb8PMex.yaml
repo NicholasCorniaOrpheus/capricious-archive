@@ -1,0 +1,27 @@
+metadata:
+  class: Concept
+  aliases:
+    - sheet music
+    - partiture
+    - score
+    - musical score
+  description: Musical notation rendering multiple voices vertically. Use partbook for separate parts.
+  base_name: music score
+  filename: music score.md
+  label: music score
+  id: jkCs6Sb8PMex
+  n_id: 861346278846824443515
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P6pRP3sK8VKi
+      label: notated music
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q187947
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/jkCs6Sb8PMex.json
+content:
+  markdown_content: ""

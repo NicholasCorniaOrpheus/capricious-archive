@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Chierotti 1994)
+  description:
+  aliases:
+    - chierottiComporreSenzaConoscere1994
+  base_name: (Chierotti 1994)
+  filename: (Chierotti 1994).md
+  id: XeUEhXziAaMM
+  n_id: 611640849261132435649
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Chierotti, M. 1994. ‘Comporre Senza Conoscere La Musica: Athanasius Kircher e La Musurgia Mirifica. Un Singolare Esempio Di Scienza Musicale Nell’età Barocca’. La Nuova Rivista Musicale Italiana 28: 382–410."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/chierottiComporreSenzaConoscere1994.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XeUEhXziAaMM.json
+content:
+  markdown_content: ""

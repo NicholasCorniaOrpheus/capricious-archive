@@ -1,0 +1,46 @@
+metadata:
+  class: MusicComposition
+  label: Deh girate, luci amate (Brunetti)
+  description:
+  aliases:
+  base_name: Deh girate, luci amate (Brunetti)
+  filename: Deh girate, luci amate (Brunetti).md
+  id: 6CvoxrN6DfUC
+  n_id: 86499330443262452617
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/068420000010101_000000043300C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AKKfgzSbrwH6
+      label: aria
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JWaXsJnG7wBB
+      label: Domenico Brunetti
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TTsgwS8XBCFM
+      label: L'Euterpe di Domenico Brunetti
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UwF2GZLoZGyW
+      label: Deh girate, luci amate
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/brunetti-care_gioie,_che_le_noie
+  jpg:
+    - fs_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6CvoxrN6DfUC.json
+content:
+  markdown_content: ""

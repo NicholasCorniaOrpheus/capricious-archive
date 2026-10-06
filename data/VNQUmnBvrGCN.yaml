@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Samuels 1976)
+  description:
+  aliases:
+    - samuelsBenedettoVarchiAccademia1976
+  base_name: (Samuels 1976)
+  filename: (Samuels 1976).md
+  id: VNQUmnBvrGCN
+  n_id: 564552678638005780631
+statements:
+  identifier:
+    - https://doi.org/10.2307/2860034
+  described_by_source:
+  part_of:
+  citation:
+    - "Samuels, Richard S. 1976. ‘Benedetto Varchi, the Accademia Degli Infiammati , and the Origins of the Italian Academic Movement’. Renaissance Quarterly 29 (4): 599–634."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/samuelsBenedettoVarchiAccademia1976.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VNQUmnBvrGCN.json
+content:
+  markdown_content: ""

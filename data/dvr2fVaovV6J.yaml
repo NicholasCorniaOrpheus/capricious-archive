@@ -1,0 +1,84 @@
+metadata:
+  class: PoeticWork
+  label: Sono honor de le prose, alme de i versi
+  description:
+  aliases:
+  base_name: Sono honor de le prose, alme de i versi
+  filename: Sono honor de le prose, alme de i versi.md
+  id: dvr2fVaovV6J
+  n_id: 741387172943065029175
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/agAvDjPLYaLN
+      label: Flaminio Scala
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FzrdyPjZDVz9
+      label: Ridolfo Campeggi
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U8QH2ZNaC9bX
+      section: Del Sig. Conte Ridolfo Campeggi a Flaminio Scalla detto Flavio. Per li Cinquanta Soggetti.
+      label: Il teatro delle favole rappresentative, overo La ricreatione comica, boschereccia, e tragica
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fWcm8Nsn7rXJ
+      label: drama
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/agAvDjPLYaLN
+      label: Flaminio Scala
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YvSVvwPw9ogd
+      label: flower
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Sono honor de le prose, alme de i versi
+      (Tu che nel biondo nome il foco ascondi)
+      Questi casi d’amor tristi, e secondi,
+      Di fiorito saper fiori diversi.
+
+      Forse mentre gli accoppi, in coppia versi
+      Semi d’ardor, poiché di FIAMMA abbondi;
+      E se l'opra diffondi, Amore infondi,
+      A cui leggendo anch’io l’addito apersi,
+
+      Cari sudori, e dolci affanni tuoi
+      Sferze dell’ozio, e sproni sian dell’hore,
+      Quando più vibra il Sol gli incendi suoi.
+
+      Ne l'altrui finto suo verace ardore
+      Altri vedrà sovente, ed' altri poi
+      Leggerà l’occhio quel che soffre il core.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/sono_honor_de_le_prose,_alme_de_i_versi
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dvr2fVaovV6J.json
+content:
+  markdown_content: ""

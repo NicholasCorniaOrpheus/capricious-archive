@@ -1,0 +1,49 @@
+metadata:
+  class: MusicComposition
+  label: Ne la dolce stagion di Primavera (Pordenone)
+  description:
+  aliases:
+  base_name: Ne la dolce stagion di Primavera (Pordenone)
+  filename: Ne la dolce stagion di Primavera (Pordenone).md
+  id: PdNVnP4PHfyn
+  n_id: 446155188918382778078
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F168650000010101_000000196100C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4
+      label: Tarquinia Molza
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8PumcPUpoJh2
+      label: Marc'Antonio Pordenone
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WDVxJXsUnfmG
+      label: Il quarto libro de madrigali di Marc'Antonio Pordenon. A cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/K68YoAhbmFVi
+      label: Ne la dolce stagion di Primavera
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/pordenon-ne_la_dolce_stagion_di_primavera
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PdNVnP4PHfyn.json
+content:
+  markdown_content: ""

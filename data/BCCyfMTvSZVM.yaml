@@ -1,0 +1,65 @@
+metadata:
+  class: PoeticWork
+  label: Le donne antique hanno mirabil cose
+  description:
+  aliases:
+  base_name: Le donne antique hanno mirabil cose
+  filename: Le donne antique hanno mirabil cose.md
+  id: BCCyfMTvSZVM
+  n_id: 189413148573584630110
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/019220000101_PPPP00015400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      section: Canto XX, 1
+      label: Orlando furioso
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2g7SZLhhziYy
+      label: Muse
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hv6rwLYH8FSX
+      label: warrior
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Le donne antique hanno mirabil cose
+      Fatto ne l'arme e ne le sacre Muse
+      E di lor opre belle e gloriose
+      Gran lume in tutto il mondo si diffuse:
+      Arpalice e Camilla son famose
+      Perché in battaglia erano esperte et use
+      Sapho e Corinna perche furon dotte
+      Splendono illustri, e mai non veggon notte.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BCCyfMTvSZVM.json
+content:
+  markdown_content: ""

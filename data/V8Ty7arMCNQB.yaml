@@ -1,0 +1,53 @@
+metadata:
+  class: Book
+  base_name: I marmi del Doni, academico peregrino
+  filename: I marmi del Doni, academico peregrino.md
+  label: I marmi del Doni, academico peregrino
+  id: V8Ty7arMCNQB
+  n_id: 559506423154480220046
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE017692
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQNC7fJmPEqj
+      label: (Bolzoni and Girotto 2013)
+  instance_of:
+  title:
+    - I marmi del Doni, academico peregrino
+  inception:
+    - value: 1552
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE017692
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1552
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KL2a3Eox62dw
+        label: Francesco Marcolini
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10163838
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10163838/manifest
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Vk7WPkWbFVrj
+      label: Accademia dei Pellegrini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+      label: Anton Francesco Doni
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10163838/manifest
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/V8Ty7arMCNQB.json
+content:
+  markdown_content: ""

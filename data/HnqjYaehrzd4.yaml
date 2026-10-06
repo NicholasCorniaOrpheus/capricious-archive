@@ -1,0 +1,54 @@
+metadata:
+  class: Book
+  label: Dell'amor di Marfisa tredici canti del Danese Cattaneo da Carrara
+  description:
+  aliases:
+  base_name: Dell'amor di Marfisa tredici canti del Danese Cattaneo da Carrara
+  filename: Dell'amor di Marfisa tredici canti del Danese Cattaneo da Carrara.md
+  id: HnqjYaehrzd4
+  n_id: 325771112053582654625
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE010288
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Dell'amor di Marfisa tredici canti del Danese Cataneo da Carrara
+  inception:
+    - value: 1562
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE010288
+      publication_date: 1562
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WYnzTvWeVJ4e
+        label: Francesco De Franceschi
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10166129
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10166129/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nXBcjvyGHywk
+      label: Danese Cattaneo
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7YW5WyAntkdE
+      label: Marfisa
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10166129/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HnqjYaehrzd4.json
+content:
+  markdown_content: ""

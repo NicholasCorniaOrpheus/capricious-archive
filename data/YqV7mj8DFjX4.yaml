@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: longing
+  filename: longing.md
+  label: longing
+  id: YqV7mj8DFjX4
+  n_id: 636264695458814209271
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XDrvy6onGzZu
+      label: emotion
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q16513670
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YqV7mj8DFjX4.json
+content:
+  markdown_content: ""

@@ -1,0 +1,107 @@
+metadata:
+  class: PoeticWork
+  label: Per strada errando, gli occhi ai balconi ergo
+  description: The author describes a nightly visit at the house of her beloved. He is sleeping with his wife, and the author laments her jealousy outside of the estate. Lamenta la durezza d'un uomo, che non la riama e che, mentr'ella di notte va a casa sua per trovarlo, è assente, forse presso un'amica più fortunata di lei. Spera tuttavia corrispondenza dall'animo gentile di lui; altrimenti ne morrà.
+  aliases:
+  base_name: Per strada errando, gli occhi ai balconi ergo
+  filename: Per strada errando, gli occhi ai balconi ergo.md
+  id: 9rHLdLJ5QzQa
+  n_id: 161926245863800475804
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RjeAA9urZgxC
+      label: Veronica Franco
+  part_of:
+    - section: Veronica Franco, III
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mWT5q2KSyozm
+      label: (van Dooren 1992)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cMmSMNQW8ZTW
+      label: jealousy
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NmP27mSFqcCQ
+      label: terzina
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Per strada errando, gli occhi ai balconi ergo
+      de la camera vostra; e fuor del petto
+      sospiri e pianto d'ambo i lumi aspergo.
+
+      Di buio ciel sotto povero tetto,
+      de la sorte mi lagno empia e rubella,
+      e del mio mal, ch'a voi porge diletto.
+
+      senza veder con cui dolermi stella,
+      ne le tenebre fisi i lumi tengo,
+      che fuor duci d'Amor ne la via fella;
+
+      e, poi ch'al terren vostro uscio pervengo,
+      porgo i miei preghi a l'ostinate porte,
+      né di basciar il limitar m'astengo.
+
+      — Deh siatemi in amor benigne scorte;
+      apritemi 'l sentier del mio ben chiuso,
+      del notturno mio error per uso accorte.
+
+      Di letal sonno e tu, custode, infuso,
+      desto al latrar de' tuoi vigili cani,
+      non far il prego mio vano e deluso:
+
+      deh, pietoso ad aprirmi usa le mani,
+      così i ceppi servili aspri dal piede
+      del continuo ti stian sciolti e lontani! —
+
+      Ma ch'è quel, che da me, lassa, si chiede?
+      — Vattene in pace — il portinaio dice, —
+      ché le notti il signor qui non risiede;
+
+      ma, del suo amor a far lieta e felice
+      un'altra donna, con lei dorme e giace,
+      e tu invan qui ti consumi, infelice.
+
+      Vattene, sconsolata; e, s'aver pace
+      non puoi, pur con saldo animo sopporta
+      quel ch'al destino irrevocabil piace. —
+
+      Talor, per gran pietà di me, la porta
+      geme in suon roco, come quando è mossa,
+      nei cardini, a serrarsi o aprir, distorta;
+
+      ed io, quindi col piè debil rimossa,
+      ne le braccia di tal, che m'accompagna,
+      del viver cado poco men che scossa.
+
+      Il suo pianto dal mio non discompagna
+      quel mio fedel, ch'è meco, e d'un tenore
+      meco del mio martìr grida e si lagna.
+
+      Dure disagguaglianze in aspro amore,
+      poi ch'a chi m'odia corro dietro, e fuggo
+      da chi de l'amor mio languisce e more!
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9rHLdLJ5QzQa.json
+content:
+  markdown_content: ""

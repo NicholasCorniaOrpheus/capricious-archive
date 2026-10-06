@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Corso 2017)
+  description:
+  aliases:
+    - corsoVirtuDellanticoCompagnia2017
+  base_name: (Corso 2017)
+  filename: (Corso 2017).md
+  id: LurkFDdUFnfL
+  n_id: 390219473989793575812
+statements:
+  isbn:
+    - 978-88-6557-321-1
+  described_by_source:
+  citation:
+    - "Corso, Michela. 2017. ‘In virtù dell’antico. La compagnia dei Virtuosi del Panthenon nel Cinquecento’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Paolo Procaccioli, 111–23. Roma: De Luca editori d’arte."
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/corsoVirtuDellanticoCompagnia2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LurkFDdUFnfL.json
+content:
+  markdown_content: ""

@@ -1,0 +1,67 @@
+metadata:
+  class: PoeticWork
+  label: Dicesti anima mia
+  description:
+  aliases:
+  base_name: Dicesti anima mia
+  filename: Dicesti anima mia.md
+  id: ZT7XURhzZzNg
+  n_id: 648798770366298446651
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F007810000101_PPPP00230700C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AcGzVakLKXAM
+      label: Annibale Pocaterra
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/W3BcTKkdHVcA
+      volume: 2
+      pages: 29
+      label: Dui dialoghi della vergogna, con alcune prose, et rime, del sig. Annibale Poccaterra
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HdQB3CYz2ig3
+      label: loyalty
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AkfWFSmvPUnJ
+      label: kiss
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Dicesti anima mia
+      Ch'ardi per me d'Amore
+      Sol con le labbra
+      O col profondo core
+      Ah non sia mai ch'io il creda
+      Finché dell'amor tuo segno non veda
+      Vuoi che sicuro io sia
+      Che siano i detti tuoi ﬁdi e veraci
+      Sian testimoni e guiramenti i baci.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZT7XURhzZzNg.json
+content:
+  markdown_content: ""

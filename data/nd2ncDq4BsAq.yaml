@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: kabbalah
+  description:
+  aliases:
+    - cabala
+  base_name: kabbalah
+  filename: kabbalah.md
+  id: nd2ncDq4BsAq
+  n_id: 920655731649865527674
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q123006
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NfW3mt8C2xHA
+      label: field of study
+  subclass_of:
+  opposite_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nd2ncDq4BsAq.json
+content:
+  markdown_content: ""

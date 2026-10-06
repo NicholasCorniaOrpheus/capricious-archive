@@ -1,0 +1,77 @@
+metadata:
+  class: PoeticWork
+  label: Bench'a tanti martir mi fai suggetto
+  description:
+  aliases:
+  base_name: Bench'a tanti martir mi fai suggetto
+  filename: Bench'a tanti martir mi fai suggetto.md
+  id: 9rbaJjuj9JvQ
+  n_id: 162042095854420316782
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e7PbxpNbbM2c
+      section: Dialogo Terzo.
+      label: De gli eroici furori
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MfBWzgNTqiki
+      label: Cupid
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GYGwj2xP2wD8
+      label: hope
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQJGEZiGYFYZ
+      label: desire
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Bench'a tanti martir mi fai suggetto,
+      Pur ti ringratio, e assai ti deggio Amore,
+      Che con sì nobil piaga apriste il petto,
+      E tal impadroniste del mio core,
+      Per cui fia ver ch'un divo et viv'oggetto
+      De Dio più bella imago'n terr'adore;
+      Pensi chi vuol ch'il mio destin sia rio,
+      Ch'uccid'in speme, e fa viv'in desio.
+
+      Pascomi in alt'impresa;
+      Et bench'il fin bramato non consegua,
+      E'n tanto studio l'alma si dilegua;
+      Basta che sia sì nobilment'accesa,
+      basta ch'alto mi tolsi,
+      Et da l'ignobil numero mi sciolsi.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/bench'a_tanti_martir_mi_fai_suggetto
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9rbaJjuj9JvQ.json
+content:
+  markdown_content: ""

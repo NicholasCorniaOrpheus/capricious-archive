@@ -1,0 +1,35 @@
+metadata:
+  class: Organisation
+  label: Public Library Leipzig
+  description:
+  aliases:
+    - Leipziger Stadtbibliothek
+  base_name: Public Library Leipzig
+  filename: Public Library Leipzig.md
+  id: a9HYGyiuaEVh
+  n_id: 662981673981093506274
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2326875
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U72CH62RBSiC
+      label: digital library
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://sachsen.digital/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/a9HYGyiuaEVh.json
+content:
+  markdown_content: ""

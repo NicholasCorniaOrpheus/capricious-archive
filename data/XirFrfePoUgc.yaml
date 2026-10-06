@@ -1,0 +1,53 @@
+metadata:
+  class: Agent
+  label: Lavinia Fontana
+  description:
+  aliases:
+  base_name: Lavinia Fontana
+  filename: Lavinia Fontana.md
+  id: XirFrfePoUgc
+  n_id: 613228844035357007215
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q236050
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LCi2QgRv6qn2
+      start_date: 1609
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia di San Luca di Roma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LGtUC5uzAbN8
+      label: painter
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SE8dJXKowffE
+      label: bizzarria
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 19366
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/2/2d/Lavinia_Fontana_-_Autoritratto_%28ca._1577-85%29.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  local_asset_path: ./assets/agents/lavinia_fontana
+  jpg:
+    - Lavinia_Fontana_-_Portrait_of_Antonietta_Gonzalez_-_WGA07981.jpg
+    - Lavinia_Fontana_-_Self-Portrait_at_the_Spinet_-_WGA07985.jpg
+    - Lavinia_fontana,_autoritratto,_1579,_su_rame.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XirFrfePoUgc.json
+content:
+  markdown_content: ""

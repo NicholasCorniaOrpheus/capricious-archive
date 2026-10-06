@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Moroncini 2020)
+  description:
+  aliases:
+    - moronciniAccademiaVirtuReligious2020
+  base_name: (Moroncini 2020)
+  filename: (Moroncini 2020).md
+  id: ivSf6Tv3TzY8
+  n_id: 844418295631517264520
+statements:
+  isbn:
+    - 978-1-909662-57-5
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3trBJ33k7YmX
+      label: (Everson, Reidy, and Sampson 2020)
+  citation:
+    - "Moroncini, Ambra. 2020. ‘The Accademia Delle Virtù and Religious Dissent’. In The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent, edited by Jane E. Everson, Denis V. Reidy, and Lisa Sampson, 88–101. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/moronciniAccademiaVirtuReligious2020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ivSf6Tv3TzY8.json
+content:
+  markdown_content: ""

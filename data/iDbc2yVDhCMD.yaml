@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Wistreich 2016)
+  description:
+  aliases:
+    - wistreichWarriorCourtierCinger2016
+  base_name: (Wistreich 2016)
+  filename: (Wistreich 2016).md
+  id: iDbc2yVDhCMD
+  n_id: 829631751106280989730
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Wistreich, Richard. 2016. Warrior, Courtier, Cinger: Giulio Cesare Brancaccio and the Performance of Identity in the Late Renaissance. London New York: Routledge, Taylor & Francic Group."
+  isbn:
+    - "9781138263000"
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/wistreichWarriorCourtierCinger2016.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/iDbc2yVDhCMD.json
+content:
+  markdown_content: ""

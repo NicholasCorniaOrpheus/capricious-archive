@@ -1,0 +1,64 @@
+metadata:
+  class: Book
+  aliases:
+  base_name: De l'infinito universo et mondi
+  filename: De l'infinito universo et mondi.md
+  label: De l'infinito universo et mondi
+  id: SNPpdbpAU7a6
+  n_id: 502640840085417407548
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3FmSxcCP5CUS
+      label: dialogue
+  title:
+    - Giordano Bruno nolano De l'infinito vniuerso et mondi
+  inception:
+    - value: 1584
+  has_version:
+    - publication_date: 1584
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M4CDHkHzJWTe
+          label: London
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE007710
+      external_source: http://digitale.bnc.roma.sbn.it/tecadigitale/visore/#/main/viewer?idMetadato=23738043&type=bncr
+      note: The actual publisher is John Charlewood in London.
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mzVqud2uGYeD
+        label: John Charlewood
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7SzNifkq9dZo
+      label: astronomy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUrvuq3NCQro
+      label: heliocentrism
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JJB6LuxryAUn
+      label: infinity
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE007710
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PZPjAvkwQPQE
+      label: (Wolf 2014)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LFnX7JTYkXgP
+      label: (Yates 1964)
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SNPpdbpAU7a6.json
+content:
+  markdown_content: ""

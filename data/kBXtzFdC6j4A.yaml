@@ -1,0 +1,84 @@
+metadata:
+  class: PoeticWork
+  label: Ai teatri, alle scene, al dir nascesti
+  description:
+  aliases:
+  base_name: Ai teatri, alle scene, al dir nascesti
+  filename: Ai teatri, alle scene, al dir nascesti.md
+  id: kBXtzFdC6j4A
+  n_id: 870155969286750498203
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/agAvDjPLYaLN
+      label: Flaminio Scala
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BU44ZRHETrHk
+      label: Dionisio Lazzari
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U8QH2ZNaC9bX
+      section: Del Sig. Dionisio Lazari.
+      label: Il teatro delle favole rappresentative, overo La ricreatione comica, boschereccia, e tragica
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fWcm8Nsn7rXJ
+      label: drama
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/agAvDjPLYaLN
+      label: Flaminio Scala
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2g7SZLhhziYy
+      label: Muse
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noRgAWmjYV8o
+      label: publisher
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Ai Theatri, a le Scene, al Dir nascesti
+      Gentil Flaminio, e per formarti il merto,
+      T’han le Muse eloquenti il seno aperto,
+      T’han le Muse additato, e i spirti, ei gesti.
+
+      Così germe felice ogn’hor crescesti
+      In saper, e in virtù sempre più esperto;
+      Hor depinto Pittor, scuopri, scoperto
+      Qual fanciul, qual garzon, qual huom vivesti.
+
+      Felice te, che in ben oprar mai stanco
+      Spieghi in comici inchiostri al Mondo affatto
+      Quel, che in semplici inchiostri arido io manco;
+
+      E felice vie più, che osasti à un tratto,
+      Operar, insegnar, pubblicar anco,
+      Sotto un Sol saì lucente il tuo ritratto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/ai_teatri,_alle_scene,_al_dir_nascesti
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kBXtzFdC6j4A.json
+content:
+  markdown_content: ""

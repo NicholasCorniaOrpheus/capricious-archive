@@ -1,0 +1,46 @@
+metadata:
+  class: Agent
+  label: Barbara Raffacani Salutati
+  description:
+  aliases:
+    - Barbara Salutati
+  base_name: Barbara Raffacani Salutati
+  filename: Barbara Raffacani Salutati.md
+  id: ZkL6Nfjtk57r
+  n_id: 655033109029465005117
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3634683
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DQyic7zZsNUw
+      label: courtesan
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DSK596BdwpXR
+      label: singer
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CG7pmhdzJfgv
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CH8MgoGqePQT
+          label: (Brown 2020)
+      label: Niccolò Machiavelli
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZkL6Nfjtk57r.json
+content:
+  markdown_content: ""

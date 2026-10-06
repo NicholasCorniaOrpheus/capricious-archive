@@ -1,0 +1,26 @@
+metadata:
+  class: Place
+  label: Brescia
+  description:
+  aliases:
+  base_name: Brescia
+  filename: Brescia.md
+  id: UprfWYGHsS7r
+  n_id: 553495979293415815698
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q6221
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bUguxUya4YGY
+      label: city
+  country:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYFG3hyEFbPP
+      label: Italy
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/place.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UprfWYGHsS7r.json
+content:
+  markdown_content: ""

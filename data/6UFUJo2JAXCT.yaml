@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Nocerino 2014)
+  description:
+  aliases:
+    - nocerinoCanzoniereDiAdriana2014
+  base_name: (Nocerino 2014)
+  filename: (Nocerino 2014).md
+  id: 6UFUJo2JAXCT
+  n_id: 92041965175425771682
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Nocerino, Francesco. 2014. ‘Il canzoniere di Adriana Basile. Nuove considerazioni su un inedito napoletano’. In Musica: storia, analisi e didattica; contributi del XX convegno annuale della Società Italiana di Musicologia; Foggia, Conservatorio ‘Umberto Giordano’, 18 - 20 ottobre 2013, edited by Antonio Caroccia, Francesco Di Lernia, and Società Italiana di Musicologia, 119–29. Quaderni del Conservatorio Umberto Giordano di Foggia 2. Foggia: Grenzi."
+  isbn:
+    - 978-88-8431-564-9
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/nocerinoCanzoniereDiAdriana2014.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6UFUJo2JAXCT.json
+content:
+  markdown_content: ""

@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  base_name: Recercare
+  filename: Recercare.md
+  label: Recercare
+  id: U9tv2wDqzfAZ
+  n_id: 539390999778087037042
+statements:
+  part_of:
+  citation:
+  isbn:
+  identifier:
+    - http://www.wikidata.org/entity/Q15753108
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/eKGjiSrUCEyu
+      label: scientific journal
+assets:
+  bibtex: ""
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/U9tv2wDqzfAZ.json
+content:
+  markdown_content: ""

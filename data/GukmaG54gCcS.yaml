@@ -1,0 +1,19 @@
+metadata:
+  class: Concept
+  base_name: occupation
+  filename: occupation.md
+  label: occupation
+  id: GukmaG54gCcS
+  n_id: 307637914301485920459
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q12737077
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GukmaG54gCcS.json
+content:
+  markdown_content: ""

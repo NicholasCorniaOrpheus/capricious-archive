@@ -1,0 +1,68 @@
+metadata:
+  class: Book
+  label: Le sorti di Francesco Marcolino
+  description:
+  aliases:
+    - Giardino di pensieri
+  base_name: Le sorti di Francesco Marcolino
+  filename: Le sorti di Francesco Marcolino.md
+  id: Kbo3SgEtyRFo
+  n_id: 363043373565517624020
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE055028
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+      label: (Faini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/39wLPiPQYmqM
+      label: libro sorte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4gDUdsQ3zgkL
+      label: parlour game
+  title:
+    - Le sorti di Francesco Marcolino da Forli intitolate Giardino di pensieri allo illustrissimo signore Hercole Estense duca di Ferrara
+  inception:
+    - value: 1540
+  has_version:
+    - publication_date: 1540
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KL2a3Eox62dw
+        label: Francesco Marcolini
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://gallica.bnf.fr/ark:/12148/bpt6k15216662
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k15216662/manifest.json
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE055028
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      note: Dolce wrote the verses of the fortune-telling book.
+      label: Lodovico Dolce
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KL2a3Eox62dw
+      label: Francesco Marcolini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mXh2Rsv82eCY
+      label: astrology
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i6aLsHeCyDtH
+      label: destiny
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k15216662/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Kbo3SgEtyRFo.json
+content:
+  markdown_content: ""

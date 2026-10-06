@@ -1,0 +1,78 @@
+metadata:
+  class: Book
+  label: Orlando furioso di m. Lodovico Ariosto, tutto ricorretto et di nuove figure adornato. Alquale di nuovo sono aggiunte le Annotazioni, gli avvertimenti, et le dichiarazioni di Girolamo Ruscelli
+  description:
+  aliases:
+  base_name: Orlando furioso di m. Lodovico Ariosto, tutto ricorretto et di nuove figure adornato. Alquale di nuovo sono aggiunte le Annotazioni, gli avvertimenti, et le dichiarazioni di Girolamo Ruscelli
+  filename: Orlando furioso di m. Lodovico Ariosto, tutto ricorretto et di nuove figure adornato. Alquale di nuovo sono aggiunte le Annotazioni, gli avvertimenti, et le dichiarazioni di Girolamo Ruscelli.md
+  id: KMdE9NcTp5LE
+  n_id: 357912584188673696976
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE002697
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQNC7fJmPEqj
+      label: (Bolzoni and Girotto 2013)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Orlando furioso. Di m. Lodovico Ariosto, tutto ricorretto et di nuoue figure adornato. Alquale [!] di nuouo sono aggiunte le Annotationi, gli auuertimenti, et le dichiarationi di Girolamo Ruscelli, la vita dell'autore, descritta dal signor Giouambattista Pigna
+  inception:
+    - value: 1556
+  has_version:
+    - IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bd6t5772384v/manifest.json
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE002697
+      external_source: https://gallica.bnf.fr/ark:/12148/bd6t5772384v
+      publication_date: 1556
+      note:
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dHE7D5KV6Ht6
+        label: Vincenzo Valgrisi
+    - IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10165929/manifest
+      permalink: https://mdz-nbn-resolving.de/details:bsb10165929
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10165929
+      publication_date: 1565
+      note: Reprint
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dHE7D5KV6Ht6
+        label: Vincenzo Valgrisi
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/29KJqfsF4AHJ
+        label: commentator
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fnaMY86gpvzk
+      label: art print
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bd6t5772384v/manifest.json
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10165929/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KMdE9NcTp5LE.json
+content:
+  markdown_content: Illustrated edition of [Orlando furioso](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y), with full-page illustrations for each canto and introductory arguments by [Girolamo Ruscelli](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d).

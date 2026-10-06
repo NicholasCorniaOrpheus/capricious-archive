@@ -1,0 +1,40 @@
+metadata:
+  class: Agent
+  label: Vincenzo Bellavere
+  description:
+  aliases:
+    - Vincenzo Bell'Haver
+  base_name: Vincenzo Bellavere
+  filename: Vincenzo Bellavere.md
+  id: HjtJwEQxd2Dn
+  n_id: 324701324984595791921
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2343580
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+      label: composer
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Hc54xeA8ihZ
+      note: In his third book of madrigals, Bellavere composes ten stanzas from Camillo.
+      label: Giulio Camillo
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/HjtJwEQxd2Dn.json
+content:
+  markdown_content: ""

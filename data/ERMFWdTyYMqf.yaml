@@ -1,0 +1,83 @@
+metadata:
+  class: NotatedMusic
+  label: Madrigali della fama a quattro voci
+  description:
+  aliases:
+  base_name: Madrigali della fama a quattro voci
+  filename: Madrigali della fama a quattro voci.md
+  id: ERMFWdTyYMqf
+  n_id: 256079747649350830975
+statements:
+  identifier:
+    - https://rism.online/sources/993104565
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV51030010
+    - http://id.sbn.it/bid/MUS0154599
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Madrigali della fama a quattro voce composti novamente da diversi eccellentissimi musici con iudicio raccolti et con diligentia stampati. Fora del solito modo corretti, come a ciascuno facendone prova sara palese
+  inception:
+    - value: 1548
+  has_version:
+    - external_source: https://www.digitale-sammlungen.de/en/view/bsb00071900
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      publication_date: 1548
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00071900/manifest
+      permalink: https://mdz-nbn-resolving.de/details:bsb00071900
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UKYoTw5GTXnY
+      label: Francesco Menta
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NW22VDs68pXz
+      label: Cipriano de Rore
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aagPYddQ7Hxo
+      label: Francesco dalla Viola
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kkgq8HBT4zY9
+      label: Francesco Manara
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00071900/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ERMFWdTyYMqf.json
+content:
+  markdown_content: ""

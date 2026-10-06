@@ -1,0 +1,32 @@
+metadata:
+  class: Organisation
+  label: Italian Women Writers
+  description:
+  aliases:
+  base_name: Italian Women Writers
+  filename: Italian Women Writers.md
+  id: Mefkw2MRET3J
+  n_id: 405355085638453601731
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q107491070
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nyo58nNBLE9K
+      label: online database
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://www.lib.uchicago.edu/efts/IWW/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Mefkw2MRET3J.json
+content:
+  markdown_content: ""

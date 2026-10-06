@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Wilbourne 2009)
+  description:
+  aliases:
+    - wilbourneAmorNelloSpecchio2009
+  base_name: (Wilbourne 2009)
+  filename: (Wilbourne 2009).md
+  id: YTYEKR5GKuMa
+  n_id: 628319745110285029025
+statements:
+  identifier:
+    - https://doi.org/10.1353/wam.0.0027
+  described_by_source:
+  part_of:
+  citation:
+    - "Wilbourne, Emily. 2009. ‘Amor Nello Specchio (1622): Mirroring, Masturbation, and Same-Sex Love’. Women and Music: A Journal of Gender and Culture 13 (1). University of Nebraska Press: 54–65."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/wilbourneAmorNelloSpecchio2009.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YTYEKR5GKuMa.json
+content:
+  markdown_content: ""

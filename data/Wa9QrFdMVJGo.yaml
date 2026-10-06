@@ -1,0 +1,81 @@
+metadata:
+  class: PoeticWork
+  label: Vaghi augelletti, che tra frondi, e fiori
+  description:
+  aliases:
+  base_name: Vaghi augelletti, che tra frondi, e fiori
+  filename: Vaghi augelletti, che tra frondi, e fiori.md
+  id: Wa9QrFdMVJGo
+  n_id: 589437269589161432346
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XtyKoT2r5qFb
+      label: Ascanio Mori
+  part_of:
+    - pages: 42
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BFWhk5b8b86u
+      section:
+      volume: V. La Signora Livia
+      label: Giuoco piacevole d'Ascanio de Mori
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CLmtCZLTvT24
+      label: songbird
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YvSVvwPw9ogd
+      label: flower
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R7sbNmdF69BB
+      label: forest
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fWo3UaEcv8Qv
+      label: cetra
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Vaghi augelletti, che tra frondi, e fiori
+      Gite mostrando con soavi accenti,
+      Che l'hore sono, i giorni, e i mesi spenti,
+      Che vi tenean' in pene, e in dolori,
+
+      Se, come sono lieti i vostri cori,
+      Così 'l mio fosse sciolto da' tormenti,
+      Non turberei co' gli aspri miei lamenti
+      I vostri dolci canti, almi, e sonori.
+
+      Ben seguirei al suon di questa Cetra
+      Lodando lei, ch' è sì a' miei prieghi sorda,
+      Gli accenti vostri;  ond' io par, che respire.
+
+      Ma Amor, da cui per me giamai s' impetra
+      Altro, che pianto, ch' al mio duol s' accorda,
+      Toglie forza a la man, al cor l' ardire.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/vaghi_augelletti,_che_tra_frondi,_e_fiori
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Wa9QrFdMVJGo.json
+content:
+  markdown_content: ""

@@ -1,0 +1,70 @@
+metadata:
+  class: PoeticWork
+  label: Erasi al Sole il mio bel Sole assiso
+  description:
+  aliases:
+  base_name: Erasi al Sole il mio bel Sole assiso
+  filename: Erasi al Sole il mio bel Sole assiso.md
+  id: JFnHMjjHM7yz
+  n_id: 335162005935055944179
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F009680000101_PPPP00282500C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UTAiJiQhWjEQ
+      label: Giovanni Battista Strozzi
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EWhoryH6aZhD
+      pages: 63
+      label: Madrigali di Giovambattista Strozzi
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/25aVTU3ikP69
+      label: transformation
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2QjJCcEtkiC
+      label: light beam
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8JCJNiEPyPxR
+      label: Sun
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7mWesfkGiygJ
+      label: reflection
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Erasi al Sole il mio del Sole assiso
+      Che pari altri non trova;
+      E l'un ver l'altro a prova
+      Sciolto il cresp'oro suo di Paradiso
+      Si specchiava nel viso del suo Sole;
+      E'n questo specchio, e'n quello
+      Si rivedea sì bello,
+      Ch'al mio Sole parea d'essere il Sole
+      Et al Sole il mio Sole.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/erasi_al_sole_il_mio_bel_sole_assiso
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JFnHMjjHM7yz.json
+content:
+  markdown_content: ""

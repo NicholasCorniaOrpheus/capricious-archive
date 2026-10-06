@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Selepiuc 2020)
+  description:
+  aliases:
+    - selepiucPietroAretinoRecapturing2020
+  base_name: (Selepiuc 2020)
+  filename: (Selepiuc 2020).md
+  id: iFXJgwZy2vLK
+  n_id: 830328480416921212970
+statements:
+  identifier:
+    - http://hdl.handle.net/1807/126002
+  described_by_source:
+  part_of:
+  citation:
+    - "Selepiuc, Tatiana. 2020. ‘Pietro Aretino: Recapturing the Chivalric Tradition’. Phd, Toronto, Canada: University of Toronto. http://hdl.handle.net/1807/126002."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/selepiucPietroAretinoRecapturing2020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/iFXJgwZy2vLK.json
+content:
+  markdown_content: ""

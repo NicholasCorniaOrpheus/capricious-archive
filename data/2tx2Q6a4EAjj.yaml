@@ -1,0 +1,57 @@
+metadata:
+  class: Agent
+  base_name: Vincenza Armani
+  filename: Vincenza Armani.md
+  label: Vincenza Armani
+  id: 2tx2Q6a4EAjj
+  n_id: 18444688682643449282
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NLZ9HyHBdDfb
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg8JCZR6z88s
+        label: visitor
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Intronati di Siena
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fibtk65Ak5cM
+      label: sculptor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fQ3fpyKesBz6
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3cN6GaYEFUgZ
+        label: lover
+      label: Adriano Valerini
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0668
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q4936473
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ikGeNUD5JHua
+      label: (Treadwell 2013)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2tx2Q6a4EAjj.json
+content:
+  markdown_content: According to [(Treadwell 2013)](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ikGeNUD5JHua), the Armani led several costume theatrical performances at the court of [Margherita Gonzaga](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DKPpSEmDwRA2) taking the role of a female [knight](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KH2RsQHZMHpE), imitating the heroines of [Ludovico Ariosto](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76)'s [Orlando furioso](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y) such as [Bradamante](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3azdbWZGxLUz).

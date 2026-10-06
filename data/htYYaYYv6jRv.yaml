@@ -1,0 +1,66 @@
+metadata:
+  class: PoeticWork
+  label: S'odono e varie lingue, e personaggi
+  description:
+  aliases:
+  base_name: S'odono e varie lingue, e personaggi
+  filename: S'odono e varie lingue, e personaggi.md
+  id: htYYaYYv6jRv
+  n_id: 823095712739102439469
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mwGnyYvHStEj
+      label: (Perrucci [1699] 2008)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FXzUPxdeUC5F
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Giulio Strozzi
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/au5QaZxbmZCH
+      section: Parte II, Regola I
+      label: Dell'arte rappresentativa premeditata, ed all'improviso
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GAzbZjoo2Tsw
+      section: Canto XII, 89
+      pages: 399
+      label: La Venetia edificata
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/34DZHbTfjKob
+      label: improvisational theater
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+  text:
+    - |-
+      S'odono e varie lingue, e personaggi
+      Atti meglio a destar la burla, e'l riso,
+      Hor con brutte cadute, hor con visaggi,
+      Hor con mentito adulterato viso.
+      E (quel, ch'anco è difficile a' più saggi)
+      Pronto usciva il discorso, ed improviso;
+      E regolava il subito concetto
+      La norma di strettissimo soggetto.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/s'odono_varie_lingue,_e_personaggi
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/htYYaYYv6jRv.json
+content:
+  markdown_content: ""

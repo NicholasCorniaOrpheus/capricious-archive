@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Cox 2020)
+  aliases:
+    - coxMembersMusesMascots2020
+  base_name: (Cox 2020)
+  filename: (Cox 2020).md
+  id: SrWTCERreeEv
+  n_id: 512819843981521251130
+statements:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3trBJ33k7YmX
+      label: (Everson, Reidy, and Sampson 2020)
+  isbn:
+    - 978-1-909662-57-5
+  citation:
+    - "Cox, Virginia. 2020. ‘Members, Muses, Mascots: Women and Italian Academies’. In The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent, edited by Denis V Reidy, Jane E. Everson, and Lisa Sampson, 150–87. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/coxMembersMusesMascots2020.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SrWTCERreeEv.json
+content:
+  markdown_content: ""

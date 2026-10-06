@@ -1,0 +1,51 @@
+metadata:
+  class: Book
+  label: Orlando furioso
+  description:
+  aliases:
+    - Orlando Furioso
+  base_name: Orlando furioso
+  filename: Orlando furioso.md
+  id: GdXWhx79h26y
+  n_id: 301761155612795645173
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q48922
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Orlando furioso
+  inception:
+    - value: 1516
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+          label: Ferrara
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE002566
+      note: Final edition, including extra canti.
+      publication_date: 1532
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE002541
+      note: First edtion.
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+          label: Ferrara
+      publication_date: 1516
+  contributor:
+    -
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GdXWhx79h26y.json
+content:
+  markdown_content: ""

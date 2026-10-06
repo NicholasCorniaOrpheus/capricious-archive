@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: juxtaposition
+  description:
+  aliases:
+    - Act of placing two (contrasting) elements side by side
+  base_name: juxtaposition
+  filename: juxtaposition.md
+  id: KX53XRWp7L4v
+  n_id: 361328488107180258253
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3393049
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Qswn49Yodruc
+      label: rhetorical figure
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KX53XRWp7L4v.json
+content:
+  markdown_content: ""

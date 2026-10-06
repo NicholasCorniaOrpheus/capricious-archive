@@ -1,0 +1,38 @@
+metadata:
+  class: Agent
+  label: Caterina de' Medici
+  description:
+  aliases:
+  base_name: Caterina de' Medici
+  filename: Caterina de' Medici.md
+  id: ZaGfUSXdFWJ8
+  n_id: 651391058305406463867
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q131552
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/egrP7GatrsKJ
+      label: France
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZaGfUSXdFWJ8.json
+content:
+  markdown_content: ""

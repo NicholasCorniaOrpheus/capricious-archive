@@ -1,0 +1,76 @@
+metadata:
+  class: PoeticWork
+  label: Io che già vissi in libertade & sciolta
+  description:
+  aliases:
+  base_name: Io che già vissi in libertade & sciolta
+  filename: Io che già vissi in libertade & sciolta.md
+  id: KYv7B3Fd6j24
+  n_id: 362002148929466105465
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GAQLjW9jyTTw
+      label: Dafne di Piazza
+  part_of:
+    - section: Sonetto in Iscusatione della Inventrice.
+      pages: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RLEUUEr9GY5A
+      label: Accademia di enigmi in sonetti di Madonna Dafne di Piazza, a gli academici fiorentini suoi amanti
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8LkVSvtxvTfr
+      label: riddle
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/25aVTU3ikP69
+      label: transformation
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFcsbFYFrFvB
+      label: laurel
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PB7asmJe7rz6
+      label: gold
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z6Jng9HcNvmd
+      label: apple
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      IO CHE già vissi in libertade & sciolta
+      Fui d'human seme come l'altre nata,
+      Forma cangiai, per troppo esser amata
+      Al mal mio grado, ch'a l'hor mi fu tolta.
+
+      La propria imago & in frondi rivolta
+      Et divenni in un lauro transformata.
+      Hor son di novo in marmo risformata,
+      Et fatta schiava da chi m'ha insepolta.
+
+      Pur convienmi diporre ogn'odio & sdegno
+      Per darvi alcun de pomi di mie fronde,
+      Acciò gustiate il vario sapor loro.
+
+      Chi di spremerli più farà dissegno
+      Più ne trarrà il liquor che'n lor s'asconde
+      Et troverallo più chiaro che l'oro.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/io_che_già_vissi_in_libertade_&_sciolta
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KYv7B3Fd6j24.json
+content:
+  markdown_content: Implicit references to the myth of [Daphne](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dkCx4ki65DnY). The last verses allude to the process of distillation of matter used in [alchemy](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6).

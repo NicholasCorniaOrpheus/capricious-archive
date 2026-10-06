@@ -1,0 +1,37 @@
+metadata:
+  class: Agent
+  base_name: Sacripante
+  filename: Sacripante.md
+  label: Sacripante
+  id: W7iNAQdMQJ79
+  n_id: 579871667138806189507
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q5415468
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4JHBjobL9bGr
+      label: literary character
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KH2RsQHZMHpE
+      label: knight
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hVTj8yiy7kiU
+      label: Dieci canti di Sacripante di messer Lodovico Dolce
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/W7iNAQdMQJ79.json
+content:
+  markdown_content: ""

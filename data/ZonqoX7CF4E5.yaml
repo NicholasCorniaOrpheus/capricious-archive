@@ -1,0 +1,73 @@
+metadata:
+  class: NotatedMusic
+  label: Il cicalamento delle donne al bucato. Et la caccia di Alessandro Striggio, con un lamento di Didone ad Enea, per la sua partenza
+  description:
+  aliases:
+  base_name: Il cicalamento delle donne al bucato. Et la caccia di Alessandro Striggio, con un lamento di Didone ad Enea, per la sua partenza
+  filename: Il cicalamento delle donne al bucato. Et la caccia di Alessandro Striggio, con un lamento di Didone ad Enea, per la sua partenza.md
+  id: ZonqoX7CF4E5
+  n_id: 656289187064408704638
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0063599
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Il cicalamento delle donne al bucato. Et la caccia di Alessandro Striggio, con un lamento di Didone ad Enea, per la sua partenza, di Cipriano Rore
+  inception:
+    - value: 1567
+  has_version:
+    - permalink: https://opac.kbr.be/LIBRARY/doc/SYRACUSE/18389837
+      external_source: https://uurl.kbr.be/1046640
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1567
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Gzqem5g838fp
+        label: Girolamo Scotto
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAezNrSVTgHA
+        label: Royal Library of Belgium
+      note: Sextus missing.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5zroCwkNnbHx
+      label: Alessandro Striggio
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aioBfuMyVfQr
+      label: madrigal comedy
+  has_part:
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      quantity: 1
+      label: cantus
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      quantity: 1
+      label: altus
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      quantity: 1
+      label: tenor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      quantity: 1
+      label: bassus
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      quantity: 1
+      label: quintus
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9m3H9u9QfrNg
+      label: sextus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZonqoX7CF4E5.json
+content:
+  markdown_content: ""

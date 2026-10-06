@@ -1,0 +1,29 @@
+metadata:
+  class: BibliographicResource
+  label: (Nicolaci 2017)
+  description:
+  aliases:
+    - nicolaciGerusalemmeDistruttaDi2017
+  base_name: (Nicolaci 2017)
+  filename: (Nicolaci 2017).md
+  id: VJ5rjP86CXEj
+  n_id: 562986314275550356778
+statements:
+  identifier:
+    - 978-88-6557-321-1
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9RH5PwbAzt5a
+      label: (Chiummo, Geremicca, and Tosini 2017)
+  citation:
+    - "Nicolaci, Michele. 2017. ‘La Gerusalemme distrutta di Paolo Giudotti Borghese pittore e poeta lucchese’. In Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento, edited by Carla Chiummo, Antonio Geremicca, and Patrizia Tosini, 181–93. Roma: De Luca editori d’arte. https://normandie-univ.hal.science/hal-01829101."
+  isbn:
+    - 978-88-6557-321-1
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  local_asset_path:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/nicolaciGerusalemmeDistruttaDi2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VJ5rjP86CXEj.json
+content:
+  markdown_content: ""

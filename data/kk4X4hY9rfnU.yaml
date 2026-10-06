@@ -1,0 +1,28 @@
+metadata:
+  class: Concept
+  label: flame
+  description:
+  aliases:
+    - fiamma
+    - fuoco
+    - foco
+    - fire
+  base_name: flame
+  filename: flame.md
+  id: kk4X4hY9rfnU
+  n_id: 881929135063944193532
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q235544
+    - http://www.wikidata.org/entity/Q168983
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PBpvEEsLjb3i
+      label: natural entity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kk4X4hY9rfnU.json
+content:
+  markdown_content: ""

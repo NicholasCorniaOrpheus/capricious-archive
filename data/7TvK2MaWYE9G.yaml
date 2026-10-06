@@ -1,0 +1,52 @@
+metadata:
+  class: Book
+  label: D'Angelica di m. Pietro Aretino due primi canti
+  description:
+  aliases:
+  base_name: D'Angelica di m. Pietro Aretino due primi canti
+  filename: D'Angelica di m. Pietro Aretino due primi canti.md
+  id: 7TvK2MaWYE9G
+  n_id: 112562503740174968945
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE002366
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iFXJgwZy2vLK
+      label: (Selepiuc 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - D'Angelica di m. Pietro Aretino due primi canti
+  inception:
+    - value: 1536
+      sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iFXJgwZy2vLK
+          label: (Selepiuc 2020)
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE002366
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1536
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9Aoez2jHnnNQ
+        label: Bernardino Vitali
+      external_source: https://www.google.be/books/edition/D_Angelica_di_M_Pietro_Aretino_due_primi/RkLk2QUtockC
+  contributor:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/msgn7qjS9yQx
+      label: Angelica
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7TvK2MaWYE9G.json
+content:
+  markdown_content: ""

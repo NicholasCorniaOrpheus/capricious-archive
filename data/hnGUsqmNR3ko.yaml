@@ -1,0 +1,57 @@
+metadata:
+  class: Book
+  label: Gierusalemme liberata, poema heroico del sig. Torquato Tasso
+  description:
+  aliases:
+  base_name: Gierusalemme liberata, poema heroico del sig. Torquato Tasso
+  filename: Gierusalemme liberata, poema heroico del sig. Torquato Tasso.md
+  id: hnGUsqmNR3ko
+  n_id: 820821477466231081065
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1053313
+    - https://edit16.iccu.sbn.it/titolo/CNCE030115
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Gierusalemme liberata, poema heroico del sig. Torquato Tasso ... Tratta dal vero originale, con aggiunta di quanto manca nell'altre edittioni, et con l'allegoria dello stesso autore et con gli argomenti a ciascun canto del s. Horatio Ariosti
+  inception:
+    - value: 1575
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE030115
+      publication_date: 1581
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+          label: Ferrara
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VG9zdScyJbW2
+        label: Vittorio Baldini
+      external_source: https://books.google.it/books?id=sNl2gF6WThgC
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k71664j/manifest.json
+      note: First authorized version by the author.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/29KJqfsF4AHJ
+        label: commentator
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VAv4AHerNvm4
+      label: Orazio Ariosto
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh
+      label: Torquato Tasso
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d6D6vnCgLE5s
+      label: Crusades
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k71664j/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hnGUsqmNR3ko.json
+content:
+  markdown_content: ""

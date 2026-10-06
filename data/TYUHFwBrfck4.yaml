@@ -1,0 +1,77 @@
+metadata:
+  class: PoeticWork
+  label: Voi Donna; che domate i fieri mostri
+  description: Praise to an unknown woman by the author, referring to some esoteric figures.
+  aliases:
+  base_name: Voi Donna; che domate i fieri mostri
+  filename: Voi Donna; che domate i fieri mostri.md
+  id: TYUHFwBrfck4
+  n_id: 526925333955281430062
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/8312
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J4U6vzMd2DM4
+      label: Marguerite d'Angoulême-Valois
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4UYqE7EFhqCi
+      pages: 13
+      section: Della Regina di Navarra.
+      label: Libro quarto delle rime di diversi eccellentissimi autori nella lingua volgare
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aHgkm4kqQFXB
+      label: monster
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      VOI Donna; che domate i fieri mostri;
+      Che la terra produce, e'l gran serpente,
+      Sopra voi stessa alzata con la mente
+      Pura salita a gli superni chiostri.
+
+      Quanto havran da mirare i giorni nostri,
+      Ed invidiarli la futura gente;
+      Ch'al fuggir chiamerà l'hore sue lente
+      Goder bramosa in Ciel degli honor vostri.
+
+      Voi nel volto divin gli occhi pascendo
+      Viverete là su spirito eletto
+      Ne la celeste, dolce fiamma ardendo.
+
+      Coglierà il frutto a l'hor vostro 'ntelletto
+      Del sceme sparso, il sommo ben godendo;
+      Ch'è de le nostre menti il vero oggetto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/voi_donna;_che_domate_i_fieri_mostri
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TYUHFwBrfck4.json
+content:
+  markdown_content: ""

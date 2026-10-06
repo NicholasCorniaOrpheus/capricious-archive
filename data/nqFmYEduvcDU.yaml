@@ -1,0 +1,41 @@
+metadata:
+  class: Book
+  label: Cabala del cavallo Pegaseo con l'aggiunta dell'Asino Cillenico
+  description:
+  aliases:
+  base_name: Cabala del cavallo Pegaseo con l'aggiunta dell'Asino Cillenico
+  filename: Cabala del cavallo Pegaseo con l'aggiunta dell'Asino Cillenico.md
+  id: nqFmYEduvcDU
+  n_id: 925082581411622431958
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE007713
+  described_by_source:
+  instance_of:
+  title:
+  inception:
+    - value: 1585
+  has_version:
+    - publication_date: 1585
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE007713
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BuqMwAhAMM2R
+      label: docta ignorantia
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nqFmYEduvcDU.json
+content:
+  markdown_content: ""

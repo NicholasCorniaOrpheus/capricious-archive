@@ -1,0 +1,41 @@
+metadata:
+  class: Organisation
+  base_name: Accademia degli Alterati di Firenze
+  filename: Accademia degli Alterati di Firenze.md
+  label: Accademia degli Alterati di Firenze
+  id: Nx8bqYnm9d6V
+  n_id: 432309676629450518094
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1569
+  dissolved:
+    - value: 1664
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Thmbw7Pndcpi
+      label: Tommaso Del Nero
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PuzofSmPxjQf
+      label: theater
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bQT5tjAEXHJP
+      label: philosophy
+  notable_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q137432924
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Nx8bqYnm9d6V.json
+content:
+  markdown_content: ""

@@ -1,0 +1,81 @@
+metadata:
+  class: PoeticWork
+  label: Così dolce e gustevole divento
+  description: "The author describes her arts, including the one of love, bringing the power of Venus within the altar of Apollo. Risposta della signora Veronica Franca. Essa lo riama, e vuole ch'egli compia, per amor di lei, opere ed azioni conformi alla virtù dell'animo: solo allora gli concederà le gioie apprese da Venere."
+  aliases:
+  base_name: Così dolce e gustevole divento
+  filename: Così dolce e gustevole divento.md
+  id: UQvnsyVv6j63
+  n_id: 544833407108834574457
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RjeAA9urZgxC
+      label: Veronica Franco
+  part_of:
+    - section: Veronica Franco, I
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mWT5q2KSyozm
+      label: (van Dooren 1992)
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NmP27mSFqcCQ
+      label: terzina
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DQyic7zZsNUw
+      label: courtesan
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3cN6GaYEFUgZ
+      label: lover
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9bHS2Z6zpJ6k
+      label: Venus
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9QZ6MpiNNFjR
+      label: poetry
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Così dolce e gustevole divento,
+      Quando mi trovo con persona in letto,
+      Da cui amata e gradita mi sento,
+
+      Che quel mio piacer vince ogni diletto,
+      Sì che quel, che strettissimo parea,
+      Nodo de l'altrui amor divien più stretto.
+
+      Febo, che serve a l'amorosa dea,
+      E in dolce guiderdon da lei ottiene
+      Quel che via più, che l'esser dio, il bea,
+
+      A rivelar nel mio pensier ne viene
+      Quei modi, che con lui Venere adopra,
+      Mentre in soavi abbracciamenti il tiene;
+
+      Ond'io instrutta a questi so dar opra
+      Sì ben nel letto, che d'Apollo a l'arte
+      Questa ne va d'assai spazio di sopra,
+
+      E'l mio cantar e 'l mio scriver in carte
+      S'oblia da chi mi prova in quella guisa,
+      Ch'a' suoi seguaci Venere comparte.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UQvnsyVv6j63.json
+content:
+  markdown_content: ""

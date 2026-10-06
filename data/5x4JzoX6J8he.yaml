@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  base_name: Jesuit
+  filename: Jesuit.md
+  label: Jesuit
+  id: 5x4JzoX6J8he
+  n_id: 81472096403319114666
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q12319698
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5x4JzoX6J8he.json
+content:
+  markdown_content: ""

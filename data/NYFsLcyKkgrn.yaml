@@ -1,0 +1,47 @@
+metadata:
+  class: Book
+  label: Naspo bizaro
+  description:
+  aliases:
+  base_name: Naspo bizaro
+  filename: Naspo bizaro.md
+  id: NYFsLcyKkgrn
+  n_id: 423667063226195745560
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE037962
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Naspo Bizaro. Calate fantastiche, che canta Naspo Bizaro da Veniesia castellan, sotto i balconi de Cate Bionda Biriota, per cauarse la bizaria del ceruelo, e 'l martelo del stomego
+  inception:
+    - value: 1565
+  has_version:
+    - publication_date: 1565
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE037962
+      external_source: https://www.google.it/books/edition/Naspo_Bizaro/jQ88AAAAcAAJ
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZU5ZzNrZfToD
+      label: Alessandro Caravia
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5MwBnJaT8JKD
+      label: Venetian
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NYFsLcyKkgrn.json
+content:
+  markdown_content: ""

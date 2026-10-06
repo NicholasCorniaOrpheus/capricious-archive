@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: elegy
+  filename: elegy.md
+  label: elegy
+  id: bz2ZiUr2xdwm
+  n_id: 701262096452367513475
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q174864
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bz2ZiUr2xdwm.json
+content:
+  markdown_content: ""

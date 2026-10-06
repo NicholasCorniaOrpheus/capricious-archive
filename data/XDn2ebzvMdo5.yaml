@@ -1,0 +1,91 @@
+metadata:
+  class: Book
+  label: Musurgia Universalis, sive Ars Magna Consoni et Dissoni
+  description:
+  aliases:
+  base_name: Musurgia Universalis, sive Ars Magna Consoni et Dissoni
+  filename: Musurgia Universalis, sive Ars Magna Consoni et Dissoni.md
+  id: XDn2ebzvMdo5
+  n_id: 602702999412643753203
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q18942469
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YVemVu9t2FTQ
+      label: (McKay 2015)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XeUEhXziAaMM
+      label: (Chierotti 1994)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Musurgia Universalis, sive Ars Magna Consoni et Dissoni
+  inception:
+    - value: 1650
+  has_version:
+    - holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AzUvH7dVAeqb
+        label: Orpheus Instituut
+      publication_date: 1650
+      permalink: https://cat.orpheusinstituut.be/cgi-bin/koha/opac-detail.pl?biblionumber=2742
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGmzLJPd5rUo
+        label: Francesco Corbelletti
+    - holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      publication_date: 1650
+      permalink: https://catalogue.bnf.fr/ark:/12148/cb16102988c
+      external_source: https://sourcelibrary.org/book/universal-music-making-musurgia-universalis-volume-i-kircher/page/69520510ab34727b1f042176
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1280287g/manifest.json
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGmzLJPd5rUo
+        label: Francesco Corbelletti
+      note: volume 1
+    - holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      publication_date: 1650
+      permalink: http://catalogue.bnf.fr/ark:/12148/cb410396649
+      external_source: https://gallica.bnf.fr/ark:/12148/bpt6k12802862
+      IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k12802862/manifest.json
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGmzLJPd5rUo
+        label: Francesco Corbelletti
+      note: volume 2
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZnAwJRxKMGDX
+      label: Athanasius Kircher
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a3CMPUyoeyHi
+      label: music theory
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YhEVWCnKHshf
+      label: artificiality
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k1280287g/manifest.json
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k12802862/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XDn2ebzvMdo5.json
+content:
+  markdown_content: ""

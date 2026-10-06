@@ -1,0 +1,21 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - bolzoniLettoreCreativoPercorsi2012
+  base_name: (Bolzoni 2012)
+  filename: (Bolzoni 2012).md
+  label: (Bolzoni 2012)
+  id: dL2X9Z4URcNU
+  n_id: 728776342417232860547
+statements:
+  part_of:
+  citation:
+    - "Bolzoni, Lina. 2012. Il Lettore Creativo: Percorsi Cinquecenteschi Fra Memoria, Gioco, Scrittura. Passaggi e Percorsi. Guida. https://www.torrossa.com/en/resources/an/4237138."
+  isbn:
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/bolzoniLettoreCreativoPercorsi2012.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dL2X9Z4URcNU.json
+content:
+  markdown_content: ""

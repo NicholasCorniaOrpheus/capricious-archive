@@ -1,0 +1,68 @@
+metadata:
+  class: Book
+  label: La Scanderbeide poema heroico della signora Margherita Sarrocchi
+  description:
+  aliases:
+  base_name: La Scanderbeide poema heroico della signora Margherita Sarrocchi
+  filename: La Scanderbeide poema heroico della signora Margherita Sarrocchi.md
+  id: dXHZMmpg7CAi
+  n_id: 732854227747828644847
+statements:
+  identifier:
+    - http://id.sbn.it/bid/VEAE005594
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2akh6MQphaCo
+      label: (Lucioli 2024)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8g4zkHCciMB
+      label: (Ray 2015)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NoC5RFxc7i7n
+      label: (Driscoll 2022)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - La Scanderbeide poema heroico della signora Margherita Sarrocchi. Dedicato all'ill.ma & ecc.ma sig.ra D. Costanza Colonna Sforza marchesa di Carauaggio
+  inception:
+    - value: 1606
+  has_version:
+    - permalink: http://id.sbn.it/bid/VEAE005594
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      publication_date: 1606
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CmV76HAnCZze
+        label: Lepido Faci
+      external_source: https://books.google.be/books?id=F-viq7OXyNoC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DBkvPTi2HczR
+      label: Costanza Colonna
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QzFWBAu4Ku5H
+      label: Margherita Sarrocchi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hq5fryYEkuQW
+      label: magic
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hnGUsqmNR3ko
+      label: Gierusalemme liberata, poema heroico del sig. Torquato Tasso
+  catalog_identifier:
+    - value: E40453-01
+      source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/dXHZMmpg7CAi.json
+content:
+  markdown_content: ""

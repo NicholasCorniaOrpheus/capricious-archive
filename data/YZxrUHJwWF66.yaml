@@ -1,0 +1,36 @@
+metadata:
+  class: Book
+  label: Aeneid
+  description:
+  aliases:
+    - Eneid
+    - Eneide
+    - Aeneis
+  base_name: Aeneid
+  filename: Aeneid.md
+  id: YZxrUHJwWF66
+  n_id: 630648408963553080226
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q60220
+  described_by_source:
+  instance_of:
+  title:
+  inception:
+  has_version:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EGiqL2BY3FZ7
+      label: Virgil
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YZxrUHJwWF66.json
+content:
+  markdown_content: ""

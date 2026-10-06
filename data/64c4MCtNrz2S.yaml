@@ -1,0 +1,71 @@
+metadata:
+  class: PoeticWork
+  label: Arte meravigliosa, ah, ben comprendo
+  description: Praise to the Sun.
+  aliases:
+  base_name: Arte meravigliosa, ah, ben comprendo
+  filename: Arte meravigliosa, ah, ben comprendo.md
+  id: 64c4MCtNrz2S
+  n_id: 83483876316203906469
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ShZv8ummK46R
+      label: Emperor Charles V
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hyw2JvyN8B9h
+      label: Francesco Maria Santinelli
+  part_of:
+    - section: Canto VI, 45
+      volume: Carlo Quinto
+      pages: 96
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/j7DoSeBZLZrw
+      label: (Santinelli 1985)
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MeCVRw88z9MS
+      label: classical elements
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Se3XU7Bnd7Sk
+      label: chaos
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Arte meravigliosa, ah, ben comprendo
+      Come in sì gran lavoro immiti Iddio,
+      Quando trasse dal Nulla il Chaos horrendo,
+      E dal Chaos gli Elementi insieme unio.
+      Hebbe moto Natura, e all'hora aprendo
+      Quel Mondo inoperoso al Mondo uscio,
+      E con Essa Natura a l'occhio, al tatto
+      Tutti gli Enti in potenza usciro in Atto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/64c4MCtNrz2S.json
+content:
+  markdown_content: ""

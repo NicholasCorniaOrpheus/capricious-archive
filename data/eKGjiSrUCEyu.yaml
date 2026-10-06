@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: scientific journal
+  description:
+  aliases:
+  base_name: scientific journal
+  filename: scientific journal.md
+  id: eKGjiSrUCEyu
+  n_id: 749140530895296993582
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q5633421
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Xfs7XRwHSxHj
+      label: document
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/eKGjiSrUCEyu.json
+content:
+  markdown_content: ""

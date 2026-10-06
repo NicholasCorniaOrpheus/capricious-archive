@@ -1,0 +1,28 @@
+metadata:
+  class: Concept
+  label: infinity
+  description:
+  aliases:
+    - eterno
+    - infinito
+    - infiniti
+    - eterna
+    - eternity
+  base_name: infinity
+  filename: infinity.md
+  id: JJB6LuxryAUn
+  n_id: 336024577436503943021
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q205
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JJB6LuxryAUn.json
+content:
+  markdown_content: ""

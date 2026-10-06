@@ -1,0 +1,117 @@
+metadata:
+  class: PoeticWork
+  base_name: Alme amorose, & spirti peregrini
+  filename: Alme amorose, & spirti peregrini.md
+  label: Alme amorose, & spirti peregrini
+  id: ADpnj9NrG7LM
+  n_id: 169366716326644298785
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+  part_of:
+    - section: Pasquino a li Lettori Sopra L'Astolfeida del Divino Pietro Aretino
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SifJFtUcR76e
+      label: Astolfeide del divino Pietro Aretino
+  based_on:
+    -
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2zJ3QRUFy4nX
+      label: humorous poetry
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KH2RsQHZMHpE
+      label: knight
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GUDKFfFZgRMK
+      label: quarrel of ancients and moderns
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      ALme amorose, & spirti peregrini
+      Voi che svegliate al'alte imprese il cuore
+      Del Divino Aretin, pur hor vien fuore
+      L'Astolfeida i fior de Paladini.
+
+      De Barbari orgogliosi Saracini
+      D'erranti Cavallier, l'Arme, l'Amore
+      Di diverse Nation, l'Ira, il furore
+      chi sale al Ciel, chi nel Centro Rovini.
+
+      Le qualità de vicin de gli esterni
+      Costumi, & legi non altrove intesa
+      Vi mostra l'Aretin del vero Amante.
+
+      Comparation d'Antichi, & di moderni
+      Et scuopre ogni sentier, Terra, & Paese
+      Et chi è mosca, & si tiene Elefante
+
+      Pasquin nostro galante.
+
+      L'Aretin loda, & dice ch'oggi assai
+      Bravi a parol, n'hal mondo più che mai
+      Dice che d'hoggi in crai
+
+      Crescono al Mondo ogn'hor l'usanze acerbe
+      Come ne l'Orto allignon la mal'erbe
+      Dice che più superbe
+
+      Son le Puttane che le gentil Donne
+      E lo par d'esser Regine, & Madonne
+      Et che le Ricche gonne.
+
+      Non ricuoprono i loro vitii furfanti
+      che sfamando i facchin rubban gli amanti
+      Dice che da più canti.
+
+      Il mondo è pieno di squarta cantoni
+      Più che l'Aer di grilli, & parpaglioni
+      Dice che de babbioni.
+
+      Da Mantua n'è per tutto, & de gli Alocchi
+      Et de gattuci ch'hanno aperti gli occhi
+      Et che vende i Finocchi.
+
+      Per confetti ogni Strologo mendace
+      Annunciando la guerra per la pace
+      Quel che a Pasquino spiace.
+
+      Che gli è vecchio, & Marforio e Rimbambito
+      Hor che son vecchi il Mondo e imputtanito
+      Lettori oltre v'invito.
+
+      Lieti a cantar d'Amor fra l'Erbe e Fiori
+      Sì bel Poema spasso a gentil Cuori.
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iFXJgwZy2vLK
+      label: (Selepiuc 2020)
+assets:
+  local_asset_path: ./assets/poems/alme_amorose,_&_spirti_peregrini
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ADpnj9NrG7LM.json
+content:
+  markdown_content: ""

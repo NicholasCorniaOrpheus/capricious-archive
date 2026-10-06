@@ -1,0 +1,64 @@
+metadata:
+  class: Book
+  label: Delle rime del signor Torquato Tasso. Parte prima (-seconda) insieme con altri componimenti del medesimo
+  description:
+  aliases:
+  base_name: Delle rime del signor Torquato Tasso. Parte prima (-seconda) insieme con altri componimenti del medesimo
+  filename: Delle rime del signor Torquato Tasso. Parte prima (-seconda) insieme con altri componimenti del medesimo.md
+  id: GUdU7hjdXrfN
+  n_id: 298540674584095014923
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE027617
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FLIBX00006655
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Delle rime del signor Torquato Tasso. Parte prima [-seconda] insieme con altri componimenti del medesimo
+  inception:
+    - value: 1582
+  has_version:
+    - note: Volume 2
+      external_source: https://books.google.it/books?id=ooxqLK6qcdwC
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1582
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE027617
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/b2UXqeEpLrkS
+        label: Aldo Manuzio
+    - note: Volume 1
+      publication_date: 1582
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE027617
+      external_source: https://books.google.it/books?id=wXSHRrk0uTQC
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/b2UXqeEpLrkS
+        label: Aldo Manuzio
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh
+        label: Torquato Tasso
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HETQrEGJAmpa
+      label: Flora Zuzzeri
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GUdU7hjdXrfN.json
+content:
+  markdown_content: ""

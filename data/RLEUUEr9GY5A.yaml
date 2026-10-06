@@ -1,0 +1,52 @@
+metadata:
+  class: Book
+  label: Accademia di enigmi in sonetti di Madonna Dafne di Piazza, a gli academici fiorentini suoi amanti
+  description:
+  aliases:
+  base_name: Accademia di enigmi in sonetti di Madonna Dafne di Piazza, a gli academici fiorentini suoi amanti
+  filename: Accademia di enigmi in sonetti di Madonna Dafne di Piazza, a gli academici fiorentini suoi amanti.md
+  id: RLEUUEr9GY5A
+  n_id: 481221463475607981731
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE024636
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Academia di enigmi in sonetti di madonna Daphne di Piazza a gli academici fiorentini suoi amanti. Cosa ingeniosa argutta et bella da eccitar gli acuti et eleuati ingegni, et di notabile piacere, non piu ueduta
+  inception:
+    - value: 1552
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE024636
+      publication_date: 1552
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/56NNzwxTGvm8
+        label: Stefano de Alessi
+      IIIF_manifest: https://dl.unito.it/fedora/objects/mag:32681/datastreams/MMIIIF/content
+      external_source: https://dl.unito.it/it/ricerca/digitale/?id=mag:32681
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GAQLjW9jyTTw
+        label: Dafne di Piazza
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8LkVSvtxvTfr
+      label: riddle
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://dl.unito.it/fedora/objects/mag:32681/datastreams/MMIIIF/content
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/RLEUUEr9GY5A.json
+content:
+  markdown_content: ""

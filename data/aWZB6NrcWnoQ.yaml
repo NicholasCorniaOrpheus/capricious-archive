@@ -1,0 +1,43 @@
+metadata:
+  class: Organisation
+  base_name: Accademia dei Filareti di Ferrara
+  filename: Accademia dei Filareti di Ferrara.md
+  label: Accademia dei Filareti di Ferrara
+  id: aWZB6NrcWnoQ
+  n_id: 670683636575957878393
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1554
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 516
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NTXVtd24wHkv
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Ortensio Lando
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aWZB6NrcWnoQ.json
+content:
+  markdown_content: ""

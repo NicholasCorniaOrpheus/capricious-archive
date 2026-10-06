@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  label: folk tale
+  description:
+  aliases:
+    - fairy tale
+  base_name: folk tale
+  filename: folk tale.md
+  id: mntczXNjvJhC
+  n_id: 903594634155387587602
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1221280
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mntczXNjvJhC.json
+content:
+  markdown_content: ""

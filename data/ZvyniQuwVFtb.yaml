@@ -1,0 +1,68 @@
+metadata:
+  class: MusicComposition
+  label: Io grido Pace, e Amor mi sfida a guerra (Giovannelli)
+  description: The Bassus II part is missing.
+  aliases:
+  base_name: Io grido Pace, e Amor mi sfida a guerra (Giovannelli)
+  filename: Io grido Pace, e Amor mi sfida a guerra (Giovannelli).md
+  id: ZvyniQuwVFtb
+  n_id: 658892942192216608599
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F127380001010101_000000117300C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bc8ENq8LbxeG
+      label: Maurizio Moro
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9Yb45rN7VgYV
+      label: Ruggiero Giovannelli
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/oRcnUcFWkm3c
+      label: Di Ruggiero Giovanelli il terzo libro de madrigali a cinque voci
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+  based_on:
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/giovanelli-io_grido_pace,_e_amor_mi_sfida_a_guerra
+  jpg:
+    - a1_001.jpg
+    - a2_001.jpg
+    - b_001.jpg
+    - c1_001.jpg
+    - c2_001.jpg
+    - t2_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZvyniQuwVFtb.json
+content:
+  markdown_content: ""

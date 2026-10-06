@@ -1,0 +1,76 @@
+metadata:
+  class: PoeticWork
+  label: Oh sant' asinità, sant'ignoranza
+  description:
+  aliases:
+  base_name: Oh sant' asinità, sant'ignoranza
+  filename: Oh sant' asinità, sant'ignoranza.md
+  id: KASpvzU9Gzot
+  n_id: 353864229252530474417
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nqFmYEduvcDU
+      pages: 7
+      section: Sonetto in lode de l'Asino
+      label: Cabala del cavallo Pegaseo con l'aggiunta dell'Asino Cillenico
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BuqMwAhAMM2R
+      label: docta ignorantia
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cKEcesM5rwZZ
+      label: donkey
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Oh sant'asinità, sant'ignoranza,  
+      Santa stoltizia, e pia divozione,  
+      Qual sola puoi far l'anime si buone,  
+      Ch'uman ingegno e studio non l'avanza!  
+
+      Non gionge faticosa vigilanza  
+      D'arte, qualunque sia, o invenzione,  
+      Né di sofossi contemplazione  
+      Al ciel, dove t'edifichi la stanza.  
+
+      Che vi val, curiosi, il studiare,  
+      Voler saper quel che fa la natura,  
+      Se gli astri son pur terra, fuoco e mare?  
+
+      La santa asinità di ciò non cura,  
+      Ma con man gionte e 'n ginocchion vuol stare  
+      Aspettando da Dio la sua ventura.  
+
+      Nessuna cosa dura,  
+      Eccetto il frutto dell'eterna requie,  
+      La qual ne done Dio dopo l'esequie!
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KASpvzU9Gzot.json
+content:
+  markdown_content: ""

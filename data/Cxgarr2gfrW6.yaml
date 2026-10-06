@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: devotion
+  description:
+  aliases:
+    - devozione
+  base_name: devotion
+  filename: devotion.md
+  id: Cxgarr2gfrW6
+  n_id: 226153815598149596521
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q11572062
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TM6fVHGXjWZC
+      label: personality trait
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Cxgarr2gfrW6.json
+content:
+  markdown_content: ""

@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Riley 1986)
+  description:
+  aliases:
+    - rileyTarquiniaMolza154216171986
+  base_name: (Riley 1986)
+  filename: (Riley 1986).md
+  id: nMhmAzGuYK4c
+  n_id: 915110744630328627997
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Riley, Joanne M. 1986. ‘Tarquinia Molza (1542-1617): A Case Study of Women, Music and Society in the Renaissance’. Edited by Judith Lang Zaimont. The Musical Woman: An International Perspective 2. New York: Greenwood: 470–92."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/rileyTarquiniaMolza154216171986.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nMhmAzGuYK4c.json
+content:
+  markdown_content: ""

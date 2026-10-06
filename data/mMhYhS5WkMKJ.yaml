@@ -1,0 +1,63 @@
+metadata:
+  class: PoeticWork
+  label: Infelice Signor, hor questo è'l merto
+  description:
+  aliases:
+  base_name: Infelice Signor, hor questo è'l merto
+  filename: Infelice Signor, hor questo è'l merto.md
+  id: mMhYhS5WkMKJ
+  n_id: 894473455655720176807
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FzrdyPjZDVz9
+      label: Ridolfo Campeggi
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FHb6zxLqq78x
+      section: 7
+      pages: 6
+      label: La distruzione di Gierusalemme
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5HJWdrzniH6G
+      label: religion
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mmNaTApfKuRD
+      label: martyrdom
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8DvdSnc9KiTf
+      label: Jesus Christ
+  text:
+    - |-
+      Infelice Signor, hor questo è'l merto,
+      Che della tua bontà fra noi riporti,
+      Per aprirci il camin scosceso, & erto
+      Di gire al Ciel, quai pene, ahi non sopporti?
+      Perché mostrasti il tuo potere aperto,
+      Sanando gl'egri, e ravvivando i morti,
+      Sarai costretto dallo stuol feroce
+      Lasciar il corpo essanimato in Croce.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/infelice_signor,_hor_questo_è'l_merto
+  jpeg:
+    - 001.jpeg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/mMhYhS5WkMKJ.json
+content:
+  markdown_content: ""

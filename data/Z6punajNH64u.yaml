@@ -1,0 +1,58 @@
+metadata:
+  class: Book
+  label: Rime toscane della Maddalena Acciaioli
+  description:
+  aliases:
+  base_name: Rime toscane della Maddalena Acciaioli
+  filename: Rime toscane della Maddalena Acciaioli.md
+  id: Z6punajNH64u
+  n_id: 641458967284974078525
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE034945
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime toscane della Maddalena Acciaioli gentildonna fiorentina. In lode della serenissima signora Cristina di Loreno gran duchessa di Toscana
+  inception:
+    - value: 1590
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE034945
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      publication_date: 1590
+      external_source: https://books.google.it/books?id=FLkXLaP4IskC
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Jd4syX5mnmQY
+        label: Francesco Tosi
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NQtNz4bi24Fm
+      label: Cristina di Lorena
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBSPmMsCucNE
+      label: Maddalena Salvetti-Aceiaiuoli
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Z6punajNH64u.json
+content:
+  markdown_content: ""

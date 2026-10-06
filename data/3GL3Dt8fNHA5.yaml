@@ -1,0 +1,54 @@
+metadata:
+  class: Agent
+  base_name: Eleanor of Toledo
+  filename: Eleanor of Toledo.md
+  label: Eleanor of Toledo
+  id: 3GL3Dt8fNHA5
+  n_id: 25818827500492568712
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Nx8bqYnm9d6V
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      start_date: 1575
+      label: Accademia degli Alterati di Firenze
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iajxupbXH9BQ
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WvTteUPEscDk
+        label: literary host
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4usXbncM6hhD
+          label: (Levy 2017)
+      label: Tullia d'Aragona
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4gDUdsQ3zgkL
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4usXbncM6hhD
+          label: (Levy 2017)
+      label: parlour game
+  catalog_identifier:
+  identifier:
+    - http://www.wikidata.org/entity/Q237717
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4usXbncM6hhD
+      label: (Levy 2017)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/3GL3Dt8fNHA5.json
+content:
+  markdown_content: ""

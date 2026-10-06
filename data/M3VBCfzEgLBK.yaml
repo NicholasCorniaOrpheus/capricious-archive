@@ -1,0 +1,41 @@
+metadata:
+  class: Organisation
+  base_name: Accademia degli Intrepidi di Ferrara
+  filename: Accademia degli Intrepidi di Ferrara.md
+  label: Accademia degli Intrepidi di Ferrara
+  id: M3VBCfzEgLBK
+  n_id: 392616644486251495157
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1601
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 385
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6Gy8kmXZ4q3U
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cW5TYy5yxrHw
+          label: (Tostini 2017)
+      label: Prospero Bonarelli della Rovere
+  interested_in:
+  notable_work:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/M3VBCfzEgLBK.json
+content:
+  markdown_content: ""

@@ -1,0 +1,90 @@
+metadata:
+  class: NotatedMusic
+  label: Aeri racolti insieme
+  description:
+  aliases:
+  base_name: Aeri racolti insieme
+  filename: Aeri racolti insieme.md
+  id: 24JgpP5MrNjd
+  n_id: 830015009694859361
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV51830010
+    - https://edit16.iccu.sbn.it/titolo/CNCE036469
+    - https://rism.online/sources/993120641
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  title:
+    - Aeri racolti insieme con altri bellissimi aggionti di diversi doue si cantano sonetti, stanze & terze rime, novamente ristampati
+  inception:
+    - value: 1577
+  has_version:
+    - publication_date: 1577
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+          label: Napoli
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_R/R229/
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE036469
+      note: Tenor part is missing
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UKYoTw5GTXnY
+      label: Francesco Menta
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SYXvz6cQGJiQ
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      label: Scipione Delle Palle
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KnJT5DynpjVR
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      label: Scipione Dentice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jERuKxubbJfM
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      label: Fabrizio Dentice
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3mAz8wmT77NF
+      label: Pietro Bembo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+        label: editor
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HzasmqtrdEz9
+      label: Rocco Rodio
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2XhtX4ZoJ8mP
+      label: arie per cantare
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZfNKvkLUjDx6
+      label: extemporary poetry
+  has_part:
+  instrumentation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      quantity: 1
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/24JgpP5MrNjd.json
+content:
+  markdown_content: ""

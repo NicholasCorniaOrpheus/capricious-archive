@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: villotta
+  description:
+  aliases:
+    - villotte
+  base_name: villotta
+  filename: villotta.md
+  id: 523Judr7ZjMx
+  n_id: 61915934936685260280
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1092924
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LqoPnrNyioRc
+      label: type of musical work
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/523Judr7ZjMx.json
+content:
+  markdown_content: ""

@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  aliases:
+    - sea vessel
+    - water vehicle
+    - boat
+    - ship
+  base_name: watercraft
+  filename: watercraft.md
+  label: watercraft
+  id: GfJn75HsAD4J
+  n_id: 302404367927624215900
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/my6YsDbEHxhR
+      label: artificial object
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q1229765
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GfJn75HsAD4J.json
+content:
+  markdown_content: ""

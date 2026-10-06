@@ -1,0 +1,107 @@
+metadata:
+  class: Book
+  label: Del tempio alla divina signora donna Giovanna d'Aragona
+  description:
+  aliases:
+  base_name: Del tempio alla divina signora donna Giovanna d'Aragona
+  filename: Del tempio alla divina signora donna Giovanna d'Aragona.md
+  id: YnKescy9oBAL
+  n_id: 635118546667516503216
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE034685
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+      label: (Faini 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+      label: (Artese 1983)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Del tempio alla diuina signora donna Giouanna d'Aragona, fabricato da tutti i più gentili spiriti, & in tutte le lingue principali del mondo. Prima parte
+  inception:
+    - value: 1554
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE034685
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k5aPQaUQUikE
+        label: Plinio Pietrasanta
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1554
+      external_source: https://books.google.be/books?id=pieUY6J0_SgC
+      IIIF_manifest: https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/3A7DA31E88C94EF0B9E85611EC20825D/manifest/11DA2E15D10E4BD893F78A959D3DF8E1
+      note: Google Books provides a reprint from 1555
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8icLUpLyZSch
+      label: Giovanni Battista Giraldi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C4NXw8vEgx8e
+      label: Gaspara Stampa
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TKRDn69yygok
+      label: Girolamo Muzio
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C4NXw8vEgx8e
+      label: Gaspara Stampa
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k45eMWn7fDrH
+      label: Fausta Tacita
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8FS3byBrtF9L
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      label: Annibale Caro
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bN5CAXDKu3e4
+      label: Alessandro Piccolomini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUugReNRnF66
+      label: Giovanna d'Aragona
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+        label: Girolamo Ruscelli
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WmxGq9NZGSDT
+      label: editor
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5kTufm84drrw
+      label: salon
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://public-api.prod.os01.ocp.cineca.it/api/v1/apipublic/resource/3A7DA31E88C94EF0B9E85611EC20825D/manifest/11DA2E15D10E4BD893F78A959D3DF8E1
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YnKescy9oBAL.json
+content:
+  markdown_content: ""

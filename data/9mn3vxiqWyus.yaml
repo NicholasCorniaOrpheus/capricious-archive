@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: lightning
+  description:
+  aliases:
+    - folgore
+    - fulmine
+    - saetta
+  base_name: lightning
+  filename: lightning.md
+  id: 9mn3vxiqWyus
+  n_id: 160298411790386921431
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q33741
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/N4bFzzPPkFAZ
+      label: natural phenomenon
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9mn3vxiqWyus.json
+content:
+  markdown_content: ""

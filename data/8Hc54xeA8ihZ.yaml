@@ -1,0 +1,58 @@
+metadata:
+  class: Agent
+  base_name: Giulio Camillo
+  filename: Giulio Camillo.md
+  label: Giulio Camillo
+  id: 8Hc54xeA8ihZ
+  n_id: 129462189107614313098
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  identifier:
+    - http://www.wikidata.org/entity/Q331003
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DnqfDbSMBwP8
+      label: (Bolzoni 2004)
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6JKjMpUiERee
+      label: philosopher
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bdwM987NK5hr
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z6FmxQq4Hf3E
+        label: artistic legacy
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DnqfDbSMBwP8
+          label: (Bolzoni 2004)
+      label: Francesco Patrizi
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HQauM5aczgKi
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z6FmxQq4Hf3E
+        label: artistic legacy
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+          label: (Artese 1983)
+      label: Orazio Toscanella
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bxtQcQpdXsKm
+      label: hermeticism
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YhKrNQitoXh8
+      label: art of memory
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+  catalog_identifier:
+  present_in_work:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8Hc54xeA8ihZ.json
+content:
+  markdown_content: ""

@@ -1,0 +1,69 @@
+metadata:
+  class: Book
+  label: Il Meschino, altramente detto il Guerrino, fatto in ottava rima dalla signora Tullia d'Aragona
+  description:
+  aliases:
+  base_name: Il Meschino, altramente detto il Guerrino, fatto in ottava rima dalla signora Tullia d'Aragona
+  filename: Il Meschino, altramente detto il Guerrino, fatto in ottava rima dalla signora Tullia d'Aragona.md
+  id: 6JQyzUwccM4D
+  n_id: 88482104040363262820
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE002290
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2akh6MQphaCo
+      label: (Lucioli 2024)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Il Meschino, altramente detto il Guerrino, fatto in ottaua rima dalla signora Tullia d'Aragona. Opera, nella quale si veggono & intendono le parti principali di tutto il mondo, & molte altre dilettuolissime cose, da esser sommamente care ad ogni sorte di persona di bello ingegno
+  inception:
+    - value: 1560
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE002290
+      external_source: http://badigit.comune.bologna.it/books/sol/395215_INV.pdf
+      publication_date: 1560
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ETxQtbjAywwf
+        label: Melchiorre Sessa
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE002290
+      external_source: https://www.google.be/books/edition/Il_Meschino_altramente_detto_il_Guerrino/hgw8AAAAcAAJ
+      publication_date: 1560
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ETxQtbjAywwf
+        label: Melchiorre Sessa
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iajxupbXH9BQ
+      label: Tullia d'Aragona
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Z6udgtgZac9G
+      label: chivalry
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2akh6MQphaCo
+          label: (Lucioli 2024)
+      label: Orlando furioso
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6JQyzUwccM4D.json
+content:
+  markdown_content: ""

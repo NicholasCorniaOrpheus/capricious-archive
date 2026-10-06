@@ -1,0 +1,42 @@
+metadata:
+  class: Organisation
+  label: Accademia dei Caliginosi di Ancona
+  description:
+  aliases:
+  base_name: Accademia dei Caliginosi di Ancona
+  filename: Accademia dei Caliginosi di Ancona.md
+  id: kLXVvQVexunJ
+  n_id: 873411698883797210002
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cW5TYy5yxrHw
+      label: (Tostini 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aX6Cz8PZFKLC
+      label: Ancona
+  official_website:
+  catalog_identifier:
+  member:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQtqbRoGY6GZ
+        label: founder
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6Gy8kmXZ4q3U
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cW5TYy5yxrHw
+          label: (Tostini 2017)
+      label: Prospero Bonarelli della Rovere
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kLXVvQVexunJ.json
+content:
+  markdown_content: ""

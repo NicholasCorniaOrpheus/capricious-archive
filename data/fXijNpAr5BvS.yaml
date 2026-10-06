@@ -1,0 +1,48 @@
+metadata:
+  class: Agent
+  label: Lodovico Domenichi
+  description:
+  aliases:
+    - Ludovico Domenichi
+  base_name: Lodovico Domenichi
+  filename: Lodovico Domenichi.md
+  id: fXijNpAr5BvS
+  n_id: 774285930409397694309
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3257803
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XA5ekHU5qVb9
+      label: Accademia degli Ortolani di Piacenza
+  occupation:
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dFBY2MBzDaiA
+        label: colleague
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R8gaAppcmFNh
+          label: (Moroncini 2017)
+      label: Anton Francesco Doni
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 16550
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/fXijNpAr5BvS.json
+content:
+  markdown_content: ""

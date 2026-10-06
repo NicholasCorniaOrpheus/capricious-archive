@@ -1,0 +1,34 @@
+metadata:
+  class: Organisation
+  label: Herzog August Library
+  description:
+  aliases:
+  base_name: Herzog August Library
+  filename: Herzog August Library.md
+  id: QReKY2bsnGvx
+  n_id: 462547169863820929758
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q663820
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U72CH62RBSiC
+      label: digital library
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://www.hab.de/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  related_to:
+  motto:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/QReKY2bsnGvx.json
+content:
+  markdown_content: ""

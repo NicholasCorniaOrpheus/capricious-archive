@@ -1,0 +1,46 @@
+metadata:
+  class: Book
+  label: Fiori di sacra poesia dell'Irresoluto Accademico Intronato
+  description:
+  aliases:
+  base_name: Fiori di sacra poesia dell'Irresoluto Accademico Intronato
+  filename: Fiori di sacra poesia dell'Irresoluto Accademico Intronato.md
+  id: CVNqJuQekRCD
+  n_id: 216266198330359816331
+statements:
+  identifier:
+    - http://id.sbn.it/bid/TO0E007828
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Fiori di sacra poesia dell'Irresoluto Accademico Intronato. Raccolti da Gio. Francesco Polelli
+  inception:
+    - value: 1625
+  has_version:
+    - publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3HUBR8JHNkkm
+        label: Libraria della Luna
+      publication_date: 1625
+      permalink: http://id.sbn.it/bid/TO0E007828
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      external_source: https://books.google.be/books?id=P0B3fRdTBQEC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NDRQPafFjYTy
+      label: Carlo Papini
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CVNqJuQekRCD.json
+content:
+  markdown_content: ""

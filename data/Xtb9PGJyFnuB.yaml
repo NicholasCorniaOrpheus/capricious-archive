@@ -1,0 +1,51 @@
+metadata:
+  class: Book
+  label: Ragionamento di Luca Contile sopra la proprietà delle imprese con le particolari de gli Academici Affidati et con le interpretationi et croniche
+  description:
+  aliases:
+  base_name: Ragionamento di Luca Contile sopra la proprietà delle imprese con le particolari de gli Academici Affidati et con le interpretationi et croniche
+  filename: Ragionamento di Luca Contile sopra la proprietà delle imprese con le particolari de gli Academici Affidati et con le interpretationi et croniche.md
+  id: Xtb9PGJyFnuB
+  n_id: 616753183262921079822
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Ragionamento di Luca Contile sopra la proprietà delle imprese con le particolari de gli Academici Affidati et con le interpretationi et croniche
+  inception:
+    - value: 1574
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE013187
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9rv9WBBJ8RwF
+          label: Pavia
+      publication_date: 1574
+      external_source: https://viewer.onb.ac.at/10A13998/
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/10A13998
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SYmHzsMtnvd6
+        label: Girolamo Bartoli
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Hbv5BTLjNJJU
+      label: Luca Contile
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jvXE4XLN7yQS
+      label: emblem book
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/10A13998
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Xtb9PGJyFnuB.json
+content:
+  markdown_content: ""

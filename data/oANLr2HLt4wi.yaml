@@ -1,0 +1,48 @@
+metadata:
+  class: Agent
+  label: Leandro Bovarini
+  description:
+  aliases:
+  base_name: Leandro Bovarini
+  filename: Leandro Bovarini.md
+  id: oANLr2HLt4wi
+  n_id: 931640890646821212181
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q18945590
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tjNWon78ob2
+      start_date: 1608
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+      label: Accademia degli Umoristi di Roma
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tjNWon78ob2
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+          label: (Teza 2017)
+      label: Accademia degli Umoristi di Roma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/oANLr2HLt4wi.json
+content:
+  markdown_content: ""

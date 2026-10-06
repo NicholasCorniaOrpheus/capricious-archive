@@ -1,0 +1,55 @@
+metadata:
+  class: MusicComposition
+  label: Canta Urania la parte (Merula)
+  description:
+  aliases:
+  base_name: Canta Urania la parte (Merula)
+  filename: Canta Urania la parte (Merula).md
+  id: 7y9GosMVcaHQ
+  n_id: 123137442599866952476
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/037180000040101_000000159300C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Kq4PswoDPxtR
+      label: Giulio Renaldi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/J4GCGhBtmbuU
+      label: Tarquinio Merula
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aGFSMJpbq9LY
+      label: Il Primo Libro de Madrigali concertati a quattro, cinque, sei, sette, et otto voci, con il suo basso continuo di Tarquinio Merula
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KoJRngEjE7d7
+      label: Canta Urania la parte
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/merula-canta_urania_la_parte
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - bc_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/7y9GosMVcaHQ.json
+content:
+  markdown_content: ""

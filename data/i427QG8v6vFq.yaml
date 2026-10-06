@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Braghi 2011)
+  description:
+  aliases:
+    - braghiLAccademiaOrtolani154315452011
+  base_name: (Braghi 2011)
+  filename: (Braghi 2011).md
+  id: i427QG8v6vFq
+  n_id: 826160663022466476857
+statements:
+  isbn:
+    - "9788895153155"
+  described_by_source:
+  part_of:
+  citation:
+    - "Braghi, Gianmarco. 2011. L’Accademia degli Ortolani (1543-1545): eresia, stampa e cultura a Piacenza nel medio Cinquecento / Gianmarco Braghi. Piacenza: Edizioni L.I.R."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/braghiLAccademiaOrtolani154315452011.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/i427QG8v6vFq.json
+content:
+  markdown_content: ""

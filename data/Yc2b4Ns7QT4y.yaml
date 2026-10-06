@@ -1,0 +1,52 @@
+metadata:
+  class: Book
+  base_name: Academicorum Insensator. Carmina
+  filename: Academicorum Insensator. Carmina.md
+  label: Academicorum Insensator. Carmina
+  id: Yc2b4Ns7QT4y
+  n_id: 631389811848266812093
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Aurelii Ursii, Maphaei Barbarini, Claudii Contuli, Jo. Baptistae Lauri, Vincentii Palettarii, M. Ant. Bonciarii, Academicorum Insensator. Carmina
+  inception:
+    - value: 1606
+  has_version:
+    - permalink: https://mdz-nbn-resolving.de/details:bsb10609710
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10609710/manifest
+      publication_date: 1606
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CpPUGMLmsAJZ
+          label: Perugia
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10609710
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BpATM36nYWpT
+      label: Accademia degli Insensati di Perugia
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GEFAfEGG8p4Q
+      label: (Sacchini 2020)
+  identifier:
+    - http://id.sbn.it/bid/BVEE040577
+assets:
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10609710/manifest
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Yc2b4Ns7QT4y.json
+content:
+  markdown_content: ""

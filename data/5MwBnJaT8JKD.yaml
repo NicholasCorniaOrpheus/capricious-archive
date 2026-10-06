@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: Venetian
+  description:
+  aliases:
+    - Venetian dialect
+  base_name: Venetian
+  filename: Venetian.md
+  id: 5MwBnJaT8JKD
+  n_id: 69124049906610766787
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q32724
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/g3NvasDg98iG
+      label: language
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/5MwBnJaT8JKD.json
+content:
+  markdown_content: ""

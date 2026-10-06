@@ -1,0 +1,47 @@
+metadata:
+  class: MusicComposition
+  base_name: T'amo, mia vita, la mia cara vita (Aleotti)
+  filename: T'amo, mia vita, la mia cara vita (Aleotti).md
+  label: T'amo, mia vita, la mia cara vita (Aleotti)
+  id: GenF85GBkd7c
+  n_id: 302216723180927542039
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HcGnpY9zTGoY
+      label: Vittoria Aleotti
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a3fxbFBpFjK2
+      label: Battista Guarini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MZUS3iUrUfEX
+      label: Ghirlanda de madrigali a quattro voci di Vittoria Aleotti
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MBSaamfrMkFi
+      label: T'amo, mia vita, la mia cara vita
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  local_asset_path: ./assets/music_compositions/aleotti-t'amo,_mia_vita,_la_mia_cara_vita
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GenF85GBkd7c.json
+content:
+  markdown_content: ""

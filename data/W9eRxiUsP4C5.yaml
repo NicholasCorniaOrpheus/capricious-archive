@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: travel
+  description:
+  aliases:
+  base_name: travel
+  filename: travel.md
+  id: W9eRxiUsP4C5
+  n_id: 580570752778891730259
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q61509
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/W9eRxiUsP4C5.json
+content:
+  markdown_content: ""

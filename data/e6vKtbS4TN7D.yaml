@@ -1,0 +1,76 @@
+metadata:
+  class: MusicComposition
+  label: Poiché del vostro canto (Agostini)
+  description:
+  aliases:
+  base_name: Poiché del vostro canto (Agostini)
+  filename: Poiché del vostro canto (Agostini).md
+  id: e6vKtbS4TN7D
+  n_id: 744672798683843118263
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F219100000010101_000000002400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8BCR9vyKpTL
+      label: Giaches de Wert
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SjqizepxoSSs
+      label: Lodovico Agostini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XSLwZmE43osQ
+      note: Ad imitatione del Sig. Giaches Wert
+      label: Il nuovo echo a cinque voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Poiché del vostro canto
+      Gentil Signora i' vivo,
+      Fatemi gratia tanto,
+      Che di quel mai non mi sia fatto nego.
+      Deh cantate vi prego,
+      Cantate in cortesia.
+      Cara la vita mia.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/agostini-poiché_del_vostro_canto
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/e6vKtbS4TN7D.json
+content:
+  markdown_content: As purely speculative statement, we can image that this madrigal could refer to the singing skills of [Tarquinia Molza](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4), related to [Giaches de Wert](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8BCR9vyKpTL) by a strong feeling of affection.

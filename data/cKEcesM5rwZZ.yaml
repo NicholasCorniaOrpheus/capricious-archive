@@ -1,0 +1,28 @@
+metadata:
+  class: Concept
+  label: donkey
+  description:
+  aliases:
+    - asino
+    - ass
+    - ciuchino
+    - somaro
+    - jackass
+  base_name: donkey
+  filename: donkey.md
+  id: cKEcesM5rwZZ
+  n_id: 707855241201337359007
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q19707
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cKEcesM5rwZZ.json
+content:
+  markdown_content: ""

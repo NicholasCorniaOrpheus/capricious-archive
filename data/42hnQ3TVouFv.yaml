@@ -1,0 +1,67 @@
+metadata:
+  class: Book
+  label: Rime de la signora Laura Terracina
+  description:
+  aliases:
+  base_name: Rime de la signora Laura Terracina
+  filename: Rime de la signora Laura Terracina.md
+  id: 42hnQ3TVouFv
+  n_id: 41524452742635619777
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE026144
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime de la signora Laura Terracina
+  inception:
+    - value: 1548
+  has_version:
+    - external_source: http://badigit.comune.bologna.it/books/sol/36001_INV.pdf
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1553
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE054756
+      note: Contribution by Anton Francesco Doni
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE026144
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1548
+      external_source: https://viewer.onb.ac.at/10A5531C/
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/10A5531C
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      note: Contribution in the 1553 reprint.
+      label: Anton Francesco Doni
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/10A5531C
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/42hnQ3TVouFv.json
+content:
+  markdown_content: ""

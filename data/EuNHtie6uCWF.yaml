@@ -1,0 +1,60 @@
+metadata:
+  class: Book
+  label: Le trasformationi di m. Lodovico Dolce
+  description:
+  aliases:
+  base_name: Le trasformationi di m. Lodovico Dolce
+  filename: Le trasformationi di m. Lodovico Dolce.md
+  id: EuNHtie6uCWF
+  n_id: 266223298435724595778
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE054429
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VQNC7fJmPEqj
+      label: (Bolzoni and Girotto 2013)
+  instance_of:
+  title:
+  inception:
+    - value: 1553
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE054429
+      external_source: https://books.google.it/books?id=ADSF54X1V-MC
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1553
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JvjJXFE5exkU
+      label: Ovid
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+        label: Lodovico Dolce
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VWVDBDaC8szG
+      label: translator
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/evkr2baE5Du2
+      label: translation
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/99cprNhigxtK
+      label: mythology
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/25aVTU3ikP69
+      label: transformation
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cTU9de5G8bU5
+      label: Metamorphoses
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EuNHtie6uCWF.json
+content:
+  markdown_content: ""

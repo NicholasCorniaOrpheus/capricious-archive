@@ -1,0 +1,59 @@
+metadata:
+  class: Book
+  base_name: I diporti di m. Girolamo Parabosco
+  filename: I diporti di m. Girolamo Parabosco.md
+  label: I diporti di m. Girolamo Parabosco
+  id: Xr5dSnWMoPtK
+  n_id: 615841699658176948739
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg6xCVoGsz3M
+      label: short story collection
+  title:
+    - I diporti di m. Girolamo Parabosco. Con gli suoi enigmi di nuouo agiontiui. Et nouamente ristampati et diligentissimamente reuisti
+  inception:
+    - sourcing_circumstances:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TaGGAqtcuLZx
+        label: circa
+      value: 1550
+  has_version:
+    - external_source: https://books.google.be/books?id=-Rw8AAAAcAAJ
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/h3HKCpiQzxtx
+        label: Domenico Giglio
+      publication_date: 1558
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE025852
+    - publication_date: ~1550
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE023570
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1564
+      note: Reprint with "enigmi".
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZcWT5Zdy9Zwp
+      label: Girolamo Parabosco
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8LkVSvtxvTfr
+      label: riddle
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEzLJyn6DSCy
+      label: novella
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE059259
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Xr5dSnWMoPtK.json
+content:
+  markdown_content: ""

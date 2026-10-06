@@ -1,0 +1,60 @@
+metadata:
+  class: PoeticWork
+  base_name: Le Temerarie Imprese, i strani effetti
+  filename: Le Temerarie Imprese, i strani effetti.md
+  label: Le Temerarie Imprese, i strani effetti
+  id: bjmv83AxR5PP
+  n_id: 696106982009465556402
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YXSurDyNHSdr
+      label: Pietro Aretino
+  part_of:
+    - section: Canto I, 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SifJFtUcR76e
+      label: Astolfeide del divino Pietro Aretino
+  based_on:
+    -
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KH2RsQHZMHpE
+      label: knight
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Le Temerarie Imprese, i strani effetti, 
+      I Cuor Bramosi, l'insatiabil menti,
+      De' Cavallieri Erranti, i gran Concetti, 
+      Le Sorti, i Paragon di tutte genti, 
+      Baron da Mensa, & Campioni da Letti, 
+      Di Carlo Magno, & tutti i suoi parenti, 
+      De' Paladin da ver di quei da Ciance 
+      Canto l'Armi, l'Amor fra spade, & lance.
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iFXJgwZy2vLK
+      label: (Selepiuc 2020)
+assets:
+  local_asset_path: ./assets/poems/le_temerarie_imprese,_i_strani_effetti
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bjmv83AxR5PP.json
+content:
+  markdown_content: ""

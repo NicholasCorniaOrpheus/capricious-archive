@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Desmoulière 2017)
+  description:
+  aliases:
+    - desmoulierePanoramaRecueilsCollectifs2017
+  base_name: (Desmoulière 2017)
+  filename: (Desmoulière 2017).md
+  id: hSVsY2SQEUCb
+  n_id: 813665903946728438664
+statements:
+  identifier:
+    - http://www.jstor.org/stable/45391164
+  described_by_source:
+  part_of:
+  citation:
+    - "Desmoulière, Paule. 2017. ‘Panorama Des Recueils Collectifs de Poésie Funèbre En Italie, 1470-1645’. Annali Della Scuola Normale Superiore Di Pisa. Classe Di Lettere e Filosofia 9 (1). Scuola Normale Superiore: 59–77."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/desmoulierePanoramaRecueilsCollectifs2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hSVsY2SQEUCb.json
+content:
+  markdown_content: ""

@@ -1,0 +1,82 @@
+metadata:
+  class: PoeticWork
+  label: Come soglia apparir Comica scena
+  description:
+  aliases:
+  base_name: Come soglia apparir Comica scena
+  filename: Come soglia apparir Comica scena.md
+  id: kYtTiRpobzt5
+  n_id: 877889233291078555731
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/agAvDjPLYaLN
+      label: Flaminio Scala
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZDdFhdEi4CQn
+      label: Cesare Orsini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U8QH2ZNaC9bX
+      section: Del Sig. Cesare Orsino all'Autore.
+      label: Il teatro delle favole rappresentative, overo La ricreatione comica, boschereccia, e tragica
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B8dgc6juwKxU
+      label: actor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/agAvDjPLYaLN
+      label: Flaminio Scala
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PuzofSmPxjQf
+      label: theater
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Come soglia apparir Comica scena,
+      O con tema, e piacer Tragico Marte,
+      Come diletto apporti in altra parte
+      Rustico suon di boscareccia avena,
+
+      Con chiari esempi, e con faconda vena
+      Flavio, hor n’insegni, e scopri in poche carte
+      Alto valor, somma virtù, grand’arte,
+      Ond'è tua nobil mente adorna, e piena.
+
+      Il Teatro per te via più gentile
+      Diviene, e del tuo nome, e del tuo honore
+      Suona la Regia, e in un la selva humile.
+
+      E se prima n’andar Febo, & Amore,
+      Per l’altrui ingegno alteri, hor del tuo stile
+      Han trionfo più bel, gloria maggiore.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/come_soglia_apparir_comica_scena
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kYtTiRpobzt5.json
+content:
+  markdown_content: ""

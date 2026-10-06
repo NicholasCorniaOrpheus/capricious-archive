@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  aliases:
+    - mille
+    - "1000"
+    - one thousand
+  base_name: thousand
+  filename: thousand.md
+  label: thousand
+  id: FHkhZJZzAo88
+  n_id: 273968366890473945564
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q43016
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FHkhZJZzAo88.json
+content:
+  markdown_content: ""

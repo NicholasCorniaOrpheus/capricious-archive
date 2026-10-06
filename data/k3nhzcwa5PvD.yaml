@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  aliases:
+    - tempo
+  base_name: time
+  filename: time.md
+  label: time
+  id: k3nhzcwa5PvD
+  n_id: 867353749574985731012
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q11471
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/k3nhzcwa5PvD.json
+content:
+  markdown_content: ""

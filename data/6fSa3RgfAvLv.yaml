@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  base_name: secret
+  filename: secret.md
+  label: secret
+  id: 6fSa3RgfAvLv
+  n_id: 96094836423005284078
+statements:
+  instance_of:
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q113925598
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6fSa3RgfAvLv.json
+content:
+  markdown_content: ""

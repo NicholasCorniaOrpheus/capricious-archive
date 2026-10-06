@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Procaccioli 2020)
+  description:
+  aliases:
+    - procaccioliAccademiaComePalestra2020
+  base_name: (Procaccioli 2020)
+  filename: (Procaccioli 2020).md
+  id: JN6dMgvoxfCV
+  n_id: 337444409264233594701
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Procaccioli, Paolo. 2020. ‘Accademia Come Palestra e Come Tribuna: Girolamo Ruscelli Sdegnato, Ardente, Dubbioso, Fratteggiano’. In The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent, edited by Jane E. Everson, Denis V. Reidy, and Lisa Sampson, 214–32. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+  isbn:
+    - 978-1-909662-57-5
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/procaccioliAccademiaComePalestra2020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JN6dMgvoxfCV.json
+content:
+  markdown_content: ""

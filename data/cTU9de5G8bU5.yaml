@@ -1,0 +1,38 @@
+metadata:
+  class: Book
+  aliases:
+    - Metamorfosi
+  base_name: Metamorphoses
+  filename: Metamorphoses.md
+  label: Metamorphoses
+  id: cTU9de5G8bU5
+  n_id: 710837417322855734040
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q184742
+  instance_of:
+  title:
+  inception:
+  has_version:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JvjJXFE5exkU
+      label: Ovid
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/99cprNhigxtK
+      label: mythology
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/25aVTU3ikP69
+      label: transformation
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cTU9de5G8bU5.json
+content:
+  markdown_content: ""

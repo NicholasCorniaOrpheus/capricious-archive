@@ -1,0 +1,64 @@
+metadata:
+  class: Book
+  label: Madrigali del cavalier Gio. Maria Bonardo fratteggiano
+  description:
+  aliases:
+  base_name: Madrigali del cavalier Gio. Maria Bonardo fratteggiano
+  filename: Madrigali del cavalier Gio. Maria Bonardo fratteggiano.md
+  id: 53AwWJ6fYC5v
+  n_id: 62326505740231197493
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE074091
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+      label: (Artese 1983)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Madrigali del caualier Gio. Maria Bonardo fratteggiano. Dedicati alla illustrissima signora Lucretia Gonzaga marchesana
+  inception:
+    - value: 1563
+  has_version:
+    - publication_date: 1598
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE006858
+      external_source: https://www.google.be/books/edition/Madriagli_Nuouamente_ampliati_reuisti_co/uulmAAAAcAAJ
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LkfiMupDKcRG
+        label: Agostino Zoppini
+      note: 2nd edition.
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE074091
+      publication_date: 1563
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://www.google.be/books/edition/Madrigali_Del_Cavalier_Gio_Maria_Bonardo/K382l3q5DfkC
+      note: 1st edition.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/54UVcxyjhSou
+      label: Lucrezia Gonzaga
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pgvz7HXbEsUg
+      label: Giovanni Maria Bonardo
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5kTufm84drrw
+      label: salon
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/53AwWJ6fYC5v.json
+content:
+  markdown_content: ""

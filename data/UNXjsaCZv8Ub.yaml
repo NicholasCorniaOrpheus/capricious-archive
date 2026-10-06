@@ -1,0 +1,55 @@
+metadata:
+  class: Agent
+  label: Maurizio di Savoia
+  description:
+  aliases:
+    - Maurice of Savoy
+  base_name: Maurizio di Savoia
+  filename: Maurizio di Savoia.md
+  id: UNXjsaCZv8Ub
+  n_id: 543962921734215671763
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q610738
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a5j2E6G2kSVz
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WvTteUPEscDk
+        label: literary host
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MmwqyGSf2bpf
+          label: (Terzaghi 2017)
+      label: Accademia degli Ordinati di Roma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WvTteUPEscDk
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MmwqyGSf2bpf
+          label: (Terzaghi 2017)
+      label: literary host
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kmxeyh5sL7th
+      label: cardinal
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 18394
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UNXjsaCZv8Ub.json
+content:
+  markdown_content: ""

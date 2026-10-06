@@ -1,0 +1,57 @@
+metadata:
+  class: PoeticWork
+  label: Urnula quam gemmis auroque; nitere videmus
+  description: Praise to the Eucharistic urn, and its hidden content. But also it can be interpret as the urn of aleatoric outcome?
+  aliases:
+  base_name: Urnula quam gemmis auroque; nitere videmus
+  filename: Urnula quam gemmis auroque; nitere videmus.md
+  id: knJfxDq4XQXR
+  n_id: 882743114332031788604
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9dTpgyZubvQj
+      label: Teofilo Folengo
+  part_of:
+    - section: Finisce lo Chaos del Tri Per Uno. De aurea urna qua includitur Eucharistia
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hoz8AUJg9qBj
+      pages: 110
+      label: Chaos del tri per uno
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Cxgarr2gfrW6
+      label: devotion
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+  poetic_type:
+  metre:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SDkR7GqHfn49
+      label: Pandora's box
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+  text:
+    - |-
+      Urnula, quam gemmis auroque; nitere videmus
+      Quaeritur angusto quid ferat illa sinus
+      Haud ea pestifero Pandorae infecta veterno
+      Intulit omnivagas orbe adaperta febres.
+      At pretium, quo non aliud pretiosius, ipsa haec
+      Quod rerum amplexus non capit, urna capit.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/urnula_quam_gemmis_auroque;_nitere_videmus
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/knJfxDq4XQXR.json
+content:
+  markdown_content: ""

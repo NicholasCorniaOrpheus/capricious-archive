@@ -1,0 +1,86 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Innominati di Parma
+  description:
+  aliases:
+  base_name: Accademia degli Innominati di Parma
+  filename: Accademia degli Innominati di Parma.md
+  id: gRTuK3ASUXq4
+  n_id: 792655465267657881467
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q55595339
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+      label: (Sampson 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A4rvytnvP86g
+      label: Parma
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 106
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jXNmFacV8VjK
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+          label: (Sampson 2020)
+      label: Muzio Manfredi
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L7bwrWL3mguJ
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+          label: (Sampson 2020)
+      label: Angelo Ingegneri
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/G35qGbLoFcWv
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+          label: (Sampson 2020)
+      label: Angelo Grillo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg8JCZR6z88s
+        label: visitor
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+          label: (Sampson 2020)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a3fxbFBpFjK2
+      label: Battista Guarini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg8JCZR6z88s
+        label: visitor
+      start_date: 1581
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+          label: (Sampson 2020)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh
+      label: Torquato Tasso
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg8JCZR6z88s
+        label: visitor
+      start_date: 1607
+      end_date: 1608
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BYS2dCp2ckrV
+          label: (Moralejo Ortega 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mvgBJSj73GUY
+      label: Federico Zuccari
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cF3HzyFDHqfG
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+          label: (Sampson 2020)
+      label: pastoral drama
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gRTuK3ASUXq4.json
+content:
+  markdown_content: ""

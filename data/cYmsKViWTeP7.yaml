@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: wheel of Fortune
+  description:
+  aliases:
+    - Rota Fortunae
+  base_name: wheel of Fortune
+  filename: wheel of Fortune.md
+  id: cYmsKViWTeP7
+  n_id: 712760203383571438835
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3087892
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PAfwtQUEB4mS
+      label: emblem
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/cYmsKViWTeP7.json
+content:
+  markdown_content: ""

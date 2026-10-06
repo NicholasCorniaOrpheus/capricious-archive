@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: French
+  description:
+  aliases:
+  base_name: French
+  filename: French.md
+  id: Ms3nGerh8vPt
+  n_id: 409833014186600395763
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q150
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/g3NvasDg98iG
+      label: language
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Ms3nGerh8vPt.json
+content:
+  markdown_content: ""

@@ -1,0 +1,54 @@
+metadata:
+  class: Book
+  label: De' pensieri diversi di Alessandro Tassoni libri dieci
+  description:
+  aliases:
+  base_name: De' pensieri diversi di Alessandro Tassoni libri dieci
+  filename: De' pensieri diversi di Alessandro Tassoni libri dieci.md
+  id: 9AwBHGuVBPXj
+  n_id: 147685226083589804348
+statements:
+  identifier:
+    - http://id.sbn.it/bid/TO0E002808
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/D5meAE34UpL5
+      label: (Black 1982)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Dieci libri di pensieri diuersi d'Alessandro Tassoni, ne' quali per via di quisiti con nuoui fondamenti, e ragioni si trattano le più curiose materie naturali, morali, ciuili ... Aggiuntoui nuouamente il decimo libro ... con altri vari quisiti
+  inception:
+    - value: 1620
+  has_version:
+    - permalink: http://id.sbn.it/bid/VIAE002373
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1646
+      external_source: https://books.google.be/books?hl=en&lr=&id=8m85AAAAcAAJ
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TvBSgSfnA9EN
+      label: Alessandro Tassoni
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GUDKFfFZgRMK
+      label: quarrel of ancients and moderns
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9AwBHGuVBPXj.json
+content:
+  markdown_content: ""

@@ -1,0 +1,68 @@
+metadata:
+  class: Book
+  label: La roccella espugnata di Francesco Bracciolini dell'Api
+  description:
+  aliases:
+    - Rocella espugnata
+  base_name: La roccella espugnata di Francesco Bracciolini dell'Api
+  filename: La roccella espugnata di Francesco Bracciolini dell'Api.md
+  id: oHXb93FCPujy
+  n_id: 934233878444180769601
+statements:
+  identifier:
+    - http://id.sbn.it/bid/BVEE044103
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VJ5rjP86CXEj
+      label: (Nicolaci 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - "La roccella espugnata di Francesco Bracciolini dell'Api: al christianissimo rè di Francia Lodouico il Giusto. Con gl'argomenti à ciascun canto del sig. Desiderio Montemagni"
+  inception:
+    - value: 1630
+  has_version:
+    - permalink: http://id.sbn.it/bid/BVEE044103
+      publication_date: 1630
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+          label: Roma
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nG3xV5PKXSq2
+        label: Vitale Mascardi
+      external_source: https://books.google.be/books?id=ogbj49_s2awC
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/29KJqfsF4AHJ
+        label: commentator
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BchZ7tsikWnf
+      label: Desiderio Montemagni
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Q57Cnerm4JKJ
+      label: Maria de' Medici
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8QjTyYA5kYWU
+      label: Louis XIII of France
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5VnPArQNv59S
+      label: Francesco Bracciolini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/g2TYpmUsEJGa
+      label: religious war
+  has_part:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hnGUsqmNR3ko
+      label: Gierusalemme liberata, poema heroico del sig. Torquato Tasso
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/oHXb93FCPujy.json
+content:
+  markdown_content: ""

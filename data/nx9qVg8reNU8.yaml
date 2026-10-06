@@ -1,0 +1,68 @@
+metadata:
+  class: PoeticWork
+  label: La bella Flora, che da voi sol spera
+  description:
+  aliases:
+  base_name: La bella Flora, che da voi sol spera
+  filename: La bella Flora, che da voi sol spera.md
+  id: nx9qVg8reNU8
+  n_id: 927579146686248217863
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aPSR2wpq8iGj
+      label: Veronica Gambara
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fvh8Y8qPzemN
+      section: Veronica Gambara.
+      pages: 2
+      label: Rime di diversi eccellenti autori bresciani
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KYaWr5fqGBH7
+      label: Flora
+  text:
+    - |-
+      La bella Flora, che da voi sol spera
+      Famosi Heroi, e libertate e pace,
+      Fra speranza, e timor si strugge e sface;
+      E spesso dice hor mansueta, hor fera:
+
+      Oh de' miei figli saggia e prima schiera
+      Perché di non seguir l'orme vi piace
+      Di chi col ferro, e con la mano audace
+      Vi fe' al mio scampo aperta strada e vera?
+
+      Perché sì tardi al mio soccorso andate?
+      Già non produssi voi liberi e lieti
+      Perché lasciaste me serva, e dolente.
+
+      Quanta sia in voi virtù dunque mostrate
+      E col consiglio, e con la man possente
+      Fate libera me, voi salvi e queti.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/la_bella_flora,_che_da_voi_sol_spera
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nx9qVg8reNU8.json
+content:
+  markdown_content: ""

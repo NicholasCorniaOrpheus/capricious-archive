@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: theft
+  description:
+  aliases:
+    - stealing
+    - furto
+  base_name: theft
+  filename: theft.md
+  id: gmhgm73RgBs2
+  n_id: 799983654745428996294
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q2727213
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gmhgm73RgBs2.json
+content:
+  markdown_content: ""

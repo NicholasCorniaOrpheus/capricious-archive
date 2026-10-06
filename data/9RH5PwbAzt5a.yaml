@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Chiummo, Geremicca, and Tosini 2017)
+  description:
+  aliases:
+    - chiummoIntrecciVirtuosiLetterati2017
+  base_name: (Chiummo, Geremicca, and Tosini 2017)
+  filename: (Chiummo, Geremicca, and Tosini 2017).md
+  id: 9RH5PwbAzt5a
+  n_id: 152873714982120084536
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Chiummo, Carla, Antonio Geremicca, and Patrizia Tosini, eds. 2017. Intrecci virtuosi: letterati, artisti e accademie tra Cinque e Seicento. Roma: De Luca editori d’arte."
+  isbn:
+    - 978-88-6557-321-1
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/chiummoIntrecciVirtuosiLetterati2017.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9RH5PwbAzt5a.json
+content:
+  markdown_content: ""

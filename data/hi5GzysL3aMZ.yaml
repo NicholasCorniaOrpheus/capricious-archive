@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Gambara 1995)
+  description:
+  aliases:
+    - gambaraRime1995
+  base_name: (Gambara 1995)
+  filename: (Gambara 1995).md
+  id: hi5GzysL3aMZ
+  n_id: 819302154871248043261
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Gambara, Veronica. 1995. Le rime. Translated by Alan Bullock. Italian medieval and Renaissance studies 6. Firenze Perth: L. S. Olschki The University of W. Australia, Department of italian."
+  isbn:
+    - 978-88-222-4308-9
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/gambaraRime1995.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hi5GzysL3aMZ.json
+content:
+  markdown_content: ""

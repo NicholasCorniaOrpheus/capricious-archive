@@ -1,0 +1,33 @@
+metadata:
+  class: Agent
+  base_name: Francesco degli Oddi
+  filename: Francesco degli Oddi.md
+  label: Francesco degli Oddi
+  id: X3SwbLe3ZhDA
+  n_id: 598961536212584943500
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CpPUGMLmsAJZ
+      label: Perugia
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BpATM36nYWpT
+      label: Accademia degli Insensati di Perugia
+  occupation:
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/X3SwbLe3ZhDA.json
+content:
+  markdown_content: ""

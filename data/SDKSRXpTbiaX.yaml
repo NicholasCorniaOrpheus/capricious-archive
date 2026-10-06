@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Perella 1969)
+  description:
+  aliases:
+    - perellaKissSacredProfane2023
+  base_name: (Perella 1969)
+  filename: (Perella 1969).md
+  id: SDKSRXpTbiaX
+  n_id: 499354659217252540853
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Perella, Nicolas J. (1969) 2023. The Kiss Sacred and Profane: An Interpretative History of Kiss Symbolism and Related Religio-Erotic Themes. University of California Press."
+  isbn:
+    - 978-0-520-34886-8
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/perellaKissSacredProfane2023.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SDKSRXpTbiaX.json
+content:
+  markdown_content: ""

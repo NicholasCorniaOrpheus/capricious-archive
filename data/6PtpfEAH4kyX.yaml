@@ -1,0 +1,72 @@
+metadata:
+  class: Book
+  label: Della corona di Apollo composta del piu vago de' fiori di permesso. Da Piergirolamo Gentile
+  description:
+  aliases:
+  base_name: Della corona di Apollo composta del piu vago de' fiori di permesso. Da Piergirolamo Gentile
+  filename: Della corona di Apollo composta del piu vago de' fiori di permesso. Da Piergirolamo Gentile.md
+  id: 6PtpfEAH4kyX
+  n_id: 90469071119499277505
+statements:
+  identifier:
+    - http://id.sbn.it/bid/UM1E012216
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2F501650010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PJtahBbEtZMD
+      label: drama collection
+  title:
+    - Della corona di Apollo composta del piu vago de' fiori di permesso. Da Piergirolamo Gentile. Parte [prima]-seconda
+  inception:
+    - value: 1605
+  has_version:
+    - external_source: https://www.google.be/books/edition/Della_corona_di_Apollo_composta_del_piu/BxFJAAAAcAAJ
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1610
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XQYGJEHjbN2Q
+        label: Sebastiano Combi
+      note: Volume 1
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XQYGJEHjbN2Q
+        label: Sebastiano Combi
+      publication_date: 1610
+      external_source: https://books.google.it/books?id=UW70o2UQOUwC
+    - publication_date: 1605
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XQYGJEHjbN2Q
+        label: Sebastiano Combi
+      external_source: https://books.google.it/books?id=j0JeDQd826AC
+      permalink: http://id.sbn.it/bid/UM1E012216
+      note: volume 2
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ezaKHvUmNr5c
+      label: Accademia dei Trasformati di Lecce
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6PtpfEAH4kyX.json
+content:
+  markdown_content: ""

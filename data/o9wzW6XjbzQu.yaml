@@ -1,0 +1,76 @@
+metadata:
+  class: MusicComposition
+  label: Fermano il corso ai venti (Milleville)
+  description:
+  aliases:
+  base_name: Fermano il corso ai venti (Milleville)
+  filename: Fermano il corso ai venti (Milleville).md
+  id: o9wzW6XjbzQu
+  n_id: 931492650915761678217
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/102390000010101_000000161700C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7FeDbjrMGHRk
+      label: (Taschetti 2024)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4
+      label: Tarquinia Molza
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YdXiLDnH4XMc
+      label: Alessandro Milleville
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JXwh4igXGs97
+      label: Giardino de musici ferraresi madrigali a cinque voci
+  instrumentation:
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Fermano il corso ai venti 
+      E rapiscono l'alme 
+      Tarquinia dolce i tuoi soavi accenti 
+      E se per le bellezze d'un'altra Giove dal superno coro 
+      Scese nei boschi e transformos'intorno 
+      Hor l'eterna armonia 
+      Lascia dal ciel e vien humil fra noi 
+      Ombra vana ad udir gl'accenti tuoi.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4
+      label: Tarquinia Molza
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R7sbNmdF69BB
+      label: forest
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JJB6LuxryAUn
+      label: infinity
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/milleville-fermano_il_corso_ai_venti
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/o9wzW6XjbzQu.json
+content:
+  markdown_content: ""

@@ -1,0 +1,77 @@
+metadata:
+  class: PoeticWork
+  label: Uranie vatem sublimes duxit in aedeis
+  description:
+  aliases:
+  base_name: Uranie vatem sublimes duxit in aedeis
+  filename: Uranie vatem sublimes duxit in aedeis.md
+  id: SsymR8xzb5kc
+  n_id: 513355397737226496622
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/F5twPYgd9Q3X
+      label: Giordano Bruno
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5oLQ9LiSvsQY
+      pages:
+      section: Iord. Br. Nol. Aenigma et Paradigma.
+      label: De umbris idearum
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8LkVSvtxvTfr
+      label: riddle
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jjYHNotSf9rt
+      label: ars combinatoria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/99cprNhigxtK
+      label: mythology
+  poetic_type:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LdZT89xoVRXU
+      label: hexameter
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UEx82wKyUY8o
+      label: Urania
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+  text:
+    - |-
+      URanie vatem fublimes duxit in aedeis
+      Quo faceret mentis nubila pulsa suae.
+      Ordine praegnantem quo sunt dispoosta per orbem
+      Indicat extenta singula quaeque manu.
+      Leucadius regno sedet hic tristisque senecta.
+      Praetulit bic degens talia regna patri.
+      Cuspide Marsque potens rapit hinc ea raptaque servat:
+      Aureus hinc Titan haec diuturna facit.
+      Blanda Venus grato hinc numerosa ea reddit amore,
+      Pacis & armorum hinc, arbiter hic superis.
+      Hinc vultu inconstans Lucina & lumine clamat.
+
+      Occubtrum vifent orta & adaucta suum.
+      Bis fenas iuuat hos tam peragrare domos,
+      Ordine sunt postquam concepta palatia coeli,
+      Bis senas iuvat hos iam peragrare domos.
+      Egrediare senex varios subiture locorum
+      Anfractus: varias insinuando notas:
+      Huic divum succede parens. Succede Gradive.
+      Smintheum numen, Cnidia nata mari.
+      Atlantis succede nepos Cyllenia proles.
+      Delia nec cesses caelo Erebéque potens.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/uranie_vatem_sublimes_duxit_in_aedeis
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SsymR8xzb5kc.json
+content:
+  markdown_content: ""

@@ -1,0 +1,54 @@
+metadata:
+  class: MusicComposition
+  label: Fiere silvestre, che per lati campi (Ruffo)
+  description:
+  aliases:
+  base_name: Fiere silvestre, che per lati campi (Ruffo)
+  filename: Fiere silvestre, che per lati campi (Ruffo).md
+  id: GQw65dUeGjz7
+  n_id: 297204412076009499125
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F103150000010101_000000215000C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dbbU5aPBAxvp
+      label: Jacopo Sannazaro
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cv9uVmQKzPqv
+      label: Vincenzo Ruffo
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8EwCd4MA6Sx7
+      label: Il primo libro de madrigali, a note negre di Vincenzo Ruffo
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o7oGjV7N4yBq
+      label: Ingiustissimo Amor perché sì raro
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/ruffo-fiere_silvestre,_che_per_lati_campi
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/GQw65dUeGjz7.json
+content:
+  markdown_content: ""

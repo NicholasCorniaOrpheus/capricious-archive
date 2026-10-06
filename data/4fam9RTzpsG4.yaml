@@ -1,0 +1,81 @@
+metadata:
+  class: Agent
+  label: Tarquinia Molza
+  description:
+  aliases:
+  base_name: Tarquinia Molza
+  filename: Tarquinia Molza.md
+  id: 4fam9RTzpsG4
+  n_id: 54875085775061539904
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q274484
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+      label: (Sampson 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fJA6BDZUy9AL
+      label: (Stras 2018)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nMhmAzGuYK4c
+      label: (Riley 1986)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/34LsSWtbTh3a
+      label: Modena
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+      label: Ferrara
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A4rvytnvP86g
+      label: Parma
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gRTuK3ASUXq4
+      start_date: 1580
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EqmkB5MVBD5R
+          label: (Sampson 2020)
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia degli Innominati di Parma
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+      label: composer
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VWVDBDaC8szG
+      label: translator
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DSK596BdwpXR
+      label: singer
+  related_to:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GcTBTPrRxSj7
+      relationship:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dFBY2MBzDaiA
+        label: colleague
+      label: Pietro Vinci
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 16263
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/4fam9RTzpsG4.json
+content:
+  markdown_content: |-
+    ```
+    Tarquinia Molsa Unica. Pudicitiae exemplar, musarum ocellus, et scientiarum deliciae.
+    ```
+    Epitaph of Tarquinia Molza.

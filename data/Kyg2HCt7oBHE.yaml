@@ -1,0 +1,54 @@
+metadata:
+  class: Book
+  label: La finta mora
+  description:
+  aliases:
+  base_name: La finta mora
+  filename: La finta mora.md
+  id: Kyg2HCt7oBHE
+  n_id: 370963516662733850175
+statements:
+  identifier:
+    - http://id.sbn.it/bid/BVEE023175
+    - https://corago.unibo.it/libretto/DRT0018957
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A7K8FzhUQ2Bq
+      label: (Cosentino 2017)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/msxfd4FmShMU
+      label: Corago. Repertorio e archivio di libretti del melodramma italiano dal 1600 al 1900
+  instance_of:
+    - "[[libretto]]"
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nR5FxU5FRPkD
+      label: comedy
+  title:
+    - La finta mora commedia del dottor Iacopo Cicognini accademico intronato
+  inception:
+    - value: 1623
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A7K8FzhUQ2Bq
+          label: (Cosentino 2017)
+  has_version:
+    - permalink: http://id.sbn.it/bid/BVEE023175
+      publication_date: 1625
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      external_source: https://arbor.medialibrary.it/item/8f7d76c6-7005-4f66-a940-d2a3dee05079
+      IIIF_manifest: https://archiginnasio.jarvis.memooria.org/meta/iiif/8f7d76c6-7005-4f66-a940-d2a3dee05079/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/maVFhk6h8CqB
+      label: Iacopo Cicognini
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://archiginnasio.jarvis.memooria.org/meta/iiif/8f7d76c6-7005-4f66-a940-d2a3dee05079/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Kyg2HCt7oBHE.json
+content:
+  markdown_content: ""

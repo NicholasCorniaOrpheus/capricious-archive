@@ -1,0 +1,74 @@
+metadata:
+  class: PoeticWork
+  label: Piangete meco, afflitti occhi dolenti
+  description:
+  aliases:
+  base_name: Piangete meco, afflitti occhi dolenti
+  filename: Piangete meco, afflitti occhi dolenti.md
+  id: Ff7hQRoBKMr3
+  n_id: 281698078744103176342
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/67AiHmyDq9hS
+      label: Virginia Martini Salvi
+  part_of:
+    - section: Di Mad. Virginia Martini de' Salvi, Senese.
+      pages: 164
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XjSeXnJQ9W6d
+      label: Rime diverse d'alcune nobilissime, et virtuosissime donne
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4zDHNwC4tdTU
+      label: eye
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NknErMsF55g9
+      label: thorn
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5rXXXivjHnqu
+      label: ingenuity
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      PIANGETE meco, afflitti occhi dolenti,
+      Privi del vostro chiaro, & vivo Sole;
+      Piangete Luci sconsolate, & sole,
+      Che i suoi bei rai per Voi son hoggi spenti
+
+      Tu, mesto cuore, a miei sospiri ardenti
+      Dà larga via, poi ch'empia Morte vuole,
+      Ch'Io pur mi viva in sì dogliose scuole,
+      Tenendo i sensi al primo oggetto intenti.
+
+      Altro soggetto il mio pensiero imprime
+      Nel petto perch'Io scriva in vive carte
+      Con altro stile hor le sue glorie prime.
+
+      Et dove manca in Me l'ingegno, & l'arte;
+      Supplirà il duol, che con acute lime
+      Mi punge, & rode dentro a parte, a parte.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/piangete_meco,_afflitti_occhi_dolenti
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Ff7hQRoBKMr3.json
+content:
+  markdown_content: ""

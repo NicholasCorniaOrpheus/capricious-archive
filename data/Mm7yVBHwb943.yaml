@@ -1,0 +1,41 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Oziosi di Napoli
+  description:
+  aliases:
+  base_name: Accademia degli Oziosi di Napoli
+  filename: Accademia degli Oziosi di Napoli.md
+  id: Mm7yVBHwb943
+  n_id: 407687470234368951301
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+      label: Napoli
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 17
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VkQaPhBBEyhd
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+          label: Italian Academies Database
+      label: Giulio Cesare Capaccio
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Mm7yVBHwb943.json
+content:
+  markdown_content: ""

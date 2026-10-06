@@ -1,0 +1,88 @@
+metadata:
+  class: PoeticWork
+  label: Ov'è (misera me) quell'aureo crine
+  description:
+  aliases:
+  base_name: Ov'è (misera me) quell'aureo crine
+  filename: Ov'è (misera me) quell'aureo crine.md
+  id: aiwn98Pi27Xo
+  n_id: 675171674105312498226
+statements:
+  identifier:
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=22689
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a6zVndVnGyLC
+      label: Pietro Manelli
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iajxupbXH9BQ
+      label: Tullia d'Aragona
+  part_of:
+    - pages: 11
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Uro5vKqScg9H
+      section: A Pietro Manelli.
+      label: Rime della signora Tullia di Aragona et di diversi a lei
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUkQiYzJMHtq
+      label: anaphora
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HXwdX5qkqNv6
+      label: departure
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR7sSTMz4jjt
+      label: despair
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FawktbqjQdSF
+      label: oxymoron
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NknErMsF55g9
+      label: thorn
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nCimZWBzP648
+      label: death
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CVuqCwtB3BdJ
+      label: life
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XEsomeCuBNMG
+      label: chain
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Ov'è (misera me) quell'aureo crine,
+      Di cui fe' rete per pigliarmi Amore?
+      Ov'è (lassa) il bel viso, onde l'ardore
+      Nasce, che mena la mia vita al fine?
+
+      Ove son quelle luci alte & divine,
+      In cui dolce si vive, e insieme more?
+      Ov'è la bianca man, che lo mio core
+      Stringendo punse con acute spine?
+
+      Ove suonan l'angeliche parole,
+      Ch'in un momento mi dan morte, & vita?
+      U i cari sguardi, u le maniere belle?
+
+      Ove luce hora il vivo almo mio Sole,
+      Con cui dolce destin mi venne in sorte
+      Quanto mai piovve da benigne stelle?
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/ov'è_(misera_me)_quell'aureo_crine
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aiwn98Pi27Xo.json
+content:
+  markdown_content: ""

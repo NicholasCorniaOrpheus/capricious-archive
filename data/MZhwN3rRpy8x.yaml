@@ -1,0 +1,56 @@
+metadata:
+  class: Book
+  label: Madrigali del magnifico signor cavalier Luigi Cassola
+  description:
+  aliases:
+  base_name: Madrigali del magnifico signor cavalier Luigi Cassola
+  filename: Madrigali del magnifico signor cavalier Luigi Cassola.md
+  id: MZhwN3rRpy8x
+  n_id: 403558783165942781499
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE009895
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/002250010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Madrigali del magnifico signor cauallier Luigi Cassola piacentino
+  inception:
+    - value: 1544
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE009895
+      publication_date: 1544
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://books.google.it/books?id=OIusG9Td-fwC
+    - permalink: https://hdl.handle.net/2027/gri.ark:/13960/t7fr2qs3j
+      publication_date: 1545
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      external_source: https://babel.hathitrust.org/cgi/pt?id=gri.ark:/13960/t7fr2qs3j
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VGVHbg5uSE8V
+      label: Luigi Cassola
+  subject:
+  has_part:
+  based_on:
+  catalog_identifier:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MZhwN3rRpy8x.json
+content:
+  markdown_content: ""

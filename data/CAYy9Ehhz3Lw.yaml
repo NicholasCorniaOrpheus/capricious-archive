@@ -1,0 +1,27 @@
+metadata:
+  class: BibliographicResource
+  label: (Sangalli 2020)
+  description:
+  aliases:
+    - sangalliChurchUniversityAcademies2020
+  base_name: (Sangalli 2020)
+  filename: (Sangalli 2020).md
+  id: CAYy9Ehhz3Lw
+  n_id: 209451952164113692424
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3trBJ33k7YmX
+      label: (Everson, Reidy, and Sampson 2020)
+  citation:
+    - "Sangalli, Maurizio. 2020. ‘Between Church, University and Academies: Paolo Beni in Padua, 1599-1623’. In The Italian Academies 1525-1700: Networks of Culture, Innovation and Dissent, edited by Jane E. Everson, Denis V. Reidy, and Lisa Sampson, 118–29. Italian Perspectives 31. London New York: Routledge, Taylor & Francis Group."
+  isbn:
+    - 978-1-909662-57-5
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/sangalliChurchUniversityAcademies2020.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CAYy9Ehhz3Lw.json
+content:
+  markdown_content: ""

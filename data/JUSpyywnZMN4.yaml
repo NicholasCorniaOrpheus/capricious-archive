@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: parent
+  description:
+  aliases:
+  base_name: parent
+  filename: parent.md
+  id: JUSpyywnZMN4
+  n_id: 339744935172747032207
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q7566
+  described_by_source:
+  opposite_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cUPhYVXwwzmw
+      label: child
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/JUSpyywnZMN4.json
+content:
+  markdown_content: ""

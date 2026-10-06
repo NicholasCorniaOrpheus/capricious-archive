@@ -1,0 +1,72 @@
+metadata:
+  class: PoeticWork
+  label: Io grido Pace, e Amor mi sfida a guerra
+  description:
+  aliases:
+  base_name: Io grido Pace, e Amor mi sfida a guerra
+  filename: Io grido Pace, e Amor mi sfida a guerra.md
+  id: FwCUKJMLfX2Q
+  n_id: 287520910748040048052
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F050630000101_PPPP00195700C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bc8ENq8LbxeG
+      label: Maurizio Moro
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GpCVYdi8S5s2
+      volume: 2
+      section: Sopra una Giovane, detta Pace. 8
+      pages: 125
+      label: I tre giardini de' madrigali del Costante, Academico Cospirante, Maurizio Moro
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9XkyVfBG5hTX
+      label: love
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KX53XRWp7L4v
+      label: juxtaposition
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XwH9EYzEQGKP
+      label: war
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AkfWFSmvPUnJ
+      label: kiss
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Io grido Pace, e Amor mi sfida a guerra
+      Strali rinforza, ed d'armi
+      Ogni riparo, ogni difesa atterra;
+      Se vuoi, ch'io mi disarmi,
+      O lascia di ferire,
+      O sia mia Pace, che ti porge ardire,
+      Ché mentr'è Pace, non convien ch'huom s'armi.
+      Ma tempo è, occhi vivaci,
+      Di lasciar l'armi, e guerreggiar co'baci.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/io_grido_pace,_e_amor_mi_sfida_a_guerra
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FwCUKJMLfX2Q.json
+content:
+  markdown_content: ""

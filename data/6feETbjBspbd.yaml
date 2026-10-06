@@ -1,0 +1,78 @@
+metadata:
+  class: PoeticWork
+  base_name: Quando nell'ocean l'altera fonte
+  filename: Quando nell'ocean l'altera fonte.md
+  label: Quando nell'ocean l'altera fonte
+  id: 6feETbjBspbd
+  n_id: 96168872645349044264
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RU2aFypUA6xt
+      label: Ortensia Colonna
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZmpBx2YXnpkE
+      label: Laura Battiferri
+  part_of:
+    - section: Alla S. Eufemia
+      pages: 28
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FtN769fGvnbS
+      label: Il primo libro dell'opere toscane di m. Laura Battiferra degli Ammannati
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FZP8Rx3LsDxz
+      label: shepherd
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8JCJNiEPyPxR
+      label: Sun
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YStEQL5Rsman
+      label: Moon
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ByPQWJQU37nM
+      label: night
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Quando nell'ocean l'altera fronte
+      Inchina il Sole, e 'l nostro Mondo imbruna,
+      E dal più basso Ciel la fredda Luna
+      Sormonta, e fa d'argento ogn'altro monte.
+
+      Partesi il buon Pastor dal chiaro fonte,
+      E la sua greggie, alla sua mandra aduna,
+      E'l stanco pellegrin raccoglie in una
+      Le forze stanche al suo voler mal pronte;
+
+      Et io che veggio avvicinar la notte,
+      E volar l'hore, e i giorni, gli anni, e i lustri,
+      E già dal quinto indietro mi rivolgo.
+
+      Il passo affretto, e prima che s'annotte,
+      Lo stuol de'pensier miei sparsi raccolgo
+      Per fargli in Cielo eternamente illustri.
+  described_by_source:
+assets:
+  local_asset_path: ./assets/poems/quando_nell'ocean_l'altera_fonte
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6feETbjBspbd.json
+content:
+  markdown_content: ""

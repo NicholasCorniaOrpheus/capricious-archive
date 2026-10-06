@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: Protestantism
+  description:
+  aliases:
+  base_name: Protestantism
+  filename: Protestantism.md
+  id: KLWL2754PANf
+  n_id: 357506744980842773017
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q23540
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HZXQN5BsCvnx
+      label: religious movement
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KLWL2754PANf.json
+content:
+  markdown_content: ""

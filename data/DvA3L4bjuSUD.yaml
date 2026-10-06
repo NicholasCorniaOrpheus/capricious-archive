@@ -1,0 +1,127 @@
+metadata:
+  class: PoeticWork
+  label: Costor, che voi vedete arditi, e fieri
+  description: The Turks are making a mockery of the knights errants of the West and their female counterparts.
+  aliases:
+  base_name: Costor, che voi vedete arditi, e fieri
+  filename: Costor, che voi vedete arditi, e fieri.md
+  id: DvA3L4bjuSUD
+  n_id: 245871590461075272734
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2rMEHf4Fhun
+      label: Anton Francesco Grazzini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gk7k6gQBqrbE
+      volume: 2
+      pages: 446-448
+      section: Canto de' Cavalieri Erranti del Lasca
+      label: Tutti i trionfi, carri, mascherate o canti carnascialeschi andati per Firenze dal tempo del Magnifico Lorenzo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iWMn6FHJ2W74
+      label: satire
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  poetic_type:
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KH2RsQHZMHpE
+      label: knight
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2uHcFcbRzB9
+      label: duel
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Costor, che voi vedete, arditi e fieri,
+      Sì ben forniti d'arme, e di cavalli.
+      Donne, son tutti erranti Cavalieri.
+      Per lo mondo ne vanno alla sicura,
+      Cercando in ogni parte
+      Di trovar lor ventura,
+      E la forza mostrar, l'ingegno e l'arte;
+      Ma dietro al fiero Marte
+      Più desiosi vanno, e più contenti
+      Dove si faccian giostre, o torniamenti.
+
+      Di queste Donne valorose, e belle
+      Son tutti innamorati;
+      E così son da quelle
+      Più che la cara e propia vita amati:
+      Tanto che seguitati
+      Da lor son con piacere in ogni loco,
+      Accese il petto d'amoroso foco.
+
+      E ben ch'or siano in abito succinto,
+      Spesso van tutte armate;
+      E sopra il destrier vinto
+      Con lance, e stocchi han più giostre onorate:
+      In guerra son usate,
+      E negli assalti perigliosi, e fieri
+      Mess'han di sotto mille buon guerrieri.
+
+      Sopr'ogni cosa fanno per amore
+      Quest'uomini gran prove,
+      Perché desìo d'onore
+      A belle imprese sol gl'infiamma e move:
+      E qui, sì come altrove,
+      vVglion del lor valor, Donne, far mostra
+      Co'vostri amanti, provandosi in giostra.
+
+      Dunque a Signori, Conti, e Cavalieri
+      Intender per noi fanno,
+      Siccome arditi, e fieri,
+      Domani a Santa Croce ne verranno
+      Armati, e proveranno
+      Che queste loro accorte Damigelle
+      Di tutte l'altre son più caste e belle.
+
+      Or chi d'alcuna la beltà infinita
+      Credesse guadagnare,
+      Ponga a rischio la vita,
+      E venga armato in sul campo a giostrare;
+      E se per singolare
+      Sua virtù vince, e resta in sull'arcione,
+      Avrà la Dama, o rimarrà prigione.
+
+      Ma se voi, Donne, fuor d'ogn'uso umano,
+      Foste state ingiuriate
+      Da Cavalier villano,
+      O dagli amanti schernite, o lasciate;
+      Udirlo a costor fate,
+      Che per l'obbligo lor verranno a furia
+      A far vendetta d'ogni vostra ingiuria.
+
+      Turcimanni siam noi, ch'a voi davanti,
+      Donne, parlat'abbiamo,
+      Che per interpetrar le lingue andiamo
+      Con questi invitti Cavalieri erranti.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/costor,_che_voi_vedete_arditi,_e_fieri
+  jpg:
+    - 001.jpg
+    - 002.jpg
+    - 003.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DvA3L4bjuSUD.json
+content:
+  markdown_content: ""

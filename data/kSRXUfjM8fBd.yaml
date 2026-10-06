@@ -1,0 +1,61 @@
+metadata:
+  class: Book
+  label: Orlando furioso di M. Lodovico Ariosto. Con belle allegorie, et nel fine una breve esposizione di Lodovico Dolce
+  description: French edition, recycling xylographies from Italian versions of the epic poem.
+  aliases:
+  base_name: Orlando furioso di M. Lodovico Ariosto. Con belle allegorie, et nel fine una breve esposizione di Lodovico Dolce
+  filename: Orlando furioso di M. Lodovico Ariosto. Con belle allegorie, et nel fine una breve esposizione di Lodovico Dolce.md
+  id: kSRXUfjM8fBd
+  n_id: 875545962654467662928
+statements:
+  identifier:
+    - http://ark.bnf.fr/ark:/12148/cb30026885n
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cygyrPSnobpc
+      label: chivalric poem
+  title:
+    - Orlando furioso, di M. Lodovico Ariosto... con cinque canti... et altre stanze del medesimo nuovamente aggiunti, con belle allegorie, et nel fine una breve espositione (da Lodovico Dolce)
+  inception:
+    - value: 1556
+  has_version:
+    - IIIF_manifest: https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8701226j/manifest.json
+      permalink: http://ark.bnf.fr/ark:/12148/cb30026885n
+      external_source: https://gallica.bnf.fr/ark:/12148/bpt6k8701226j
+      publication_date: 1556
+      note:
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FzS4CPzkMkJY
+          label: Lyon
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3ErfQUUd3DzH
+        label: Bibliothèque nationale de France
+      publisher:
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/29KJqfsF4AHJ
+        label: commentator
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RE3XAqvEyiZM
+      label: Lodovico Dolce
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fnaMY86gpvzk
+      label: art print
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://gallica.bnf.fr/iiif/ark:/12148/bpt6k8701226j/manifest.json
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kSRXUfjM8fBd.json
+content:
+  markdown_content: ""

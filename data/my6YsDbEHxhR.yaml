@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  aliases:
+    - artefact
+    - artifact
+    - non-natural object
+  base_name: artificial object
+  filename: artificial object.md
+  label: artificial object
+  id: my6YsDbEHxhR
+  n_id: 907284373540727917928
+statements:
+  instance_of:
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q16686448
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/my6YsDbEHxhR.json
+content:
+  markdown_content: ""

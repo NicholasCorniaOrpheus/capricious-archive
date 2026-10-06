@@ -1,0 +1,71 @@
+metadata:
+  class: Book
+  label: Theatrum chemicum Britannicum
+  description:
+  aliases:
+  base_name: Theatrum chemicum Britannicum
+  filename: Theatrum chemicum Britannicum.md
+  id: KSpWpdNMJkEv
+  n_id: 359794476540937658941
+statements:
+  identifier:
+    - https://name.umdl.umich.edu/A75719.0001.001
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Eb5aj2HkQaXZ
+      label: (Forshaw 2010)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Theatrum chemicum Britannicum· Containing severall poeticall pieces of our famous English philosophers, who have written the hermetique mysteries in their owne ancient language. / Faithfully collected into one volume, with annotations thereon, by Elias Ashmole, Esq. Qui est Mercuriophilus Anglicus. The first part.
+  inception:
+    - value: 1652
+  has_version:
+    - publication_date: 1652
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/M4CDHkHzJWTe
+          label: London
+      permalink: https://name.umdl.umich.edu/A75719.0001.001
+      external_source: https://archive.org/details/theatrumchemicum00ashm
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GQ2cDPWxBAg5
+        label: Internet Archive
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/f8uFunXi7cjV
+      label: Elias Ashmole
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6
+      label: alchemy
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pkoygy4mPEmk
+      label: English
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAkMZBpLwrNE
+      label: Latin
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KSpWpdNMJkEv.json
+content:
+  markdown_content: |-
+    Collection of several alchemical writings dating from the 15th-century, such as _Ordinall of Alchymy_ by Thomas Norton.
+
+    On page 60 we can find an example of musical theory of [proportion](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FzHkt4cv9QNY) applied to [alchemy](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Y6NAvRmdtq6):
+
+    Joyne your Elements Musically,
+    For two causes, one is for Melody:
+    Which there accords will make to your mind,
+    The trewe effect when that ye shall finde.
+    And also for like as Diapafon,
+    With Diapente and with Diatesseron,
+    With ypate, ypaton, and Lecanos muse,
+    With other accords which in Musick be,
+    With their proporcions causen Harmony,
+    Much like proportions be in Alkimy,

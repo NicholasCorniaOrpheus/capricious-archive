@@ -1,0 +1,27 @@
+metadata:
+  class: BibliographicResource
+  label: (Wilbourne 2007)
+  description:
+  aliases:
+    - wilbourneIsabellaRingiovinitaVirginia2007
+  base_name: (Wilbourne 2007)
+  filename: (Wilbourne 2007).md
+  id: UDnCN4u7MtNP
+  n_id: 540796381680032168823
+statements:
+  identifier:
+    - https://www.jstor.org/stable/41701474
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/U9tv2wDqzfAZ
+      label: Recercare
+  citation:
+    - "Wilbourne, Emily. 2007. ‘Isabella Ringiovinita\": Virginia Ramponi Andreini before\" Arianna’. Recercare 19 (1/2). JSTOR: 47–71."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/wilbourneIsabellaRingiovinitaVirginia2007.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/UDnCN4u7MtNP.json
+content:
+  markdown_content: ""

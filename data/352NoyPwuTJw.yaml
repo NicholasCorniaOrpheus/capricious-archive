@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  aliases:
+    - Democritus atomic hypothesis.
+  base_name: atomism
+  filename: atomism.md
+  label: atomism
+  id: 352NoyPwuTJw
+  n_id: 21724318340452035623
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q178668
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/352NoyPwuTJw.json
+content:
+  markdown_content: ""

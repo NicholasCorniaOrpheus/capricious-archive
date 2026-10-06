@@ -1,0 +1,31 @@
+metadata:
+  class: Concept
+  label: magician
+  description:
+  aliases:
+    - witch
+    - wizard
+    - sorcerer
+    - sorceress
+    - megera
+    - maga
+    - fattucchiera
+    - mago
+  base_name: magician
+  filename: magician.md
+  id: NmhmV8hW6RjH
+  n_id: 428537982595291517640
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q148401
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NmhmV8hW6RjH.json
+content:
+  markdown_content: ""

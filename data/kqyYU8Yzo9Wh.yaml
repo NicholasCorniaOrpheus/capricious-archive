@@ -1,0 +1,52 @@
+metadata:
+  class: Book
+  label: Predica de i sogni
+  description:
+  aliases:
+  base_name: Predica de i sogni
+  filename: Predica de i sogni.md
+  id: kqyYU8Yzo9Wh
+  n_id: 884076086420294784315
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE004130
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+      label: (Faini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FoqX9WfTveaZ
+      label: treatise
+  title:
+    - Predica de i sogni composta per lo reuerendo padre Hypneo da Schio
+  inception:
+    - value: 1542
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KL2a3Eox62dw
+        label: Francesco Marcolini
+      publication_date: 1542
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE004130
+      external_source: https://bnedigital.bne.es/bd/es/viewer?id=40c387ad-80bf-4d08-bd0c-17253d29616e
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JKAhThScA78F
+        label: Biblioteca Nacional de España
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7fshJCKQUuMv
+      label: Daniele Barbaro
+  subject:
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  local_asset_path:
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kqyYU8Yzo9Wh.json
+content:
+  markdown_content: According to [(Faini 2020)](https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8), Barbaro is advocating doubt "as a _habitus_ of thought". Ancient believes are questioned, opening the doors to new knowledge and intellectual tolerance.

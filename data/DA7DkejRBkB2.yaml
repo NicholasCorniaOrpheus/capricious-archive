@@ -1,0 +1,23 @@
+metadata:
+  class: BibliographicResource
+  aliases:
+    - macneilDivineMadnessIsabella1995
+  base_name: (McNeil 1995)
+  filename: (McNeil 1995).md
+  label: (McNeil 1995)
+  id: DA7DkejRBkB2
+  n_id: 229924231870911876549
+statements:
+  part_of:
+  citation:
+    - "MacNeil, Anne. 1995. ‘The Divine Madness of Isabella Andreini’. Journal of the Royal Musical Association 120 (2). Taylor & Francis: 195–215."
+  isbn:
+  identifier:
+    - https://www.jstor.org/stable/766509
+assets:
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/macneilDivineMadnessIsabella1995.bib
+  iiif:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DA7DkejRBkB2.json
+content:
+  markdown_content: ""

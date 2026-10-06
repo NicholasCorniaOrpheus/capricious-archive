@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  aliases:
+    - figure of speech
+  base_name: rhetorical figure
+  filename: rhetorical figure.md
+  label: rhetorical figure
+  id: Qswn49Yodruc
+  n_id: 472070965423280120044
+statements:
+  instance_of:
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q10690215
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Qswn49Yodruc.json
+content:
+  markdown_content: ""

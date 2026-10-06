@@ -1,0 +1,41 @@
+metadata:
+  class: Agent
+  label: Cristina di Lorena
+  description:
+  aliases:
+    - Christina of Lorraine
+  base_name: Cristina di Lorena
+  filename: Cristina di Lorena.md
+  id: NQtNz4bi24Fm
+  n_id: 421002642396949672717
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q257579
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/64pGLyTQuipr
+      label: House of Medici
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9SP9yq5BpvBd
+      label: politician
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NQtNz4bi24Fm.json
+content:
+  markdown_content: ""

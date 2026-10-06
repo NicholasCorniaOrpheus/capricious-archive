@@ -1,0 +1,47 @@
+metadata:
+  class: Book
+  label: De sonetti di m. Benedetto Varchi, parte prima
+  description:
+  aliases:
+  base_name: De sonetti di m. Benedetto Varchi, parte prima
+  filename: De sonetti di m. Benedetto Varchi, parte prima.md
+  id: d7FhdjCRnhSq
+  n_id: 724153647490164442955
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE034620
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/essfAVeKM7Q7
+      label: EDIT16
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - De sonetti di m. Benedetto Varchi, parte prima
+  inception:
+    - value: 1555
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+          label: Firenze
+      publication_date: 1555
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gEirAnjGirk8
+        label: Lorenzo Torrentino
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE034620
+      external_source: https://books.google.it/books?id=-knLDHx51k8C&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+  subject:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/d7FhdjCRnhSq.json
+content:
+  markdown_content: ""

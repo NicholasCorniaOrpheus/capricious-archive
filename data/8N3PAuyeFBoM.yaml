@@ -1,0 +1,96 @@
+metadata:
+  class: MusicComposition
+  label: Con soave parlar con dolc'accento (Doni)
+  description: I could not find the parts inside of Dialogo della musica.
+  aliases:
+  base_name: Con soave parlar con dolc'accento (Doni)
+  filename: Con soave parlar con dolc'accento (Doni).md
+  id: 8N3PAuyeFBoM
+  n_id: 131064774883423641964
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/330290000010101_000000087200C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2DbZW8TF9KZh
+      label: Biagio Buonaccorsi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+        label: Anton Francesco Doni
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+      label: composer
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4Wg69cHvBfBz
+      label: Dialogo della musica di m. Anton Francesco Doni
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+  based_on:
+  derivative_work:
+  text:
+    - |-
+      Con soave parlar con dolce accento
+      Sì nel mirarvi
+      Altro non è il mio amor che 'l proprio inferno
+      Se 'l tuo partir mi spiacque
+      Occhi miei lassi,
+      Mentre gl'ardenti rai cercai fuggir del sole,
+      Madonna
+      Deh come pur al fin
+      Deh dimmi amor,
+      Poss'io morir
+      Fra più bei fior d'amanti
+      Così nel mio parlar voglio esser aspro,
+      Perché l'inferno è sol vedersi privo
+      Quanto che più rimiro.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9XkyVfBG5hTX
+      label: love
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4zDHNwC4tdTU
+      label: eye
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VYNVkjFDfTij
+      label: gaze
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2QjJCcEtkiC
+      label: light beam
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3cN6GaYEFUgZ
+      label: lover
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/doni-con_soave_parlar_con_dolc'accento
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8N3PAuyeFBoM.json
+content:
+  markdown_content: ""

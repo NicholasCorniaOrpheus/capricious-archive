@@ -1,0 +1,76 @@
+metadata:
+  class: PoeticWork
+  label: Già vidi occhi leggiadri, occhi, ond'Amore
+  description: The author speaks to the eyes (mirror of the soul) of her beloved, who has betrayed her. When shall she find rest from her distress?
+  aliases:
+  base_name: Già vidi occhi leggiadri, occhi, ond'Amore
+  filename: Già vidi occhi leggiadri, occhi, ond'Amore.md
+  id: DcE9FdSdeRcq
+  n_id: 239381056269429386567
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fas4LiyE5uzU
+      label: Isabella Andreini
+  part_of:
+    - section: Sonetto XXV.
+      pages: 26
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UpNUpRqtonTK
+      label: Rime d'Isabella Andreini padovana comica Gelosa
+  based_on:
+  derivative_work:
+  subject:
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/knKLHuWASYk4
+      label: torment
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4zDHNwC4tdTU
+      label: eye
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2QjJCcEtkiC
+      label: light beam
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Già vidi occhi leggiadri, occhi, ond'Amore  
+      M'incende, in voi bella pietà scolpita  
+      Che dolce lusingando al mio dolore,  
+      Al mio fido servir promise aita.
+
+      Hor veggio (lassa) il troppo folle errore  
+      D’ingannato pensier, d’alma tradita;  
+      Veggio, che discacciata (ohimè) dal core  
+      La pietade ne gli occhi era fuggita. 
+
+      Oh sospirati in van dolci riposi  
+      Quali havranno i miei giorni hore tranquille?  
+      Qual guiderdone i miei martiri ascosi?
+
+      Deh potessero almeno in voi le stille  
+      De l'amaro mio pianto occhi amorosi  
+      Quel, che possono in me vostre faville.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/già_vidi_occhi_leggiadri,_occhi,_ond'amore
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DcE9FdSdeRcq.json
+content:
+  markdown_content: ""

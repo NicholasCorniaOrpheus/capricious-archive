@@ -1,0 +1,84 @@
+metadata:
+  class: PoeticWork
+  label: Brunetti al suon de tuoi pregiati accenti
+  description:
+  aliases:
+  base_name: Brunetti al suon de tuoi pregiati accenti
+  filename: Brunetti al suon de tuoi pregiati accenti.md
+  id: H6UFJ3WQyyW5
+  n_id: 311153249641098338250
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JWaXsJnG7wBB
+      label: Domenico Brunetti
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AH6rbTiaz65w
+      label: Cesare Abelli
+  part_of:
+    - section: Di Cesare Abelli il Soligno Accademico Selvaggio, all'auttore.
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TTsgwS8XBCFM
+      label: L'Euterpe di Domenico Brunetti
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TAip7T448drv
+      label: musician
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JWaXsJnG7wBB
+      label: Domenico Brunetti
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5f6kHhAxyPZh
+      label: music making
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DSK596BdwpXR
+      label: singer
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      BRUNETTI al suon de tuoi pregiati accenti
+      Perde il moto l'error, l'Aura i sospiri,
+      Sì che frenati i lor loquaci giri,
+      Fermansi per lo Ciel taciti i Venti.
+
+      Ed io qualhora, inteso a' bei concenti,
+      Bebbi incantata pace a' miei martiri,
+      Né più tranquilli i torbidi desiri,
+      Né sentì mai più dolci i mei tormenti.
+
+      Oh se quando paigommi iniquo Amore,
+      A te correr mi fea mio perfid'Astro,
+      Hor mi fora per te sanato il core.
+
+      Così d'angue crudel medico mastro
+      Less'io guarire il morso, e'l rio dolore
+      Di soave armonia canoro empiastro.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/brunetti_al_suon_de_tuoi_pregiati_accenti
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/H6UFJ3WQyyW5.json
+content:
+  markdown_content: ""

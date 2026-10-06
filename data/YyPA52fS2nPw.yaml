@@ -1,0 +1,67 @@
+metadata:
+  class: Organisation
+  label: Accademia delle Notti Vaticane
+  description:
+  aliases:
+    - Noctes Vaticanae
+  base_name: Accademia delle Notti Vaticane
+  filename: Accademia delle Notti Vaticane.md
+  id: YyPA52fS2nPw
+  n_id: 639123108042941589608
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8kzC44fCXJc
+      label: (Occhipinti 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+    - value: 1562-04-21
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8kzC44fCXJc
+          label: (Occhipinti 2017)
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hbLMcBia2woA
+      label: Roma
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 130
+  member:
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8kzC44fCXJc
+          label: (Occhipinti 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bcvzMeu9TgNw
+      pseudonym: Obbediente
+      label: Agostino Valier
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8kzC44fCXJc
+          label: (Occhipinti 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJigWkauAvXU
+      pseudonym: Nestore
+      label: Sperone Speroni
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8kzC44fCXJc
+          label: (Occhipinti 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fz5mAvyagW5W
+      pseudonym: Risoluto
+      label: Silvio Antoniano
+    - reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X8kzC44fCXJc
+          label: (Occhipinti 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mPqE5ievmfzS
+      pseudonym: Sollecito
+      label: Giovanni Battista Amalteo
+  interested_in:
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YyPA52fS2nPw.json
+content:
+  markdown_content: ""

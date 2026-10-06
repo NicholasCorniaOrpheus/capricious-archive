@@ -1,0 +1,121 @@
+metadata:
+  class: PoeticWork
+  label: Voi ch'ad un'altra & faticosa empresa
+  description:
+  aliases:
+  base_name: Voi ch'ad un'altra & faticosa empresa
+  filename: Voi ch'ad un'altra & faticosa empresa.md
+  id: Py2bcep8fXcM
+  n_id: 453269475875147528254
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9dTpgyZubvQj
+      label: Teofilo Folengo
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hoz8AUJg9qBj
+      label: Chaos del tri per uno
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Cxgarr2gfrW6
+      label: devotion
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NmP27mSFqcCQ
+      label: terzina
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PD77VU2hvP2t
+      label: flying
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/esdPVkcqtoQn
+      label: ice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P9akbwF852t3
+      label: singing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o5E4uDGcg6qr
+      label: insanity
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8DvdSnc9KiTf
+      label: Jesus Christ
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DHTHVpQnvYLr
+      label: humility
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      VOi ch'ad un'alta & faticosa empresa
+      Vedete hor me salir'audacemente
+      Per via mai forse da null'altro intesa,
+
+      Piacciavi d'ascoltare queste lente
+      Mie corde in voce lagrimosa & mesta,
+      Ch'altro non s'ha d'un'anima dolente.
+
+      Et bench'i veda alzandovi la testa
+      Mia virtù debil al salir tant'alto,
+      Di che sovente per viltà s'arresta.
+
+      Pur spiego l'ale, & quanto so m'exalto
+      La've m'accenna il lume d'ogni lume,
+      Per cui non temo alchun spennato salto.
+
+      Che mentre su con le'ncerate piume
+      Tolgomi de le nubi sopra'l velo
+      D'un Dedalo megliore sotto'l nume:
+
+      Vedrò ch'immobil stassi & volge'l cielo,
+      Sostien la terra, & l'universo a'n cenno
+      Volendo po cangiar o'n foco o'n gelo.
+
+      Hor dunque di più sana audacia & senno
+      Ch'Icaro mai non hebbe, a l'ardua via
+      Ambo gli piedi ambo le braccia impenno.
+
+      Et cantovi di questa nostra ria
+      Prigion, che vita nominar non oso.
+      Le frode di essa, il volgo, la pazzia.
+
+      Et di quel Re, che'n un presepio ascoso
+      Vidi fra le duo bestie a gran bisogna
+      Ver se stesso crudel, ver noi piatoso.
+
+      Che svelse il mondo tutto di menzogna,
+      Con sua dottrina colma di quel foco,
+      Ch'arde sì dolce in alma, che non sogna.
+
+      Io dico te Iesù, lo qual'invoco
+      Mio Phebo, mio Helicona, mio Parnasso,
+      Ov’ogni bel pensier al fin colloco.
+
+      So ben, che di te dir via più t'abbasso,
+      Che tacendo non alzo, & pur m'offersi
+      Ecco a dricciar nel tuo bel nome il passo.
+
+      Che, come vedi, son questi miei versi
+      D'amor almanco & charitade in cima
+      Se non toscani, ben sonori, & tersi.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/voi_ch'ad_un'altra_&_faticosa_empresa
+  jpg:
+    - 001.jpg
+    - 002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Py2bcep8fXcM.json
+content:
+  markdown_content: ""

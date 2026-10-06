@@ -1,0 +1,49 @@
+metadata:
+  class: Book
+  base_name: Le imprese illustri del signor Girolamo Ruscelli
+  filename: Le imprese illustri del signor Girolamo Ruscelli.md
+  label: Le imprese illustri del signor Girolamo Ruscelli
+  id: N26wDW9q9Xkf
+  n_id: 412749331922886813685
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jvXE4XLN7yQS
+      label: emblem book
+  title:
+    - Le imprese illustri del s.or Ieronimo Ruscelli. Aggiuntoui nuouam.te il quarto libro da Vincenzo Ruscelli da Viterbo
+  inception:
+    - value: 1584
+  has_version:
+    - publication_date: 1584
+      external_source: https://books.google.be/books?id=Egmkr8C6J0IC
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE047664
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WYnzTvWeVJ4e
+        label: Francesco De Franceschi
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KhQrZGTQZq7d
+      label: Girolamo Ruscelli
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L6aLzmbRvQqS
+      label: impresa
+  based_on:
+  catalog_identifier:
+  has_part:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE047664
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JN6dMgvoxfCV
+      label: (Procaccioli 2020)
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/N26wDW9q9Xkf.json
+content:
+  markdown_content: ""

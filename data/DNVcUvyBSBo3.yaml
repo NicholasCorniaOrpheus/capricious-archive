@@ -1,0 +1,54 @@
+metadata:
+  class: Book
+  label: Rime del molto illustre signor cavaliere Battista Guarini
+  description:
+  aliases:
+  base_name: Rime del molto illustre signor cavaliere Battista Guarini
+  filename: Rime del molto illustre signor cavaliere Battista Guarini.md
+  id: DNVcUvyBSBo3
+  n_id: 234410896160688439225
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE021980
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime del molto illustre signor caualiere Battista Guarini dedicate all'illustrissimo, et reuerendissimo signor cardinale Pietro Aldobrandini. Sopraintendente generale dello stato ecclesiastico per tutta Italia, et legato a latere et vicario generale in temporale, et spirituale nella città, et ducato di Fearrara [!] &c
+  inception:
+    - value: 1598
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE021980
+      publication_date: 1598
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QTdxXEAT2EFy
+        label: Giovanni Battista Ciotti
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10166540
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10166540/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/a3fxbFBpFjK2
+      label: Battista Guarini
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10166540/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/DNVcUvyBSBo3.json
+content:
+  markdown_content: ""

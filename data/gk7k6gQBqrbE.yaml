@@ -1,0 +1,64 @@
+metadata:
+  class: Book
+  label: Tutti i trionfi, carri, mascherate o canti carnascialeschi andati per Firenze dal tempo del Magnifico Lorenzo
+  description:
+  aliases:
+  base_name: Tutti i trionfi, carri, mascherate o canti carnascialeschi andati per Firenze dal tempo del Magnifico Lorenzo
+  filename: Tutti i trionfi, carri, mascherate o canti carnascialeschi andati per Firenze dal tempo del Magnifico Lorenzo.md
+  id: gk7k6gQBqrbE
+  n_id: 799406042327387561532
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE034651
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Tutti i trionfi, carri, mascheaate [!], o canti carnascialeschi andati per Firenze, dal tempo del Magnifico Lorenzo vecchio de Medici quando egli ebbero prima cominciamento, per infino a questo anno presente 1559. Con due tauole, vna dinanzi, e vna dietro da trouare agieuolmente, e tosto ogni canto, o mascherata
+  inception:
+    - value: 1750
+  has_version:
+    - external_source: https://www.google.be/books/edition/Tutti_i_Trionfi_Carri_Mascherate_o_canti/g6275Ma6MXgC
+      publication_date: 1750
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE034651
+    - publication_date: 1750
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE034651
+      note: volume 1
+      external_source: https://www.google.be/books/edition/Tutti_i_trionfi_carri_mascherate_o_canti/WFQsAQAAMAAJ
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGRJWn5bVFvx
+      label: Benedetto Varchi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UTAiJiQhWjEQ
+      label: Giovanni Battista Strozzi
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FnabqhEkKVwB
+      label: Antonio Alamanni
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d2rMEHf4Fhun
+      label: Anton Francesco Grazzini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/K4hrcamhiFh7
+      label: carnival
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gk7k6gQBqrbE.json
+content:
+  markdown_content: ""

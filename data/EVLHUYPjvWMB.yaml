@@ -1,0 +1,51 @@
+metadata:
+  class: Book
+  label: Quinte Rime della signora Laura Terracina detta Phebea nell'Academia de gl'Incogniti
+  description:
+  aliases:
+  base_name: Quinte Rime della signora Laura Terracina detta Phebea nell'Academia de gl'Incogniti
+  filename: Quinte Rime della signora Laura Terracina detta Phebea nell'Academia de gl'Incogniti.md
+  id: EVLHUYPjvWMB
+  n_id: 257521748287709562906
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE039437
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/009060010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Quinte Rime della signora Laura Terracina detta Phebea nell'Academia de gl'Incogniti
+  inception:
+    - value: 1552
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE039437
+      external_source: https://hdl.handle.net/2027/ucm.532383955x
+      publication_date: 1552
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aXaYa9AT8HP7
+        label: Giovanni Andrea Valvassore
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAAWbiBLrFsC
+      label: epistolary literature
+  has_part:
+  based_on:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/EVLHUYPjvWMB.json
+content:
+  markdown_content: ""

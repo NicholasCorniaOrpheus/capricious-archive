@@ -1,0 +1,59 @@
+metadata:
+  class: Agent
+  label: Lucrezia Marinella
+  description:
+  aliases:
+  base_name: Lucrezia Marinella
+  filename: Lucrezia Marinella.md
+  id: nqdaBTbYUu74
+  n_id: 925221047245489286099
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1873744
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+      label: (Cox 2020)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/P8g4zkHCciMB
+      label: (Ray 2015)
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Er6SYXZFyvp5
+      label: (Ross 2010)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+      label: Venezia
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jxuodBQDnmQ9
+      role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg8JCZR6z88s
+        label: visitor
+      start_date: 1590
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SrWTCERreeEv
+          label: (Cox 2020)
+      label: Accademia Veneziana
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+      label: author
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VzUM5BJSnxXD
+      label: Le nobiltà, et eccellenze delle donne
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EPeocVoNmNcb
+      label: Arcadia felice
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jSo2wG8h9SDa
+      label: querelle des femmes
+  catalog_identifier:
+  present_in_work:
+assets:
+  image: https://upload.wikimedia.org/wikipedia/commons/1/1f/Lucrezia_Marinella_by_Giacomo_Piccini%2C_1652_%28cropped%29.jpg?utm_source=www.wikidata.org&utm_campaign=imageinfo&utm_content=original
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nqdaBTbYUu74.json
+content:
+  markdown_content: ""

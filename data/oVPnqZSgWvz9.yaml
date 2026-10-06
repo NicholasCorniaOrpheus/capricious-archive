@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  aliases:
+    - liuto
+    - luth
+  base_name: lute
+  filename: lute.md
+  label: lute
+  id: oVPnqZSgWvz9
+  n_id: 938528771678457250396
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TdzoJDcQqZEP
+      label: type of musical instrument
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q180733
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/oVPnqZSgWvz9.json
+content:
+  markdown_content: ""

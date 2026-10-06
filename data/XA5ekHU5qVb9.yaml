@@ -1,0 +1,48 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Ortolani di Piacenza
+  description:
+  aliases:
+  base_name: Accademia degli Ortolani di Piacenza
+  filename: Accademia degli Ortolani di Piacenza.md
+  id: XA5ekHU5qVb9
+  n_id: 601360512021244426804
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i427QG8v6vFq
+      label: (Braghi 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cbWWw92fbEH3
+      label: Piacenza
+  official_website:
+  catalog_identifier:
+  member:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fXijNpAr5BvS
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/R8gaAppcmFNh
+          label: (Moroncini 2017)
+      label: Lodovico Domenichi
+    - start_date: 1543
+      end_date: 1544
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NS6fqALKYqRu
+          label: (Girotto 2017)
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bCNHbMSK5pg2
+      label: Anton Francesco Doni
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NiTWoVWgRtNj
+      label: heterodoxy
+  notable_work:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/XA5ekHU5qVb9.json
+content:
+  markdown_content: ""

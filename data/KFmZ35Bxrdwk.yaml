@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: butterfly
+  description:
+  aliases:
+    - farfalla
+  base_name: butterfly
+  filename: butterfly.md
+  id: KFmZ35Bxrdwk
+  n_id: 355793300722400286549
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q11946202
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NRGRu3F3dpBh
+      label: animal
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KFmZ35Bxrdwk.json
+content:
+  markdown_content: ""

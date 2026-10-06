@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: fruit
+  description:
+  aliases:
+    - frutto
+  base_name: fruit
+  filename: fruit.md
+  id: gh6oZ7FELKBS
+  n_id: 798313976803593363543
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3314483
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PBpvEEsLjb3i
+      label: natural entity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/gh6oZ7FELKBS.json
+content:
+  markdown_content: ""

@@ -1,0 +1,71 @@
+metadata:
+  class: PoeticWork
+  label: Queste rive, ch'amai sì caldamente
+  description:
+  aliases:
+  base_name: Queste rive, ch'amai sì caldamente
+  filename: Queste rive, ch'amai sì caldamente.md
+  id: ATfpggqBfTi7
+  n_id: 174378237882092256059
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C4NXw8vEgx8e
+      label: Gaspara Stampa
+  part_of:
+    - pages: 72
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bRqdpD8sTy88
+      label: Rime di madonna Gaspara Stampa
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3H8EUFWaF3kZ
+      label: river
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/d4L6StxVVqKo
+      label: condottiero
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Queste rive, ch'amai sì caldamente,
+      Rive sovra tutt'altre alme, e beate,
+      Fido albergo di cara libertate,
+      Nido d'illustre, e riposata gente.
+
+      Chi'l crederia? mi son novellamente
+      Sì fattamente fuor del cor' andate;
+      Che di passar con lor le mie giornate
+      Mi doglio meco, e mi pento sovente.
+
+      E tutti i miei disiri, e i miei pensieri
+      Mirano a quel bel Colle, ove hora stanza
+      Il mio Signor', e i suoi due lumi alteri.
+
+      Quivi per acquetar la desianza,
+      Spenderei tutta seco volentieri
+      Questa vita penosa, che m'avanza.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/queste_rive,_ch'amai_sì_caldamente
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ATfpggqBfTi7.json
+content:
+  markdown_content: ""

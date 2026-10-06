@@ -1,0 +1,48 @@
+metadata:
+  class: Agent
+  base_name: Dianora Sanseverino
+  filename: Dianora Sanseverino.md
+  label: Dianora Sanseverino
+  id: L8Tf2qNBGXFK
+  n_id: 373781309115274067963
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UjsFswx79X7b
+      label: female
+  work_location:
+  member_of:
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PXXpcDi5cmLa
+          label: (Di Maro 2021)
+      label: poet
+  related_to:
+  notable_work:
+  interested_in:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PXXpcDi5cmLa
+          label: (Di Maro 2021)
+      label: Orlando furioso
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Mefkw2MRET3J
+        label: Italian Women Writers
+      value: A0395
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q140194239
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PXXpcDi5cmLa
+      label: (Di Maro 2021)
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/L8Tf2qNBGXFK.json
+content:
+  markdown_content: ""

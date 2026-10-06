@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Black 1982)
+  description:
+  aliases:
+    - blackAncientsModernsRenaissance1982
+  base_name: (Black 1982)
+  filename: (Black 1982).md
+  id: D5meAE34UpL5
+  n_id: 228358139182944115449
+statements:
+  identifier:
+    - https://www.jstor.org/stable/2709158
+  described_by_source:
+  part_of:
+  citation:
+    - "Black, Robert. 1982. ‘Ancients and Moderns in the Renaissance: Rhetoric and History in Accolti’s Dialogue on the Preeminence of Men of His Own Time’. Journal of the History of Ideas 43 (1). JSTOR: 3–32."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/blackAncientsModernsRenaissance1982.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/D5meAE34UpL5.json
+content:
+  markdown_content: ""

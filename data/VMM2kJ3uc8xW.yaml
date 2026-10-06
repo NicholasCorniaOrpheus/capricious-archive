@@ -1,0 +1,42 @@
+metadata:
+  class: MusicComposition
+  base_name: Amar un sol amante è vero amore (Agostini)
+  filename: Amar un sol amante è vero amore (Agostini).md
+  label: Amar un sol amante è vero amore (Agostini)
+  id: VMM2kJ3uc8xW
+  n_id: 564168690842573100385
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SjqizepxoSSs
+      label: Lodovico Agostini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VGVHbg5uSE8V
+      label: Luigi Cassola
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/N7CLccqJnHWb
+      label: Musica di don Lodovico Agostini ferrarese libro secondo de madrigali a quattro voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ixZn2ZSnYiyw
+      label: Amar un sol amante è vero amore
+  derivative_work:
+  text:
+assets:
+  local_asset_path: ./assets/music_compositions/agostini-amar_un_solo_amante_è_vero_amore
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VMM2kJ3uc8xW.json
+content:
+  markdown_content: ""

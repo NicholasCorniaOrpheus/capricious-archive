@@ -1,0 +1,78 @@
+metadata:
+  class: PoeticWork
+  label: Mentre lontana sol contemplo quella
+  description:
+  aliases:
+  base_name: Mentre lontana sol contemplo quella
+  filename: Mentre lontana sol contemplo quella.md
+  id: CWjYwvGLKNcV
+  n_id: 216759790427704381488
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pgvz7HXbEsUg
+      label: Giovanni Maria Bonardo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/V8sFLHG6RU5y
+      label: Issicratea Monte
+  part_of:
+    - section: Sonetto della Sig. Issicratea Monte al C.B.F.
+      pages: 34
+      volume: 2nd edition
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/53AwWJ6fYC5v
+      label: Madrigali del cavalier Gio. Maria Bonardo fratteggiano
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pgvz7HXbEsUg
+      label: Giovanni Maria Bonardo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUaQe9C3WPVp
+      label: star
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Mentre lontana sol contemplo quella
+      Vostra rara virtù, degna di rima
+      Spinge ad alzarmi all'alta cagion prima
+      Un non so, che divin, ch'io scorgo in ella.
+
+      Quinci s'apre la via, diritta, e bella,
+      Onde il mio nome poggi in ogni clima
+      Ne'l bagni oblio di lete, o roda lima
+      D'invida o furi mai proterva stella.
+
+      Quinci l'alma produce, un pensier saggio,
+      Che mi cerca inalzar, con bianche piume,
+      E portar dalli Esperi, a lidi Eoi,
+
+      Se dunque luce in me benigno raggio,
+      O si scopre virtù del divin lume
+      Tutto BONARDO sol nasce da voi.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/mentre_lontata_sol_contemplo_quella
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/CWjYwvGLKNcV.json
+content:
+  markdown_content: ""

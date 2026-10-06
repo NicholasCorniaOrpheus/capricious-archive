@@ -1,0 +1,24 @@
+metadata:
+  class: BibliographicResource
+  label: (Malato 1993)
+  description:
+  aliases:
+    - malatoPassareTempoLetteratura1993
+  base_name: (Malato 1993)
+  filename: (Malato 1993).md
+  id: 6UAz4DSkxJeE
+  n_id: 92013522220441643763
+statements:
+  isbn:
+    - 978-88-8402-107-6
+  described_by_source:
+  part_of:
+  citation:
+    - "Malato, Enrico, ed. 1993. Passare il tempo: la letteratura del gioco e dell’intrattenimento dal XII al XVI secolo ; atti del Convegno di Pienza 10 - 14 settembre 1991. Pubblicazioni del Centro Pio Rajna Sezione 1, Studi e saggi. Roma: Salerno."
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/malatoPassareTempoLetteratura1993.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/6UAz4DSkxJeE.json
+content:
+  markdown_content: ""

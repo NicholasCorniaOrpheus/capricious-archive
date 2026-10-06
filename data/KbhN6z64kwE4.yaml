@@ -1,0 +1,55 @@
+metadata:
+  class: MusicComposition
+  label: Tirrena mia il cui colore agguaglia (Colombano)
+  description:
+  aliases:
+  base_name: Tirrena mia il cui colore agguaglia (Colombano)
+  filename: Tirrena mia il cui colore agguaglia (Colombano).md
+  id: KbhN6z64kwE4
+  n_id: 363007343461834099676
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/WORK/286330000010101_000000065600C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dbbU5aPBAxvp
+      label: Jacopo Sannazaro
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jLiuPUK3pbr5
+      label: Orazio Colombano
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2UzVoZCSGcNw
+      label: Il Helicone, madrigali de diversi eccellentissimi musici a cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WfsL9zDkdL9u
+      label: Tirrena mia il cui colore agguaglia
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/colombano-tirrena_mia_il_cui_colore_agguaglia
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - q_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/KbhN6z64kwE4.json
+content:
+  markdown_content: ""

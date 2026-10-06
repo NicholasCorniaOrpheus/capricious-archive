@@ -1,0 +1,21 @@
+metadata:
+  class: Concept
+  base_name: sourcing circumstance
+  filename: sourcing circumstance.md
+  label: sourcing circumstance
+  id: ESuH83bkdzHA
+  n_id: 256645206452547532106
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/c5DgcEFeD7CP
+      label: quality
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q104637420
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ESuH83bkdzHA.json
+content:
+  markdown_content: ""

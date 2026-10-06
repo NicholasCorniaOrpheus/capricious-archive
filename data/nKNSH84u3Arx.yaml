@@ -1,0 +1,53 @@
+metadata:
+  class: MusicComposition
+  label: Eran le vostre lagrime nel viso (Trombetti)
+  description:
+  aliases:
+  base_name: Eran le vostre lagrime nel viso (Trombetti)
+  filename: Eran le vostre lagrime nel viso (Trombetti).md
+  id: nKNSH84u3Arx
+  n_id: 914263894998511808418
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F097090001010101_000000243200C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4fam9RTzpsG4
+      label: Tarquinia Molza
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BGkUXt8DRHn6
+      label: Ascanio Trombetti
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aqZQ2y3SrHDn
+      label: Di Ascanio Trombetti Il primo libro de madrigali a cinque voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NQZ6NQnNmrbw
+      label: Eran le vostre lagrime nel viso
+  derivative_work:
+  text:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/trombetti-eran_le_vostre_lagrime_nel_viso
+  jpg:
+    - a_001.jpg
+    - a_002.jpg
+    - b_001.jpg
+    - b_002.jpg
+    - q_001.jpg
+    - q_002.jpg
+    - t_001.jpg
+    - t_002.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/nKNSH84u3Arx.json
+content:
+  markdown_content: ""

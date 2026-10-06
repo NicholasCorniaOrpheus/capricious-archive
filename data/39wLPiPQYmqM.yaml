@@ -1,0 +1,26 @@
+metadata:
+  class: Concept
+  label: libro sorte
+  description: Divination book in the form of a storytelling game, with randomization procedures such as dice or a deck of cards.
+  aliases:
+    - fortune-telling book
+    - libro di sorte
+  base_name: libro sorte
+  filename: libro sorte.md
+  id: 39wLPiPQYmqM
+  n_id: 23508808859283121402
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEsbswC7dBW8
+      label: (Faini 2020)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/39wLPiPQYmqM.json
+content:
+  markdown_content: ""

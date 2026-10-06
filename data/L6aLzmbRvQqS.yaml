@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: impresa
+  description:
+  aliases:
+    - heraldic badge
+  base_name: impresa
+  filename: impresa.md
+  id: L6aLzmbRvQqS
+  n_id: 373099694877113472948
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1429148
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/L6aLzmbRvQqS.json
+content:
+  markdown_content: ""

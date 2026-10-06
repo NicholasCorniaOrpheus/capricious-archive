@@ -1,0 +1,59 @@
+metadata:
+  class: Book
+  label: Rime di diversi nobili uomini et eccellenti poeti nella lingua toscana. Libro secondo
+  description:
+  aliases:
+  base_name: Rime di diversi nobili uomini et eccellenti poeti nella lingua toscana. Libro secondo
+  filename: Rime di diversi nobili uomini et eccellenti poeti nella lingua toscana. Libro secondo.md
+  id: kXL5F8Cy29UJ
+  n_id: 877321448348759365225
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE026070
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2F500170010
+    - https://lyra.unil.ch/books/4
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime di diuersi nobili huomini et eccellenti poeti nella lingua thoscana. Libro secondo
+  inception:
+    - value: 1547
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE026070
+      publication_date: 1547
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4FVNQkPWfK4J
+        label: Gabriele Giolito de' Ferrari
+      external_source: https://viewer.onb.ac.at/10AA1E4D/
+      IIIF_manifest: https://api.onb.ac.at/iiif/presentation/v3/manifest/10AA1E4D
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8Hc54xeA8ihZ
+      label: Giulio Camillo
+  subject:
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.onb.ac.at/iiif/presentation/v3/manifest/10AA1E4D
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kXL5F8Cy29UJ.json
+content:
+  markdown_content: ""

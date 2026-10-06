@@ -1,0 +1,55 @@
+metadata:
+  class: MusicComposition
+  label: Lume del ciel, che ne' superni giri (Ingegneri)
+  description:
+  aliases:
+  base_name: Lume del ciel, che ne' superni giri (Ingegneri)
+  filename: Lume del ciel, che ne' superni giri (Ingegneri).md
+  id: bmPHiwR9dgKV
+  n_id: 696687261889009355736
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F150110001010101_000000130500C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Lb2oTLg4h2DU
+      label: Vittoria Colonna
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/AcRv2wudsTSk
+      label: Marco Antonio Ingegneri
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iupJ62QRBYCe
+      label: Il Secondo libro de' Madrigali di Marc'Antonio Ingegneri a quattro voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aYTehKKNSwkK
+      label: Lume del ciel, che ne' superni giri
+  derivative_work:
+  text:
+    - ""
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/ingegneri-lume_del_ciel,_che_ne'_superni_giri
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bmPHiwR9dgKV.json
+content:
+  markdown_content: ""

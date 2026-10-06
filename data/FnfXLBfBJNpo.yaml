@@ -1,0 +1,123 @@
+metadata:
+  class: PoeticWork
+  base_name: Apri Urania il puro fonte
+  filename: Apri Urania il puro fonte.md
+  label: Apri Urania il puro fonte
+  id: FnfXLBfBJNpo
+  n_id: 284434436250748632171
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F043790000101_PPPP00074300C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/EmkmhMMex7tm
+      label: Ansaldo Cebà
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/beanBYC2sv6L
+      label: Rime d'Ansaldo Cebà
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9XkyVfBG5hTX
+      label: love
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/dR7sSTMz4jjt
+      label: despair
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jg2ajb4Hgora
+      label: sestina
+  metre:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/UEx82wKyUY8o
+      label: Urania
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gh6oZ7FELKBS
+      label: fruit
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VVfa3GAtLauf
+      label: blood
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RBJwJL6TVgZ7
+      label: snow
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/esdPVkcqtoQn
+      label: ice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Kq9PrPsX3d7L
+      label: sword
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+assets:
+  local_asset_path: ./assets/poems/apri_urania_il_puro_fonte
+  jpg:
+    - 001.jpg
+    - 002.jpg
+    - 003.jpg
+    - 004.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FnfXLBfBJNpo.json
+content:
+  markdown_content: |-
+    Apri Urania il puro fonte
+    De la dolce tua rugiada.
+    Ond'intorno a l'aureo monte
+    Viva pioggia in sen mi cada;
+    E la terra del mio core
+    Novo frutto apra d'amore.
+
+    Un bel piè d'avorio schietto
+    Duro ferro un dì feriva,
+    E quel latte candidetto
+    Splendid'ostro coloriva;
+    E sul piè con sangue uscendo
+    Dolce amor venia correndo.
+
+    Empio cor, feroce mano,
+    Che ferir poté mirando
+    Quella neve, onde pian piano
+    Dolce ardor vien folgorando,
+    Come fu che'l duro braccio
+    Non ti venne a l'hor di ghiaccio?
+
+    Oh s'un braccio fu sì fiero,
+    Che ferir quel piè potesse;
+    E s'un cor fu sì severo,
+    Che quel braccio a l'hor moveste,
+    Deh qual ferro oimè sì duro
+    Sparte mai sangue sì puro?
+
+    Ma sì caro, e sì soave
+    Su la neve il sangue già,
+    Ch'in quel sangue avien ch'io lave
+    D'hora in hor la mente mia;
+    Et amor con dolce pena
+    Tra quel sangue ogn'hor mi mena.
+
+    Anzi amor con nova legge
+    Pur a farmi'l cor beato
+    Dolcemente il cor m'elegge
+    Tra quel sangue innamorato;
+    Né so come l'altrui piaga
+    Dolcemente il sen mi allaga.
+
+    Il tuo piè distilla il sangue
+    Laura mia soavemente;
+    Ma'l mio cor diventa essangue
+    Su la piaga tua lucente:
+    Il tuo piè di sangue è tinto;
+    Ma'l mio cor dal sangue è vinto;
+
+    \[...\]
+
+    Oh che sangue, oh che ferita
+    Feritor facesti a l'hora.
+    Tu feristi la mia vita
+    Per piagarmi il petto ogn'hora.
+    Ella il versa, e divien forte;
+    I' mel' bevo, e corro a morte.
+
+    \[...\]

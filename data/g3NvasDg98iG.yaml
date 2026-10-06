@@ -1,0 +1,20 @@
+metadata:
+  class: Concept
+  label: language
+  description:
+  aliases:
+  base_name: language
+  filename: language.md
+  id: g3NvasDg98iG
+  n_id: 784659117066627597956
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q34770
+  described_by_source:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/g3NvasDg98iG.json
+content:
+  markdown_content: ""

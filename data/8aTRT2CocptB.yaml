@@ -1,0 +1,66 @@
+metadata:
+  class: Book
+  label: La Fillide, favola pastorale, dell'Acceso Accademico Rinnovato
+  description:
+  aliases:
+  base_name: La Fillide, favola pastorale, dell'Acceso Accademico Rinnovato
+  filename: La Fillide, favola pastorale, dell'Acceso Accademico Rinnovato.md
+  id: 8aTRT2CocptB
+  n_id: 135561864263311223889
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE038006
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cF3HzyFDHqfG
+      label: pastoral drama
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fqNyvp8swvbU
+      label: forgery
+  title:
+    - La Fillide, fauola pastorale, dell'Acceso Academico Rinouato
+  inception:
+    - value: 1579
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2MpkiMWKU5X
+          label: Ferrara
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VG9zdScyJbW2
+        label: Vittorio Baldini
+      publication_date: 1579
+      permalink: https://edit16.iccu.sbn.it/titolo/CNCE038006
+      note: According to Ferrone, the piece has been attributed to Bernardino Lombardi who stole the drama from Camillo Della Valle.
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8pmZM6mhguAm
+      note:
+      label: Camillo Della Valle
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WEaLWLKrPsCN
+        label: forger
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJFucdkRobUR
+      note: According to Ferrore, he has published the drama under the name of "Accademico Acuto Rinovato".
+      label: Bernardino Lombardi
+  subject:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YVjrH77qwiAN
+      label: Fillide. Egloga pastorale. Di Camillo Della Valle
+  catalog_identifier:
+  has_part:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdeyMkYtsKFp
+      label: Filli
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8aTRT2CocptB.json
+content:
+  markdown_content: ""

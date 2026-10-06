@@ -1,0 +1,40 @@
+metadata:
+  class: Agent
+  aliases:
+    - Bernardo Giunta
+  description: Italian printer (1540 - c. 1627)
+  base_name: Bernardo Giunti
+  filename: Bernardo Giunti.md
+  label: Bernardo Giunti
+  id: FL4UQDb2xruF
+  n_id: 274798942062647905291
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mT3aY8t7yatb
+      label: Firenze
+  member_of:
+  occupation:
+  related_to:
+  notable_work:
+  interested_in:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 17514
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q21548267
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/FL4UQDb2xruF.json
+content:
+  markdown_content: ""

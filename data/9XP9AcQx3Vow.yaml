@@ -1,0 +1,95 @@
+metadata:
+  class: NotatedMusic
+  label: Di Claudio Merulo da Correggio il primo libro de madrigali a tre voci
+  description:
+  aliases:
+  base_name: Di Claudio Merulo da Correggio il primo libro de madrigali a tre voci
+  filename: Di Claudio Merulo da Correggio il primo libro de madrigali a tre voci.md
+  id: 9XP9AcQx3Vow
+  n_id: 155084443387778980628
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/NV13640010
+    - https://rism.online/sources/990041044
+    - https://edit16.iccu.sbn.it/titolo/CNCE046902
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Di Claudio Merulo da Correggio organista della serenissima signoria di Venetia in S. Marco, il primo libro de madrigali a tre voci
+  inception:
+    - value: 1580
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE046902
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_T/T102/
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1580
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE046902
+      external_source: https://uurl.kbr.be/1562498
+      IIIF_manifest: https://iiif.kbr.be/manifest/v3/56282
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1580
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      note: Cantus
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE046902
+      external_source: https://uurl.kbr.be/1562500
+      IIIF_manifest: https://iiif.kbr.be/manifest/v3/56281
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1580
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      note: Tenor
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE046902
+      external_source: https://uurl.kbr.be/1562502
+      IIIF_manifest: https://iiif.kbr.be/manifest/v3/56280
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1580
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BkYMa73cnn7m
+        label: Angelo Gardano
+      note: Bassus
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FxEAn4obvSRm
+      label: Claudio Merulo
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://iiif.kbr.be/manifest/v3/56282
+    - https://iiif.kbr.be/manifest/v3/56281
+    - https://iiif.kbr.be/manifest/v3/56280
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/9XP9AcQx3Vow.json
+content:
+  markdown_content: ""

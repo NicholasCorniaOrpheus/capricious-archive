@@ -1,0 +1,71 @@
+metadata:
+  class: PoeticWork
+  base_name: Trema e paventa in me l'ingegno e l'arte
+  filename: Trema e paventa in me l'ingegno e l'arte.md
+  label: Trema e paventa in me l'ingegno e l'arte
+  id: YDvzeCyvjYDn
+  n_id: 623395950244711976228
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L8Tf2qNBGXFK
+      label: Dianora Sanseverino
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/4qz9ARSJbUuJ
+      label: Laura Terracina
+  part_of:
+    - pages: 11
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/42hnQ3TVouFv
+      section: Alla S. Dianora Sanseverina.
+      label: Rime de la signora Laura Terracina
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/forZLBVMjEfd
+      label: Mars
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PiGcaDR8BH7j
+      label: Athena
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7kcbjVXuYUG6
+      label: Mercury
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Trema & paventa in me l'ingegno & l'arte,
+      Donna, che sopra ogni altra humana sete,
+      A ragionar di voi, poi che tenete
+      Phebo in mezzo del coro, nel petto Marte.
+      Virtù gratia & bellezza in voi son sparte
+      Tante & sì rare, che l'altre vincete:
+      Et senza pari alcuna possedete
+      Mercurio in lingua, & Palla in rime & carte.
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/PXXpcDi5cmLa
+      label: (Di Maro 2021)
+assets:
+  local_asset_path: ./assets/poems/trema_e_paventa_in_me_l'ingegno_e_l'arte
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/YDvzeCyvjYDn.json
+content:
+  markdown_content: ""

@@ -1,0 +1,50 @@
+metadata:
+  class: Book
+  label: Chaos del tri per uno
+  description:
+  aliases:
+  base_name: Chaos del tri per uno
+  filename: Chaos del tri per uno.md
+  id: hoz8AUJg9qBj
+  n_id: 821447962729590756506
+statements:
+  identifier:
+    - https://edit16.iccu.sbn.it/titolo/CNCE019365
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Chaos del tri per vno
+  inception:
+    - value: 1527
+  has_version:
+    - place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publication_date: 1527
+      external_source: https://www.digitale-sammlungen.de/en/view/bsb10189918
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189918/manifest
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9dTpgyZubvQj
+      label: Teofilo Folengo
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DJodVh42iK9t
+      label: tarot card game
+  based_on:
+  catalog_identifier:
+  has_part:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb10189918/manifest
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hoz8AUJg9qBj.json
+content:
+  markdown_content: ""

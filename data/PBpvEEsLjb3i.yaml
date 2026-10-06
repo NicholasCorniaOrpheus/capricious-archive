@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  aliases:
+    - natural object
+    - non-human-made object
+  base_name: natural entity
+  filename: natural entity.md
+  label: natural entity
+  id: PBpvEEsLjb3i
+  n_id: 436910183203136241310
+statements:
+  instance_of:
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q1970309
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PBpvEEsLjb3i.json
+content:
+  markdown_content: ""

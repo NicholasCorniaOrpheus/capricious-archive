@@ -1,0 +1,26 @@
+metadata:
+  class: BibliographicResource
+  label: (Gambara 2014)
+  description:
+  aliases:
+    - gambaraCompletePoemsBilingual2014
+  base_name: (Gambara 2014)
+  filename: (Gambara 2014).md
+  id: MqDmEhNBNTYH
+  n_id: 409172346890016145026
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jfcAcCiR2JSp
+      label: The Other Voice in Early Modern Europe
+  citation:
+    - "Gambara, Veronica. 2014. Complete Poems: A Bilingual Edition. Translated by Molly M. Martin and Paola Ugolini. The Other Voice in Early Modern Europe: The Toronto Series, v. 34. Chicago: Iter Press."
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/gambaraCompletePoemsBilingual2014.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/MqDmEhNBNTYH.json
+content:
+  markdown_content: ""

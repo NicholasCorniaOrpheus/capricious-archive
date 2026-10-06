@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Schleuse 2015)
+  description:
+  aliases:
+    - schleuseSingingGamesEarly2015
+  base_name: (Schleuse 2015)
+  filename: (Schleuse 2015).md
+  id: kKJdQnQw3L5W
+  n_id: 872967930084935332669
+statements:
+  identifier:
+  described_by_source:
+  part_of:
+  citation:
+    - "Schleuse, Paul. 2015. Singing Games in Early Modern Italy: The Music Books of Orazio Vecchi. Music and the Early Modern Imagination. Bloomington, Indiana: Indiana University Press."
+  isbn:
+    - 978-0-253-01501-3
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/schleuseSingingGamesEarly2015.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/kKJdQnQw3L5W.json
+content:
+  markdown_content: ""

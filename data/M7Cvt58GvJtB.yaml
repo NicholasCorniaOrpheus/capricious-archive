@@ -1,0 +1,67 @@
+metadata:
+  class: NotatedMusic
+  label: La Catena d'Adone
+  description:
+  aliases:
+  base_name: La Catena d'Adone
+  filename: La Catena d'Adone.md
+  id: M7Cvt58GvJtB
+  n_id: 393961671412352966166
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0227460
+    - https://rism.online/sources/990040359
+    - https://repim.itatti.harvard.edu/resource/?uri=http://repim.unibo.it/resource/BOOK/NV13220010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8ECQGMNHahT5
+      label: opera
+  title:
+    - La Catena d'Adone posta in musica da Domenico Mazzocchi
+  inception:
+    - value: 1626
+  has_version:
+    - publication_date: 1626
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZAzHXrGbea5e
+        label: Alessandro Vincenti
+      permalink: http://id.sbn.it/bid/MUS0227460
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/AA/AA275/
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUreZmQUA3Bx
+        label: librettist
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nxtaeZb4ETk2
+      label: Ottavio Tronsarelli
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5zoSKPqTCQs6
+      label: Domenico Mazzocchi
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6xr6tnaoPuah
+      label: Adonis
+  has_part:
+  based_on:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Me5C6iF5qVUG
+      label: choir
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFRZ6pAZFnbn
+      label: continuo group
+    - quantity: 10
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gJY5Y5H82dpd
+      label: voice
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/M7Cvt58GvJtB.json
+content:
+  markdown_content: ""

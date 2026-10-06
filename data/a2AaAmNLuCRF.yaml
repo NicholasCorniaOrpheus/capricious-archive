@@ -1,0 +1,82 @@
+metadata:
+  class: PoeticWork
+  label: Cingati homai de' suoi più verdi allori
+  description:
+  aliases:
+    - Cingati omai de' suoi più verdi allori
+  base_name: Cingati homai de' suoi più verdi allori
+  filename: Cingati homai de' suoi più verdi allori.md
+  id: a2AaAmNLuCRF
+  n_id: 660403191132200799730
+statements:
+  identifier:
+    - https://lyra.unil.ch/poems/14990
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/e2nWi24VoUtn
+      label: Progetto Lyra
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/QzFWBAu4Ku5H
+      label: Margherita Sarrocchi
+  part_of:
+    - section: Alla Signora Margherita Sarocchi. Risposta.
+      pages: 225
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RYgwWvCbEmKy
+      label: Rime di Gio. Battista Marino, amorose, marittime, boscherecce, heroiche, lugubri, morali, sacre, & varie
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KAAWbiBLrFsC
+      label: epistolary literature
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdDRGByiy3E8
+      label: Apollo
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFcsbFYFrFvB
+      label: laurel
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LVFgSQZJH6F8
+      label: swan
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/msaShVwusGue
+      label: Giambattista Marino
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      CINGATI homai de' suoi più verdi allori
+      Apoloo il crin con sempiterno Aprile:
+      Con auree penne homai da Battro a Thile
+      Spieghi la Fama i tuoi veraci honori:
+
+      MARINO, hor tu l'età del ferro indori
+      Co'raggi del tu'ingegno alto, e sottile;
+      Col chiaro canto, appo cui sembra humile
+      Qual più sublime a' secoli migliori.
+
+      Gloria a te, pena a me si deve, e duolo,
+      Cui lieti non aprì mai tanto, o quanto
+      Per le mie colpe, i suoi bei lumi il polo.
+
+      Pur credi, che non poco ancor nel pianto.
+      Ch'esca del mio bel nido, hor mi consolo,
+      Cigno, che le sue piume alzi cotanto.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/cingati_homai_de'_suoi_verdi_allori
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/a2AaAmNLuCRF.json
+content:
+  markdown_content: ""

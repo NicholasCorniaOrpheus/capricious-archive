@@ -1,0 +1,70 @@
+metadata:
+  class: PoeticWork
+  label: Come la notte ogni fiammella è viva
+  description:
+  aliases:
+  base_name: Come la notte ogni fiammella è viva
+  filename: Come la notte ogni fiammella è viva.md
+  id: 73MuDzbAHkaH
+  n_id: 103667916905252579496
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F020520000101_PPPP00015400C
+    - https://versologie.cz/poetree/browser/poem?corpus=it&id_poem=26632
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3tBDveUQba76
+      label: Ludovico Ariosto
+  part_of:
+    - section: Canto XLV, 37
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GdXWhx79h26y
+      label: Orlando furioso
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Pfqef5YBTXjD
+      label: abandonment
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kk4X4hY9rfnU
+      label: flame
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ByPQWJQU37nM
+      label: night
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Come la notte ogni fiamella è viva
+      E riman spenta subito ch'aggiorna:
+      Così quando il mio sol di sé mi priva
+      Mi leva incontra il rio timor le corna,
+      Ma non sì tosto all'Orizzonte arriva
+      Che'l timor fugge, e la speranza torna,
+      Deh torna a me: deh torna oh caro lume
+      E scaccia il rio timor che mi consume.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path:
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/73MuDzbAHkaH.json
+content:
+  markdown_content: ""

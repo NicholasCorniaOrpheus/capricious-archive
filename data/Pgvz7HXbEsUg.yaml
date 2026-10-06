@@ -1,0 +1,40 @@
+metadata:
+  class: Agent
+  base_name: Giovanni Maria Bonardo
+  filename: Giovanni Maria Bonardo.md
+  label: Giovanni Maria Bonardo
+  id: Pgvz7HXbEsUg
+  n_id: 447447690710472910958
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7QQEUQkpdvkV
+      label: human
+  gender:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8UjQ7UabobgD
+      label: male
+  work_location:
+  member_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/cn2nwNxEPhn9
+      reference:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6TbtBehFUF3E
+          label: (Artese 1983)
+      label: Compagnia dei Pastori Fratteggianti
+  occupation:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+      label: poet
+  related_to:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/53AwWJ6fYC5v
+      label: Madrigali del cavalier Gio. Maria Bonardo fratteggiano
+  interested_in:
+  catalog_identifier:
+  present_in_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q41566852
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/agent.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Pgvz7HXbEsUg.json
+content:
+  markdown_content: ""

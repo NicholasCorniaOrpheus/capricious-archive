@@ -1,0 +1,29 @@
+metadata:
+  class: Organisation
+  base_name: OPAC SBN
+  filename: OPAC SBN.md
+  label: OPAC SBN
+  id: 55EFhGGzKkrw
+  n_id: 63071542526176750418
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nyo58nNBLE9K
+      label: online database
+  inception:
+  dissolved:
+  location:
+  official_website:
+    - https://opac.sbn.it/
+  catalog_identifier:
+  member:
+  interested_in:
+  notable_work:
+  identifier:
+    - http://www.wikidata.org/entity/Q105086090
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/55EFhGGzKkrw.json
+content:
+  markdown_content: ""

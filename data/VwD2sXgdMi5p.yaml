@@ -1,0 +1,72 @@
+metadata:
+  class: MusicComposition
+  base_name: Amor m'ha bastonat cum la so mescola (Agostini)
+  filename: Amor m'ha bastonat cum la so mescola (Agostini).md
+  label: Amor m'ha bastonat cum la so mescola (Agostini)
+  id: VwD2sXgdMi5p
+  n_id: 576427026568691636758
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LD4RrZzU9uiL
+      label: villanella
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jWyGjAwFZ63p
+      label: incomplete
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nogU49CqvCeC
+      label: Andrea Calmo
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SjqizepxoSSs
+      label: Lodovico Agostini
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/A7RhLcoNzDub
+      label: Musica di Lodovico Agostini ferrarese sopra le rime bizzarre di m. Andrea Calmo
+  instrumentation:
+  based_on:
+  derivative_work:
+    -
+  text:
+    - |-
+      Amor m'ha bastonat cum la so mescola 
+      Per u vi set de merda di na zovena, 
+      Che m'ha scarpart tugh'ol polmon 
+      Cun l'anima Senza podì mai dì, 
+      Che fet mandragola
+      Me sborì ados, che mai senti tal furia,
+      Dof che son pez che l'asen dol Mercurio.
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5MwBnJaT8JKD
+      label: Venetian
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SE8dJXKowffE
+      label: bizzarria
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2zJ3QRUFy4nX
+      label: humorous poetry
+  poetic_type:
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/7kcbjVXuYUG6
+      label: Mercury
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Xo8FK7kFF3j7
+      label: dodecasyllable
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F016820000010101_000000002400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+assets:
+  local_asset_path: ./assets/music_compositions/agostini-amor_m'ha_bastonat_cum_la_so_mescola
+  jpg:
+    - a_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/VwD2sXgdMi5p.json
+content:
+  markdown_content: ""

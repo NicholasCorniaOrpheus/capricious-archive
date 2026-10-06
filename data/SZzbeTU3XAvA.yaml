@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: quarrel of arms and letters
+  description: Philosophical debate during the Renaissance investigating which profession is more noble, the soldier of the scholar.
+  aliases:
+    - disputa delle armi e delle lettere
+    - duello delle armi e delle lettere
+  base_name: quarrel of arms and letters
+  filename: quarrel of arms and letters.md
+  id: SZzbeTU3XAvA
+  n_id: 506844060989257945793
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/SZzbeTU3XAvA.json
+content:
+  markdown_content: ""

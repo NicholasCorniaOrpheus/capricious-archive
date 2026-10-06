@@ -1,0 +1,22 @@
+metadata:
+  class: Concept
+  base_name: chaos
+  filename: chaos.md
+  label: chaos
+  id: Se3XU7Bnd7Sk
+  n_id: 508304431277690196912
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T8fMuVHtQU9i
+      label: philosophical concept
+  subclass_of:
+  opposite_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q1787424
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/Se3XU7Bnd7Sk.json
+content:
+  markdown_content: ""

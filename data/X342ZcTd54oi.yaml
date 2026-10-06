@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: initiation ritual
+  description: rite of passage marking entrance or acceptance into a group or society
+  aliases:
+    - rite-de-passage
+    - rito di iniziazione
+  base_name: initiation ritual
+  filename: initiation ritual.md
+  id: X342ZcTd54oi
+  n_id: 598815894936922715551
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q594939
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/X342ZcTd54oi.json
+content:
+  markdown_content: ""

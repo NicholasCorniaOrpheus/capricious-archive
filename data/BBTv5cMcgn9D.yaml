@@ -1,0 +1,82 @@
+metadata:
+  class: PoeticWork
+  label: Come s' appare il Sol o al caldo o al Gelo
+  description:
+  aliases:
+  base_name: Come s' appare il Sol o al caldo o al Gelo
+  filename: Come s' appare il Sol o al caldo o al Gelo.md
+  id: BBTv5cMcgn9D
+  n_id: 189145986928121577317
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iCdKYQUrSYbC
+      label: Marta Bonanno
+  part_of:
+    - section: Risposta della Signora Marta Bonanno a. M. Giovan Battista Macerello al Sonetto, questa c'ha nome a fogli. 120.
+      pages: 185
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/L8ExepDu7q6Y
+      label: Rime della Accademia de gli Accesi di Palermo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Cxgarr2gfrW6
+      label: devotion
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DHTHVpQnvYLr
+      label: humility
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/o3hHdDx7u4u2
+      label: sonnet
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/esdPVkcqtoQn
+      label: ice
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/8JCJNiEPyPxR
+      label: Sun
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/S2y5UAT62kde
+      label: celestial body
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LBUMoVayqW8X
+      label: woman
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Come s' appare il Sol o al caldo o al Gelo
+      Ogni stella al suo lume oscura riede
+      Così s' ingegno è in me subito cede
+      Al vostro ingegno, ond'io vaneggio, e gelo,
+
+      E se la vostra caritade, e'l zelo
+      Vostro, sì come a voi ben si richiede
+      M'han lodato via più ch'altri non crede
+      Non lodin me, ch' omai m'ascondo, e celo,
+
+      Lodisi'l bel che sì riluce in quella
+      Ch'è madre, e gode in ciel l' eterno amante
+      E chiara splende in questa nostra spiaggia.
+
+      Non caduca beltà che vile ancella
+      E del Tempo, e convien che passi o caggia
+      Ma lodinsi del ciel l' eterne, e sante.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/come_s'appare_il_sol_o_al_caldo_o_al_gelo
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/BBTv5cMcgn9D.json
+content:
+  markdown_content: ""

@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: arie per cantare
+  description: Musical compositional patterns for singers in order to accompany stanzas of poems, such as ottava rimas, tercets and sonnets.
+  aliases:
+  base_name: arie per cantare
+  filename: arie per cantare.md
+  id: 2XhtX4ZoJ8mP
+  n_id: 10752301866116080455
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+  subclass_of:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/2XhtX4ZoJ8mP.json
+content:
+  markdown_content: ""

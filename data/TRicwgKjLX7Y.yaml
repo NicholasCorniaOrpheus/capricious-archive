@@ -1,0 +1,48 @@
+metadata:
+  class: Book
+  base_name: Le due commedie in commedia di Gio. Battista Andreini
+  filename: Le due commedie in commedia di Gio. Battista Andreini.md
+  label: Le due commedie in commedia di Gio. Battista Andreini
+  id: TRicwgKjLX7Y
+  n_id: 524482215942632822577
+statements:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mxz4KL9JjrEt
+      label: (Ferrone 2011)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/nR5FxU5FRPkD
+      label: comedy
+  title:
+    - Le due comedie in comedia, suggetto strauagantissimo, di Gio. Battista Andreini
+  inception:
+    - value: 1623
+  has_version:
+    - permalink: http://id.sbn.it/bid/MODE054147
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+      publication_date: 1623
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/BzZ5xTZQpucC
+      label: Giambattista Andreini
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hHij3iF3zFE9
+      label: commedia dell'arte
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  iiif: []
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/TRicwgKjLX7Y.json
+content:
+  markdown_content: ""

@@ -1,0 +1,82 @@
+metadata:
+  class: PoeticWork
+  description:
+  base_name: La natura compose
+  filename: La natura compose.md
+  label: La natura compose
+  id: M2k895E6k2SD
+  n_id: 392349541739324127338
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F023230000101_PPPP00286400C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HETQrEGJAmpa
+      label: Flora Zuzzeri
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6RgbbkFR4hhh
+      label: Torquato Tasso
+  part_of:
+    - volume: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GUdU7hjdXrfN
+      label: Delle rime del signor Torquato Tasso. Parte prima (-seconda) insieme con altri componimenti del medesimo
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LUkQiYzJMHtq
+      label: anaphora
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kq8n5eJ5seNR
+      label: beauty
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KuorvRGvXbTz
+      label: metaphor
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/XnhvNmB6wXvC
+      label: madrigale
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6r7ZsMDvqt7K
+      label: heptasyllable
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YvSVvwPw9ogd
+      label: flower
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NknErMsF55g9
+      label: thorn
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      La natura compose
+      Cotesto vago fiore,
+      O pur bel magistero egli è d'amore?
+      Deh chi così vicine
+      Le pene, e i dolci premi in lui ripose?
+      E chi d'acute spine
+      Cinse le belle foglie,
+      Onde s'incauta man tal'hora il coglie,
+      Punta in un punto solo
+      N'have allegrezza e duolo:
+      Oh fior meraviglioso, ond'ancor dura
+      Oh fior meraviglioso, ond'ancor dura
+      Fra l'amor lite incerta, e la natura.
+assets:
+  local_asset_path: ./assets/poems/la_natura_compose
+  jpg:
+    - 001.jpg
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/M2k895E6k2SD.json
+content:
+  markdown_content: ""

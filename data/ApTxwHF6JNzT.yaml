@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  label: barzelletta
+  description: Light poetic form using octosyllable verses.
+  aliases:
+    - scherzo
+  base_name: barzelletta
+  filename: barzelletta.md
+  id: ApTxwHF6JNzT
+  n_id: 181905640246609156471
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q3635495
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/azdRiyjTx94h
+      label: poetic form
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ApTxwHF6JNzT.json
+content:
+  markdown_content: ""

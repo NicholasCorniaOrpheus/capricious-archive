@@ -1,0 +1,25 @@
+metadata:
+  class: Concept
+  label: lutenist
+  description:
+  aliases:
+    - lute player
+    - lutist
+  base_name: lutenist
+  filename: lutenist.md
+  id: PGokFf3dh3MK
+  n_id: 438712886890500627836
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q21166956
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/GukmaG54gCcS
+      label: occupation
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/PGokFf3dh3MK.json
+content:
+  markdown_content: ""

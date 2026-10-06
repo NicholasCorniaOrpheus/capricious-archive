@@ -1,0 +1,69 @@
+metadata:
+  class: MusicComposition
+  label: Mentre pomposa, Te ne stai Rosa (Bernardi)
+  description:
+  aliases:
+  base_name: Mentre pomposa, Te ne stai Rosa (Bernardi)
+  filename: Mentre pomposa, Te ne stai Rosa (Bernardi).md
+  id: bj4KwvFyyUcM
+  n_id: 695842765681121897728
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F159230000010101_000000029900C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HnerPxkF9GQu
+      label: Stefano Bernardi
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/aUtzrMBMtChT
+      label: Il terzo libro de madrigali a cinque voci, concertati con il basso continuo per suonare di Stefano Bernardi Maestro
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TrWA5qJx4wj9
+      label: cornetto
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/fFttmjjFigPm
+      label: violin
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFRZ6pAZFnbn
+      label: continuo group
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ShPbcLzkoQsq
+      label: Mentre pomposa, Te ne stai Rosa
+  derivative_work:
+  text:
+  language:
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/bernardi-mentre_pomposa,_te_ne_stai_rosa
+  jpg:
+    - a_001.jpg
+    - bc_001.jpg
+    - c_001.jpg
+    - cr_001.jpg
+    - t_001.jpg
+    - vl_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/bj4KwvFyyUcM.json
+content:
+  markdown_content: ""

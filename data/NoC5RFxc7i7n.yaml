@@ -1,0 +1,25 @@
+metadata:
+  class: BibliographicResource
+  label: (Driscoll 2022)
+  description:
+  aliases:
+    - driscollItalianChivalricEpic2022
+  base_name: (Driscoll 2022)
+  filename: (Driscoll 2022).md
+  id: NoC5RFxc7i7n
+  n_id: 429073392124788795680
+statements:
+  identifier:
+    - https://doi.org/10.4324/9780367347093-RERW27-1
+  described_by_source:
+  part_of:
+  citation:
+    - Driscoll, Kate. 2022. ‘Italian Chivalric Epic Poetry and Female Readers’. In Routledge Encyclopedia of the Renaissance World, edited by Kristen Poole and Suzanne Sutherland. Routledge. doi:https://doi.org/10.4324/9780367347093-RERW27-1.
+  isbn:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/bibliographic_resource.png
+  bibtex: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/bibtex/driscollItalianChivalricEpic2022.bib
+  iiif:
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/NoC5RFxc7i7n.json
+content:
+  markdown_content: ""

@@ -1,0 +1,23 @@
+metadata:
+  class: Concept
+  label: religious war
+  description:
+  aliases:
+  base_name: religious war
+  filename: religious war.md
+  id: g2TYpmUsEJGa
+  n_id: 784326416775419838035
+statements:
+  identifier:
+    - http://www.wikidata.org/entity/Q1827102
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hvHqFYk8PHf6
+      label: activity
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/g2TYpmUsEJGa.json
+content:
+  markdown_content: ""

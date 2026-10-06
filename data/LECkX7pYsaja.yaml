@@ -1,0 +1,69 @@
+metadata:
+  class: NotatedMusic
+  label: Canzonette ed arie a tre voci di Gio. Ghizzolo. Libro primo
+  description:
+  aliases:
+  base_name: Canzonette ed arie a tre voci di Gio. Ghizzolo. Libro primo
+  filename: Canzonette ed arie a tre voci di Gio. Ghizzolo. Libro primo.md
+  id: LECkX7pYsaja
+  n_id: 375858849587918895362
+statements:
+  identifier:
+    - https://rism.online/sources/990020990
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV09580010
+    - http://id.sbn.it/bid/MUS0151843
+    - https://musicare.beniculturali.unipd.it/database/editions/005014.html
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Canzonette ed arie a tre voci di Gio. Ghizzolo da B rescia novamente composte, et date in luce. Libro Primo
+  inception:
+    - value: 1609
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0151843
+      publication_date: 1609
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YZmxTWFPkUr9
+        label: Alessandro Raverio
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_Z/Z217/
+    - permalink: http://id.sbn.it/bid/MUS0151843
+      publication_date: 1609
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YZmxTWFPkUr9
+        label: Alessandro Raverio
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      note: Cantus or Tenor part digitized
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HEUMST7S9e7K
+      label: Giovanni Ghizzolo
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 2
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/LECkX7pYsaja.json
+content:
+  markdown_content: ""

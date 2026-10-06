@@ -1,0 +1,24 @@
+metadata:
+  class: Concept
+  aliases:
+    - poetic improvisation
+    - glosa
+  base_name: extemporary poetry
+  filename: extemporary poetry.md
+  label: extemporary poetry
+  id: ZfNKvkLUjDx6
+  n_id: 653237156589243373633
+statements:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/kDzd8qozXwHz
+      label: form of creative work
+  subclass_of:
+  identifier:
+    - http://www.wikidata.org/entity/Q3149507
+assets:
+  iiif:
+  bibtex: ""
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/concept.png
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/ZfNKvkLUjDx6.json
+content:
+  markdown_content: ""

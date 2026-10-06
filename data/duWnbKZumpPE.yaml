@@ -1,0 +1,73 @@
+metadata:
+  class: PoeticWork
+  label: Chi può le stelle, o le minute arene
+  description: The author is departed from their lover, who moved on the other side of the Appenines.
+  aliases:
+  base_name: Chi può le stelle, o le minute arene
+  filename: Chi può le stelle, o le minute arene.md
+  id: duWnbKZumpPE
+  n_id: 740903005092318979476
+statements:
+  identifier:
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jAqiUUC7GsgE
+      label: poem
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/5nAUmbmZwxRB
+      label: Vincenzo Fabretti
+  part_of:
+    - section: Dell'Incolto
+      pages: 45
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/B5dDXV6qVG2p
+      label: Ricreazioni amorose de gli Academici Gelati di Bologna
+  based_on:
+  derivative_work:
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/YqV7mj8DFjX4
+      label: longing
+  poetic_type:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/JdCmvSXCtJKC
+      label: ottava rima
+  metre:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NtX3nd34H3Wn
+      label: hendecasyllable
+  depicts:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/C5ipjJaua6Bx
+      label: mountain
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/DvtkaRL3mGVK
+      label: sand
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NUaQe9C3WPVp
+      label: star
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mmNaTApfKuRD
+      label: martyrdom
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T3ehoUUCyhWR
+      label: dawn
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/VFabTiMFEU5U
+      label: weeping
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/he75W4YL8aFz
+      label: sigh
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  text:
+    - |-
+      Chi può le stelle, o le minute arene,
+      O tutte annoverar l'istabili onde;
+      E dir quanto su 'l dorso alto sostiene
+      Il siluoso Appennin piant', herbe, e fronde.
+      Dirà quant'io martir sostenga, e pene,
+      Quante asconda il mio cor piaghe profonde.
+      Quanti, lunge da voi, mia bella Aurora,
+      Prieghi, pianti, e sospir vi mandi ogn'hora.
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/poetic_work.png
+  local_asset_path: ./assets/poems/chi_può_le_stelle,_o_le_minute_arene
+  jpg:
+    - 001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/duWnbKZumpPE.json
+content:
+  markdown_content: ""

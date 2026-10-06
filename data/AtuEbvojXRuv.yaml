@@ -1,0 +1,56 @@
+metadata:
+  class: Book
+  label: Rime di Giouanni Soranzo gentilhuomo venetiano, fatte in lode della Litterata disputante Florinda
+  description:
+  aliases:
+  base_name: Rime di Giouanni Soranzo gentilhuomo venetiano, fatte in lode della Litterata disputante Florinda
+  filename: Rime di Giouanni Soranzo gentilhuomo venetiano, fatte in lode della Litterata disputante Florinda.md
+  id: AtuEbvojXRuv
+  n_id: 183514193749343822119
+statements:
+  identifier:
+    - http://id.sbn.it/bid/RMLE068155
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/2jTZtcMb8cpv
+      label: poetry collection
+  title:
+    - Rime di Giouanni Soranzo gentilhuomo venetiano, fatte in lode della Litterata disputante Florinda; Attione rappresentata nella Sereniss. città di Genoua dalla Sig. Virginia Andreini comica fedele
+  inception:
+    - value: 1603
+  has_version:
+    - permalink: http://id.sbn.it/bid/RMLE068155
+      publication_date: 1603
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/APGXXko9yAiK
+          label: Genova
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CgtXMynJGovX
+        label: dedicatee
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/k2RdB6x7eGQB
+      label: Virginia Ramponi-Andreini
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iHyMNejQsUw6
+      label: Giovanni Soranzo
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ndYmAKz88N5Q
+      label: praise
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/hQhjYWoE4T4L
+      label: La Florinda tragedia di Gio. Battista Andreini comico Fedele
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/AtuEbvojXRuv.json
+content:
+  markdown_content: ""

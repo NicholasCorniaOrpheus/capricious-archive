@@ -1,0 +1,40 @@
+metadata:
+  class: Organisation
+  label: Accademia degli Affidati di Pavia
+  description:
+  aliases:
+  base_name: Accademia degli Affidati di Pavia
+  filename: Accademia degli Affidati di Pavia.md
+  id: guHM5vf4DLQE
+  n_id: 802725292593637339416
+statements:
+  identifier:
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/X68fVkQC9ygb
+      label: (Teza 2017)
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mhxiWoDeBKmm
+      label: academy
+  inception:
+  dissolved:
+  location:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/9rv9WBBJ8RwF
+      label: Pavia
+  official_website:
+  catalog_identifier:
+    - source:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/RrWtiYpwdJp2
+        label: Italian Academies Database
+      value: 162
+  member:
+  interested_in:
+  notable_work:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Xtb9PGJyFnuB
+      label: Ragionamento di Luca Contile sopra la proprietà delle imprese con le particolari de gli Academici Affidati et con le interpretationi et croniche
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/organisation.png
+  iiif:
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/guHM5vf4DLQE.json
+content:
+  markdown_content: ""

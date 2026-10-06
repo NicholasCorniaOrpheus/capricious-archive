@@ -1,0 +1,56 @@
+metadata:
+  class: MusicComposition
+  label: Come potrò narrarvi il dolor mio (Anvilla)
+  description:
+  aliases:
+  base_name: Come potrò narrarvi il dolor mio (Anvilla)
+  filename: Come potrò narrarvi il dolor mio (Anvilla).md
+  id: fq6zipdmU9mJ
+  n_id: 780575588296731612568
+statements:
+  identifier:
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FWORK%2F054940000010101_000000012200C
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/KXJH8TbUTZHm
+      label: madrigal
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/3pU843Lma47u
+        label: poet
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZcWT5Zdy9Zwp
+      label: Girolamo Parabosco
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/jbquBpvytTRC
+      label: Adriano Anvilla
+  part_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/49gbiUSidMB4
+      label: Il desiderio. Primo libro de diversi eccellentissimi autori a quattro voci
+  instrumentation:
+  based_on:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Ett5nZf4XGnF
+      label: Come potrò narrarvi il dolor mio
+  derivative_work:
+  text:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+  subject:
+  poetic_type:
+  depicts:
+  metre:
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/music_composition.png
+  local_asset_path: ./assets/music_compositions/anvilla-come_potrò_narrarvi_il_dolor_mio
+  jpg:
+    - a_001.jpg
+    - b_001.jpg
+    - c_001.jpg
+    - t_001.jpg
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/fq6zipdmU9mJ.json
+content:
+  markdown_content: ""

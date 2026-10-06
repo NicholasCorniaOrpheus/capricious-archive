@@ -1,0 +1,56 @@
+metadata:
+  class: Book
+  label: Lo cunti de li cunti
+  description:
+  aliases:
+    - Pentamerone
+  base_name: Lo cunti de li cunti
+  filename: Lo cunti de li cunti.md
+  id: 8caJkM27DMtc
+  n_id: 136329645034259285044
+statements:
+  identifier:
+    - http://id.sbn.it/bid/CFIE003765
+  described_by_source:
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Fg6xCVoGsz3M
+      label: short story collection
+  title:
+    - Lo cunto de li cunti ouero lo trattenemiento de peccerille. De Gian Alesio Abbattutis
+  inception:
+    - value: 1674
+  has_version:
+    - permalink: http://id.sbn.it/bid/TO0E085935
+      note: Reprint
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/noxgdEZ8TnkL
+          label: Napoli
+      publication_date: 1674
+      external_source: https://books.google.be/books?id=WWhy-4cZhi0C
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEP2RHUGTuJR
+        label: author
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/McrW73AUvkY7
+      label: Giambattista Basile
+  subject:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/FEzLJyn6DSCy
+      label: novella
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/mntczXNjvJhC
+      label: folk tale
+  based_on:
+  catalog_identifier:
+  has_part:
+  depicts:
+  language:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/gqVw8qPNVyAR
+      label: Neapolitan
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Rpi7M9nmjho7
+      label: Italian
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/book.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/8caJkM27DMtc.json
+content:
+  markdown_content: ""

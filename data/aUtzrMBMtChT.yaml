@@ -1,0 +1,68 @@
+metadata:
+  class: NotatedMusic
+  label: Il terzo libro de madrigali a cinque voci, concertati con il basso continuo per suonare di Stefano Bernardi Maestro
+  description:
+  aliases:
+  base_name: Il terzo libro de madrigali a cinque voci, concertati con il basso continuo per suonare di Stefano Bernardi Maestro
+  filename: Il terzo libro de madrigali a cinque voci, concertati con il basso continuo per suonare di Stefano Bernardi Maestro.md
+  id: aUtzrMBMtChT
+  n_id: 670085570818153543471
+statements:
+  identifier:
+    - http://id.sbn.it/bid/MUS0272083
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV02700010
+    - https://rism.online/sources/990004859
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Il terzo libro de madrigali a cinque voci, concertati con il basso continuo per sonare di Stefano Bernardi Maestro di Cappella del Domo di Verona opera decima
+  inception:
+    - value: 1619
+  has_version:
+    - permalink: http://id.sbn.it/bid/MUS0272083
+      publication_date: 1619
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/TkSL3NGH6dAk
+        label: Giacomo Vincenti
+      external_source: http://www.bibliotecamusica.it/cmbm/viewschedatwbca.asp?path=/cmbm/images/ripro/gaspari/_X/X070/
+  contributor:
+    - role:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/LwQKHQGXaPrg
+        label: composer
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/HnerPxkF9GQu
+      label: Stefano Bernardi
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/MFRZ6pAZFnbn
+      label: continuo group
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/6DdwwfNF4UU4
+      label: quintus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif: []
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/aUtzrMBMtChT.json
+content:
+  markdown_content: ""

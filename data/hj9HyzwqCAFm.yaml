@@ -1,0 +1,90 @@
+metadata:
+  class: NotatedMusic
+  label: Madrigali nuovi a voci pari composti per il doct. musico messer Giordano Passetto. Libro Primo
+  description:
+  aliases:
+  base_name: Madrigali nuovi a voci pari composti per il doct. musico messer Giordano Passetto. Libro Primo
+  filename: Madrigali nuovi a voci pari composti per il doct. musico messer Giordano Passetto. Libro Primo.md
+  id: hj9HyzwqCAFm
+  n_id: 819689703561797017483
+statements:
+  identifier:
+    - https://rism.online/sources/990048588
+    - https://repim.itatti.harvard.edu/resource/?uri=http%3A%2F%2Frepim.unibo.it%2Fresource%2FBOOK%2FNV15900010
+  described_by_source:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/krJNW7CuZmu4
+      label: RePIM
+  instance_of:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/WoXXLHXBBLj4
+      label: partbook
+  title:
+    - Madrigali nuovi a voce pare composti per il doct. musico messer Giordano Passetto, maestro di capella, del Domo di Padoa. Libro primo
+  inception:
+    - value: 1541
+  has_version:
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE044997
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1541
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/T648K9QCGaj9
+        label: Munich Digitization Center
+      external_source: https://stimmbuecher.digitale-sammlungen.de/view?id=bsb00088762
+      IIIF_manifest: https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00088762/manifest
+      note: Tenor
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE044997
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1541
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/CEMJGhgpCq9k
+        label: Austrian National Library
+      external_source:
+      IIIF_manifest:
+      note: Cantus, Altus and Bassus digitized.
+    - permalink: https://edit16.iccu.sbn.it/titolo/CNCE044997
+      publisher:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/iL2SEMjtH5ui
+        label: Antonio Gardano
+      publication_date: 1541
+      place_of_publication:
+        - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/edLFhkc6mVw6
+          label: Venezia
+      holding_institution:
+        value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/Aeh4anXepEPt
+        label: Zentralbibliothek Zürich
+  contributor:
+    - value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/NG59X2AJp46C
+      label: Giordano Passetto
+  subject:
+  has_part:
+  instrumentation:
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/ZBrLJpP5FjjZ
+      label: bassus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/i2Vc3fuEVrm5
+      label: tenor
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/SQnmLDT4awGE
+      label: altus
+    - quantity: 1
+      value: https://nicholascorniaorpheus.github.io/accademia-degli-incompresi/entity/bGKBYyihrFYQ
+      label: cantus
+assets:
+  image: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/accademia-degli-incompresi/assets/icons/notated_music.png
+  iiif:
+    - https://api.digitale-sammlungen.de/iiif/presentation/v2/bsb00088762/manifest
+    -
+  bibtex: ""
+  graph: https://raw.githubusercontent.com/NicholasCorniaOrpheus/accademia-degli-incompresi/main/data/graph/hj9HyzwqCAFm.json
+content:
+  markdown_content: ""
